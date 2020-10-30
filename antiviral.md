@@ -114,7 +114,7 @@ HIV-1 widely distributed, more pathogenic | HIV-2 restricted to Central and West
 ## AIDS Timeline 
 
 
-<td> <img src="./images/antiviral/hiv_untreated.png" width=90%> </td>
+<td> <img src="./images/antiviral/hiv_untreated.png" width=80%> </td>
 ---
 
 ### Current [guidelines](https://clinicalinfo.hiv.gov/en/guidelines/adult-and-adolescent-arv/initiation-antiretroviral-therapy?view=full)
@@ -376,7 +376,7 @@ Rating of Evidence: I = Data from randomized controlled trials; II = Data from w
 
 
 ---
-## <span id="drug">tenofovir disoproxil </span> and  <span id="drug"> emtricitabine </drug>
+## Tenofovir disoproxil and  Emtricitabine 
 ### (Truvada)
 
 * Better than Abacavir-Lamivudine for initial therapy 
@@ -394,7 +394,7 @@ Rating of Evidence: I = Data from randomized controlled trials; II = Data from w
 
 ## Protease Inhibitors, PIs
 
-<table> <tr><td width=40% valign="top">
+<div id="left50">
 Ataza<u>navir</u> (Reyataz)
 <br>
 Indi<u>navir</u> (Crixivan)
@@ -408,13 +408,14 @@ Fosampre<u>navir</u> (Lexiva)
 <b>Rito<u>navir</u></b> (Norvir)
 <br>
 <b>Daru<u>navir</u></b> (Prezista)
-
 <br>
 PIs can be peptidomimetic (structural similarities to the cleavage site of HIV polyproteins) or not <span id="drug"> (nelfinavir) </span>.
-</td><td>
-<iframe width="560" height="400" src="https://www.youtube.com/embed/MK2r8J7SCSg?start=20&amp;stop=60" frameborder="0" allowfullscreen></iframe>
-</td></tr></table>
 
+</div>
+
+<div id="right50">
+<iframe width="560" height="400" src="https://www.youtube.com/embed/MK2r8J7SCSg?start=20&amp;stop=60" frameborder="0" allowfullscreen></iframe>
+</div>
 
 ---
 
@@ -605,7 +606,7 @@ note: rifampin is a bacterial RNA polymerase inhibitor
 
 [En<font color="darkorange">fu</font>vir<font color="darkorange">tide</font> (Fuzeon, T20)](https://www.clinicalkey.com/#!/content/drug_monograph/6-s2.0-2752)
 
-<table><tr><td width=60%>
+<table><tr><td width=60% valign="top">
 <b>Structure</b> <Br>
 <ul>
 <li> a synthetic pep<font color="darkorange">tide</font> with [36 amino acids](https://www.drugbank.ca/drugs/DB00109). 
