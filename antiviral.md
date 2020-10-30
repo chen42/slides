@@ -901,7 +901,7 @@ Double stranded DNA virus
 
 ## Cytomegalovirus
 
-<img src="./images/antiviral/cmv.jpg" width=60%>
+<img src="./images/antiviral/cmv.png" width=60%>
 
 <div id="greyText">
 Double stranded DNA virus
@@ -1349,6 +1349,8 @@ Sialic acid analog inhibitors of influenza A and B neuraminidase
 ---
 
 ## SARS-CoV-2
+
+### Remdesivir
 
 * MoA 
 	* Coronaviruses replicate by copying their genetic material using an enzyme known as the RNA-dependent RNA polymerase. Using polymerase enzymes from the coronavirus that causes MERS, scientists in Götte’s lab found that the enzymes can incorporate remdesivir, which resembles an RNA building block, into new RNA strands. Shortly after adding remdesivir, the enzyme stops being able to add more RNA subunits. This halts genome replication.
