@@ -21,7 +21,7 @@ html * {
   --main-color: #657b83;
   --block-margin: 20px;
   --heading-margin: 0 0 20px 0;
-  --heading-font: League Gothic, Impact, sans-serif;
+  --heading-font: Source Sans Pro, Impact, sans-serif;
   --heading-color: #586e75;
   --heading-line-height: 1.2;
   --heading-letter-spacing: normal;
@@ -75,11 +75,11 @@ html * {
 .reveal h6 {
   margin: 0 0 20px 0;
   color: #586e75;
-  font-family: "League Gothic", Impact, sans-serif;
-  font-weight: normal;
+  font-family: "Source Sans Pro", Helvetica, sans-serif;
+  font-weight: 600;
   line-height: 1.2;
   letter-spacing: normal;
-  text-transform: uppercase;
+  text-transform: none;
   text-shadow: none;
   word-wrap: break-word; }
 
