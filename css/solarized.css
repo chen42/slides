@@ -84,7 +84,8 @@ html * {
   word-wrap: break-word; }
 
 .reveal h1 {
-  font-size: 3.0em; }
+  font-size: 3.0em;
+  color: #073642; }
 
 .reveal h2 {
   font-size: 2.0em; 
