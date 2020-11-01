@@ -480,6 +480,8 @@ var markdownContent = ''
 + "	* **Tengfei Wang**, Research Associate \n"
 + "	* **Angel Garcia Martinez**, Sr. Research Assistant \n"
 + "	* **Shuangying Leng**, Sr. Research Assistant\n"
++ "	* **Sarah Cartwright**, Research Assistant\n"
++ "	* **Hakan Gunturkun**, Data Analyst\n"
 + "* Past lab members \n"
 + "	* *Xia Hong* | *Jie Shen* | *Wenyan Han* | *Pawandeep Kaur* | *Yanyan Lin* | *Xinyu Fan*  \n"
 + "* Summer students \n"
