@@ -87,13 +87,16 @@ html * {
   font-size: 3.0em; }
 
 .reveal h2 {
-  font-size: 2.0em; }
+  font-size: 2.0em; 
+  color: #073642; }
 
 .reveal h3 {
-  font-size: 1.2em; }
+  font-size: 1.2em; 
+  color: #cb4b16;}
 
 .reveal h4 {
-  font-size: 1em; }
+  font-size: 1em;
+  color: #268bd2; }
 
 .reveal h1 {
   text-shadow: none; }
