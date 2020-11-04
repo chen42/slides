@@ -223,7 +223,7 @@ Rating of Evidence: I = Data from randomized controlled trials; II = Data from w
 	* <span id="drug">Zidovudine</span> (Retrovir, azidothymidine [ZVD], Apo-Zidovudine, Novo-AZT)
 	* <span id="drug" style="background-color:#ff9">**Abacavir**</span> (Ziagen, ABC)
 	* <span id="drug" style="background-color:#ff9">**Lamivudine**</span> (Epivir, 3TC)
-	* <span id="drug" style="background-color:#ff9>**Emtricitabine**</span> (Emtriva, FTC)
+	* <span id="drug" style="background-color:#ff9">**Emtricitabine**</span> (Emtriva, FTC)
 	* many more available, some are no longer in use. 
 ---
 ## mechanism of action - NRTIs 
@@ -705,7 +705,7 @@ Prevents virus from entering the host cell <br>
 ## Antiretroviral Drug Selectivity
 
 * NRTIs
-	* Once phosphorylated by cellular kinases have greater affinity for viral reverse transcriptase than for cellular DNA polymerases.
+	* Once phosphorylated by cellular kinases, NRTIs have greater affinity for viral reverse transcriptase than for cellular DNA polymerases.
 * NNRTIs
 	* Do not undergo phosphorylation
 	* Have greater affinity for viral reverse transcriptase than for cellular DNA polymerases
@@ -1004,7 +1004,7 @@ Partially double-stranded DNA virus
 
 ## HBV life cycle
 
-<iframe width="800" height="600" src="https://www.youtube.com/embed/sVpiXaEMs7I?start=290" frameborder="0" allowfullscreen></iframe>
+<iframe width="700" height="500" src="https://www.youtube.com/embed/sVpiXaEMs7I?start=202" frameborder="0" allowfullscreen></iframe>
 
 partial DNA enters nucleus -> cccDNA -> mRNA -> <span id='bg'>HBV polymerase</span> -> DNA (negative strand) -> DNA (positive strand)
 
@@ -1292,7 +1292,8 @@ HBV polymerase has reverse transcription activity
 
 <section id="fluuncoating">
 
-## <span id="drug"> [Amantadine](https://www.clinicalkey.com/#!/content/drug_monograph/6-s2.0-20) and [rimantadine](https://www.clinicalkey.com/#!/content/drug_monograph/6-s2.0-547)
+## [Amantadine](https://www.clinicalkey.com/#!/content/drug_monograph/6-s2.0-20) and [rimantadine](https://www.clinicalkey.com/#!/content/drug_monograph/6-s2.0-547)
+
 ### Inhibitors of Uncoating
 
 Synthetic tricyclic amines
@@ -1309,7 +1310,8 @@ Synthetic tricyclic amines
 ---
 <section id="flurelease">
 
-## <span id="drug"> [Zanamivir](https://www.clinicalkey.com/#!/content/drug_monograph/6-s2.0-2259) and [oseltamivir](https://www.clinicalkey.com/#!/content/drug_monograph/6-s2.0-2450)
+##  [Zanamivir](https://www.clinicalkey.com/#!/content/drug_monograph/6-s2.0-2259) and [oseltamivir](https://www.clinicalkey.com/#!/content/drug_monograph/6-s2.0-2450)
+
 ### Inhibitors of Virus Release
 
 Sialic acid analog inhibitors of influenza A and B neuraminidase 
@@ -1338,10 +1340,16 @@ Sialic acid analog inhibitors of influenza A and B neuraminidase
 	* Effective against influenza A and B viruses
   * Initiate treatment within 48 h of symptom onset
 	* A single oral dose
-	* Only for those aged 12 or more (for now)
+	* Only for those aged 12 or more initialy, subsequent clinical trails found to be safe for children as well.
+
+---
+
+## <span id="drug"> Baloxavir marboxil (Xofluza) </span> 
+
+
 * MoA	
 	* Cellular mRNA has a 5' methylated cap and a polyA tail
-	* Cap-dependent endonuclease binds to the [5' methylated caps of cellular mRNAs](http://oregonstate.edu/instruction/bi314/fall11/figure_07_16a.jpg) and cleaves the cellular mRNAs' 10 to 15 nucleotides 3' to [the cap structure. This cellular capped RNA fragment is used by the viral polymerase to prime the synthesis of viral mRNA. 	
+	* Cap-dependent endonuclease binds to the [5' methylated caps of cellular mRNAs](http://oregonstate.edu/instruction/bi314/fall11/figure_07_16a.jpg) and cleaves the cellular mRNAs' 10 to 15 nucleotides 3' to the cap structure. This cellular capped RNA fragment is used by the viral polymerase to prime the synthesis of viral mRNA. 	
 	* Baloxavir is an inhibitor of this cap-dependent endonuclease
 * Adverse effects:
 	* headache, diarrhea, bronchitis
@@ -1353,7 +1361,9 @@ Sialic acid analog inhibitors of influenza A and B neuraminidase
 ### Remdesivir
 
 * MoA 
-	* Coronaviruses replicate by copying their genetic material using an enzyme known as the RNA-dependent RNA polymerase. Using polymerase enzymes from the coronavirus that causes MERS, scientists in Götte’s lab found that the enzymes can incorporate remdesivir, which resembles an RNA building block, into new RNA strands. Shortly after adding remdesivir, the enzyme stops being able to add more RNA subunits. This halts genome replication.
+	*  Nucleoside analog of Adenosine
+	* originally synthesized to inihibit hepatitis C virus RNA polymerase
+	* Coronaviruses replicate by copying their genetic material using an enzyme known as the **RNA-dependent RNA polymerase**. These enzymes can incorporate remdesivir into new RNA strands. Shortly after adding remdesivir, the enzyme stops being able to add more RNA subunits. This halts genome replication.
 
 * [FDA approves Remdesivir](https://www.fda.gov/news-events/press-announcements/fda-approves-first-treatment-covid-19)
 
