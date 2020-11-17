@@ -39,7 +39,9 @@ https://chen42.github.io/slides/deepvar.html
 <img src="https://ka-perseus-images.s3.amazonaws.com/d56c026870bbfee4658a9eaa52daba496d4a58ad.png" width=50%>
 
 ---
-### NextGen Sequencing: SOLiD
+
+## NextGen sequencing
+### SOLiD
 
 <a href="http://seqanswers.com/forums/showthread.php?t=10">
 <img src="http://seqanswers.com/forums/images/content/abi-fig4.jpg" width=40%>
@@ -47,7 +49,8 @@ https://chen42.github.io/slides/deepvar.html
 
 ---
 
-### NextGen Sequencing: Illumina 
+## NextGen sequencing
+### Illumina 
 
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Cluster_Generation.png/660px-Cluster_Generation.png">
@@ -56,15 +59,32 @@ https://chen42.github.io/slides/deepvar.html
 
 ---
 
-### NextGen Sequencing: Ion Torrent
+## NextGen sequencing
+### Oxford Nanopore 
 
-<img src="https://www.omicsonline.org/articles-images/biology-and-medicine-torrent-9-395-g003.png" width=70%>
+<div id="left50">
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qzusVw4Dp8w?start=19" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+<div id="right50">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/202001_nanopore_sequencing.svg/1920px-202001_nanopore_sequencing.svg.png" width=100%>
+</div>
 
 ---
 
+
+## NextGen sequencing
+### PacBio 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_lD8JyAbwEo?start=21" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+---
+
+
 ### NextGen Seq data files 
 
-Illumina, Ion Torrent: fasta
+fasta
 
 
 ```
@@ -73,7 +93,7 @@ TTTCCGGGGCACATAATCTTCAGCCGGGCGC # DNA sequence
 
 ```
 
-Illumina, Ion Torrent: fastq
+fastq
 
 ```
 @cluster_2:UMI_ATTCCG # record name; starts with '@'
@@ -82,7 +102,7 @@ TTTCCGGGGCACATAATCTTCAGCCGGGCGC # DNA sequence
 9C;=;=<9@4868>9:67AA<9>65<=>591 # phred-scaled quality scores
 ``` 
 
-SOLiD: csfasta
+csfasta (SOLiD)
 
 ```
 >2_14_26_F3
@@ -108,6 +128,7 @@ T110021221100310030120022032222111321022112223
 <img src="./images/deepvar/wmiwli_illumina_ion.png" width=70%>
 
 ---
+
 ## GATK statistical models
 
 * logistic regression for base errors
@@ -167,21 +188,7 @@ for (i in 1:num_iters) {
 
 ```
 
-
 ---
-
-
-## GATK statistical models
-
-* logistic regression for base errors
-* hidden Markov for read likelihood given the haplotypes
-* naive Bayes classifier for variant calling
-* Gaussian mixture model with hand-crafted feature to remove common false positive 
-* assumes errors are independent
-* optimized for the Illumina platform
-
----
-
 
 ## Deep Neural network
 ### gradient descent, learning rate
@@ -294,6 +301,12 @@ sources of info
 
 ---
 
+## RGB images
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/56/RGB_channels_separation.png">
+
+---
+
 ## DeepVariant
 
 ### coding read info in the image
@@ -342,6 +355,7 @@ def make_pixel(red, green, blue, alpha):
 * Last layer is a three class (hom-ref, het, hom-alt) softmax 
 
 <a href=https://medium.com/data-science-bootcamp/understand-the-softmax-function-in-minutes-f3a59641e86d>  <img src="https://cdn-images-1.medium.com/max/1600/1*670CdxchunD-yAuUWdI7Bw.png" width=50%></a>
+
 
 * [DistBelief framework](https://research.google.com/pubs/pub40565.html?hl=no):  a method to use many CPUs cores, useful when RAM requirement is larger than what the GPU offer (e.g. 6GB), although current GPUs have much larger memory (e.g. GTX 1080 ti has 11GB)
 
@@ -405,6 +419,9 @@ def make_pixel(red, green, blue, alpha):
 	* Introduce best practices for merging DeepVariant samples to generate gvcf files (v 0.9.0). 
 	* Improved Indel accuracy for WGS (v 0.9.0)
 	* Improved accuracy for NovaSeq  (v 0.8.0)
+	* Improved accuracy for PacBio  (v 0.9.0)
+	* Improved PacBio HiFi model  (v 0.10.0)
+	* v 1.0.0: Compared to DeepVariant v0.10, these changes reduce Illumina WGS errors by 24%, exome errors by 19%, and PacBio errors by 52%.
 
 ---
 
@@ -415,13 +432,36 @@ def make_pixel(red, green, blue, alpha):
 
 ---
 
-## Deepvariant Visual report
+## Run deepvariant
 
+```
+BIN_VERSION="1.0.0"
+docker run \
+  -v "YOUR_INPUT_DIR":"/input" \
+  -v "YOUR_OUTPUT_DIR:/output" \
+  google/deepvariant:"${BIN_VERSION}" \
+  /opt/deepvariant/bin/run_deepvariant \
+  --model_type=WGS \ **Replace this string with exactly one of the following [WGS,WES,PACBIO,HYBRID_PACBIO_ILLUMINA]**
+  --ref=/input/YOUR_REF \
+  --reads=/input/YOUR_BAM \
+  --output_vcf=/output/YOUR_OUTPUT_VCF \
+  --output_gvcf=/output/YOUR_OUTPUT_GVCF \
+  --num_shards=$(nproc) **This will use all your cores to run make_examples. Feel free to change.**
 
-<img src="./images/ratGenome/dv_visual_SHR.png" width=70% >
+```
 
+Docker is a tool designed to make it easier to create, deploy, and run applications by using containers. Containers allow a developer to package up an application with all of the parts it needs, such as libraries and other dependencies, and deploy it as one package.
 
+---
 
+## Joint calling 
+
+### <a href="https://github.com/dnanexus-rnd/GLnexus/wiki/Getting-Started">GLnexus</a>
+
+```
+./glnexus_cli --config DeepVariant --bed ALDH2.bed \
+    dv_1000G_ALDH2_gvcf/*.g.vcf.gz > dv_1000G_ALDH2.bcf
+```
 
 ---
 
@@ -442,59 +482,4 @@ def make_pixel(red, green, blue, alpha):
 * GenotypeTensor: [pdf](https://www.biorxiv.org/content/early/2018/06/05/338780) | [GitHub](https://github.com/CampagneLaboratory/GenotypeTensors)
 
 ---
-
-<section id="day2">
-
-##  Let's try to run some state-of-the-art  genetic analysis  
-
- * Virtural Machine
- * Linux
- * Python
- * GitHub
- * Markdown
- * Text editors
- * High performance computing 
- 	* UTK-Oakridge Adv Comp Facility
-
----
-
-## Terminal
-
-* Putty on Windows
-* Terminal on Mac/Linux
-* ssh for remote log in
-* webminal has good tutorial
-
----
-
-## Deepvariant 
-
-* Github
-	* git vs github
-	* release 
-	* readme.md
-
-``` 
-git clone
-git pull
-```
-
----
-
-## GATK pipeline
-
-* Deepvariant suppl.
-* GATK best practise
-
----
-
-## Hands on / demo
-
-* Log into a remote Linux machine
-	* ssh pi@  
-	* ssh netid@duo.acf.utk.edu
-* Clone a github repository 
-	* Example: bwa  https://github.com/lh3/bwa
-	* Example: star https://github.com/alexdobin/STAR
-* Try to run the software you just installed 
 
