@@ -1414,4 +1414,9 @@ Sialic acid analog inhibitors of influenza A and B neuraminidase
 ---
 
 
+https://www.npr.org/sections/goatsandsoda/2020/11/11/933415492/protecting-women-against-hiv-just-got-9-times-easier
+
+> A single injection of a drug called cabotegravir every two months was so successful in preventing HIV in a clinical trial among women in sub-Saharan Africa that the study was wrapped up ahead of schedule. 
+
+
 
