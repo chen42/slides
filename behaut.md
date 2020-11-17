@@ -73,22 +73,32 @@ https://chen42.github.io/slides/behaut.html
 
 ## Operating system for the RPi
 
-* Raspbian is the official OS 
+* Raspberry PI OS (previously Rasbian) is the official OS <a href="https://www.youtube.com/watch?v=RDAklos4F8k">YouTube Video</a>
   * graphical user interface (GUI) 
   * command line interface (CLI)
   * derived from Debian Linux
-* Why you should learn some Linux commands 
-  * Servers
-  * Mac OS 
-  * Supercomputer
-  * Windows
+* Why you should learn some Linux/Unix commands 
+  * Mac OS (Terminal app)
+  * Windows subsystem for Linux (<a href="https://docs.microsoft.com/en-us/windows/wsl/install-win10">Installation guide</a>)
+  * Servers 
+  * Supercomputer 
 
 ---
 
-## Sensors: Camera
+## Breadboard and Jumper Wire
 
-<img src="https://www.raspberrypi.org/homepage-9df4b/static/621b26de7977c5b8d765b3003b341a49/8924f/68fe7e4cb53767ad6c033bf3b46da3452188a24a_pi-camera-front-1-1426x1080.jpg"> 
 
+<div id="left50">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Pcb33.430-g1.jpg/1920px-Pcb33.430-g1.jpg"  width=80%> 
+
+<a href="https://en.wikipedia.org/wiki/Breadboard" > Wikipedia</a>
+
+</div>
+
+<div id="right50">
+<img src="./images/behaut/jumper_wire.png">
+
+</div>
 
 ---
 
@@ -113,6 +123,13 @@ https://chen42.github.io/slides/behaut.html
 
 ---
 
+## Sensors: Camera
+
+<img src="https://www.arducam.com/wp-content/uploads/2020/02/raspberry-pi-camera-pinout-camera-2.png" width=60%>
+
+
+---
+
 
 ## Radio frequency ID
 
@@ -121,21 +138,24 @@ https://chen42.github.io/slides/behaut.html
 
 ---
 
-## RFID reader (Serial) 
+## Sensors: RFID reader (UART) 
 
-<img src="https://camo.githubusercontent.com/9d22b7aceaceae905d17ced4b82858834b00cfab/687474703a2f2f7777772e736565656473747564696f2e636f6d2f646f63756d656e742f706963732f3132354b687a253230554152542e6a7067">
-
----
-
-## RFID reader  (USB)
-
-<img src="https://images-na.ssl-images-amazon.com/images/I/41T9IPdHVtL._AC_.jpg">
+<img src="./images/behaut/rfid_antenna.jpg">
 
 ---
 
+## Sensors: RFID reader  (USB)
 
-## Infrared sensor and emitter
-#### "beam break"
+
+<img src="./images/behaut/usb_rfid_reader.jpg" width=50% >
+
+---
+
+
+## Sensors: Infrared light 
+
+### "beam break"
+
 <a href="https://tutorials-raspberrypi.com/build-raspberry-pi-infrared-light-barrier-and-measure-speed/">
 <img src="https://tutorials-raspberrypi.com/wp-content/uploads/lichtschranke_Steckplatine-1024x789.png" width=60%></a>
 
@@ -156,7 +176,7 @@ https://chen42.github.io/slides/behaut.html
 <img src="https://www.sunfounder.com/media/wysiwyg/swatches/sensor_kit_v2_0_for_b_plus/lesson-10-buzzer-module/fdsfdsfd.png" width=50%> </a>
 ---
 
-## Output: Touch Pad  
+## Input/Output: LCD with touch sensors  
 
 <iframe width="780" height="560" src="https://www.youtube.com/embed/Fj3wq98pd20?start=30" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -169,16 +189,19 @@ https://chen42.github.io/slides/behaut.html
 
 ---
 
-## Output: motor
+## Output: Step motor
 
-<a href="https://projects.raspberrypi.org/en/projects/physical-computing/16">
+<a href="https://projects.raspberrypi.org/en/projects/physical-computing/14">
 <img src="https://projects-static.raspberrypi.org/projects/physical-computing/0cb2cbd34292a05a668aeea3f291ceb3c7d9cd83/en/images/mcb-wiring.png"></a>
+
+<a href="https://www.youtube.com/watch?v=C-6IK3zF1jg">YouTube Tutorial</a>
 
 ---
 
 ## Many many more 
 
 <a href="https://tutorials-raspberrypi.com/raspberry-pi-sensors-overview-50-important-components/"><img src=https://tutorials-raspberrypi.com/wp-content/uploads/2016/11/50-Raspberry-Pi-Sensors-and-Components.jpg width=50%> </a>
+
 ---
 
 ## Microcontrollers
@@ -266,7 +289,7 @@ https://chen42.github.io/slides/behaut.html
 
 ---
 
-## Example 8: Record video
+## Example 8: Video Recorder
 
 <img src="./images/behaut/rpi_camera_tripod.jpg" width=60%>
 
