@@ -95,6 +95,10 @@ mRatNor1.1 (May 20 2020)  = mRatBN7.1 (NCBI)
 #### Nanopore data 
 ## Coverage per chromosome
 
+mRatBN7.1 increase coverage by 7-8% compare to Rnor6
+
+<iframe src="pdfs/nanopore_per_chr_coverage_bnlx_shrola_rn6_v_mRatBN7.pdf" width="100%" height=600px>
+
 ---
 
 #### Nanopore data

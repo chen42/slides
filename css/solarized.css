@@ -47,7 +47,8 @@ html * {
   font-family: "Lato", sans-serif;
   font-size: 22px;
   font-weight: normal;
-  color: #657b83; }
+  color: #073642;
+  }
 
 .reveal ::selection {
   color: #fff;
@@ -89,11 +90,11 @@ html * {
 
 .reveal h2 {
   font-size: 2.0em; 
-  color: #073642; }
+  color: #cb4b16; }
 
 .reveal h3 {
-  font-size: 1.2em; 
-  color: #cb4b16;}
+  font-size: 1.5em; 
+  color: #859900;}
 
 .reveal h4 {
   font-size: 1em;
@@ -143,13 +144,25 @@ html * {
   list-style-type: decimal; }
 
 .reveal ul {
-  list-style-type: disc; }
+  list-style-type: disc;
+  font-size:1.2em;
+  font-weight:bold;
+  color:#002b36;
+  }
 
 .reveal ul ul {
-  list-style-type: square; }
+  list-style-type: square; 
+  font-size:1em;
+  font-weight:normal;
+  color:#073642;
+  }
 
 .reveal ul ul ul {
-  list-style-type: circle; }
+  list-style-type: circle;
+  font-size:0.9em;
+  font-weight:normal;
+  color:#073642;
+  }
 
 .reveal ul ul,
 .reveal ul ol,
