@@ -68,6 +68,23 @@ mRatNor1.1 (May 20 2020)  = mRatBN7.1 (NCBI)
 ---
 
 #### Linked-reads data 
+
+## Shared SV against mRatBN7.1
+
+|Chr|Begin|End|SV Type|Length|Strains|
+|---|---|---|---|---|---|
+|chr1|54119451|54946980|Translocation|827529|32|
+|chr1|138882092|138934698|Deletion|52606|36|
+|chr2|148864168|148911755|Duplication|47587|36|
+|chr4|100799349|100865002|Deletion|65653|31|
+|chr9|113817704|114048709|Duplication|231005|34|
+|chr17|37794956|37852590|Duplication|57634|32|
+|chr19|22724887|22881779|Deletion|156892|33|
+
+
+---
+
+#### Linked-reads data 
 ## Type of SNPs and indels  
 
  Joint calling by Deepvariant/GLNexus 
@@ -81,7 +98,7 @@ mRatNor1.1 (May 20 2020)  = mRatBN7.1 (NCBI)
 #### Linked-reads data 
 ## Summary of SV, SNP, small indel
 
-* mRatBN7 increases the accuracy of variant detection by  
+* mRatBN7 increases the accuracy of variant detection by 
 	* improving assembly accurcy 
 		* there are likely errors at the assembly level
 	* improving accuracy at nucleotide level
