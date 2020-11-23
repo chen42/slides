@@ -1,11 +1,12 @@
 # Comparing Rnor6 and mRatBN7.1 
-##  Nov 24th 2020 
 
 <hr>
 
 ### Tristan de Jong, Hakan Gunturkun, Hao Chen
 
-<img src="images/little_wizard.png" width=40%>
+<img src="images/little_wizard.png" width=30%>
+
+#### Nov 24th 2020 
 
 ---
 
@@ -17,19 +18,15 @@ mRatNor1.1 (May 20 2020)  = mRatBN7.1 (NCBI)
 
 ---
 
-## Data sets
+##  10x Chromium Linked reads WGS data 
 
-* 10x Chromium Linked reads WGS data from 36 inbred strains
-	* most strains have about 60x coverage
+* 36 inbred strains
 	* Four BN samples
 	* BN-Lx/Cub and SHR/OlaIpcv
 	* 30 HXB and BXH strains 
-	* Analyzed using Longranger 2.2.2 against both refs
-* Oxford nanopore WGS data for BN-Lx/Cub and SHR/OlaIpcv 
-	* about 20x coverage 
-	* N50 about 15-20kb
-	* Winnowmap for mapping	against both refs
-	* Sniffles for SV detection
+* most strains have about 60x coverage
+* Longranger 2.2.2 against both refs for mapping and SV
+* Deepvariant/GLnexus for joint SNP and Indel analysis 
 
 ---
 
@@ -47,8 +44,8 @@ mRatNor1.1 (May 20 2020)  = mRatBN7.1 (NCBI)
 ## Summary of mapping stats
 
 * mRatBN7 decreases 
-	* SNPs phases 
-		* likely due to reduced number of Hets 
+	* SNPs phased 
+		* might be due to reduced number of Hets 
 	* estimates of the mean and stddev of input molecular length 
 		* likely due to removing extra sequences that does not belong 
 	* areas with zero coverage and short deletion calls
@@ -92,6 +89,15 @@ mRatNor1.1 (May 20 2020)  = mRatBN7.1 (NCBI)
 
 ---
 
+## Oxford nanopore WGS data for BN-Lx/Cub and SHR/OlaIpcv 
+
+* about 20x coverage 
+* N50 of the reads is 15-20kb
+* Winnowmap for mapping	against both refs
+* Sniffles for SV detection
+
+---
+
 #### Nanopore data 
 ## Coverage per chromosome
 
@@ -107,6 +113,14 @@ mRatBN7.1 increase coverage by 7-8% compare to Rnor6
 
 <iframe src="pdfs/bnlx_shrola_nanopore_coverage.pdf" width="100%" height=600px>
 
+
+---
+
+#### Nanopore data
+
+## Low and high coverage areas
+
+<iframe src="pdfs/bnlx_shr_nanopore_high_low_coverge_length_by_chr.pdf" width=100% height=600px>
 
 ---
 
