@@ -404,6 +404,9 @@ print("%s: %.2f%%" % (model.metrics_names[1], scores[1]*100))
 
 ---
 
+<iframe src="pdfs/deep_learning_genetics.pdf" width=100% height =600px>
+
+
 # ?
 
 ---
