@@ -376,41 +376,6 @@ The annotation is intergenic. <a href=
 
 ## Acknowledgements
 
-* Current lab members working on this project 
-
-<table><tr>
-<td width=20%>
-<img src="images/photos/tengfei.jpg">
-
-Tengfei Wang
-
-</td>
-<td width=20%>
-<img src="images/photos/angel.jpg">
-
-Angel Garcia Martinez
-
-</td>
-<td width=20%>
-<img src="images/photos/shuangying.jpg">
-
-Shuangying Leng
-
-</td>
-<td width=20%>
-<img src="images/photos/Sarah.png">
-
-Sarah Cartwright
-
-</td>
-
-
-</tr>
-</table>
-
-
-* Past lab members contributed to the project  
-	* *Xia Hong* | *Jie Shen* | *Wenyan Han* | *Pawandeep Kaur* | *Yanyan Lin* | *Xinyu Fan* | *Mallory Udell*|
 
 Funding: NIDA P50DA037844
 
