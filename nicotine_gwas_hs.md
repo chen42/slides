@@ -163,35 +163,6 @@ Adolescent heterogeneous rats (711 F, 711 M)
 
 ---
 
-## Overlapping QLT between social interaction & socially acquired nicotine IVSA 
-
-<div id="left50">
-<center>
-<img src="images/gwasv3/locuszoom_insoczonefreq.png" width=90%>
-<br>
-In social zone frequency
-<center>
-</div>
-<div id="right50">
-<center>
-<img src="images/gwasv3/locuszoom_total_inactive_lick_10days.png" width=90%>
-<br>
-Total inactive lick, 10 sessions
-<center>
-</div>
-
-<hr>
-<p>
-
-<small>
-pearson correlation r=0.11, p=8.9e-05
-<br>
-<b>The QTL region is 266k bp, has one known gene Abhd17b</b>, abhydrolase domain containing 17B, which is located on the postsynaptic membrane of glutamatergic synapses, and regulates dendritic spine maintenance.
-</small>
-
-
----
-
 ## Number of licks on the active spout in first session: chr1:278524299
 
 <div id="left50">
