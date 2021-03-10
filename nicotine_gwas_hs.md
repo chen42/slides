@@ -89,7 +89,6 @@ Using 12 isogenic strains of rats, we confirmed that nicotine intake obtined in 
 
 </div>
 
-
 ---
 
 
@@ -146,6 +145,16 @@ We phenotyped 1600 adolescent heterogeneous stock rats on socially acquired nico
 Adolescent heterogeneous rats (711 F, 711 M)
 
 <img width=75% height="auto" src="images/gwasv3/nicotine_fr10_phaseone_all_data.png">
+
+
+---
+
+## Nicotine IVSA with aversive flavor cue containing CS<sub>2</sub>
+
+Adolescent heterogeneous rats 
+
+
+<img width=75% height="auto" src="images/p50/p50_quinine.png">
 
 
 ---
