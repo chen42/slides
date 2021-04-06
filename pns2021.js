@@ -1,7 +1,7 @@
 (function () {
 'strict'
 var markdownContent = ''
-+ "# Peripheral nerous system pharmacology\n"
++ "# Peripheral nervous system pharmacology\n"
 + "\n"
 + "### Hao Chen\n"
 + "\n"
