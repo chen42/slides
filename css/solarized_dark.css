@@ -262,6 +262,8 @@ html * {
   vertical-align: top; }
 
 .reveal img {
+  border-radius: 10px;
+  border: 2px solid #999;
   margin: 20px 0; }
 
 /*********************************************
@@ -280,6 +282,10 @@ html * {
 .reveal .roll span:after {
   color: #fff;
   background: #1a6091; }
+
+.reveal a:hover img {
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.3);
+}
 
 /*********************************************
  * Frame helper
