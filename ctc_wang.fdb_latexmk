@@ -1,8 +1,0 @@
-# Fdb version 3
-["pdflatex"] 1630645336 "ctc_wang.md" "ctc_wang.pdf" "ctc_wang" 1630645336
-  "/usr/share/texmf-dist/web2c/texmf.cnf" 1617738065 39911 2da6c67557ec033436fe5418a70a8a61 ""
-  "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1623846493 2812679 defbaa4eede80da9bae3b64256eb10f0 ""
-  "ctc_wang.md" 1630645335 12198 0a204c234b12e6ce80a3b032bd3179fe ""
-  (generated)
-  "ctc_wang.pdf"
-  "ctc_wang.log"
