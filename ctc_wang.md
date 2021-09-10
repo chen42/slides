@@ -26,8 +26,6 @@ Tengfei Wang<sup>1</sup>, Apurva S. Chitre<sup>2</sup>, Angel Garcia Martinez<su
 
 [Chen et al, 2011 Neuropsychopharm](https://pubmed.ncbi.nlm.nih.gov/21796102)
 
-Note:
-We established a rat model of nicotine intravenous self-administration in adolescent rats that requires social learning between two rats. In this model, the self-administration rat licks on the active spout to trigger the simultaneous delivery of an oral flavor cue and i.v. nicotine.  A single rat tested using this paradigm develops nicotine conditioned flavor aversion but the presence of a "demonstrator" rat consuming the same flavor cue enables the establishment of operant nicotine intravenous self-administration. This procedure does not require water or food deprivation. Therefore it is appropriate for studying smoking initiation in adolescents. 
 
 ---
 
@@ -39,9 +37,7 @@ We established a rat model of nicotine intravenous self-administration in adoles
 [Wang, et al. Psychopharmacology 2016](https://pubmed.ncbi.nlm.nih.gov/26911379)
 
 
-Note:
 
-We further reported that subjective value of the flavor cue does not affect nicotine intake. Here the two upper lines are the number of licks on the active spout and the two lower lines are the number of nicotine infusions. Rats shown with the blue lines were given a sweet saccharine cue and the red lines were given a bitter quinine cue. Although rats received the saccharine cue licked more than those received the quinine cue but the number of infusions are almost identical. The difference in lick count can be attributed to continued licking during the timeout period after iv nicotine was delivered. This and several other lines of evidence demonstrated that nicotine intake in this model is driven by the reinforcing effect of nicotine and not by the subjective value of the oral cue.
 
 ---
 
@@ -51,9 +47,6 @@ We further reported that subjective value of the flavor cue does not affect nico
 
 [Han, et al, Sci Rep, 2017](https://pubmed.ncbi.nlm.nih.gov/28808247/)
 
-Note:
-
-Using 12 isogenic strains of rats, we confirmed that nicotine intake obtained in our model is heritable, with  h<sup>2</sup> in the range of 0.54-0.65. When we tested these rats using two different doses of nicotine, most of the strains adjusted their licking behavior to maintain the same level of nicotine intake. This dose responses  further confirmed that active licking was primarily motivated by nicotine.
 
 ---
 
@@ -63,8 +56,6 @@ Using 12 isogenic strains of rats, we confirmed that nicotine intake obtained in
 
 [Wang, et al. PLoS One, 2014](https://pubmed.ncbi.nlm.nih.gov/25532105/)
 
-Note:
-Lastly, we identified that carbon disulfide, a chemical contained in the breach of rats, is a mediator for this effect, and were able to replace the demonstrator rat by adding carbon disulfite into the flavor cue for nicotine. 
 
 ---
 
@@ -89,8 +80,6 @@ Lastly, we identified that carbon disulfide, a chemical contained in the breach 
 </font>
 
 
-Note: 
-As part of the P50 that Dr. Palmer introduced on Wed, we conducted a GWAS using about 1,600 adolesecent HS rats. We first put these rats through several behavioral tests. Hakan from our lab will discuss the results of these GWAS immediately following my presentation. The nicotine self-administration procedure includes 10 days of fixed ratio, followed by one session of progressive ratio, extinction and cue induced reinstatement of drug seeking. We collected the spleens and brains at the end and transferred the data to Dr. Palmer's group for genotyping and GWAS.
 
 ---
 
@@ -101,8 +90,6 @@ Adolescent heterogeneous rats (711 F, 711 M)
 <img width=75% height="auto" src="images/gwasv3/nicotine_fr10_phaseone_all_data.png">
 
 
-Note:
-There is a large variation in nicotine behavior in the HS population. We did a median split procedure and found about half of the rats showed a preference for the active spout and half of them avoided the active spout. This large phenotypical variation is what we expect. 
 
 ---
 
@@ -113,9 +100,6 @@ There is a large variation in nicotine behavior in the HS population. We did a m
 |---|---|---:|---:|
 | socially acquired nicotine IVSA| 711 M, 711 F| 63| 30| 
 
-Note:
-
-We analyzed 63 nicotine traits and about half of them have a significant QLT
 
 ---
 
@@ -123,11 +107,6 @@ We analyzed 63 nicotine traits and about half of them have a significant QLT
 
 <img src="./images/gwasv3/locuszoom_day1_active_licks.png" width=60%>
 
-
-Note:
-
-Here is an example of a locus zoom plot. Some of the QTL regions have only one gene but most regions have a lot of genes.
-The QLT region is 6.9 Mbp and has 39 known genes. Four genes has missense variants, two genes has cis-eQTL.
 
 ---
 
@@ -152,10 +131,7 @@ The QLT region is 6.9 Mbp and has 39 known genes. Four genes has missense varian
 &diams;: cis-eQTL
 &hearts; missense variants
 
-Note:
-In fact, the previous region I just showed you is one of the most interesting regions because the it contains 10 genes that have been reported in human GWAS on smoking. In addition, many of these genes are associated with very similar phenotypes between rats and human. For example, vti1a, hspa12a, shtn1 and Nrap are all associated with smoking initiation in human, and our phenotype is number of licks during the first nicotine session.
 
-Also, a region on chromosome 16 is associated with number of active licks and nicotine infusion in sessions 5, and 7, and total nicotine infusion for the entire fixed ratio phase. 
  
 ---
 
@@ -177,8 +153,6 @@ Also, a region on chromosome 16 is associated with number of active licks and ni
 
 &diams;: cis-eQTL
 
-Note:
-one gene located in this region, tex29, is associated with lifetime cigarette consumption in human. Also, Gria4, which encodes a subunit for the glutamate recepotr, is a candiate gene for the progression of nicotine intake in our study and was mapped to nicotine dependence in human. There are several clinical trials using antagonists for this receptor for alcohol and nicotine dependence. It is very exciting to have identified genes that mapped to the very similar phenotypes between human and rats.
 
 ---
 
@@ -200,12 +174,6 @@ one gene located in this region, tex29, is associated with lifetime cigarette co
 <img src="./images/nicotine_ccp.png">
 </div>
 
-
-Note:
-
-However, we want to be able to validate the function of most of these candidates. It is possible to use genetic manipulations to create mutant rats but these methods are still labor intensive and expensive. We are lucky to have Dr. Jee in our department, who has established a model of nicotine-conditioned cue preference test in the worm c.elegans. This is very similar to the conditioned place preference test in rodents. In this method, worms are placed in a plate containing nicotine and a natural odor called Hexane for a few hours. Worms are then tested  for their preference for hexane in the absence of nicotine. Knockout animals showed that this preference depends on dopamine and nicotinic receptors.
-
-
 ---
 
 ## Loss of function of Gria4 impairs nicotine CCP in c.elegans  
@@ -218,8 +186,6 @@ However, we want to be able to validate the function of most of these candidates
 </tr>
 <table>
 
-Note:
-Using this model, we have confirmed that knocking out gria4 impairs conditioned cue preference in c.elegance. The left panel shows that conditioning for 4-8 hours in wild type animals are sufficient for establishing CCP, while CCP is abolished in gria4 knockouts under the same conditions. Lastly, using IAA, which is an attractant to worms, we show that gria4 null mutation does not affect their movement or detection of odor. 
 
 ---
 
@@ -239,10 +205,6 @@ Using this model, we have confirmed that knocking out gria4 impairs conditioned 
 
 Funding: NIDA P50DA037844
 
-Note:
-Many people from our lab participated the collection and analysis of behavior data
-Dr. Palmer's lab genotyped these rats and conducted the GWAS 
-Dr. SolbergWoods' lab provided us the HS breeders
 
 ---
 
