@@ -2,6 +2,7 @@
   background-color:#ff9;
 }
 
+
 #greyText {
   text-align: center;
   width:80%;
@@ -33,6 +34,26 @@
   vertical-align:middle;
   width:20%;
 }
+
+
+#left {
+  width:50%;
+  left:-8.33%;
+  text-align: left;
+  float: left;
+  vertical-align:top;
+  z-index:-10;
+}
+
+#right {
+  width:50%;
+  left:31.25%;
+  float: right;
+  text-align: left;
+  z-index:-10;
+  vertical-align:top;
+}
+
 
 #left50 {
   left:-8.33%;
@@ -82,4 +103,12 @@
 	text-align: left;
 	vertical-align: top;
 }
+
+#cite{
+	color: royalblue;
+	font-size: 1.4em;
+	font-weight:900;
+}
+
+
 

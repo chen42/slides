@@ -262,8 +262,8 @@ html * {
   vertical-align: top; }
 
 .reveal img {
-  border-radius: 10px;
-  border: 2px solid #999;
+  border-radius: 5px;
+  border: 2px solid #eee;
   margin: 20px 0; }
 
 /*********************************************

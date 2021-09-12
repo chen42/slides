@@ -17,8 +17,6 @@ Source: TIME for kiDS
 </center>
 <p>
 
-
-
 ---
 
 ## Long term behavioral experiments have complicated logistics 
