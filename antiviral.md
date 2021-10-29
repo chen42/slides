@@ -11,7 +11,7 @@ hchen@uthsc.edu Dept. Pharmacology, UTHSC
 URL: http://chen42.github.io/slides/antiviral.html
 
 
-Update: Oct 29, 2020
+Last update: Oct 29, 2021
 
 
 
@@ -43,11 +43,6 @@ CTRL + or CTRL -
 CTRL mouse_wheel_up or CTRL mouse_wheel_down 
 ```
 
-<small>
-
-Written using [Reveal.js](https://github.com/hakimel/reveal.js) and [markdown](https://help.github.com/categories/writing-on-github/)
-
-</small>
 
 ---
 
@@ -60,7 +55,7 @@ Written using [Reveal.js](https://github.com/hakimel/reveal.js) and [markdown](h
 	* Nucleoside reverse transcriptase inhibitors <span id="drug">[Zidovudine, Lamivudine, Abacavir, Emtricitabine](#/nrti)</span>
 	* Nucleotide inhibitors <span id="drug">[Tenofovir](#/Tenofovir)</span>
 	* Non-nucleoside reverse transcriptase inhibitors <span id="drug">[Nevirapine, Efavirenz](#/nnrti)</span>
-	* Integrase inhibitor <span id="drug">[Bictegravir, Raltegravir, Dolutegravir](#/Integrase) </span>
+	* Integrase strand transfer inhibitor <span id="drug">[Bictegravir, Raltegravir, Dolutegravir](#/Integrase) </span>
 	* Protease inhibitors <span id="drug">[Ritonavir, Darunavir](#/pi) </span> 
 
 
@@ -157,12 +152,13 @@ Rating of Evidence: I = Data from randomized controlled trials; II = Data from w
 
 #### for treatment-naive patients
 
+updated on Jun 03, 2021
+
 * Integrase inhibitor-based regimens 
     * <span id="drug"> Bictegravir </span>  plus  <span id="drug"> tenofovir alafenamide </span>  plus <span id="drug"> emtricitabine </span> 
     * <span id="drug"> Dolutegravir </span> plus <span id="drug"> abacavir </span> plus <span id="drug"> lamivudine </span> — only for individuals who are HLA-B*5701 negative and without chronic hepatitis B virus (HBV) coinfection 
     * <span id="drug"> Dolutegravir </span> plus (<span id="drug"> emtricitabine </span>  or <span id="drug"> lamivudine </span> ) plus (<span id="drug"> tenofovir alafenamide</span>  or<span id="drug">  tenofovir disoproxil fumarate</span>) 
     * <span id="drug"> Dolutegravir </span> plus <span id="drug"> lamivudine </span> —except for individuals with HIV RNA >500,000 copies/mL, HBV co-infection, or in whom ART is to be started before the results of HIV genotypic resistance testing for reverse transcriptase or HBV testing are available.
-    * <span id="drug"> Raltegravir </span> plus (<span id="drug"> emtricitabine </span>  or <span id="drug"> lamivudine</span> ) plus (<span id="drug"> tenofovir alafenamide </span> or <span id="drug"> tenofovir disoproxil fumarate </span> ) 
 
 <small>An antiretroviral (ARV) regimen for a treatment-naive patient generally consists of two nucleoside reverse transcriptase inhibitors (NRTIs) administered in combination with a third active ARV drug from one of three drug classes: an integrase strand transfer inhibitor (INSTI), a non-nucleoside reverse transcriptase inhibitor (NNRTI), or a protease inhibitor (PI) with a pharmacokinetic (PK) enhancer (also known as a booster; the two drugs used for this purpose are cobicistat and ritonavir). </small>
 
@@ -762,6 +758,10 @@ These are just a few examples.  Detailed list available from the link above
 * <a href="#/flu">Influenza Virus </a>
 	* Viral release inhibitors <span id="drug"> [Zanamivir, Oseltamivir](#/flurelease)</span>
 	* Cap-dependent endonuclease inhibitor <span id="drug"> [Baloxavir](#/flucap)</span>
+* <a href="#/covid">SARS-CoV-2 </a>
+	* Comirnaty (Pfizer-BioNTech), Moderna, and Janssen vaccines
+	* <span id="drug">Remdesivir</span>
+
 ---
 
 ## Objectives 
@@ -1356,6 +1356,28 @@ Sialic acid analog inhibitors of influenza A and B neuraminidase
 
 ---
 
+
+<section id="covid">
+
+## SARS-CoV-2 virus
+
+<a href="https://www.nature.com/articles/d41586-021-02039-y">
+<img src="https://media.nature.com/lw800/magazine-assets/d41586-021-02039-y/d41586-021-02039-y_19383024.gif" width=60%> </a>
+
+<div id="greyText">
+Single stranded RNA virus
+</div>
+
+---
+
+## Life cycle of SARS-CoV-2 
+
+<a href="https://www.nature.com/articles/s41579-020-00468-6">
+<img src="https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41579-020-00468-6/MediaObjects/41579_2020_468_Fig1_HTML.png?as=webp" width=50%>
+</a>
+
+---
+
 ## SARS-CoV-2
 
 ### Remdesivir
@@ -1367,7 +1389,15 @@ Sialic acid analog inhibitors of influenza A and B neuraminidase
 
 * [FDA approves Remdesivir](https://www.fda.gov/news-events/press-announcements/fda-approves-first-treatment-covid-19)
 
-* [Science Mag: The ‘very, very bad look’ of remdesivir, the first FDA-approved COVID-19 drug](https://www.sciencemag.org/news/2020/10/very-very-bad-look-remdesivir-first-fda-approved-covid-19-drug)
+---
+
+## SARS-CoV-2
+
+### Monoclonal antibodies 
+
+* Actemra (Tocilizumab) 
+* Sotrovimab  
+* More at the [FDA Emergency Use Authorization website](https://www.fda.gov/emergency-preparedness-and-response/mcm-legal-regulatory-and-policy-framework/emergency-use-authorization#coviddrugs)
 
 ---
 
@@ -1413,10 +1443,15 @@ Sialic acid analog inhibitors of influenza A and B neuraminidase
 
 ---
 
+## Additional reading 
 
 https://www.npr.org/sections/goatsandsoda/2020/11/11/933415492/protecting-women-against-hiv-just-got-9-times-easier
 
 > A single injection of a drug called cabotegravir every two months was so successful in preventing HIV in a clinical trial among women in sub-Saharan Africa that the study was wrapped up ahead of schedule. 
 
 
+https://www.statnews.com/pharmalot/2021/01/21/fda-hiv-aids-injectable/
 
+https://www.nature.com/articles/d41586-021-02039-y
+
+https://www.fiercebiotech.com/biotech/excision-hiv-crispr-gene-editing-therapy-cleared-for-human-studies-by-fda
