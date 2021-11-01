@@ -167,7 +167,7 @@ updated on Jun 03, 2021
 <section id="Integrase">
 
 ## In<font color="darkred">tegra</font>se Inhibitor
- Bic<font color="darkred">tegra</font>vir (Biktarvy)|| Ral<font color="darkred">tegra</font>vir (Isentress)|| Dolu<font color="darkred">tegra</font>vir (Tivicay) 
+ Bic<font color="darkred">tegra</font>vir (Biktarvy) | Ral<font color="darkred">tegra</font>vir (Isentress) | Dolu<font color="darkred">tegra</font>vir (Tivicay) 
 <table><tr><td>
 <img src="./images/antiviral/hiv_integration.png"</img>
 </td> <td>
@@ -180,16 +180,16 @@ updated on Jun 03, 2021
 
 <li> ADME
  <ul>
- <li> Oral
+ <li> Oral drug
  <li> Glucuronidation and by CYP3A<br>
- 	<li> <span id=drug>Bictegravir </span> is a substrate of P-glycoprotein. 
+ 	<li> <span id=drug> <a href="https://www.clinicalkey.com/#!/content/drug_monograph/6-s2.0-5011">Bictegravir </a> </span> is a substrate of P-glycoprotein. 
 	<li> <span id="drug"> Elvitegravir </span> is mainly metabolized by CYP3A4 <br>
 	<li> Eliminated in both feces and urine <p>
 </ul> 
 
 <li> Resistance
 <ul>
-<li>	<span id="drug"> Dolutegravir </span> has less resistance overlap with <span id="drug"> Raltegravir </span> than does <span id="drug"> elvitegravir </span> . 
+<li>	<span id="drug"> <a href="https://www.clinicalkey.com/#!/content/drug_monograph/6-s2.0-3823">Dolutegravir </a></span> has less resistance overlap with <span id="drug"> Raltegravir </span> than does <span id="drug"> elvitegravir </span> . 
 </ul>
 </ul>
 </td> </tr></table>
@@ -223,9 +223,11 @@ updated on Jun 03, 2021
 	* many more available, some are no longer in use. 
 ---
 ## mechanism of action - NRTIs 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC9kyoAo1ac?start=30&list=PLMO1589WRspykVPiy6SgKi3OPKbe9b0El" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC9kyoAo1ac?start=65&list=PLMO1589WRspykVPiy6SgKi3OPKbe9b0El" frameborder="0" allowfullscreen></iframe>
 
 ---
+<section id="hostcell">
+
 ## Mechanisms of Action - NRTIs 
 * Analogs of naturally occurring [nucleosides](http://static.newworldencyclopedia.org/b/b9/Nucleotides.png)
 * NRTIS are converted to their active triphosphate metabolites (i.e. a nucleotide) by <span id="yb">host cell </span>kinases
@@ -298,7 +300,7 @@ updated on Jun 03, 2021
 		* <span id="drug">Ganciclovir, interferon alpha, dapsone, flucytosine, vincristine, vinblastine</span>
 
 * <span id="drug"> Abacavir </span> 
-	* Ethanol significantly increases plasma levels (alcohol dehydrogenase)
+	* Ethanol significantly increases plasma levels (metabolized by alcohol dehydrogenase)
 	
 
 ---
@@ -542,7 +544,7 @@ note: rifampin is a bacterial RNA polymerase inhibitor
 
 ## NNRTIs
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RUUyd5bE9vQ?start=93&stop=150" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RUUyd5bE9vQ?start=108&stop=150" frameborder="0" allowfullscreen></iframe>
 
 ---
 
@@ -624,7 +626,7 @@ note: rifampin is a bacterial RNA polymerase inhibitor
 
 <td>
 
-![](./images/antiviral/coreceptor.jpg)[video](https://youtu.be/eS1GODinO8w?t=34s)
+![](./images/antiviral/coreceptor.jpg)[video](https://youtu.be/eS1GODinO8w?t=57s)
 </td></tr></table>
 
 
@@ -720,7 +722,6 @@ Prevents virus from entering the host cell <br>
     * <span id="drug"> Dolutegravir </span> plus <span id="drug"> abacavir </span> plus <span id="drug"> lamivudine </span> — only for individuals who are HLA-B*5701 negative and without chronic hepatitis B virus (HBV) coinfection 
     * <span id="drug"> Dolutegravir </span> plus (<span id="drug"> emtricitabine </span>  or <span id="drug"> lamivudine </span> ) plus (<span id="drug"> tenofovir alafenamide</span>  or<span id="drug">  tenofovir disoproxil fumarate</span>) 
     * <span id="drug"> Dolutegravir </span> plus <span id="drug"> lamivudine </span> —except for individuals with HIV RNA >500,000 copies/mL, HBV co-infection, or in whom ART is to be started before the results of HIV genotypic resistance testing for reverse transcriptase or HBV testing are available.
-    * <span id="drug"> Raltegravir </span> plus (<span id="drug"> emtricitabine </span>  or <span id="drug"> lamivudine</span> ) plus (<span id="drug"> tenofovir alafenamide </span> or <span id="drug"> tenofovir disoproxil fumarate </span> ) 
 
 An antiretroviral (ARV) regimen for a treatment-naive patient generally consists of two nucleoside reverse transcriptase inhibitors (NRTIs) administered in combination with a third active ARV drug from one of three drug classes: 1. an integrase strand transfer inhibitor (INSTI), 2. a non-nucleoside reverse transcriptase inhibitor (NNRTI), 3. a protease inhibitor (PI) with a pharmacokinetic (PK) enhancer (also known as a booster; the two drugs used for this purpose are cobicistat and ritonavir). 
 
@@ -839,6 +840,8 @@ Double stranded DNA virus
 
 ## Mechanisms of Activation of [Nucleoside](http://static.newworldencyclopedia.org/b/b9/Nucleotides.png) Analogs
 
+c.f. <a href=#/hostcell>NRTI for HIV</a>
+
 <img src="./images/antiviral/nucleoside_activation2.png" width=40%>
 
 ---
@@ -913,7 +916,11 @@ Double stranded DNA virus
 ## Ganciclovir
 ### [Valganciclovir](https://www.clinicalkey.com/#!/content/drug_monograph/6-s2.0-2584) (L-valyl ester prodrug)
 
-
+* MoA
+	* Ganciclovir is phosphorylated to ganciclovir monophosphate by a viral protein kinase
+	* Ganciclovir triphosphate inhibits viral DNA synthesis 
+		* competing for a position in the viral DNA
+		* terminating DNA synthesis once incorporated 
 * ADME
 	* <span id="drug"> Valganciclovir </span> is hydrolyzed by esterases following oral administration to <span id="drug"> ganciclovir </span> 
 * Indications
@@ -956,7 +963,7 @@ Double stranded DNA virus
 	* Inorganic pyro<font color="darkorange">phos</font>phate analog
 	* Inhibits HSV DNA polymerase and HIV-1 reverse transcriptase 
 	* Binds to pyrophosphate binding site of polymerase
-	* Inhibits cleavage of pyrophosphate from deoxyribonucleotide triphosphate (dNTP)
+	* <a href="https://en.wikipedia.org/wiki/Nucleoside_triphosphate#/media/File:DNA_synthesis_EN.png">Inhibits cleavage of pyrophosphate from deoxyribonucleotide triphosphate (dNTP)</a>
 	* Blocks viral DNA synthesis
 * Indications
 	* Nucleoside-resistant HSV, VZV, and CMV infections
@@ -964,7 +971,7 @@ Double stranded DNA virus
 	* Has been used as [salvage therapy](https://www.ncbi.nlm.nih.gov/PubMed/16964823) for multi-drug resistant HIV
 * <a href="#/adverse">Adverse effects</a>
 	* Renal failure or dysfunction 
-	* Seizure, depression, confusion, and anxiety (high CSF/plasma ratio)i
+	* Seizure, depression, confusion, and anxiety (high CSF/plasma ratio)
   * one marrow suppression
 	* Nausea, vomiting, and fatigue
 
@@ -1008,7 +1015,7 @@ Partially double-stranded DNA virus
 
 partial DNA enters nucleus -> cccDNA -> mRNA -> <span id='bg'>HBV polymerase</span> -> DNA (negative strand) -> DNA (positive strand)
 
-ccc:covalently closed circular
+<b>ccc</b>: covalently closed circular
 
 HBV polymerase has reverse transcription activity
 
@@ -1019,7 +1026,6 @@ HBV polymerase has reverse transcription activity
 * <span id="drug">Entecavir</span> (Baraclude)
 * <span id="drug">Adefovir</span> (Hepsera)
 * <span id="drug">Tenofovir</span> (Viread)
-* <span id="drug">Ribavirin</span> (Virazole)
 * <span id="drug">Interferon alfa-2a</span> (Roferon) and -2b (Intron A)
 * <span id="drug">Peginterferon alfa-2a</span> (Pegasys) and alfa-2b (PegIntron)
 
@@ -1032,7 +1038,7 @@ HBV polymerase has reverse transcription activity
 	* Nucleoside analog of <b>G</b>uanosine
 	* Inhibits all 3 activities of HBV polymerase
 		* Base priming ([GAA](https://youtu.be/sVpiXaEMs7I?t=6m12s)) [PubMed](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4399241/) 
-		* Reverse transcription
+		* Reverse transcription of the negative DNA strand 
 		* DNA synthesis of positive strand
 * Indication 
 	* Effective in treatment naive HBV patients
@@ -1107,7 +1113,6 @@ HBV polymerase has reverse transcription activity
 	* Renal excretion -- adjust dose with renal function impairment
 
 ---
-
 ## Adefovir 
 
 * <a href="#/adverse">Adverse Effects</a>
@@ -1118,41 +1123,6 @@ HBV polymerase has reverse transcription activity
 	* The combination of adefovir with <span id="drug"> lamivudine </span> showed additive anti-HBV activity
 	* Increased AUC when co-administered with <span id="drug"> ibuprofen </span> 
 		* Increase in bioavailability
-
----
-<section id="Ribavirin">
-
-## [Ribavirin](https://www.clinicalkey.com/#!/content/drug_monograph/6-s2.0-542)
-(Copegus | Moderiba | Rebetol | RibaPak | RibaTab | Ribasphere | Virazole)
-
-* Mechanism of action 
-	* Nucleoside analog of guanosine
-	* May related to increased mutation of viral DNA and leads to "**error catastrophe**"
-	* Interference with synthesis of GTP
-	* Increase production of cytokine
-* ADME
-	* Oral bioavailability increased with fatty meals, decreased with antacids
-	* <span id="drug"> Ribavirin </span> triphosphate concentrates in RBC
-	* Renal clearance decreased with CrCl <30
-
----
-
-## Ribavirin
-* Indication 
-	* Treat <u>Hepatitis C</u> in combination with <span id="drug"> peginterferon alpha </span> 
-	* Weight-based dosing results in a higher sustained virologic response 
-	* <u>Respiratory syncytial virus</u>: aerosolized form 
-	* <u>Hantaan virus</u>: intravenous 
-* Adverse effects
-	* Dose dependent hemolytic anemia (10-20% of patients) with systemic use
-		* Extravascular hemolysis
-	* Bone morrow suppression
-	* Psychiatric effects: depression, insomnia, anxiety.
-	* Pyrexia (fever)
-	* Aerosolized form well tolerated
-		* Possible mild conjunctival irritation
-		* Reversible deterioration in pulmonary function
-	* Teratogenic in animals
 
 ---
 ## Common to all the nucleoside analogs
@@ -1267,9 +1237,9 @@ HBV polymerase has reverse transcription activity
 <ol>
 <li> virus enter the cell via H spikes. In the endosome, low pH in the endosome trigger the <span id='bg'> fusion of membranes</span>.
 <li> viral ribonucleoprotein and viral RNA enters the cell nucleus, replicate the viral genome. 
-<li> viral RNA is also made with a <span id='bg'>sneaky trick </span>and exported into the cytoplasm.
+<li> viral RNA is also made and steals the 5'cap of of cellular RNA (important for making protein) and exported into the cytoplasm.
 <li> viral protein is made and virus is packaged on cell surface
-<li> the <span id='bg'>N spikes cleave the H spikes</span> and releases the viron.
+<li> the N spikes cleave the H spikes and releases the viron.
 </ol>
 </td>
 </tr></table>
@@ -1289,25 +1259,6 @@ HBV polymerase has reverse transcription activity
 	* <span id="drug"> Oseltamivir</span> (Tamiflu)
 
 ---
-
-<section id="fluuncoating">
-
-## [Amantadine](https://www.clinicalkey.com/#!/content/drug_monograph/6-s2.0-20) and [rimantadine](https://www.clinicalkey.com/#!/content/drug_monograph/6-s2.0-547)
-
-### Inhibitors of Uncoating
-
-Synthetic tricyclic amines
-
-* Indications
-	* Oral prophylaxis against influenza A (but not influenza B). 
-	* Good alternative to vaccine in immunocompromised patients and the elderly. 
-* Mechanism of action
-	* Inhibit viral replication by inhibiting uncoating of the virus.
-* Resistance
-	* Single amino acid substitution at the level of the transmembrane region of M2.
-	* **No longer used because of high level of resistance**
-
----
 <section id="flurelease">
 
 ##  [Zanamivir](https://www.clinicalkey.com/#!/content/drug_monograph/6-s2.0-2259) and [oseltamivir](https://www.clinicalkey.com/#!/content/drug_monograph/6-s2.0-2450)
@@ -1317,7 +1268,7 @@ Synthetic tricyclic amines
 Sialic acid analog inhibitors of influenza A and B neuraminidase 
 
 * Mechanism of action
-	* Competitive inhibitors of influenza neuraminidase. 
+	* Competitive <a href="https://youtu.be/caMne7nQUL8?t=94"> inhibitors of influenza neuraminidase</a>. 
 * Indications
 	* Effective against influenza A and B viruses.
 	* Patients who have been symptomatic for no more than 48 hours. 
@@ -1348,21 +1299,23 @@ Sialic acid analog inhibitors of influenza A and B neuraminidase
 
 
 * MoA	
-	* Cellular mRNA has a 5' methylated cap and a polyA tail
-	* Cap-dependent endonuclease binds to the [5' methylated caps of cellular mRNAs](http://oregonstate.edu/instruction/bi314/fall11/figure_07_16a.jpg) and cleaves the cellular mRNAs' 10 to 15 nucleotides 3' to the cap structure. This cellular capped RNA fragment is used by the viral polymerase to prime the synthesis of viral mRNA. 	
+	* Cellular mRNA has a [5' methylated cap and a polyA tail](https://www.neb.com/-/media/nebus/page-images/tools-and-resources/feature-articles/fa_mindcaps_fig1_initiationloop.jpg)
+	* Viral mRNA does not have a cap.
+	* Cap-dependent endonuclease binds to the 5' methylated caps of cellular mRNAs
+	and cleaves the cellular mRNAs' 10 to 15 nucleotides 3' to the cap structure. This cellular capped RNA fragment is used by the viral polymerase to prime the synthesis of viral mRNA. 	
 	* Baloxavir is an inhibitor of this cap-dependent endonuclease
 * Adverse effects:
 	* headache, diarrhea, bronchitis
 
 ---
 
-
 <section id="covid">
 
 ## SARS-CoV-2 virus
 
 <a href="https://www.nature.com/articles/d41586-021-02039-y">
-<img src="https://media.nature.com/lw800/magazine-assets/d41586-021-02039-y/d41586-021-02039-y_19383024.gif" width=60%> </a>
+<img src="https://cdn.britannica.com/47/215947-050-66A6BF8B/Severe-acute-respiratory-syndrome-Coronavirus-SARS-CoV-2-COVID-19.jpg"
+ width=60%></a>
 
 <div id="greyText">
 Single stranded RNA virus
