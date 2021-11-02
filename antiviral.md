@@ -11,7 +11,7 @@ hchen@uthsc.edu Dept. Pharmacology, UTHSC
 URL: http://chen42.github.io/slides/antiviral.html
 
 
-Last update: Oct 29, 2021
+Last update: Nov 2, 2021
 
 
 
@@ -762,6 +762,7 @@ These are just a few examples.  Detailed list available from the link above
 * <a href="#/covid">SARS-CoV-2 </a>
 	* Comirnaty (Pfizer-BioNTech), Moderna, and Janssen vaccines
 	* <span id="drug">Remdesivir</span>
+	* antibody drugs
 
 ---
 
@@ -1325,32 +1326,90 @@ Single stranded RNA virus
 
 ## Life cycle of SARS-CoV-2 
 
+<div id="left">
+
 <a href="https://www.nature.com/articles/s41579-020-00468-6">
-<img src="https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41579-020-00468-6/MediaObjects/41579_2020_468_Fig1_HTML.png?as=webp" width=50%>
+<img src="./images/antiviral/sars-cov-2_life_cycle.png" width=90%>
 </a>
+
+</div>
+
+<div id="right">
+
+* Infecting bronchial epithelial cells, pneumocytes and upper respiratory tract cells
+* Orange boxes -> life cycle 
+* Red boxes -> therapeutic options under investigation
+* The RNA genome is  [30 kilo bases](https://genome.ucsc.edu/cgi-bin/hgTracks?db=wuhCor1&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=NC_045512v2%3A1%2D29903&hgsid=1203179451_8263g5HiGW1R07rmnBegtA4EAf7w) 
+* Spike protein binds to ACE2
+* Acronymes
+	* <b>An</b>: 3′ polyA sequence; 
+	* <b>ACE2</b>: angiotensin-converting enzyme 2;
+	* <b>RdRP</b>: RNA-dependent RNA polymerase;
+	* <b>TMPRSS2</b>: a cell surface serine protease
+
+<hr>
+
+<a href="https://media.nature.com/lw800/magazine-assets/d41586-021-02039-y/d41586-021-02039-y_19394008.png">
+Another version of SARS-CoV-2 life cycle</a>
+
+</div>
 
 ---
 
 ## SARS-CoV-2
 
-### Remdesivir
+### Remdesivir (Veklury)
 
+<div id="left">
+
+<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7566896/">
+<img src="./images/antiviral/remdesivir.png" width=80%>
+</a>
+</div>
+
+
+<div id="right">
+
+* [FDA approves Remdesivir on 2020-10-22](https://www.fda.gov/news-events/press-announcements/fda-approves-first-treatment-covid-19)
 * MoA 
-	*  Nucleoside analog of Adenosine
-	* originally synthesized to inihibit hepatitis C virus RNA polymerase
-	* Coronaviruses replicate by copying their genetic material using an enzyme known as the **RNA-dependent RNA polymerase**. These enzymes can incorporate remdesivir into new RNA strands. Shortly after adding remdesivir, the enzyme stops being able to add more RNA subunits. This halts genome replication.
+	* Nucleoside analog of Adenosine
+	* Originally developed to treat Ebola virus 
+	* Coronaviruses replicate by copying their genetic material using an enzyme known as the **RNA-dependent RNA polymerase**. These enzymes can incorporate remdesivir into new RNA strands. Shortly after adding remdesivir, the enzyme stops being able to add more RNA subunits. [This halts viral genome replication.
+* ADME ([review article](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8308800/))
+	* administered as a slow i.v. infusion of a loading dose followed by a maintenance dose for 5 or 10 days
+	* it is a prodrug, metabolized by carboxylesterase I to its triphosphate active form
+	* eliminated in urine
 
-* [FDA approves Remdesivir](https://www.fda.gov/news-events/press-announcements/fda-approves-first-treatment-covid-19)
-
+</div>
 ---
 
 ## SARS-CoV-2
 
 ### Monoclonal antibodies 
 
-* Actemra (Tocilizumab) 
 * Sotrovimab  
+	* derived from the memory B cell of a patient recovered from SARS in 2003
+	* dual action monoclonal antibody ([how are they produced?](https://chen42.github.io/slides/pns2021.html#/18))
+		* neutralizing against the spike protein
+		* activates the antibody-dependent cellular cytotoxicity ([ADCC](https://en.wikipedia.org/wiki/Antibody-dependent_cellular_cytotoxicity)) and antibody-dependent cellular phagocytosis ([ADCP](https://www.frontiersin.org/articles/10.3389/fimmu.2019.00332/full)) pathways
+	*  [500 mg, 1-hour infusion](https://www.nejm.org/doi/full/10.1056/NEJMoa2107934)
+
+* Actemra (Tocilizumab) 
+	* IL-6 receptor antagonist for treating the "cytokine storm"  
+
 * More at the [FDA Emergency Use Authorization website](https://www.fda.gov/emergency-preparedness-and-response/mcm-legal-regulatory-and-policy-framework/emergency-use-authorization#coviddrugs)
+
+---
+
+## Additional reading 
+
+
+* A single injection of a drug called cabotegravir every two months was so successful in preventing HIV  that the clinical trial wrapped up ahead of schedule.
+	* [Report by NPR](https://www.npr.org/sections/goatsandsoda/2020/11/11/933415492/protecting-women-against-hiv-just-got-9-times-easier)
+	* [Report by STAT](https://www.statnews.com/pharmalot/2021/01/21/fda-hiv-aids-injectable/)
+* [Gene editing for HIV enters into human testing](https://www.fiercebiotech.com/biotech/excision-hiv-crispr-gene-editing-therapy-cleared-for-human-studies-by-fda)
+
+* [How the coronavirus infects cells — and why Delta is so dangerous - Nature news feature](https://www.nature.com/articles/d41586-021-02039-y)
 
 ---
 
@@ -1394,17 +1453,4 @@ Single stranded RNA virus
 [Zanamivir](#/flurelease)||
 [Zidovudine](#/nrti)|| 
 
----
 
-## Additional reading 
-
-https://www.npr.org/sections/goatsandsoda/2020/11/11/933415492/protecting-women-against-hiv-just-got-9-times-easier
-
-> A single injection of a drug called cabotegravir every two months was so successful in preventing HIV in a clinical trial among women in sub-Saharan Africa that the study was wrapped up ahead of schedule. 
-
-
-https://www.statnews.com/pharmalot/2021/01/21/fda-hiv-aids-injectable/
-
-https://www.nature.com/articles/d41586-021-02039-y
-
-https://www.fiercebiotech.com/biotech/excision-hiv-crispr-gene-editing-therapy-cleared-for-human-studies-by-fda
