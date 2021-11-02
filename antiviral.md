@@ -22,7 +22,8 @@ Last update: Nov 2, 2021
 
 * Color and style guide: 
 	* Drug name: <span id="drug"> Enfuvirtide</span>
-	* Links: [Clinicalkey](https://www.clinicalkey.com/#!/). 
+	* Links: [Clinicalkey](https://www.clinicalkey.com/#!/).  
+		* Shade change when mousing over indicates the image or text has a link
 		* You need to login via your UTHSC netid when off campus to use e-textbooks. 
 		* [VPN](http://uthsc.edu/vpn/) provides a better experience. 
 	* [**Printable**](http://chen42.github.io/slides/antiviral.html?print-pdf#/) version 
@@ -37,12 +38,6 @@ Space_bar
 Page_down or Page_up 
 Home or End
 ```
-* To zoom in or out:
-``` 
-CTRL + or CTRL -
-CTRL mouse_wheel_up or CTRL mouse_wheel_down 
-```
-
 
 ---
 
@@ -1315,8 +1310,7 @@ Sialic acid analog inhibitors of influenza A and B neuraminidase
 ## SARS-CoV-2 virus
 
 <a href="https://www.nature.com/articles/d41586-021-02039-y">
-<img src="https://cdn.britannica.com/47/215947-050-66A6BF8B/Severe-acute-respiratory-syndrome-Coronavirus-SARS-CoV-2-COVID-19.jpg"
- width=60%></a>
+<img src="images/antiviral/coronavirus.jpg" width=80%></a>
 
 <div id="greyText">
 Single stranded RNA virus
@@ -1358,7 +1352,7 @@ Another version of SARS-CoV-2 life cycle</a>
 
 ## SARS-CoV-2
 
-### Remdesivir (Veklury)
+### <span id="drug">Remdesivir (Veklury)</span>
 
 <div id="left">
 
@@ -1387,14 +1381,14 @@ Another version of SARS-CoV-2 life cycle</a>
 
 ### Monoclonal antibodies 
 
-* Sotrovimab  
+* <span id="drug">Sotrovimab  </span>
 	* derived from the memory B cell of a patient recovered from SARS in 2003
 	* dual action monoclonal antibody ([how are they produced?](https://chen42.github.io/slides/pns2021.html#/18))
 		* neutralizing against the spike protein
 		* activates the antibody-dependent cellular cytotoxicity ([ADCC](https://en.wikipedia.org/wiki/Antibody-dependent_cellular_cytotoxicity)) and antibody-dependent cellular phagocytosis ([ADCP](https://www.frontiersin.org/articles/10.3389/fimmu.2019.00332/full)) pathways
 	*  [500 mg, 1-hour infusion](https://www.nejm.org/doi/full/10.1056/NEJMoa2107934)
 
-* Actemra (Tocilizumab) 
+* <span id="drug">Actemra (Tocilizumab) </span> 
 	* IL-6 receptor antagonist for treating the "cytokine storm"  
 
 * More at the [FDA Emergency Use Authorization website](https://www.fda.gov/emergency-preparedness-and-response/mcm-legal-regulatory-and-policy-framework/emergency-use-authorization#coviddrugs)
@@ -1402,7 +1396,6 @@ Another version of SARS-CoV-2 life cycle</a>
 ---
 
 ## Additional reading 
-
 
 * A single injection of a drug called cabotegravir every two months was so successful in preventing HIV  that the clinical trial wrapped up ahead of schedule.
 	* [Report by NPR](https://www.npr.org/sections/goatsandsoda/2020/11/11/933415492/protecting-women-against-hiv-just-got-9-times-easier)

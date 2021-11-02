@@ -1,26 +1,62 @@
 
 
-## GWAS on socially acquired nicotine IVSA in heterogeneous stock rats
+# Genetic Factors Influencing Socially-Acquired Voluntary Nicotine Intake in Rats
+
+<hr color=orange >
+
+##	Hao Chen, Ph.D.
 
 
-<hr color=#cb4b16>
+### Department of Pharmacology, Addiction Science and Toxicology
+### University of Tennessee Health Science Center
 
-###	Hao Chen
-
-### University of Tennessee Health Science center
-
-#### Feb 12, 2021
 
 ---
 
-## Social learning enables nicotine self-administration
+
+## Nicotine is primarily aversive in non-smokers 
+<table>
+ <tr>
+ <td width=50%>
+ <img width=100% src="images/titlepages/eissenberg.png">
+ </td>
+ <td width=90%>
+ <img width=100% src="images/titlepages/dkalman.png">
+ </td>
+ </tr>
+ <tr>
+ <td>
+ Coughing, nausea, dizziness, sickness, burning throat, headache.
+ </td>
+ <td>
+ Nicotine induces drug high only in <em>significantly nicotine-deprived smokers</em>. 
+ </td>
+ </tr>
+</table>
+
+
+---
+
+## Social influence is a key factor in smoking initiation 
+
+<div id="left50" >
+<img width=100% src="images/titlepages/hoffman.png"> 
+</div>
+<div id="right50">
+<img width=100% src="images/titlepages/jfowler.png"> 
+</div>
+
+
+---
+
+## Social learning enables nicotine self-administration in rats
 
 <img height:auto width=90% src="images/socially_acquired_nicotine_ivsa.png">
 
 <font size=4> No water or food deprivation or operant pretraining, can be used to model smoking initiation in adolescents. </font>
 
 <hr align="left" width=15%>
-<p align=left>
+<p align=left> 
 <cite> Chen, et al., Neuropsychopharmacology, 2011 </cite>
 
 ---
@@ -38,7 +74,6 @@
 ---
 
 
-
 ## Nicotine intake with appetitive vs aversive cues
 
 <img width=50% src="images/quinine/pres.sacc_quinine.png">
@@ -50,30 +85,119 @@
 
 ---
 
+## Social learning is mediated by Carbon Disulfide (CS<sub>2</sub>) in rats 
+
+<div id="left50">
+<img height:auto width=90% src="images/galef.protocol.narrower.png"> 
+<br>
+</div>
+
+<div id="right50">
+<img height:auto width=90% src="images/titlepages/cs2.png">
+
+</div>
+
+---
+
+## Both CS<sub>2</sub> and flavor cue are necessary 
+## for socially acquired nicotine IVSA 
+
+<img width=100% height="auto" src="images/p50/cs2_1rat.png">
+
+<p align=left>
+<cite> Wang, et al., PLoS One, 2014 </cite>
+</p>
+
+
+---
+
+
+## Socially acquired nicotine IVSA is hertiable
+
+<img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5556091/bin/41598_2017_8291_Fig3_HTML.jpg">
+
+<hr align="left" width=15%>
+<p align=left>
+<cite> Han, et al., Sci Rep, 2017 </cite>
+</p>
+
+
+---
+
+## Heterogeneous stock rats is suitable for genetic mapping studies
+
+<img src="images/p50/hs_rats_garrett2020.png" width=60%>
+
+<hr align="left" width=15%>
+<p align=left>
+<cite> Garrett, et al, Trends Genetics 2020 </cite>
+</p>
+
+---
+
+
+## Experimental design
+<div id="left50">
+<font size=3>
+
+| Age | Test |
+|---|---|
+|PND21|Wean, Body weight|
+|PND31|Open field (60min)|
+|PND32|Novel object (20min)|
+|PND33|Social interaction in the same arena as openfield (20 min) |
+|PND34|Elevated plus maze (6min)|
+|PND38|Surgery|
+|PND39 - 41| Recovery|
+|PND42 - 51|Socially acquired nicotine IVSA|
+|PND52| Progressive ratio test |
+|PND53 - 56 |Extinction|
+|PND57|Contextual cue induced reinstatement|
+|PND59|Tissue Collection|
+
+</font>
+
+</div>
+
+
+<div id="right50">
+<center>
+<table width=80%><tr><td>
+We phenotyped 1600 adolescent heterogeneous stock rats on socially acquired nicotine IVSA using an flavor cue containing CS<sub>2</sub>. We also collected other behavioral traits before nicotine IVSA was started. Spleen from each rat was collected for genotyping once behavioral tests were completed. 
+</td></tr></table>
+</center>
+
+</div>
+
+
+---
 
 ## Nicotine self-administration
 
-### cue: saccharin + grape odor + CS2
-
-#### Adolescent HS rats (711 F, 711 M)
+### Adolescent HS rats (711 F, 711 M)
 
 <img width=75% height="auto" src="images/gwasv3/nicotine_fr10_phaseone_all_data.png">
 
-
----
-
-## Nicotine self-administration
-
-### cue:  quinine + grape odor + CS2 
-
-
-<img width=75% height="auto" src="images/p50/p50_quinine.png">
-
 ---
 
 
+### Genome-wide association 
 
-## GWAS summary, version 3
+## Number of licks on the active spout during the first session  
+
+<img src="images/p50/day1_active_lick_manh.jpg" >
+
+---
+
+### Genome-wide association 
+
+## Total nicotine infusions across 10 sessions 
+
+<img src="images/p50/total_infusion_manh.jpeg">
+
+---
+
+## GWAS summary
 
 |Behavior | Sample size | N traits | N QTL traits | N significant QTL| 
 |---|---|---:|---:|---:|
@@ -86,39 +210,6 @@
 One trait mapped to multiple loci; multiple traits mapped to the same loci
 
 
-*!time bins*
-
----
-
-## Overlapping QLT between social interaction & socially acquired nicotine IVSA 
-
-<div id="left50">
-<center>
-In social zone frequency
-<img src="images/gwasv3/locuszoom_insoczonefreq.png" width=90%>
-<br>
-<center>
-</div>
-<div id="right50">
-<center>
-Total inactive lick, 10 sessions
-<img src="images/gwasv3/locuszoom_total_inactive_lick_10days.png" width=90%>
-<br>
-<center>
-</div>
-
-<hr>
-<p>
-
-PhWAS: -logP=7.273, r2=0.275, dprime=0.993 (just phenotypes: freq vs inac lick: r=0.14, p=1e-06)
-<br>
-Both are correlated with totalDistance (freq v dist: r=0.54, p=9e-102);  (inact lick vs dist: r=0.15, p=1.6e-7) 
-<br>
-The QTL region is 266k bp, has two known genes:
- <b>Abhd17b</b>, abhydrolase domain containing 17B, is located on the postsynaptic membrane of glutamatergic synapses, and regulates dendritic spine maintenance.
- <b>Gda</b>, guanine deaminase, is expressed in cortical and hippocampal neurons and increases dendritic branching in culture. 
-
-
 ---
 
 ## Number of licks on the active spout in first session: chr1:278524299
@@ -127,9 +218,7 @@ The QTL region is 266k bp, has two known genes:
 
 The QLT region is 6.9 Mbp and has 39 known genes. Four genes has missense variants, two genes has cis-eQTL with r2 > 0.6.
 
-
 ---
-
 
 ## http://rats.pub
 
@@ -140,23 +229,6 @@ The QLT region is 6.9 Mbp and has 39 known genes. Four genes has missense varian
 Rats.pub is designed to take a list of gene symbols and mine the PubMed and GWAS catalog for sentences pertain to addiction.
 
 ---
-
-##  Rat GWAS and human smoking overlaps
-|count | category| 
-|---:|---|
-| 16913 | rat human common gene symbols|
-|  1600 | human smoking/COPD gene symbol available in rat|
-|   805 | nicsa gene symbols |
-|   315 | nicsa gene symbols available in human|
-|    33 | gene symbols overlapping nicsa and human smoking |
-
- Chance of human/rat gene involved in smoking/copd: 1600/16913=0.946
- For 315 genes, we expect to find 29.8 genes 
-</pre>
-
----
-
-#### Summary of nicotine GWAS, part 1/4
 
 ## Number of licks on the active spout
 
@@ -191,14 +263,12 @@ Mengzhen Liu, ... Scott Vrieze, Nature Genetics 2019
 ![](./images/gwasv3/smoking_initiation_vti1a_nrap_shtn1.png)
 <p align=left>
 <b>Nrap</b> is not well detected in most RNAseq samples (FPKM: 0.1-0.2), involved in ribosome biogenesis (PMID11895476).<br> 
-<b>Vti1a</b> is expressed in all 5 brain regions, FPKM:30.  Vti1a regulates synaptic vesicle and dense core vesicle secretion via protein sorting at the Golgi. PMID:30143604, 10908612. Vti1a does not have cis-eQTL
+<b>Vti1a</b> is expressed in all 5 brain regions, FPKM:30. Vti1a regulates synaptic vesicle and dense core vesicle secretion via protein sorting at the Golgi. PMID:30143604, 10908612. Vti1a does not have cis-eQTL
 <br>
 <b>Shtn1</b> expression is about FPKM:19. Shtn1 accumulates in the neurite tips and is a key regulator of axon outgrowth (PMID:20664640) Shtn1 has a cis-eQTL (but may not be in LD with top behavioral SNP).
 </p>
 
 ---
-
-#### Summary of nicotine GWAS, part 2/4
 
 ## Number of infusions
 
@@ -237,85 +307,21 @@ chronic obstructive pulmonary disease risk
 
 </pre>
 
+Note: 
 Not much literature on this gene and expression level in the brain is almost 0. But GTex reports its detection. 
 The annotation is intergenic! <a href=
 "http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg38&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=chr13%3A110979763%2D112075449&hgsid=1028729693_QukEveNO4EoDL3hNviIqVJ3lcbnb"> What else is here?</a>
-
 
 Could it be Arhgef7? Brain expression FPKM=30. Involed in spine morphogenesis. Loss of Arhgef7 results in extensive loss of axons PMID:30683798, PMID:29891904
 
 ---
 
-#### Summary of nicotine GWAS, part 3/4
+## Summary
 
-## Ratio of licks on the active/inactive spouts
-
-|ID|Session|Location| Genes (n) | Human Smoking GWAS Genes|
-|---|:---:|---|---|---|
-|12.28 | day 2 | chr8:22201332| 37| Carm1 | 
-|12.14 | day 3 | chr18:50265173| 13| |
-|12.05 | day 4 | chr16:43380960|7 | |
-|12.01 | day 10 | chr10:104395310| 54|Tsen54 |
-|12.25 | day 11 | chr6:21268257| 5| TTC27 |
+* Socially acquired nicotine self-administration is a model of adolescent smoking 
+* Convergence between human and rat GWAS will likely yield novel mechanistic understanding of nicotine addiction 
 
 ---
-
-#### Summary of nicotine GWAS, part 4/4
-
-## Number of licks on the inactive spout 
-
-|ID|Session|Location| Genes (n)|Human Smoking GWAS Genes|
-|---|:---:|---|---|---|
-|12.18 | day 3 | chr1:253523411| 10| |
-|12.04 | day 7 | chr14:108854633|23| XPO1, USP34, BCL11A |
-|12.06 | day 9 | chr16:5256755|1| Cacna2d3 |
-|12.21 | day 9 | chr1:74927958| 195| U2af2, KMT5C, FAM71E2, TMEM238, COX6B2, TMEM190, Il11, Lilrb4| 
-|12.26 | day 9 | chr6:71588778| 46| Foxg1, Heatr5a&hearts;, Prkd1 |
-|12.27 | day 9 | chr7:110658276| 7| |
-|12.07 | day 10 | chr16:5288954|1 | Cacna2d3 |
-|12.17 | total | chr1:239058463| 7||
-|12.19 | total | chr1:253766837| 10||
-
-&hearts;:protein coding variant
-
-<b><a href="http://rats.pub/cytoscape/?rnd=tmpdseiBK&genequery=cacna2d3">Cacna2d3</a></b> is associated with nicotine dependence, smoking status, lung cancer, and COPD in five studies. FPKM 100 in Accumbens, 30-40 in cortex
-
-Correlated with inactive lick in other sessions, day10 infusion (r=0.22, p=7e-17), and active/inactive ratio (r=-0.2~0.3, p < 1e-15)
-
----
-
-## Nicotine conditioned cue preference in c.elegans
-
-#### Test Cacna2d3
-
-<div id="left50">
-<img src=images/p50/SS_2021-02-12-09_53_42_9380.png  width=80%>
-</div>
-<div id="right50">
-<img src=images/p50/SS_2021-02-12-09_54_23_6442.png width=80%>
-</div>
-
-Courtesy: Chang Hoon Jee, Assist Prof, UTHSC
-
----
-
-## Nicotine conditioned cue preference in c.elegans
-
-<img src=images/p50/SS_2021-02-12-09_57_30_18081.png width=60%>
-
-
-Courtesy: Chang Hoon Jee, Assist Prof, UTHSC
-
----
-
-## Nicotine conditioned cue preference in c.elegans
-
-<img src=images/p50/SS_2021-02-12-09_58_11_1220.png width=90%>
-
-Courtesy: Chang Hoon Jee, Assist Prof, UTHSC
-
----
-
 
 ## Acknowledgements
 
@@ -359,22 +365,8 @@ Hakan Gunturkun
 
 * Past technicians 
 	* *Xia Hong* | *Jie Shen* | *Wenyan Han* | *Pawandeep Kaur* | *Yanyan Lin* | *Xinyu Fan* | *Mallory Udell*|
-* Summer students 
-	* Abigale Salinero (REHU 2015) | Cindy Tay (REHU 2016) | Raven David (REHU 2017) | Christian Hurt (REHU 2018) 
-* P50 collaborators 
-	* Abraham Palmer | Oksana Polaskaya | Apurva Chitre | Leah-Solberg Woods 
-* P30 collaborators
- * Laura Saba | Rob Williams | Pjotr Prins 
-* UTHSC
- * Chang Hoon Jee 
+* Abraham Palmer | Oksana Polesskaya | Apurva Chitre (University of California San Diego)
+* Leah-Solberg Woods  (Wake Forest School of Medicine)
+* Funding
+	* NIH/NIDA P50DA037844 
 
-
----
-
-
-<a href="https://docs.google.com/presentation/d/1kYYeQkNM88edT3sFwhiZTi6W9lQVwtdGp9NuXK3Ed3k/edit#slide=id.p
-">
-
-<h2>New Rat RefGenome</h2>
-
-</a>
