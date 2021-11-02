@@ -1121,6 +1121,7 @@ HBV polymerase has reverse transcription activity
 		* Increase in bioavailability
 
 ---
+
 ## Common to all the nucleoside analogs
 
 <span id="drug">Entecavir </span> <span id="drug">Adefovir </span> <span id="drug">Tenofovir </span> <span id="drug">Telbivudine </span>
@@ -1239,6 +1240,7 @@ HBV polymerase has reverse transcription activity
 </ol>
 </td>
 </tr></table>
+
 ---
 
 ## Antiinfluenza Agents
@@ -1255,6 +1257,7 @@ HBV polymerase has reverse transcription activity
 	* <span id="drug"> Oseltamivir</span> (Tamiflu)
 
 ---
+
 <section id="flurelease">
 
 ##  [Zanamivir](https://www.clinicalkey.com/#!/content/drug_monograph/6-s2.0-2259) and [oseltamivir](https://www.clinicalkey.com/#!/content/drug_monograph/6-s2.0-2450)
@@ -1291,8 +1294,22 @@ Sialic acid analog inhibitors of influenza A and B neuraminidase
 
 ---
 
+
+
+
 ## <span id="drug"> Baloxavir marboxil (Xofluza) </span> 
 
+<div id="left">
+
+<a href="https://www.virology.ws/2018/10/25/a-new-drug-for-influenza/">
+
+<img src="./images/antiviral/capedrna.png">
+
+</a>
+
+</div>
+
+<div id="right">
 
 * MoA	
 	* Cellular mRNA has a [5' methylated cap and a polyA tail](https://www.neb.com/-/media/nebus/page-images/tools-and-resources/feature-articles/fa_mindcaps_fig1_initiationloop.jpg)
@@ -1302,6 +1319,8 @@ Sialic acid analog inhibitors of influenza A and B neuraminidase
 	* Baloxavir is an inhibitor of this cap-dependent endonuclease
 * Adverse effects:
 	* headache, diarrhea, bronchitis
+
+</div>
 
 ---
 
@@ -1381,15 +1400,13 @@ Another version of SARS-CoV-2 life cycle</a>
 
 ### Monoclonal antibodies 
 
-* <span id="drug">Sotrovimab  </span>
+* <span id="drug">Sotrovimab </span>
+	* approved for emergency use on 05/26/2021 by FDA
 	* derived from the memory B cell of a patient recovered from SARS in 2003
-	* dual action monoclonal antibody ([how are they produced?](https://chen42.github.io/slides/pns2021.html#/18))
+	* dual action monoclonal antibody ([review](https://www.nature.com/articles/s41551-020-00660-2))
 		* neutralizing against the spike protein
 		* activates the antibody-dependent cellular cytotoxicity ([ADCC](https://en.wikipedia.org/wiki/Antibody-dependent_cellular_cytotoxicity)) and antibody-dependent cellular phagocytosis ([ADCP](https://www.frontiersin.org/articles/10.3389/fimmu.2019.00332/full)) pathways
 	*  [500 mg, 1-hour infusion](https://www.nejm.org/doi/full/10.1056/NEJMoa2107934)
-
-* <span id="drug">Actemra (Tocilizumab) </span> 
-	* IL-6 receptor antagonist for treating the "cytokine storm"  
 
 * More at the [FDA Emergency Use Authorization website](https://www.fda.gov/emergency-preparedness-and-response/mcm-legal-regulatory-and-policy-framework/emergency-use-authorization#coviddrugs)
 
