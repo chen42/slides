@@ -1090,6 +1090,31 @@ HBV polymerase has reverse transcription activity
 
 ---
 
+<section id="Ribavirin">
+
+## [Ribavirin](https://www.clinicalkey.com/#!/content/drug_monograph/6-s2.0-542)
+(Copegus | Moderiba | Rebetol | RibaPak | RibaTab | Ribasphere | Virazole)
+
+* MoA 
+	* Nucleoside analog of guanosine
+	* May related to increased mutation of viral DNA and leads to "**error catastrophe**"
+	* Interference with synthesis of GTP / Increase production of cytokine
+* Indication 
+	* Treat <u>Hepatitis C</u> in combination with <span id="drug"> peginterferon alpha </span> 
+	* Weight-based dosing results in a higher sustained virologic response 
+	* <u>Respiratory syncytial virus</u>: aerosolized form 
+	* <u>Hantaan virus</u>: intravenous 
+* Adverse effects
+	* Dose dependent hemolytic anemia (10-20% of patients) with systemic use
+		* Extravascular hemolysis
+	* Bone morrow suppression
+	* Psychiatric effects: depression, insomnia, anxiety.
+	* Aerosolized form well tolerated
+		* Possible mild conjunctival irritation
+		* Reversible deterioration in pulmonary function
+	* Teratogenic in animals
+---
+
 ## Common to all the nucleoside analogs
 
 <span id="drug">Entecavir </span> <span id="drug">Adefovir </span> <span id="drug">Tenofovir </span> 
@@ -1450,6 +1475,10 @@ by NIH COVID-19 Treatment Guidelines Panel
 ---
 
 ## Additional reading 
+
+* [Molnupiravir promotes SARS-CoV-2 mutagenesis via the RNA template](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8110631/)
+
+* [The Merck pill, which could become the first oral antiviral COVID treatment, forces the SARS-CoV-2 coronavirus to mutate itself to death.](https://www.nature.com/articles/d41586-021-02783-1)
 
 * A single injection of a drug called cabotegravir every two months was so successful in preventing HIV that the clinical trial wrapped up ahead of schedule.
 	* [Report by NPR](https://www.npr.org/sections/goatsandsoda/2020/11/11/933415492/protecting-women-against-hiv-just-got-9-times-easier)
