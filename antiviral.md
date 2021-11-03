@@ -53,8 +53,8 @@ Home or End
 	* Integrase strand transfer inhibitor <span id="drug">[Bictegravir, Raltegravir, Dolutegravir](#/Integrase) </span>
 	* Protease inhibitors <span id="drug">[Ritonavir, Darunavir](#/pi) </span> 
 
-
 ---
+
 ## Objectives
 
 1. Identify the <span id="yb">steps in the viral replication process</span> that provide targets for antiviral therapy.
@@ -728,8 +728,8 @@ These are just a few examples. Detailed list available from the link above
 	* <span id="drug">[Acyclovir, Valacyclovir](#/Acyclovir), [Tenofovir](#/Tenofovir2), [Famciclovir, Penciclovir](#/Penciclovir)</span>
 * <a href="#/cmv">Cytomegalovirus</a>
 	* <span id="drug">[Ganciclovir, Valganciclovir](#/Ganciclovir), [Cidofovir](#/Cidofovir), [Foscarnet](#/Foscarnet)</span>
-* <a href="#/hbv">Hepatitis Virus B </a>and C
-	* <span id="drug"> [Entecavir](#/Entecavir), [Adefovir](#/Adefovir), [Interferon alpha](#/Interferon), [Ribavirin](#/Ribavirin)</span>
+* <a href="#/hbv">Hepatitis Virus B </a>
+	* <span id="drug"> [Entecavir](#/Entecavir), [Interferon alpha](#/Interferon)
 * <a href="#/flu">Influenza Virus </a>
 	* Viral release inhibitors <span id="drug"> [Zanamivir, Oseltamivir](#/flurelease)</span>
 	* Cap-dependent endonuclease inhibitor <span id="drug"> [Baloxavir](#/flucap)</span>
@@ -1082,28 +1082,17 @@ HBV polymerase has reverse transcription activity
 	* No cross resistance of <span id="drug"> lamivudine</span>-resistant HBV strains
 * Indication
 	* chronic hepatitis B
-* ADME
-	* Oral bioavailability (60%), unaffected by meals
-	* Very low protein binding, <4%
-	* Renal excretion -- adjust dose with renal function impairment
-
----
-## Adefovir 
-
 * <a href="#/adverse">Adverse Effects</a>
 	* Exacerbations of hepatitis after discontinuation of treatment 
 	* Nephrotoxicity 
 	* Lactic acidosis/severe hepatomegaly with steatosis
-* Drug Interactions
-	* The combination of adefovir with <span id="drug"> lamivudine </span> showed additive anti-HBV activity
-	* Increased AUC when co-administered with <span id="drug"> ibuprofen </span> 
-		* Increase in bioavailability
+* [No longer](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5975958/) a preferred drug for HBV
 
 ---
 
 ## Common to all the nucleoside analogs
 
-<span id="drug">Entecavir </span> <span id="drug">Adefovir </span> <span id="drug">Tenofovir </span> <span id="drug">Telbivudine </span>
+<span id="drug">Entecavir </span> <span id="drug">Adefovir </span> <span id="drug">Tenofovir </span> 
 
 * Lactic acidosis and severe hepatomegaly with steatosis is a more common adverse effect of the nucleoside analogs in the treatment of HIV, where they are always used in combination therapy, but these effects are much <u>less</u> likely to occur with monotherapy for treatment of hepatitis B. 
 
@@ -1406,7 +1395,8 @@ by NIH COVID-19 Treatment Guidelines Panel
 * Indications
 	* Treat nonhospitalized patients 
 		* with mild to moderate COVID-19 who are at high risk of clinical progression 
-	* Use one of the three combinations
+			* Aged ≥65 years | Obesity (BMI >30) |  Diabetes  | Cardiovascular disease (including congenital heart disease) or hypertension | Chronic lung diseases (e.g., chronic obstructive pulmonary disease, moderate-to-severe asthma, interstitial lung disease, cystic fibrosis, pulmonary hypertension) 
+	* Use one of the three combinations (AII)
 * Anti-SARS-CoV-2 mAB received emergency use authorization from FDA 
 	* <span id="drug">Sotrovimab</span>
 	* <span id="drug">Bamlanivimab</span> plus <span id="drug"> etesevimab </span>
