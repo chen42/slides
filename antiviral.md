@@ -2,7 +2,7 @@
 # Anti-HIV & Antiviral Agents
 ----
 
-[Hour 1](#/hour1) |  [Hour 2](#/hour2)
+[Hour 1](#/hour1) | [Hour 2](#/hour2)
 
 Hao Chen, Ph.D
 
@@ -22,7 +22,7 @@ Last update: Nov 2, 2021
 
 * Color and style guide: 
 	* Drug name: <span id="drug"> Enfuvirtide</span>
-	* Links: [Clinicalkey](https://www.clinicalkey.com/#!/).  
+	* Links: [Clinicalkey](https://www.clinicalkey.com/#!/). 
 		* Shade change when mousing over indicates the image or text has a link
 		* You need to login via your UTHSC netid when off campus to use e-textbooks. 
 		* [VPN](http://uthsc.edu/vpn/) provides a better experience. 
@@ -109,11 +109,11 @@ HIV-1 widely distributed, more pathogenic | HIV-2 restricted to Central and West
 
 ### Current [guidelines](https://clinicalinfo.hiv.gov/en/guidelines/adult-and-adolescent-arv/initiation-antiretroviral-therapy?view=full)
 
-#### The  <span id="yb"> Initiation </span> of Antiretroviral Therapy 
+#### The <span id="yb"> Initiation </span> of Antiretroviral Therapy 
 
-*    Antiretroviral therapy (ART) is recommended for all persons with HIV to reduce morbidity and mortality (AI) and to prevent the transmission of HIV to others (AI).
-*    The Panel on Antiretroviral Guidelines for Adults and Adolescents recommends initiating ART immediately (or as soon as possible) after HIV diagnosis in order to increase the uptake of ART and linkage to care, decrease the time to viral suppression for individual patients, and improve the rate of virologic suppression among persons with HIV (AII).
-*    When initiating ART, it is important to educate patients regarding the benefits of ART and to deploy strategies to optimize care engagement and treatment adherence (AIII).
+* Antiretroviral therapy (ART) is recommended for all persons with HIV to reduce morbidity and mortality (AI) and to prevent the transmission of HIV to others (AI).
+* The Panel on Antiretroviral Guidelines for Adults and Adolescents recommends initiating ART immediately (or as soon as possible) after HIV diagnosis in order to increase the uptake of ART and linkage to care, decrease the time to viral suppression for individual patients, and improve the rate of virologic suppression among persons with HIV (AII).
+* When initiating ART, it is important to educate patients regarding the benefits of ART and to deploy strategies to optimize care engagement and treatment adherence (AIII).
 
 Rating of Recommendations: A = Strong; B = Moderate; C = Optional
 Rating of Evidence: I = Data from randomized controlled trials; II = Data from well-designed nonrandomized trials or observational cohort studies with long-term clinical outcomes; III = Expert opinion
@@ -150,10 +150,10 @@ Rating of Evidence: I = Data from randomized controlled trials; II = Data from w
 updated on Jun 03, 2021
 
 * Integrase inhibitor-based regimens 
-    * <span id="drug"> Bictegravir </span>  plus  <span id="drug"> tenofovir alafenamide </span>  plus <span id="drug"> emtricitabine </span> 
-    * <span id="drug"> Dolutegravir </span> plus <span id="drug"> abacavir </span> plus <span id="drug"> lamivudine </span> — only for individuals who are HLA-B*5701 negative and without chronic hepatitis B virus (HBV) coinfection 
-    * <span id="drug"> Dolutegravir </span> plus (<span id="drug"> emtricitabine </span>  or <span id="drug"> lamivudine </span> ) plus (<span id="drug"> tenofovir alafenamide</span>  or<span id="drug">  tenofovir disoproxil fumarate</span>) 
-    * <span id="drug"> Dolutegravir </span> plus <span id="drug"> lamivudine </span> —except for individuals with HIV RNA >500,000 copies/mL, HBV co-infection, or in whom ART is to be started before the results of HIV genotypic resistance testing for reverse transcriptase or HBV testing are available.
+ * <span id="drug"> Bictegravir </span> plus <span id="drug"> tenofovir alafenamide </span> plus <span id="drug"> emtricitabine </span> 
+ * <span id="drug"> Dolutegravir </span> plus <span id="drug"> abacavir </span> plus <span id="drug"> lamivudine </span> — only for individuals who are HLA-B*5701 negative and without chronic hepatitis B virus (HBV) coinfection 
+ * <span id="drug"> Dolutegravir </span> plus (<span id="drug"> emtricitabine </span> or <span id="drug"> lamivudine </span> ) plus (<span id="drug"> tenofovir alafenamide</span> or<span id="drug"> tenofovir disoproxil fumarate</span>) 
+ * <span id="drug"> Dolutegravir </span> plus <span id="drug"> lamivudine </span> —except for individuals with HIV RNA >500,000 copies/mL, HBV co-infection, or in whom ART is to be started before the results of HIV genotypic resistance testing for reverse transcriptase or HBV testing are available.
 
 <small>An antiretroviral (ARV) regimen for a treatment-naive patient generally consists of two nucleoside reverse transcriptase inhibitors (NRTIs) administered in combination with a third active ARV drug from one of three drug classes: an integrase strand transfer inhibitor (INSTI), a non-nucleoside reverse transcriptase inhibitor (NNRTI), or a protease inhibitor (PI) with a pharmacokinetic (PK) enhancer (also known as a booster; the two drugs used for this purpose are cobicistat and ritonavir). </small>
 
@@ -227,9 +227,9 @@ updated on Jun 03, 2021
 * Analogs of naturally occurring [nucleosides](http://static.newworldencyclopedia.org/b/b9/Nucleotides.png)
 * NRTIS are converted to their active triphosphate metabolites (i.e. a nucleotide) by <span id="yb">host cell </span>kinases
 * MoA
-  * Competitive inhibitor of viral reverse transcriptase
-  * Cause DNA chain termination 
-  * Also inhibit host cell DNA polymerase
+ * Competitive inhibitor of viral reverse transcriptase
+ * Cause DNA chain termination 
+ * Also inhibit host cell DNA polymerase
 
 
 ---
@@ -271,7 +271,7 @@ updated on Jun 03, 2021
 * Common toxicities
 	* Rash; Gastrointestinal distress
 	* [Lactic acidosis](https://hivinfo.nih.gov/understanding-hiv/fact-sheets/hiv-and-lactic-acidosis), [hepatic steatosis](https://www.ncbi.nlm.nih.gov/pubmed/22760655) 
-	* [Lipodystrophy](https://www.ncbi.nlm.nih.gov/PubMed/10509567): fat loss and/or buildup or both. 
+	* [Lipodystrophy](https://www.ncbi.nlm.nih.gov/PubMed/10509567): fat loss or buildup or both. 
 		* Including central obesity, dorsocervical fat enlargement [(buffalo hump)](https://www.clinicalkey.com/#!/content/medline/2-s2.0-9525364), peripheral wasting, accumulation of facial fat, [lipomas](http://www.mayoclinic.org/diseases-conditions/lipoma/basics/definition/con-20024646), breast enlargement, [gynecomastia](http://www.mayoclinic.org/diseases-conditions/gynecomastia/home/ovc-20257576)
 
 ---
@@ -369,7 +369,7 @@ updated on Jun 03, 2021
 
 
 ---
-## Tenofovir disoproxil and  Emtricitabine 
+## Tenofovir disoproxil and Emtricitabine 
 ### (Truvada)
 
 * Better than Abacavir-Lamivudine for initial therapy 
@@ -448,37 +448,16 @@ note: rifampin is a bacterial RNA polymerase inhibitor
 
 
 ## Protease inhibitors
-### Drug interactions 
-
-* <span id="drug"> Carbamazepine</span> 
-	* (treat epilepsy) lower <span id="drug"> indinavir </span> AUC and potentially other PIs
-* <span id="drug"> Ketoconazole </span> 
-	* (antifugal) upregulates PIs AUC
-* <span id="drug"> Sildenafil </span> 
-	* (vasodilator) AUC augmented by PIs
-* <span id="drug"> Methadone </span>
-	* (addiction treatment) AUC reduced by <span id="drug"> ritonavir / lopinavir </span> 
-* Oral contraceptive AUC reduced by PIs
-	* <span id="drug"> Indinavir </span> is exception
-
-
----
-
-## Protease inhibitors
-### Common <a href="#/adverse">Adverse Effects</a>
-* Hyperlipidemia 
-	* May be more dramatic with <span id="drug"> ritonavir </span> due to interference in lipid metabolism. 
-* [Lipodystrophy](https://www.ncbi.nlm.nih.gov/PubMed/9652687)
-	* Including central obesity, dorsocervical fat enlargement [(buffalo hump)](https://www.clinicalkey.com/#!/content/medline/2-s2.0-9525364), peripheral wasting, accumulation of facial fat, [lipomas](http://www.mayoclinic.org/diseases-conditions/lipoma/basics/definition/con-20024646), breast enlargement, [gynecomastia](http://www.mayoclinic.org/diseases-conditions/gynecomastia/home/ovc-20257576)
-* Insulin resistance and diabetes
-* Elevated liver function
-
----
-
-## Protease inhibitors
-### Specific Adverse Effects 
-* Ritonavir 
-	* Hepatotoxicity at high doses
+* Common <a href="#/adverse">Adverse Effects</a>
+	* Hyperlipidemia 
+		* May be more dramatic with <span id="drug"> ritonavir </span> due to interference in lipid metabolism. 
+	* [Lipodystrophy](https://www.ncbi.nlm.nih.gov/PubMed/9652687)
+		* Including central obesity, dorsocervical fat enlargement [(buffalo hump)](https://www.clinicalkey.com/#!/content/medline/2-s2.0-9525364), peripheral wasting, accumulation of facial fat, [lipomas](http://www.mayoclinic.org/diseases-conditions/lipoma/basics/definition/con-20024646), breast enlargement, [gynecomastia](http://www.mayoclinic.org/diseases-conditions/gynecomastia/home/ovc-20257576)
+	* Insulin resistance and diabetes
+	* Elevated liver function
+*Specific Adverse Effects 
+	* Ritonavir 
+		* Hepatotoxicity at high doses
 
 ---
 <section id="Darunavir">
@@ -602,7 +581,7 @@ note: rifampin is a bacterial RNA polymerase inhibitor
 <table><tr><td width=60% valign="top">
 <b>Structure</b> <Br>
 <ul>
-<li> a synthetic pep<font color="darkorange">tide</font> with [36 amino acids](https://www.drugbank.ca/drugs/DB00109). 
+<li> a synthetic pep<font color="darkorange">tide</font> with <a href="https://www.drugbank.ca/drugs/DB00109">36 amino acids </a>
 </ul>
 <p>
 
@@ -713,10 +692,10 @@ Prevents virus from entering the host cell <br>
 #### for treatment-naive patients
 
 * Integrase inhibitor-based regimens 
-    * <span id="drug"> Bictegravir </span>  plus  <span id="drug"> tenofovir alafenamide </span>  plus <span id="drug"> emtricitabine </span> 
-    * <span id="drug"> Dolutegravir </span> plus <span id="drug"> abacavir </span> plus <span id="drug"> lamivudine </span> — only for individuals who are HLA-B*5701 negative and without chronic hepatitis B virus (HBV) coinfection 
-    * <span id="drug"> Dolutegravir </span> plus (<span id="drug"> emtricitabine </span>  or <span id="drug"> lamivudine </span> ) plus (<span id="drug"> tenofovir alafenamide</span>  or<span id="drug">  tenofovir disoproxil fumarate</span>) 
-    * <span id="drug"> Dolutegravir </span> plus <span id="drug"> lamivudine </span> —except for individuals with HIV RNA >500,000 copies/mL, HBV co-infection, or in whom ART is to be started before the results of HIV genotypic resistance testing for reverse transcriptase or HBV testing are available.
+ * <span id="drug"> Bictegravir </span> plus <span id="drug"> tenofovir alafenamide </span> plus <span id="drug"> emtricitabine </span> 
+ * <span id="drug"> Dolutegravir </span> plus <span id="drug"> abacavir </span> plus <span id="drug"> lamivudine </span> — only for individuals who are HLA-B*5701 negative and without chronic hepatitis B virus (HBV) coinfection 
+ * <span id="drug"> Dolutegravir </span> plus (<span id="drug"> emtricitabine </span> or <span id="drug"> lamivudine </span> ) plus (<span id="drug"> tenofovir alafenamide</span> or<span id="drug"> tenofovir disoproxil fumarate</span>) 
+ * <span id="drug"> Dolutegravir </span> plus <span id="drug"> lamivudine </span> —except for individuals with HIV RNA >500,000 copies/mL, HBV co-infection, or in whom ART is to be started before the results of HIV genotypic resistance testing for reverse transcriptase or HBV testing are available.
 
 An antiretroviral (ARV) regimen for a treatment-naive patient generally consists of two nucleoside reverse transcriptase inhibitors (NRTIs) administered in combination with a third active ARV drug from one of three drug classes: 1. an integrase strand transfer inhibitor (INSTI), 2. a non-nucleoside reverse transcriptase inhibitor (NNRTI), 3. a protease inhibitor (PI) with a pharmacokinetic (PK) enhancer (also known as a booster; the two drugs used for this purpose are cobicistat and ritonavir). 
 
@@ -727,17 +706,17 @@ An antiretroviral (ARV) regimen for a treatment-naive patient generally consists
 ## [What not to use](https://clinicalinfo.hiv.gov/en/guidelines/adult-and-adolescent-arv/what-not-use?view=full)
 
 * Drugs
-	* <span id=drug>delavirdine, didanosine, indinavir, nelfinavir, stavudine</span>  
+	* <span id=drug>delavirdine, didanosine, indinavir, nelfinavir, stavudine</span> 
 * Monotheray
 * Dual-NRTI regimens
 * Tripple-NRTI regimens
 * Specific drug combinations
-	* <span id="drug"> Cobicistat </span>  plus <span id="drug">  Ritonavir </span>  (both are CYP3A4 inhibitors)
-	* <span id="drug"> Emtricitabine </span> plus <span id="drug">  Lamivudine </span>  (these two drugs are very similar)
+	* <span id="drug"> Cobicistat </span> plus <span id="drug"> Ritonavir </span> (both are CYP3A4 inhibitors)
+	* <span id="drug"> Emtricitabine </span> plus <span id="drug"> Lamivudine </span> (these two drugs are very similar)
 	* <span id="drug"> Darunavir </span> without boosting (anti-viral effect unclear without boosting) 
 
 
-These are just a few examples.  Detailed list available from the link above
+These are just a few examples. Detailed list available from the link above
 
 
 ---
@@ -968,7 +947,7 @@ Double stranded DNA virus
 * <a href="#/adverse">Adverse effects</a>
 	* Renal failure or dysfunction 
 	* Seizure, depression, confusion, and anxiety (high CSF/plasma ratio)
-  * one marrow suppression
+ * one marrow suppression
 	* Nausea, vomiting, and fatigue
 
 
@@ -1245,22 +1224,24 @@ HBV polymerase has reverse transcription activity
 
 ## Antiinfluenza Agents
 
-* Uncoating inhibitors (most current strains of flu virus are resistant to these drugs)
-	* <span id="drug"> Amantadine</span> (Symadine, Symmetrel)
-	* <span id="drug"> Rimantadine</span> (Flumadine)
- 
-* Cap-dependent endonuclease inhibitor
-	* <span id="drug"> Baloxavir </span> (Xofluza)
-
 * Virus release inhibitors
 	* <span id="drug"> Zanamivir</span> (Relenza)
 	* <span id="drug"> Oseltamivir</span> (Tamiflu)
+
+* Cap-dependent endonuclease inhibitor
+	* <span id="drug"> Baloxavir </span> (Xofluza)
+
+* Uncoating inhibitors 
+	* most current strains of flu virus are resistant to these drugs
+	* <span id="drug"> Amantadine</span> (Symadine, Symmetrel)
+	* <span id="drug"> Rimantadine</span> (Flumadine)
+ 
 
 ---
 
 <section id="flurelease">
 
-##  [Zanamivir](https://www.clinicalkey.com/#!/content/drug_monograph/6-s2.0-2259) and [oseltamivir](https://www.clinicalkey.com/#!/content/drug_monograph/6-s2.0-2450)
+## [Zanamivir](https://www.clinicalkey.com/#!/content/drug_monograph/6-s2.0-2259) and [oseltamivir](https://www.clinicalkey.com/#!/content/drug_monograph/6-s2.0-2450)
 
 ### Inhibitors of Virus Release
 
@@ -1288,7 +1269,7 @@ Sialic acid analog inhibitors of influenza A and B neuraminidase
 	* The first medicine with a novel mechanism of action to treat the flu in nearly 20 years
 * ADME	
 	* Effective against influenza A and B viruses
-  * Initiate treatment within 48 h of symptom onset
+ * Initiate treatment within 48 h of symptom onset
 	* A single oral dose
 	* Only for those aged 12 or more initialy, subsequent clinical trails found to be safe for children as well.
 
@@ -1350,15 +1331,18 @@ Single stranded RNA virus
 <div id="right">
 
 * Infecting bronchial epithelial cells, pneumocytes and upper respiratory tract cells
-* Orange boxes -> life cycle 
-* Red boxes -> therapeutic options under investigation
-* The RNA genome is  [30 kilo bases](https://genome.ucsc.edu/cgi-bin/hgTracks?db=wuhCor1&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=NC_045512v2%3A1%2D29903&hgsid=1203179451_8263g5HiGW1R07rmnBegtA4EAf7w) 
+* The RNA genome is [30 kilo bases](https://genome.ucsc.edu/cgi-bin/hgTracks?db=wuhCor1&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=NC_045512v2%3A1%2D29903&hgsid=1203179451_8263g5HiGW1R07rmnBegtA4EAf7w) 
 * Spike protein binds to ACE2
-* Acronymes
+* Viral replication is particularly active early in COVID-19
+* Antiviral therapy have greatest impact before disease progresses to the hyperinflammatory stage
+* Acronyms
 	* <b>An</b>: 3′ polyA sequence; 
 	* <b>ACE2</b>: angiotensin-converting enzyme 2;
 	* <b>RdRP</b>: RNA-dependent RNA polymerase;
 	* <b>TMPRSS2</b>: a cell surface serine protease
+* Color legend
+	* Orange boxes -> life cycle 
+	* Red boxes -> therapeutic options under investigation
 
 <hr>
 
@@ -1369,7 +1353,20 @@ Another version of SARS-CoV-2 life cycle</a>
 
 ---
 
-## SARS-CoV-2
+## [Summary Recommendations on Antiviral Drugs for SARS-CoV-2](https://www.covid19treatmentguidelines.nih.gov/therapies/antiviral-therapy/summary-recommendations/) 
+
+by NIH COVID-19 Treatment Guidelines Panel 
+
+* Nucleioside analog
+	* <span id="drug">Remdesivir (Veklury)</span>
+		* The only FDA approved drug for COVID-19
+* Monoclonal antibodies (mAb) 
+	* received emergency use authorization
+	* <span id="drug">Sotrovimab</span>
+	* <span id="drug">Bamlanivimab</span> plus <span id="drug"> etesevimab </span>
+	* <span id="drug">Casirivimab</span> plus <span id="drug">imdevimab</span>
+
+---
 
 ### <span id="drug">Remdesivir (Veklury)</span>
 
@@ -1378,43 +1375,93 @@ Another version of SARS-CoV-2 life cycle</a>
 <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7566896/">
 <img src="./images/antiviral/remdesivir.png" width=80%>
 </a>
-</div>
 
+</div>
 
 <div id="right">
 
 * [FDA approves Remdesivir on 2020-10-22](https://www.fda.gov/news-events/press-announcements/fda-approves-first-treatment-covid-19)
+* Indication
+	* Treatment of COVID-19 in hospitalized adult and pediatric patients
 * MoA 
-	* Nucleoside analog of Adenosine
 	* Originally developed to treat Ebola virus 
-	* Coronaviruses replicate by copying their genetic material using an enzyme known as the **RNA-dependent RNA polymerase**. These enzymes can incorporate remdesivir into new RNA strands. Shortly after adding remdesivir, the enzyme stops being able to add more RNA subunits. [This halts viral genome replication.
+	* Nucleoside analog of Adenosine
+	* It is a prodrug, metabolized by carboxylesterase I to its triphosphate active form
+	* Coronaviruses replication requires **RNA-dependent RNA polymerase**. These enzymes can incorporate remdesivir into new RNA strands. Shortly after adding remdesivir, the enzyme stops being able to add more RNA subunits. This halts viral genome replication.
 * ADME ([review article](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8308800/))
-	* administered as a slow i.v. infusion of a loading dose followed by a maintenance dose for 5 or 10 days
-	* it is a prodrug, metabolized by carboxylesterase I to its triphosphate active form
-	* eliminated in urine
+	* Administered as a slow i.v. infusion of a loading dose followed by a maintenance dose for 5 or 10 days
+	* Eliminated in urine
+* Adverse effects
+	* GI symptoms, elevated transaminase levels (liver function), hypersensitivity
 
 </div>
+
 ---
 
 ## SARS-CoV-2
 
 ### Monoclonal antibodies 
+ 
+[NIH panel recommendation on mAB for SARS-CoV-2](https://www.covid19treatmentguidelines.nih.gov/therapies/anti-sars-cov-2-antibody-products/anti-sars-cov-2-monoclonal-antibodies/) 
+* Indications
+	* Treat nonhospitalized patients 
+		* with mild to moderate COVID-19 who are at high risk of clinical progression 
+	* Use one of the three combinations
+* Anti-SARS-CoV-2 mAB received emergency use authorization from FDA 
+	* <span id="drug">Sotrovimab</span>
+	* <span id="drug">Bamlanivimab</span> plus <span id="drug"> etesevimab </span>
+	* <span id="drug">Casirivimab</span> plus <span id="drug">imdevimab</span>
+* Route of administration
+	* i.v. infusion
+	* <span id="drug">Casirivimab</span> plus <span id="drug">imdevimab</span> can be administered as SQ injection when iv is not an option
 
-* <span id="drug">Sotrovimab </span>
-	* approved for emergency use on 05/26/2021 by FDA
-	* derived from the memory B cell of a patient recovered from SARS in 2003
-	* dual action monoclonal antibody ([review](https://www.nature.com/articles/s41551-020-00660-2))
+---
+
+### <span id="drug">Sotrovimab</span>
+
+* MoA 
+	* Derived from the memory B cell of a patient recovered from SARS in 2003
+	* It targets an epitope in the <a href="https://www.nature.com/articles/s41586-020-2180-5">Receptor Binding Domain</a> (<a href="https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41586-020-2180-5/MediaObjects/41586_2020_2180_Fig1_HTML.png?as=webp">RBD</a>) of the spike protein conserved between SARS-CoV and SARS-CoV-2
+	* Dual action monoclonal antibody ([review](https://www.nature.com/articles/s41551-020-00660-2))
 		* neutralizing against the spike protein
 		* activates the antibody-dependent cellular cytotoxicity ([ADCC](https://en.wikipedia.org/wiki/Antibody-dependent_cellular_cytotoxicity)) and antibody-dependent cellular phagocytosis ([ADCP](https://www.frontiersin.org/articles/10.3389/fimmu.2019.00332/full)) pathways
-	*  [500 mg, 1-hour infusion](https://www.nejm.org/doi/full/10.1056/NEJMoa2107934)
+	* [500 mg, 1-hour infusion](https://www.nejm.org/doi/full/10.1056/NEJMoa2107934)
 
-* More at the [FDA Emergency Use Authorization website](https://www.fda.gov/emergency-preparedness-and-response/mcm-legal-regulatory-and-policy-framework/emergency-use-authorization#coviddrugs)
+---
+
+<div id="left">
+
+### <span id="drug">Bamlanivimab</span> plus <span id="drug"> etesevimab </span>
+* MoA
+	* Neutralizing mAbs that bind to different, but overlapping, epitopes in the spike protein RBD of SARS-CoV-2.
+	* Gamma and Beta variants have reduced susceptibility to these mAbs.
+
+</div>
+
+
+<div id="right">
+
+###	 <span id="drug">Casirivimab</span> plus <span id="drug">imdevimab</span>
+* MoA 
+	* Recombinant human mAbs that bind to nonoverlapping epitopes of the spike protein RBD of SARS-CoV-2
+
+</div>
+
+
+---
+
+## What [NOT to use for COVID-19](https://www.covid19treatmentguidelines.nih.gov/therapies/antiviral-therapy/summary-recommendations/)
+
+* <span id="drug">Nitazoxanide </span>
+* <span id="drug">Hydroxychloroquine </span> or <span id="drug"> Chloroquine </span>
+* <span id="drug">Azithromycin </span>
+* <span id="drug">Lopinavir/Ritonavir </span> and Other HIV Protease Inhibitors
 
 ---
 
 ## Additional reading 
 
-* A single injection of a drug called cabotegravir every two months was so successful in preventing HIV  that the clinical trial wrapped up ahead of schedule.
+* A single injection of a drug called cabotegravir every two months was so successful in preventing HIV that the clinical trial wrapped up ahead of schedule.
 	* [Report by NPR](https://www.npr.org/sections/goatsandsoda/2020/11/11/933415492/protecting-women-against-hiv-just-got-9-times-easier)
 	* [Report by STAT](https://www.statnews.com/pharmalot/2021/01/21/fda-hiv-aids-injectable/)
 * [Gene editing for HIV enters into human testing](https://www.fiercebiotech.com/biotech/excision-hiv-crispr-gene-editing-therapy-cleared-for-human-studies-by-fda)
