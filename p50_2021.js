@@ -138,7 +138,7 @@ var markdownContent = ''
 + "\n"
 + "## Nicotine IVSA with an aversive flavor cue\n"
 + "\n"
-+ "<img width=60% src=\"images/quinine/2.quinine.redued.yscale.6grps.png\">\n"
++ "<img width=60% src=\"images/quinine/ise_nse_aversivecue.png\">\n"
 + "\n"
 + "<b>NSE</b>: neutral social environemnt, i.e., the presence of a companion rat. \n"
 + "<b>ISE</b>: indusive social environment, i.e., the presences of a companion rat who has access to the flavor cue. \n"
