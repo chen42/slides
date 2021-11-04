@@ -252,7 +252,7 @@ var markdownContent = ''
 + "\n"
 + "* Previous data were recorded using Ethovision version 4.\n"
 + "	* Does not allow exporting of time bins\n"
-+ "* We are now using Ethovision version 14. \n"
++ "* We are now using Ethovision version 15. \n"
 + "* We have reanalyzed ~1,500 old recordings (Open field) \n"
 + "	* Other behavioral tests will all be re-analyzed 	\n"
 + "\n"
