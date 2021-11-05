@@ -8,12 +8,11 @@ Hao Chen, Ph.D
 
 hchen@uthsc.edu Dept. Pharmacology, UTHSC
 
-URL: http://chen42.github.io/slides/antiviral.html
+Online version: http://chen42.github.io/slides/antiviral.html
 
+[**Printable version**](http://chen42.github.io/slides/antiviral.html?print-pdf#/)  
 
-Last update: Nov 3, 2021
-
-
+Last update: *Nov 5, 2021*
 
 ---
 
@@ -26,7 +25,6 @@ Last update: Nov 3, 2021
 		* Shade change when mousing over indicates the image or text has a link
 		* You need to login via your UTHSC netid when off campus to use e-textbooks. 
 		* [VPN](http://uthsc.edu/vpn/) provides a better experience. 
-	* [**Printable**](http://chen42.github.io/slides/antiviral.html?print-pdf#/) version 
 * Open link in a new browser tab:
 ```
 CTRL click
@@ -83,7 +81,6 @@ HIV-1 widely distributed, more pathogenic | HIV-2 restricted to Central and West
 
 ## [Stages of AIDS](https://www.clinicalkey.com/#!/content/book/3-s2.0-B9780323611794000107?scrollTo=%23t0015)
 
-
 <ol> <li> <b>Primary infection.</b> About 90% of patients develop a flu-like illness, which coincides with <a href= https://clinicalinfo.hiv.gov/en/glossary/seroconversion> seroconversion</a>, between 2 and 4 weeks post exposure. Symptoms include fever, night sweats, sore throat, lymphadenopathy, diarrhea. The illness is self-limiting.
 
 <li> <b>Asymptomatic phase.</b> Of variable duration, from 2 to 10 years. Patients are clinically well, but infectious.
@@ -96,8 +93,6 @@ HIV-1 widely distributed, more pathogenic | HIV-2 restricted to Central and West
 		<li> Rare malignancies: Kaposi sarcoma, oral hairy leukoplakia, or lymphoma
 	</ol>
 </ol>
-
-
 
 ---
 
@@ -273,13 +268,14 @@ updated on Jun 03, 2021
 	* [Lactic acidosis](https://hivinfo.nih.gov/understanding-hiv/fact-sheets/hiv-and-lactic-acidosis), [hepatic steatosis](https://www.ncbi.nlm.nih.gov/pubmed/22760655) 
 	* [Lipodystrophy](https://www.ncbi.nlm.nih.gov/PubMed/10509567): fat loss or buildup or both. 
 		* Including central obesity, dorsocervical fat enlargement [(buffalo hump)](https://www.clinicalkey.com/#!/content/medline/2-s2.0-9525364), peripheral wasting, accumulation of facial fat, [lipomas](http://www.mayoclinic.org/diseases-conditions/lipoma/basics/definition/con-20024646), breast enlargement, [gynecomastia](http://www.mayoclinic.org/diseases-conditions/gynecomastia/home/ovc-20257576)
+	*  [Mitochondrial toxicity](https://www.uptodate.com/contents/mitochondrial-toxicity-of-hiv-nucleoside-reverse-transcriptase-inhibitors/) is a major adverse effect of nucleoside analogues,  which can lead to myopathy, peripheral neuropathy, and hepatic steatosis with lactic acidosis
 
 ---
 
 ## <a href="#/adverse/">Adverse Effects </a>of NRTIs
  
-* Unique toxicities
-	* <span id="drug">Zidovudine</span>: bone marrow suppression; anemia, neutropenia; myopathy (mt DNA); 
+* Toxicities
+	* <span id="drug">Zidovudine</span>: bone marrow suppression; anemia, neutropenia; myopathy (mtDNA); 
 	* <span id="drug">Abacavir</span>: **hypersensitivity** reaction due to genetic predisposition (multi-organ autoimmune response, potentially life threatening) 
 		* <span id="yb">HLA-B\*5701	screening before starting therapy </span> [NEJM](http://www.nejm.org/doi/full/10.1056/NEJMoa0706135#t=article)
 	* <span id="drug"> Emtricitabine </span>: psychiatric reactions, depression, dizziness, insomnia <span id="mem"> EmtriPSYtabine</span>
@@ -296,7 +292,6 @@ updated on Jun 03, 2021
 
 * <span id="drug"> Abacavir </span> 
 	* Ethanol significantly increases plasma levels (metabolized by alcohol dehydrogenase)
-	
 
 ---
 
@@ -329,6 +324,7 @@ updated on Jun 03, 2021
 [Current Recommendations](#/recommend)
 
 ---
+
 <section id="Tenofovir">
 
 ## Nucleo<font color="darkorange">t</font>ide Reverse Transcriptase Inhibitor
@@ -352,6 +348,7 @@ updated on Jun 03, 2021
 	* Not affected by <span id="drug"> lamivudine-abacavir </span> associated mutations
 
 ---
+
 ## Tenofovir
 
 * Administration
@@ -369,6 +366,7 @@ updated on Jun 03, 2021
 
 
 ---
+
 ## Tenofovir disoproxil and Emtricitabine 
 ### (Truvada)
 
@@ -460,6 +458,7 @@ note: rifampin is a bacterial RNA polymerase inhibitor
 		* Hepatotoxicity at high doses
 
 ---
+
 <section id="Darunavir">
 
 ## Darunavir
@@ -718,8 +717,8 @@ An antiretroviral (ARV) regimen for a treatment-naive patient generally consists
 
 These are just a few examples. Detailed list available from the link above
 
-
 ---
+
 <section id="hour2">
 
 ## Agents for the treatment of virus infections 
@@ -728,8 +727,8 @@ These are just a few examples. Detailed list available from the link above
 	* <span id="drug">[Acyclovir, Valacyclovir](#/Acyclovir), [Tenofovir](#/Tenofovir2), [Famciclovir, Penciclovir](#/Penciclovir)</span>
 * <a href="#/cmv">Cytomegalovirus</a>
 	* <span id="drug">[Ganciclovir, Valganciclovir](#/Ganciclovir), [Cidofovir](#/Cidofovir), [Foscarnet](#/Foscarnet)</span>
-* <a href="#/hbv">Hepatitis Virus B </a>
-	* <span id="drug"> [Entecavir](#/Entecavir), [Interferon alpha](#/Interferon)
+* <a href="#/hbv">Hepatitis Virus B </a> | Hepatitis Virus C 
+	* <span id="drug"> [Entecavir](#/Entecavir), [Ribavirin](#/Ribavirin), [Interferon alpha](#/Interferon) 
 * <a href="#/flu">Influenza Virus </a>
 	* Viral release inhibitors <span id="drug"> [Zanamivir, Oseltamivir](#/flurelease)</span>
 	* Cap-dependent endonuclease inhibitor <span id="drug"> [Baloxavir](#/flucap)</span>
@@ -1097,7 +1096,7 @@ HBV polymerase has reverse transcription activity
 
 * MoA 
 	* Nucleoside analog of guanosine
-	* May related to increased mutation of viral DNA and leads to "**error catastrophe**"
+	* Increase mutation of viral <a href="#/molnupiravir"> <span id="yb">DNA</span></a> and leads to "**error catastrophe**"
 	* Interference with synthesis of GTP / Increase production of cytokine
 * Indication 
 	* Treat <u>Hepatitis C</u> in combination with <span id="drug"> peginterferon alpha </span> 
@@ -1113,6 +1112,7 @@ HBV polymerase has reverse transcription activity
 		* Possible mild conjunctival irritation
 		* Reversible deterioration in pulmonary function
 	* Teratogenic in animals
+
 ---
 
 ## Common to all the nucleoside analogs
@@ -1124,6 +1124,7 @@ HBV polymerase has reverse transcription activity
 * Severe acute exacerbations of hepatitis B have been reported in patients who have stopped taking the drug.
 
 ---
+
 ## Immunoregulators
 
 * [Interferons](https://www.clinicalkey.com/#!/content/book/3-s2.0-B9780323080583000137?scrollTo=%23hl0000129) (IFNs)
@@ -1145,7 +1146,6 @@ HBV polymerase has reverse transcription activity
  </small>
 
 ---
-
 
 ## Interferons 
 ### Antiviral effect 
@@ -1180,8 +1180,8 @@ HBV polymerase has reverse transcription activity
 		* IFN-&alpha;2a is no longer produced in the USA
 
 <small>
- \* PEG = bis-monomethoxy polyethylene glycol 
- </small>
+* PEG = bis-monomethoxy polyethylene glycol 
+</small>
 ---
 
 ## Interferon alpha-2
@@ -1432,7 +1432,7 @@ by NIH COVID-19 Treatment Guidelines Panel
 
 ---
 
-### <span id="drug">Sotrovimab</span>
+## <span id="drug">Sotrovimab</span>
 
 * MoA 
 	* Derived from the memory B cell of a patient recovered from SARS in 2003
@@ -1444,24 +1444,43 @@ by NIH COVID-19 Treatment Guidelines Panel
 
 ---
 
+
+<section id="molnupiravir">
+
+## <span id="drug">Molnupiravir</span>
+
+* received approval in  UK on [Nov 4 2021](https://www.reuters.com/business/healthcare-pharmaceuticals/britain-approves-mercks-oral-covid-19-pill-2021-11-04/)
+* MoA
+	* nucleoside analoge 
+	* [promotes SARS-CoV-2 mutagenesis via the <a href="#/Ribavirin"><span id="yb">RNA</a></a> template](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8110631/)
+		* [can mimic either cytosine or uridine after incorporated into viral RNA template, causing mutations of the viral RNA](https://www.nature.com/articles/d41586-021-02783-1)
+* [Clinical trial](https://www.medrxiv.org/content/10.1101/2021.06.17.21258639v1)
+	* Outpatients with confirmed SARS-CoV-2 infection
+	* Symton onset within 7 days
+	* Placebo, monupiravir 200 mg, 400 mg, 800 mg
+	* 202 treated patients 
+	* At Day 5, virus was not isolated from any participants receiving 400 or 800 mg (11.1% virus positive in placebo)
+	* Adverse effect
+		* headache, insomnia, incrase alanine aminotransferase
+
+---
+
 <div id="left">
 
-### <span id="drug">Bamlanivimab</span> plus <span id="drug"> etesevimab </span>
+## <span id="drug">Bamlanivimab</span> plus <span id="drug"> etesevimab </span>
 * MoA
 	* Neutralizing mAbs that bind to different, but overlapping, epitopes in the spike protein RBD of SARS-CoV-2.
 	* Gamma and Beta variants have reduced susceptibility to these mAbs.
 
 </div>
 
-
 <div id="right">
 
-###	 <span id="drug">Casirivimab</span> plus <span id="drug">imdevimab</span>
+##	 <span id="drug">Casirivimab</span> plus <span id="drug">imdevimab</span>
 * MoA 
 	* Recombinant human mAbs that bind to nonoverlapping epitopes of the spike protein RBD of SARS-CoV-2
 
 </div>
-
 
 ---
 
@@ -1476,11 +1495,7 @@ by NIH COVID-19 Treatment Guidelines Panel
 
 ## Additional reading 
 
-* [Molnupiravir promotes SARS-CoV-2 mutagenesis via the RNA template](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8110631/)
-
-* [The Merck pill, which could become the first oral antiviral COVID treatment, forces the SARS-CoV-2 coronavirus to mutate itself to death.](https://www.nature.com/articles/d41586-021-02783-1)
-
-* A single injection of a drug called cabotegravir every two months was so successful in preventing HIV that the clinical trial wrapped up ahead of schedule.
+* A single injection of a drug called cabotegravir every month was so successful in preventing HIV that the clinical trial wrapped up ahead of schedule.
 	* [Report by NPR](https://www.npr.org/sections/goatsandsoda/2020/11/11/933415492/protecting-women-against-hiv-just-got-9-times-easier)
 	* [Report by STAT](https://www.statnews.com/pharmalot/2021/01/21/fda-hiv-aids-injectable/)
 * [Gene editing for HIV enters into human testing](https://www.fiercebiotech.com/biotech/excision-hiv-crispr-gene-editing-therapy-cleared-for-human-studies-by-fda)
