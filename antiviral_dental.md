@@ -985,9 +985,9 @@ Partially double-stranded DNA virus
 
 ## HBV life cycle
 
-<iframe width="700" height="500" src="https://www.youtube.com/embed/sVpiXaEMs7I?start=285" frameborder="0" allowfullscreen></iframe>
+<iframe width="700" height="500" src="https://www.youtube.com/embed/sVpiXaEMs7I?start=342" frameborder="0" allowfullscreen></iframe>
 
-partial DNA enters nucleus -> cccDNA -> mRNA -> <span id='bg'>HBV polymerase</span> -> DNA (negative strand) -> DNA (positive strand)
+partial DNA enters nucleus -> cccDNA -> RNA -> <span id='bg'>HBV polymerase</span> -> DNA (negative strand) -> DNA (positive strand)
 
 <b>ccc</b>: covalently closed circular
 
