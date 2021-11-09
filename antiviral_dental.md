@@ -8,7 +8,7 @@ Hao Chen, Ph.D
 
 hchen@uthsc.edu Dept. Pharmacology, UTHSC
 
-## Last update: *Nov 7, 2021*
+### Last update: *Nov 9, 2021*
 
 Please use the live online version at http://chen42.github.io/slides/antiviral.html
 
@@ -985,7 +985,7 @@ Partially double-stranded DNA virus
 
 ## HBV life cycle
 
-<iframe width="700" height="500" src="https://www.youtube.com/embed/sVpiXaEMs7I?start=202" frameborder="0" allowfullscreen></iframe>
+<iframe width="700" height="500" src="https://www.youtube.com/embed/sVpiXaEMs7I?start=285" frameborder="0" allowfullscreen></iframe>
 
 partial DNA enters nucleus -> cccDNA -> mRNA -> <span id='bg'>HBV polymerase</span> -> DNA (negative strand) -> DNA (positive strand)
 
