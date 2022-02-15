@@ -12,7 +12,7 @@ var markdownContent = ''
 + "\n"
 + "#### Department of Pharmacology, UTHSC\n"
 + "\n"
-+ "March 2nd 2021\n"
++ "Feb 14th 2022\n"
 + "\n"
 + "\n"
 + "---\n"
