@@ -30,9 +30,9 @@
 
 * Breeding HS rats 
 * PND 21: wean
-* PND 32: open field test (OFT) (mean: 31.8 ± 2.6) 
-* PND 33: novel object interaction (NOIT) 
-* PND 34: social interaction test (SIT)
+<p>
+<img src="./images/p50/openfields.svg">
+<p>
 * PND 35: elevated plus maze (EPM)
 * PND 38: jugular surgery for nicotine IVSA
 * Sample size: 626 males and 630 females
@@ -304,14 +304,12 @@ Shuangying Leng
 Caroline Jones
 </center>
 
-
 </td>
 <td width=20%>
 <img src="images/photos/gwen.png">
 <center>
 Gwen Johnson
 </center>
-
 </td>
 
 </tr>
