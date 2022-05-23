@@ -119,7 +119,7 @@ Wang et al., GBB 2014, Sci Report 2018
 <img src="./images/p50/porcupine_plot_v3.png">
 </a>
 
-* 30 significant loci: OFT=9; NOIT=7; SIT=14  
+* 30 significant loci: OFT=9; NOIT=7; SIT=14 
 * pleiotrophic within traits but not between traits
 * many traits have multiple loci
 * min. SNP h<sup>2</sup> for significant loci was 0.14, mean was 0.226
@@ -162,6 +162,7 @@ Wang et al., GBB 2014, Sci Report 2018
 * Functional relevance from the literature 
 
 ---
+
 ## Candidate genes: Cyp26b1
 
 ### Open field: Frequency of entering center zone, total distance to center zone
@@ -228,6 +229,41 @@ Wang et al., GBB 2014, Sci Report 2018
 </cite>
 </p>
 
+---
+
+## Candidate genes: Cacna1c
+
+### Social interaction: distance to social zone; in social zone duration
+
+<img src="./images/p50/Cacna1c_locuszoom.png" width=60%>
+
+---
+
+## Candidate genes: Cacna1c
+
+### effect plot
+
+<img src="./images/p50/Cacna1c_effect_plot.png" width=40%>
+<img src="./images/p50/Cacna1c_minor_allele.png" width=70%>
+
+---
+
+## RatGTEx: expression levels of candidate genes 
+<img src="./images/p50/ratgetex_heapmap.svg" width=70%>
+
+---
+
+## Candidate genes: Cacna1c
+### Literature mining: Cacna1c 
+
+<a href="https://genecup.org/cytoscape/?rnd=tmprvLuam&genequery=Cacna1c">
+<img src="./images/p50/Cacna1c_genecup.svg">
+</a>
+
+<hr width=30% align="left"> <p align="left"> 
+<cite> Gunturkun, et al., G3. 2022 
+</cite>
+</p>
 
 ---
 
@@ -287,6 +323,9 @@ Gwen Johnson
 
 * P50 collaborators 
 	* Abraham Palmer | Oksana Polaskaya | Apurva Chitre | Leah Solberg Woods | others 
+
+
+### We have a postdoc position available!
 
 ---
 
