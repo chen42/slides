@@ -119,9 +119,10 @@ Wang et al., GBB 2014, Sci Report 2018
 <img src="./images/p50/porcupine_plot_v3.png">
 </a>
 
-OFT: 9 QTL; NOIT: 9 QLT; SIT: 14 QTL.
-
-Note: pleiotrophic within traits but not between traits.
+* 30 significant loci: OFT=9; NOIT=7; SIT=14  
+* pleiotrophic within traits but not between traits
+* many traits have multiple loci
+* min. SNP h<sup>2</sup> for significant loci was 0.14, mean was 0.226
 
 
 ---
