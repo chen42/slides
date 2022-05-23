@@ -1,4 +1,4 @@
-# Genome-Wide Association Study on Three Behaviors Tested in an Open Field in Heterogeneous Stock Rats Identifies Multiple 
+# Genome-Wide Association Study on Three Behaviors Tested in an Open Field in Heterogeneous Stock Rats 
 
 <hr color=#cb4b16>
 
@@ -30,7 +30,7 @@
 
 * Breeding HS rats 
 * PND 21: wean
-* PND 32: open field test (OFT) (mean: 31.8 ± 2.6)  
+* PND 32: open field test (OFT) (mean: 31.8 ± 2.6) 
 * PND 33: novel object interaction (NOIT) 
 * PND 34: social interaction test (SIT)
 * PND 35: elevated plus maze (EPM)
@@ -75,7 +75,7 @@
 
 <hr width=30% align="left"> <p align="left"> 
 <cite>
-Wang et al., GBB 2014,  Sci Report 2018
+Wang et al., GBB 2014, Sci Report 2018
 </cite>
 </p>
 
@@ -161,11 +161,81 @@ Note: pleiotrophic within traits but not between traits.
 * Functional relevance from the literature 
 
 ---
-## Candidate genes
+## Candidate genes: Cyp26b1
 
-<img src="./images/p50/candidate_genes_oft_noit_sit.png">
+### Open field: Frequency of entering center zone, total distance to center zone
+
+<img src="./images/p50/cyp26b1_locuszoom.png" width=60%>
 
 ---
+
+## Candidate genes: Cyp26b1
+
+### effect plot
+
+<img src="./images/p50/cyp26b1_effectplot.png" width=40%>
+
+<img src="./images/p50/cyp26b1_minor_allele.png" width=70%>
+
+---
+
+## Candidate genes: Cyp26b1
+
+### coding variant and cis-eQTL
+
+<table width=70%><tr><td>
+
+<img src="./images/p50/cyp26b1_missense.png">
+</td>
+</tr>
+<tr>
+<td>
+<img src="./images/p50/cyp26b1_cis-eQTL.png">
+</td></tr>
+</table>
+
+---
+## Candidate genes: Cyp26b1
+
+### cis-eQTL in RatGTEx
+
+<img src="./images/p50/cyp26b1_ratgtex.png">
+
+
+<hr width=30% align="left"> <p align="left"> 
+<cite> Munro, et al., BioRxiv. 2022 
+</cite>
+</p>
+
+---
+
+## RatGTEx: expression levels of candidate genes 
+<img src="./images/p50/ratgetex_heapmap.svg" width=70%>
+
+---
+
+## Candidate genes: Cyp26b1
+
+### Literature mining: Cyp26b1 
+
+<a href="https://genecup.org/cytoscape/?rnd=tmpklRCuX&genequery=Cyp26b1">
+<img src="./images/p50/genecup_enter_cyp26b1.png">
+</a>
+
+<hr width=30% align="left"> <p align="left"> 
+<cite> Gunturkun, et al., G3. 2022 
+</cite>
+</p>
+
+
+---
+
+## Other candidate genes
+
+<img src="./images/p50/candidate_genes_oft_noit_sit.png" width=80%>
+
+---
+
 
 ## Acknowledgements
 
@@ -212,7 +282,7 @@ Gwen Johnson
 <p>
 
 * Past lab members and summer students 
-	 * Xia Hong | Jie Shen | Wenyan Han | Pawandeep Kaur | Yanyan Lin | Xinyu Fan | Mallory Udell | Sarah Cartwright | Hakan Gunturkun | Abigale Salinero | Cindy Tay  | Raven Davis  | Christian Hurt   
+	 * Xia Hong | Jie Shen | Wenyan Han | Pawandeep Kaur | Yanyan Lin | Xinyu Fan | Mallory Udell | Sarah Cartwright | Hakan Gunturkun | Abigale Salinero | Cindy Tay | Raven Davis | Christian Hurt 
 
 * P50 collaborators 
 	* Abraham Palmer | Oksana Polaskaya | Apurva Chitre | Leah Solberg Woods | others 
