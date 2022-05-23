@@ -1,7 +1,7 @@
 (function () {
 'strict'
 var markdownContent = ''
-+ "# Genome-Wide Association Study on Three Behaviors Tested in an Open Field in Heterogeneous Stock Rats Identifies Multiple \n"
++ "# Genome-Wide Association Study on Three Behaviors Tested in an Open Field in Heterogeneous Stock Rats \n"
 + "\n"
 + "<hr color=#cb4b16>\n"
 + "\n"
