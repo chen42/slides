@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="200.33995"
+   height="186.235"
+   id="violinplot0Svg"
+   version="1.1"
+   sodipodi:docname="cyp26b1_violin.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs280" />
+  <sodipodi:namedview
+     id="namedview278"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="3.123913"
+     inkscape:cx="-19.526792"
+     inkscape:cy="110.27836"
+     inkscape:window-width="2554"
+     inkscape:window-height="1371"
+     inkscape:window-x="0"
+     inkscape:window-y="30"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="violinplot0Svg" />
+  <style
+     type="text/css"
+     id="style2"><![CDATA[
+.violin-x-axis line, .violin-y-axis line, .violin-x-axis path, .violin-y-axis path { font-family: "Open Sans", "Helvetica", "Arial", sans-serif; fill: none; stroke: silver; stroke-width: 1px; shape-rendering: crispedges; }
+.violin-x-axis text, .violin-y-axis text, .violin-x-axis-hide text { font-family: "Open Sans", "Helvetica", "Arial", sans-serif; fill: rgb(42, 113, 139); }
+.violin-size-axis-hide text { font-family: "Open Sans", "Helvetica", "Arial", sans-serif; fill: rgb(35, 157, 184); font-size: 11px; }
+.violin-size-axis-hide line, .violin-size-axis-hide path { fill: none; stroke: silver; stroke-width: 0px; shape-rendering: crispedges; }
+.violin-sub-axis line, .violin-sub-axis path { stroke-width: 1px; stroke: silver; shape-rendering: crispedges; }
+.violin-sub-axis text, .violin-sub-axis-hide text { fill: slategray; font-size: 12px; font-family: "Open Sans", "Helvetica", "Arial", sans-serif; }
+.violin-axis-label { fill: slategray; font-size: 12px; font-family: "Open Sans", "Helvetica", "Arial", sans-serif; }
+.violin-group-label { font-size: 12px; text-anchor: middle; }
+line.violin-median { stroke-width: 2px; stroke: rgb(255, 255, 255); }
+rect.violin-ir { fill: rgb(85, 95, 102); stroke-width: 0px; }
+.ed-section-title { font-family: "Open Sans", "Helvetica", "Arial", sans-serif; font-size: 15px; }
+
+]]></style>
+  <g
+     id="g8"
+     transform="translate(-199.64737,45.115)">
+    <text
+       x="0"
+       y="0"
+       class="violin-group-label"
+       text-anchor="center"
+       fill="#708090"
+       transform="translate(46.5,130)"
+       id="text6" />
+  </g>
+  <g
+     id="g70"
+     transform="translate(-199.64737,45.115)">
+    <text
+       x="0"
+       y="0"
+       class="violin-group-label"
+       text-anchor="center"
+       fill="#708090"
+       transform="translate(179.5,130)"
+       id="text68" />
+  </g>
+  <g
+     id="g132"
+     transform="translate(-199.64737,45.115)">
+    <text
+       x="0"
+       y="0"
+       class="violin-group-label"
+       text-anchor="center"
+       fill="#708090"
+       transform="translate(312.5,130)"
+       id="text130" />
+  </g>
+  <line
+     class="vline"
+     x1="-199.64737"
+     x2="-199.64737"
+     y1="125.115"
+     y2="45.115002"
+     style="opacity:0.5;stroke:#56626b;stroke-width:0px"
+     id="line261" />
+  <g
+     id="g18686"
+     transform="translate(-249.64737,-4.885)">
+    <text
+       class="ed-section-title"
+       x="248.92737"
+       y="16"
+       id="text4">Cyp26b1 and chr4:118013062</text>
+    <g
+       id="violin2-AA"
+       class="violin-g"
+       transform="translate(50,50)">
+      <path
+         d="m 280.63939,80 -0.0989,-1 -0.10485,-1 -0.11116,-1 h -0.11795 l -0.12524,-1 -0.1331,-1 -0.14153,-1 h -0.15052 l -0.16007,-1 -0.17014,-1 -0.18069,-1 -0.19172,-1 h -0.20318 l -0.215,-1 -0.22712,-1 -0.23944,-1 h -0.25182 l -0.26412,-1 -0.27618,-1 -0.28789,-1 -0.29915,-1 h -0.30995 l -0.3203,-1 -0.33035,-1 -0.34027,-1 h -0.35026 l -0.36053,-1 -0.37126,-1 -0.38247,-1 -0.39414,-1 h -0.40602 l -0.41775,-1 -0.42881,-1 -0.4386,-1 -0.44644,-1 h -0.45167 l -0.45371,-1 -0.45202,-1 -0.44626,-1 h -0.43623 l -0.42183,-1 -0.40317,-1 -0.38043,-1 -0.35391,-1 h -0.32396 l -0.29104,-1 -0.25563,-1 -0.21825,-1 h -0.17953 l -0.14003,-1 -0.10042,-1 -0.0613,-1 L 266,38 h 0.0136 l 0.0486,-1 0.0817,-1 0.11295,-1 h 0.14251 l 0.17061,-1 0.19757,-1 0.22365,-1 0.2491,-1 h 0.27397 l 0.29824,-1 0.32171,-1 0.34405,-1 h 0.36486 l 0.38373,-1 0.40023,-1 0.41402,-1 0.42491,-1 h 0.43277 l 0.43766,-1 0.43976,-1 0.43932,-1 0.43669,-1 h 0.43223 l 0.42632,-1 0.41929,-1 0.41145,-1 h 0.40305 l 0.39423,-1 0.38515,-1 0.37584,-1 0.36634,-1 h 0.35666 l 0.34674,-1 0.33658,-1 0.32609,-1 h 0.31526 l 0.30402,-1 0.29233,-1 0.28014,-1 0.26739,-1 h 0.25408 l 0.24017,-1 0.22568,-1 h 3.37748 l 0.22568,1 0.24017,1 h 0.25408 l 0.26739,1 0.28014,1 0.29233,1 0.30402,1 h 0.31526 l 0.32609,1 0.33658,1 0.34674,1 h 0.35666 l 0.36634,1 0.37584,1 0.38515,1 0.39423,1 h 0.40305 l 0.41145,1 0.41929,1 0.42632,1 h 0.43223 l 0.43669,1 0.43932,1 0.43976,1 0.43766,1 h 0.43277 l 0.42491,1 0.41402,1 0.40023,1 0.38373,1 h 0.36486 l 0.34405,1 0.32171,1 0.29824,1 h 0.27397 l 0.2491,1 0.22365,1 0.19757,1 0.17061,1 h 0.14251 l 0.11295,1 0.0817,1 0.0486,1 H 297 l -0.0231,1 -0.0613,1 -0.10042,1 -0.14003,1 h -0.17953 l -0.21825,1 -0.25563,1 -0.29104,1 h -0.32396 l -0.35391,1 -0.38043,1 -0.40317,1 -0.42183,1 h -0.43623 l -0.44626,1 -0.45202,1 -0.45371,1 h -0.45167 l -0.44644,1 -0.4386,1 -0.42881,1 -0.41775,1 h -0.40602 l -0.39414,1 -0.38247,1 -0.37126,1 -0.36053,1 h -0.35026 l -0.34027,1 -0.33035,1 -0.3203,1 h -0.30995 l -0.29915,1 -0.28789,1 -0.27618,1 -0.26412,1 h -0.25182 l -0.23944,1 -0.22712,1 -0.215,1 h -0.20318 l -0.19172,1 -0.18069,1 -0.17014,1 -0.16007,1 h -0.15052 l -0.14153,1 -0.1331,1 -0.12524,1 h -0.11795 l -0.11116,1 -0.10485,1 -0.0989,1 z"
+         class="violin"
+         style="fill:#90c1c1"
+         id="path134" />
+      <rect
+         x="276.33334"
+         y="28"
+         width="10.333333"
+         height="20"
+         class="violin-ir"
+         id="rect136" />
+      <line
+         x1="276.33334"
+         x2="286.66666"
+         y1="38"
+         y2="38"
+         class="violin-median"
+         id="line138" />
+    </g>
+    <g
+       id="violin2-AG"
+       class="violin-g"
+       transform="translate(50,50)">
+      <path
+         d="m 309.35538,74 -0.32809,-1 -0.34613,-1 -0.36375,-1 -0.38084,-1 h -0.39732 l -0.41308,-1 -0.42801,-1 -0.44198,-1 h -0.45484 l -0.46638,-1 -0.47637,-1 -0.48459,-1 -0.49071,-1 h -0.49446 l -0.49551,-1 -0.49359,-1 -0.48845,-1 h -0.47988 l -0.4678,-1 -0.45218,-1 -0.4331,-1 -0.41082,-1 h -0.38563 l -0.35796,-1 -0.32833,-1 -0.29728,-1 -0.26538,-1 h -0.23322 l -0.20129,-1 -0.17001,-1 -0.13977,-1 h -0.11073 l -0.083,-1 -0.0566,-1 L 297.007,46 297,45 h 0.0168 l 0.0403,-1 0.0639,-1 0.088,-1 h 0.11286 l 0.13866,-1 0.16555,-1 0.1935,-1 0.22243,-1 h 0.25208 l 0.28212,-1 0.31209,-1 0.34149,-1 h 0.36978 l 0.3964,-1 0.42083,-1 0.44259,-1 0.46132,-1 h 0.47672 l 0.48864,-1 0.49701,-1 0.50191,-1 h 0.50349 l 0.50195,-1 0.49761,-1 0.49072,-1 0.48161,-1 h 0.47053 l 0.45773,-1 0.44339,-1 0.42766,-1 0.41063,-1 h 0.39235 l 0.3729,-1 0.35227,-1 0.33055,-1 h 0.30778 l 0.28408,-1 0.2596,-1 0.23454,-1 0.20918,-1 h 0.1838 l 0.15872,-1 0.13432,-1 0.11099,-1 h 0.0891 l 0.0689,-1 0.0509,-1 0.0352,-1 0.0221,-1 h 0.0117 l 0.004,-1 -9.8e-4,-1 -0.003,-1 h -0.003 l -10e-4,-1 0.002,-1 0.008,-1 h 1.83146 l 0.008,1 0.002,1 -10e-4,1 h -0.003 l -0.003,1 -9.8e-4,1 0.004,1 h 0.0117 l 0.0221,1 0.0352,1 0.0509,1 0.0689,1 h 0.0891 l 0.11099,1 0.13432,1 0.15872,1 h 0.1838 l 0.20918,1 0.23454,1 0.2596,1 0.28408,1 h 0.30778 l 0.33055,1 0.35227,1 0.3729,1 h 0.39235 l 0.41063,1 0.42766,1 0.44339,1 0.45773,1 h 0.47053 l 0.48161,1 0.49072,1 0.49761,1 0.50195,1 h 0.50349 l 0.50191,1 0.49701,1 0.48864,1 h 0.47672 l 0.46132,1 0.44259,1 0.42083,1 0.3964,1 h 0.36978 l 0.34149,1 0.31209,1 0.28212,1 h 0.25208 l 0.22243,1 0.1935,1 0.16555,1 0.13866,1 h 0.11286 l 0.088,1 0.0639,1 0.0403,1 H 328 l -0.007,1 -0.0313,1 -0.0566,1 -0.083,1 h -0.11073 l -0.13977,1 -0.17001,1 -0.20129,1 h -0.23322 l -0.26538,1 -0.29728,1 -0.32833,1 -0.35796,1 h -0.38563 l -0.41082,1 -0.4331,1 -0.45218,1 -0.4678,1 h -0.47988 l -0.48845,1 -0.49359,1 -0.49551,1 h -0.49446 l -0.49071,1 -0.48459,1 -0.47637,1 -0.46638,1 h -0.45484 l -0.44198,1 -0.42801,1 -0.41308,1 h -0.39732 l -0.38084,1 -0.36375,1 -0.34613,1 -0.32809,1 z"
+         class="violin"
+         style="fill:#90c1c1"
+         id="path141" />
+      <rect
+         x="307.33334"
+         y="35"
+         width="10.333333"
+         height="20"
+         class="violin-ir"
+         id="rect143" />
+      <line
+         x1="307.33334"
+         x2="317.66666"
+         y1="45"
+         y2="45"
+         class="violin-median"
+         id="line145" />
+    </g>
+    <g
+       id="violin2-GG"
+       class="violin-g"
+       transform="translate(50,50)">
+      <path
+         d="m 328,52 h 4.26747 l -1.75608,-1 h 25.97722 l -1.75608,1 H 359 Z"
+         class="violin"
+         style="fill:#90c1c1"
+         id="path148" />
+      <rect
+         x="338.33334"
+         y="51"
+         width="10.333333"
+         height="1"
+         class="violin-ir"
+         id="rect150" />
+      <line
+         x1="338.33334"
+         x2="348.66666"
+         y1="51"
+         y2="51"
+         class="violin-median"
+         id="line152" />
+    </g>
+    <g
+       class="violin-size-axis-hide"
+       transform="translate(50,148)"
+       fill="none"
+       font-size="10px"
+       font-family="sans-serif"
+       text-anchor="middle"
+       id="g175">
+      <path
+         class="domain"
+         stroke="currentColor"
+         d="M 266.5,6 V 0.5 h 93 V 6"
+         id="path155" />
+      <g
+         class="tick"
+         opacity="1"
+         transform="translate(281.5)"
+         id="g161">
+        <line
+           stroke="currentColor"
+           y2="6"
+           id="line157"
+           x1="0"
+           y1="0"
+           x2="0" />
+        <text
+           fill="currentColor"
+           y="9"
+           dy="0.70999998em"
+           id="text159">(148)</text>
+      </g>
+      <g
+         class="tick"
+         opacity="1"
+         transform="translate(312.5)"
+         id="g167">
+        <line
+           stroke="currentColor"
+           y2="6"
+           id="line163"
+           x1="0"
+           y1="0"
+           x2="0" />
+        <text
+           fill="currentColor"
+           y="9"
+           dy="0.70999998em"
+           id="text165">(39)</text>
+      </g>
+      <g
+         class="tick"
+         opacity="1"
+         transform="translate(343.5)"
+         id="g173">
+        <line
+           stroke="currentColor"
+           y2="6"
+           id="line169"
+           x1="0"
+           y1="0"
+           x2="0" />
+        <text
+           fill="currentColor"
+           y="9"
+           dy="0.70999998em"
+           id="text171">(2)</text>
+      </g>
+    </g>
+    <g
+       class="violin-sub-axis"
+       transform="translate(50,135)"
+       fill="none"
+       font-size="10px"
+       font-family="sans-serif"
+       text-anchor="middle"
+       id="g197">
+      <path
+         class="domain"
+         stroke="currentColor"
+         d="M 266.5,6 V 0.5 h 93 V 6"
+         id="path177" />
+      <g
+         class="tick"
+         opacity="1"
+         transform="translate(281.5)"
+         id="g183">
+        <line
+           stroke="currentColor"
+           y2="6"
+           id="line179"
+           x1="0"
+           y1="0"
+           x2="0" />
+        <text
+           fill="currentColor"
+           y="9"
+           dy="0.70999998em"
+           id="text181">AA</text>
+      </g>
+      <g
+         class="tick"
+         opacity="1"
+         transform="translate(312.5)"
+         id="g189">
+        <line
+           stroke="currentColor"
+           y2="6"
+           id="line185"
+           x1="0"
+           y1="0"
+           x2="0" />
+        <text
+           fill="currentColor"
+           y="9"
+           dy="0.70999998em"
+           id="text187">AG</text>
+      </g>
+      <g
+         class="tick"
+         opacity="1"
+         transform="translate(343.5)"
+         id="g195">
+        <line
+           stroke="currentColor"
+           y2="6"
+           id="line191"
+           x1="0"
+           y1="0"
+           x2="0" />
+        <text
+           fill="currentColor"
+           y="9"
+           dy="0.70999998em"
+           id="text193">GG</text>
+      </g>
+    </g>
+    <g
+       class="violin-y-axis axis--y"
+       transform="translate(295,50)"
+       fill="none"
+       font-size="10px"
+       font-family="sans-serif"
+       text-anchor="end"
+       id="g253">
+      <path
+         class="domain"
+         stroke="currentColor"
+         d="M -6,80.5 H 0.5 V 0.5 H -6"
+         id="path221" />
+      <g
+         class="tick"
+         opacity="1"
+         transform="translate(0,71.5)"
+         id="g227">
+        <line
+           stroke="currentColor"
+           x2="-6"
+           id="line223"
+           x1="0"
+           y1="0"
+           y2="0" />
+        <text
+           fill="currentColor"
+           x="-9"
+           dy="0.31999999em"
+           id="text225">-2.0</text>
+      </g>
+      <g
+         class="tick"
+         opacity="1"
+         transform="translate(0,56.5)"
+         id="g233">
+        <line
+           stroke="currentColor"
+           x2="-6"
+           id="line229"
+           x1="0"
+           y1="0"
+           y2="0" />
+        <text
+           fill="currentColor"
+           x="-9"
+           dy="0.31999999em"
+           id="text231">-1.0</text>
+      </g>
+      <g
+         class="tick"
+         opacity="1"
+         transform="translate(0,40.5)"
+         id="g239">
+        <line
+           stroke="currentColor"
+           x2="-6"
+           id="line235"
+           x1="0"
+           y1="0"
+           y2="0" />
+        <text
+           fill="currentColor"
+           x="-9"
+           dy="0.31999999em"
+           id="text237">0.0</text>
+      </g>
+      <g
+         class="tick"
+         opacity="1"
+         transform="translate(0,24.5)"
+         id="g245">
+        <line
+           stroke="currentColor"
+           x2="-6"
+           id="line241"
+           x1="0"
+           y1="0"
+           y2="0" />
+        <text
+           fill="currentColor"
+           x="-9"
+           dy="0.31999999em"
+           id="text243">1.0</text>
+      </g>
+      <g
+         class="tick"
+         opacity="1"
+         transform="translate(0,9.5)"
+         id="g251">
+        <line
+           stroke="currentColor"
+           x2="-6"
+           id="line247"
+           x1="0"
+           y1="0"
+           y2="0" />
+        <text
+           fill="currentColor"
+           x="-9"
+           dy="0.31999999em"
+           id="text249">2.0</text>
+      </g>
+    </g>
+    <text
+       class="violin-axis-label"
+       text-anchor="middle"
+       transform="rotate(-90)"
+       id="text255"
+       x="-90"
+       y="263.25">Norm. Expression</text>
+    <line
+       class="vline"
+       x1="296"
+       x2="296"
+       y1="130"
+       y2="50"
+       style="opacity:0.5;stroke:#56626b;stroke-width:1px"
+       id="line259" />
+    <g
+       id="g273"
+       transform="translate(46,36)">
+      <text
+         x="0"
+         y="0"
+         class="violin-group-label"
+         transform="translate(312.5,155)"
+         id="text271">Prelimbic cortex 2</text>
+    </g>
+  </g>
+</svg>

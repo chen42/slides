@@ -115,7 +115,7 @@ Wang et al., GBB 2014, Sci Report 2018
 ## GWAS: porcupine plot
 
 
-<a href="https://palmerlab.s3.sdsc.edu/p50_reports/open_field.html">
+<a href="https://palmerlab.s3.sdsc.edu/p50_reports/open_field.html" target=_new>
 <img src="./images/p50/porcupine_plot_v3.png">
 </a>
 
@@ -158,14 +158,14 @@ Wang et al., GBB 2014, Sci Report 2018
 * High impact variants
 * cis-eQTL 
 * Expressed in the brain
-* Humang GWAS on psychiatric traits 
+* Human GWAS on psychiatric traits 
 * Functional relevance from the literature 
 
 ---
 
 ## Candidate genes: Cyp26b1
 
-### Open field: Frequency of entering center zone, total distance to center zone
+### Open field: frequency of entering center zone, total distance to center zone
 
 <center>
 <table> <tr><td width=50%>
@@ -185,7 +185,7 @@ Wang et al., GBB 2014, Sci Report 2018
 
 ### coding variant and cis-eQTL
 
-<a href="https://alphafold.ebi.ac.uk/entry/G3V7X8">
+<a href="https://alphafold.ebi.ac.uk/entry/G3V7X8" target=_new>
 <img src="./images/p50/cyp26b1_missense.png" width=70%>
 </a>
 
@@ -207,22 +207,6 @@ Wang et al., GBB 2014, Sci Report 2018
 
 ---
 
-## Candidate genes: Cyp26b1
-
-### cis-eQTL in RatGTEx
-
-
-<img src="./images/p50/cyp26b1_ratgtex.png">
-
-
-<hr width=30% align="left"> <p align="left"> 
-<cite> Munro, et al., BioRxiv. 2022 
-</cite>
-</p>
-
----
-
-
 ## RatGTEx: expression levels of candidate genes 
 <img src="./images/p50/ratgetex_heapmap_cyp26b1.svg" width=60%>
 
@@ -231,8 +215,9 @@ Wang et al., GBB 2014, Sci Report 2018
 ## Candidate genes: Cyp26b1
 
 ### Literature mining: Cyp26b1 
+http://genecup.org
 
-<a href="https://genecup.org/cytoscape/?rnd=tmpklRCuX&genequery=Cyp26b1">
+<a href="https://genecup.org/cytoscape/?rnd=tmpklRCuX&genequery=Cyp26b1" target=_new>
 <img src="./images/p50/genecup_enter_cyp26b1.png">
 </a>
 
@@ -243,15 +228,28 @@ Wang et al., GBB 2014, Sci Report 2018
 
 ---
 
-## Cyp26b1 is a candidate gene for OFT center frequency 
-### Summary
+## Candidate genes: Cyp26b1
 
-* phenotype: alternative allele has greater frequency of entering the center
-* Cyp26b1 is a degrading enzyme for retinoic acid. It is preferentially expressed in the brain.
-* missense mutation: Phe145Leu 
-* cis-eQTL: alternative allele has lower expression
-* knocking down of Cyp26b1 in accumbens decreases anxiety-like behavior (open arm duration) in rats  
- 
+### Open field: frequency of entering center zone, total distance to center zone
+
+<center>
+<table> <tr><td width=33%>
+<img src="./images/p50/cyp26b1_effectplot.png" width=70%>
+</td>
+<td width=33%>
+<img src="./images/p50/cyp26b1_violin.svg", width=90%>
+</td>
+<td width=33%>
+<img src="./images/p50/cyp26b1_shrna.png" width=100%>
+PMID: 31449909
+</td>
+
+
+</tr>
+
+</table>
+</center>
+
 ---
 
 ## Candidate genes: Cacna1c
@@ -279,16 +277,28 @@ Wang et al., GBB 2014, Sci Report 2018
 ---
 
 ## Candidate genes: Cacna1c
-### Literature mining: Cacna1c 
+http://genecup.org
 
-<a href="https://genecup.org/cytoscape/?rnd=tmprvLuam&genequery=Cacna1c">
-<img src="./images/p50/Cacna1c_genecup.svg">
+<a href="https://genecup.org/cytoscape/?rnd=tmprvLuam&genequery=Cacna1c" target=_new>
+<img src="./images/p50/Cacna1c_genecup.svg" width=60%>
 </a>
 
 <hr width=30% align="left"> <p align="left"> 
 <cite> Gunturkun, et al., G3. 2022 
 </cite>
 </p>
+
+---
+
+## Candidate genes: Cacna1c
+
+<div id="left">
+<img src="./images/p50/cacna1c_title.png"> 
+</div>
+<div id="right">
+<img src="./images/p50/cacna1c_fbko.png">
+</div>
+
 
 ---
 
@@ -349,10 +359,29 @@ Gwen Johnson
 
 
 ### We have a postdoc position available!
+hchen@uthsc.edu
 
 ---
 
 ## Heritability vs QTL
 
 <img src="./images/p50/heritability_vs_qtl.png" width=50%>
+
+---
+
+## Candidate genes: Cyp26b1
+
+### cis-eQTL in RatGTEx
+
+
+<img src="./images/p50/cyp26b1_ratgtex.png">
+
+
+<hr width=30% align="left"> <p align="left"> 
+<cite> Munro, et al., BioRxiv. 2022 
+</cite>
+</p>
+
+---
+
 
