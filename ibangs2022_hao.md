@@ -167,17 +167,17 @@ Wang et al., GBB 2014, Sci Report 2018
 
 ### Open field: Frequency of entering center zone, total distance to center zone
 
-<img src="./images/p50/cyp26b1_locuszoom.png" width=60%>
-
----
-
-## Candidate genes: Cyp26b1
-
-### effect plot
-
-<img src="./images/p50/cyp26b1_effectplot.png" width=40%>
-
-<img src="./images/p50/cyp26b1_minor_allele.png" width=70%>
+<center>
+<table> <tr><td width=50%>
+<img src="./images/p50/cyp26b1_locuszoom.png" width=90%>
+</td>
+<td>
+<img src="./images/p50/cyp26b1_effectplot.png" width=60%>
+</td></tr><tr><td colspan="2">
+<img src="./images/p50/cyp26b1_minor_allele.png" width=90%>
+</td>
+</tr></table>
+</center>
 
 ---
 
@@ -185,21 +185,32 @@ Wang et al., GBB 2014, Sci Report 2018
 
 ### coding variant and cis-eQTL
 
-<table width=70%><tr><td>
+<a href="https://alphafold.ebi.ac.uk/entry/G3V7X8">
+<img src="./images/p50/cyp26b1_missense.png" width=70%>
+</a>
 
-<img src="./images/p50/cyp26b1_missense.png">
-</td>
-</tr>
-<tr>
-<td>
-<img src="./images/p50/cyp26b1_cis-eQTL.png">
-</td></tr>
-</table>
+<br>
+<img src="./images/p50/cyp26b1_cis-eQTL.png" width=70%>
 
 ---
 ## Candidate genes: Cyp26b1
 
 ### cis-eQTL in RatGTEx
+
+<img src="./images/p50/violinplot0-cyp26b1.svg">
+
+<hr width=30% align="left"> <p align="left"> 
+<cite> Munro, et al., BioRxiv. 2022 
+</cite>
+</p>
+
+
+---
+
+## Candidate genes: Cyp26b1
+
+### cis-eQTL in RatGTEx
+
 
 <img src="./images/p50/cyp26b1_ratgtex.png">
 
@@ -211,8 +222,9 @@ Wang et al., GBB 2014, Sci Report 2018
 
 ---
 
+
 ## RatGTEx: expression levels of candidate genes 
-<img src="./images/p50/ratgetex_heapmap.svg" width=70%>
+<img src="./images/p50/ratgetex_heapmap_cyp26b1.svg" width=60%>
 
 ---
 
@@ -231,25 +243,38 @@ Wang et al., GBB 2014, Sci Report 2018
 
 ---
 
+## Cyp26b1 is a candidate gene for OFT center frequency 
+### Summary
+
+* phenotype: alternative allele has greater frequency of entering the center
+* Cyp26b1 is a degrading enzyme for retinoic acid. It is preferentially expressed in the brain.
+* missense mutation: Phe145Leu 
+* cis-eQTL: alternative allele has lower expression
+* knocking down of Cyp26b1 in accumbens decreases anxiety-like behavior (open arm duration) in rats  
+ 
+---
+
 ## Candidate genes: Cacna1c
 
 ### Social interaction: distance to social zone; in social zone duration
 
-<img src="./images/p50/Cacna1c_locuszoom.png" width=60%>
+<center>
+<table> <tr><td width=50%>
+<img src="./images/p50/Cacna1c_locuszoom.png" width=90%>
+</td>
+<td>
+<img src="./images/p50/Cacna1c_effect_plot.png" width=60%>
+</td></tr><tr><td colspan="2">
+<img src="./images/p50/Cacna1c_minor_allele.png" width=90%>
+</td>
+</tr></table>
+</center>
 
----
-
-## Candidate genes: Cacna1c
-
-### effect plot
-
-<img src="./images/p50/Cacna1c_effect_plot.png" width=40%>
-<img src="./images/p50/Cacna1c_minor_allele.png" width=70%>
 
 ---
 
 ## RatGTEx: expression levels of candidate genes 
-<img src="./images/p50/ratgetex_heapmap.svg" width=70%>
+<img src="./images/p50/ratgetex_heapmap_cacna1c.svg" width=60%>
 
 ---
 
