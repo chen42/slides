@@ -355,7 +355,7 @@ Gwen Johnson
 	 * Xia Hong | Jie Shen | Wenyan Han | Pawandeep Kaur | Yanyan Lin | Xinyu Fan | Mallory Udell | Sarah Cartwright | Hakan Gunturkun | Abigale Salinero | Cindy Tay | Raven Davis | Christian Hurt 
 
 * P50 collaborators 
-	* Abraham Palmer | Oksana Polaskaya | Apurva Chitre | Leah Solberg Woods | others 
+	* Abraham Palmer | Oksana Polaskaya | Apurva Chitre | Daniel Munro | Leah Solberg Woods | others 
 
 
 ### We have a postdoc position available!

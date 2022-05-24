@@ -358,7 +358,7 @@ var markdownContent = ''
 + "	 * Xia Hong | Jie Shen | Wenyan Han | Pawandeep Kaur | Yanyan Lin | Xinyu Fan | Mallory Udell | Sarah Cartwright | Hakan Gunturkun | Abigale Salinero | Cindy Tay | Raven Davis | Christian Hurt \n"
 + "\n"
 + "* P50 collaborators \n"
-+ "	* Abraham Palmer | Oksana Polaskaya | Apurva Chitre | Leah Solberg Woods | others \n"
++ "	* Abraham Palmer | Oksana Polaskaya | Apurva Chitre | Daniel Munro | Leah Solberg Woods | others \n"
 + "\n"
 + "\n"
 + "### We have a postdoc position available!\n"
