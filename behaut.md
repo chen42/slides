@@ -2,7 +2,7 @@
 #### Anat 841 Behavior Neuroscience
 
 # Automating rodent behavior experiments 
-## The DIY way  
+## The DIY way 
 
 <hr>
 
@@ -27,17 +27,17 @@ https://chen42.github.io/slides/behaut.html
 ## Typical rodent behavior experiments
 
 * Only visual observation --> camera 
-  * Open field, plus maze, object interaction, social interaction
-  * Video analysis
+ * Open field, plus maze, object interaction, social interaction
+ * Video analysis
 * Measure a specific reaction --> sensor
-  * Tail immersion
-  * Tremor
-* Operant conditioning  --> sensor + motor
-  * Lever pressing (switch)
-  * Nose poking (RFID or IR)
-  * Licking or touching (capatitive sensor)
+ * Tail immersion
+ * Tremor
+* Operant conditioning --> sensor + motor
+ * Lever pressing (switch)
+ * Nose poking (RFID or IR)
+ * Licking or touching (capatitive sensor)
 * Rodent identification
-  * RFID system
+ * RFID system
 * What kind of behavior are you intersted in studing? 
 
 ---
@@ -64,9 +64,9 @@ https://chen42.github.io/slides/behaut.html
 * Ground (grey), 5V (pink), 3V(orange),
 * GPIO (either input or output, green)
 * Special I/O protocols
-  *  I2C (magenta)
-  *  serial (purple)
-  *  SPI (blue)
+ * I2C (magenta)
+ * serial (purple)
+ * SPI (blue)
 
 ---
 
@@ -74,14 +74,14 @@ https://chen42.github.io/slides/behaut.html
 ## Operating system for the RPi
 
 * Raspberry PI OS (previously Rasbian) is the official OS <a href="https://www.youtube.com/watch?v=RDAklos4F8k">YouTube Video</a>
-  * graphical user interface (GUI) 
-  * command line interface (CLI)
-  * derived from Debian Linux
+ * graphical user interface (GUI) 
+ * command line interface (CLI)
+ * derived from Debian Linux
 * Why you should learn some Linux/Unix commands 
-  * Mac OS (Terminal app)
-  * Windows subsystem for Linux (<a href="https://docs.microsoft.com/en-us/windows/wsl/install-win10">Installation guide</a>)
-  * Servers 
-  * Supercomputer 
+ * Mac OS (Terminal app)
+ * Windows subsystem for Linux (<a href="https://docs.microsoft.com/en-us/windows/wsl/install-win10">Installation guide</a>)
+ * Servers 
+ * Supercomputer 
 
 ---
 
@@ -89,7 +89,7 @@ https://chen42.github.io/slides/behaut.html
 
 
 <div id="left50">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Pcb33.430-g1.jpg/1920px-Pcb33.430-g1.jpg"  width=80%> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Pcb33.430-g1.jpg/1920px-Pcb33.430-g1.jpg" width=80%> 
 
 <a href="https://en.wikipedia.org/wiki/Breadboard" > Wikipedia</a>
 
@@ -144,7 +144,7 @@ https://chen42.github.io/slides/behaut.html
 
 ---
 
-## Sensors: RFID reader  (USB)
+## Sensors: RFID reader (USB)
 
 
 <img src="./images/behaut/usb_rfid_reader.jpg" width=50% >
@@ -170,13 +170,7 @@ https://chen42.github.io/slides/behaut.html
 
 ---
 
-## Output: Buzzer 
-
-<a href="https://www.sunfounder.com/learn/sensor-kit-v2-0-for-raspberry-pi-b-plus/lesson-10-buzzer-module-sensor-kit-v2-0-for-b-plus.html">
-<img src="https://www.sunfounder.com/media/wysiwyg/swatches/sensor_kit_v2_0_for_b_plus/lesson-10-buzzer-module/fdsfdsfd.png" width=50%> </a>
----
-
-## Input/Output: LCD with touch sensors  
+## Input/Output: LCD with touch sensors 
 
 <iframe width="780" height="560" src="https://www.youtube.com/embed/Fj3wq98pd20?start=30" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -312,7 +306,10 @@ https://chen42.github.io/slides/behaut.html
 
 ## Three chamber social interaction test
 
-<img src=" https://www.stoeltingco.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/6/0/60450_catalog_web.jpg">
+
+<a href="https://ncbc.medicine.uiowa.edu/equipment-fees/equipment/behavior/social-behavior">
+<img src="https://ncbc.medicine.uiowa.edu/sites/ncbc.medicine.uiowa.edu/files/styles/large/public/wysiwyg_uploads/60450_catalog_web.jpg?itok=r8jRJI_1">
+</a>
 
 ---
 
