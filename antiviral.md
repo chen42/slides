@@ -10,11 +10,12 @@ Hao Chen, Ph.D
 
 hchen@uthsc.edu Dept. Pharmacology, UTHSC
 
-### Last update: *Nov 1st, 2022*
 
 Please use the live online version at http://chen42.github.io/slides/antiviral.html
 
 Or download the [**Printable version**](http://chen42.github.io/slides/antiviral_dental.html?print-pdf#/) before class.
+
+<b>Last update: Nov 1st, 2022</b>
 
 ---
 
@@ -50,7 +51,7 @@ Home or End
 	* Nucleoside reverse transcriptase inhibitors <span id="drug">[Zidovudine, Lamivudine, Abacavir, Emtricitabine](#/nrti)</span>
 	* Nucleotide inhibitors <span id="drug">[Tenofovir](#/Tenofovir)</span>
 	* Non-nucleoside reverse transcriptase inhibitors <span id="drug">[Nevirapine](#/nnrti)</span>
-	* Integrase strand transfer inhibitor <span id="drug">[Bictegravir, Raltegravir, Dolutegravir](#/Integrase) </span>
+	* Integrase strand transfer inhibitor <span id="drug">[Bictegravir, Dolutegravir, Cabotegravir ](#/Integrase) </span>
 	* Protease inhibitors <span id="drug">[Ritonavir, Darunavir](#/pi) </span> 
 
 ---
@@ -168,7 +169,11 @@ updated on Jun 03, 2021
 <section id="Integrase">
 
 ## In<font color="darkred">tegra</font>se Inhibitor
- Bic<font color="darkred">tegra</font>vir (Biktarvy) | Ral<font color="darkred">tegra</font>vir (Isentress) | Dolu<font color="darkred">tegra</font>vir (Tivicay) | Elvi<font color="darkred">tegra</font>vir  
+ Bic<font color="darkred">tegra</font>vir (Biktarvy) | 
+ Dolu<font color="darkred">tegra</font>vir (Tivicay) |
+ Cabo<font color="darkred">tegra</font>vir (Vocabria) | 
+ Ral<font color="darkred">tegra</font>vir (Isentress) |
+ Elvi<font color="darkred">tegra</font>vir  
 <table><tr><td>
 <img src="./images/antiviral/hiv_integration.png"</img>
 </td> <td>
@@ -182,6 +187,7 @@ updated on Jun 03, 2021
 <li> ADME
  <ul>
  <li> Oral drug (one tablet daily)
+ <li> <span id="drug">Cabotegravir</span> is also available as long-acting injectable. 
  <li> Glucuronidation and by CYP3A<br>
  	<li> <span id=drug> <a href="https://www.clinicalkey.com/#!/content/drug_monograph/6-s2.0-5011">Bictegravir </a> </span> is a substrate of P-glycoprotein. 
 	<li> <span id="drug"> Elvitegravir </span> is mainly metabolized by CYP3A4 <br>
@@ -202,6 +208,8 @@ updated on Jun 03, 2021
 
 * Indication
  * <a href="#/recommend">Recommended</a> for naive patients as part of combination ART 
+ * <span id="drug"> Cabotegravir </span> injecable once a month for pre-exposure prophylaxis (PrEP) in HIV naive individuals
+	* [Report by STAT](https://www.statnews.com/pharmalot/2021/01/21/fda-hiv-aids-injectable/)
 * Adverse effects
  * Diarrhea, nausea, headache, and fever
  * Hypersensitivity to <span id="drug"> Dolutegravir </span> include serious rash, blisters/peeling of skin, hepatitis, facial edema, angioedema, difficulty breathing, or eosinophilia.
@@ -210,7 +218,7 @@ updated on Jun 03, 2021
  * Metabolized by UDP glucuronosyltransferase (UGT)
  * <span id="drug"> Rifampin </span> (antibiotic) induces UGT, thus requires higher <span id="drug"> Raltegravir / Dolutegravir </span> dose
 
-<span id=drug>Bictegravir</span> displays a high resistance barrier and has an improved phenotypic resistance profile compared to <span id=drug>dolutegravir (DTG), raltegravir (RAL) and elvitegravir (EVG) . Bictegravir </span> has a longer dissociation half-life from both wild-type and mutant HIV-1 integrase/DNA complexes compared with DTG, RAL, and EVG
+<span id=drug>Bictegravir</span> displays a high resistance barrier and has an improved phenotypic resistance profile compared to <span id=drug>dolutegravir (DTG), raltegravir (RAL) and elvitegravir (EVG). Bictegravir </span> has a longer dissociation half-life from both wild-type and mutant HIV-1 integrase/DNA complexes compared with DTG, RAL, and EVG
 
 ---
 
@@ -225,7 +233,8 @@ updated on Jun 03, 2021
 	* <span id="drug">Zidovudine</span> (Retrovir, azidothymidine [ZVD], Apo-Zidovudine, Novo-AZT)
 	* many more available, some are no longer in use. 
 ---
-## mechanism of action - NRTIs 
+
+## Mechanism of action - NRTIs 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cC9kyoAo1ac?start=65&list=PLMO1589WRspykVPiy6SgKi3OPKbe9b0El" frameborder="0" allowfullscreen></iframe>
 
 ---
@@ -1467,7 +1476,6 @@ Another version of SARS-CoV-2 life cycle</a>
 
 * A single injection of a drug called cabotegravir every month was so successful in preventing HIV that the clinical trial wrapped up ahead of schedule.
 	* [Report by NPR](https://www.npr.org/sections/goatsandsoda/2020/11/11/933415492/protecting-women-against-hiv-just-got-9-times-easier)
-	* [Report by STAT](https://www.statnews.com/pharmalot/2021/01/21/fda-hiv-aids-injectable/)
 * [Gene editing for HIV enters into human testing](https://www.fiercebiotech.com/biotech/excision-hiv-crispr-gene-editing-therapy-cleared-for-human-studies-by-fda)
 
 ---
