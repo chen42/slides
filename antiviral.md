@@ -58,13 +58,13 @@ Home or End
 
 ## Objectives
 
-1. Identify the <span id="yb">steps in the viral replication process</span> that provide targets for antiviral therapy.
+* Identify the <span id="yb">steps in the viral replication process</span> that provide targets for antiviral therapy.
 
-2. Understand the <span id="yb">current guidline for HIV/AIDS treatment. </span>
+* Understand the <span id="yb">current guidline for HIV/AIDS treatment. </span>
 
-3. Understand the <span id="yb">current Initial Combination Regimens</span> for drug naive patent.
+* Understand the <span id="yb">current Initial Combination Regimens</span> for drug naive patent.
 
-4. Describe the mechanism of action and significant pharmacological properties of the <span id="yb">six major classes</span> of anti-HIV agents
+* Describe the mechanism of action and significant pharmacological properties of the <span id="yb">six major classes</span> of anti-HIV agents
 
 ---
 
@@ -99,6 +99,23 @@ HIV-1 widely distributed, more pathogenic | HIV-2 restricted to Central and West
 
 ---
 
+
+
+## [Stages of AIDS](https://www.clinicalkey.com/#!/content/book/3-s2.0-B9780323611794000107?scrollTo=%23t0015)
+
+* Primary infection.
+	* About 90% of patients develop a flu-like illness, which coincides with <a href= https://clinicalinfo.hiv.gov/en/glossary/seroconversion> seroconversion</a>, between 2 and 4 weeks post exposure. Symptoms include fever, night sweats, sore throat, lymphadenopathy, diarrhea. The illness is self-limiting.
+* Asymptomatic phase.
+	* Of variable duration, from 2 to 10 years. Patients are clinically well, but infectious.
+* Acquired Immunodeficiency Syndrome (AIDS). Features:
+	* Constitutional symptoms: fever, diarrhea, weight loss, skin rashes.
+	* Immunodeficiency: increased susceptibility to opportunistic infections	
+	* Neurological disease: dementia, myelopathy, peripheral neuropathy	
+	* Rare malignancies: Kaposi sarcoma, oral hairy leukoplakia, or lymphoma
+
+---
+
+
 ## AIDS Timeline 
 
 <td> <img src="./images/antiviral/hiv_untreated.png" width=80%> </td>
@@ -106,7 +123,7 @@ HIV-1 widely distributed, more pathogenic | HIV-2 restricted to Central and West
 
 ### Current [guidelines](https://clinicalinfo.hiv.gov/en/guidelines/adult-and-adolescent-arv/initiation-antiretroviral-therapy?view=full)
 
-#### The <span id="yb"> Initiation </span> of Antiretroviral Therapy 
+<b> The <span id="yb"> Initiation </span> of Antiretroviral Therapy </b>
 
 * Antiretroviral therapy (ART) is recommended for all persons with HIV 
 	* reduce morbidity and mortality (AI) 
@@ -152,7 +169,7 @@ Rating of Evidence: I = Data from randomized controlled trials; II = Data from w
 
 ### [Current Guideline](https://clinicalinfo.hiv.gov/en/guidelines/adult-and-adolescent-arv/what-start-initial-combination-regimens-antiretroviral-naive?view=brief)
 
-<b>Initial Regimens for most people with HIV who do not have a history of CAB-LA use as PrEP </b>
+<b>Initial Regimens for most people with HIV who do not have a history of long-acting <span id="drug"> Cabotegravir </span> use as PrEP </b>
 
 updated on Jun 03, 2021
 
@@ -408,21 +425,13 @@ updated on Jun 03, 2021
 
 ## Protease Inhibitors, PIs
 
-<div id="left50">
-Ataza<u>navir</u> (Reyataz)
-<br>
-Indi<u>navir</u> (Crixivan)
-<br>
-Nelfi<u>navir</u> (Viracept)
-<br>
-Saqui<u>navir</u> (Fortovase)
-<br>
-Fosampre<u>navir</u> (Lexiva)
-<br>
-<b>Rito<u>navir</u></b> (Norvir)
-<br>
-<b>Daru<u>navir</u></b> (Prezista)
-<br>
+<div id="left">
+
+* Rito<u>navir</u> (Norvir)
+* Daru<u>navir</u> (Prezista)
+* Ataza<u>navir</u> (Reyataz)
+* Indi<u>navir</u> (Crixivan)
+
 PIs can be peptidomimetic (structural similarities to the cleavage site of HIV polyproteins) or not <span id="drug"> (nelfinavir) </span>.
 
 </div>
@@ -649,7 +658,8 @@ note: rifampin is a bacterial RNA polymerase inhibitor
 
 ### [Current Guideline](https://clinicalinfo.hiv.gov/en/guidelines/adult-and-adolescent-arv/what-start-initial-combination-regimens-antiretroviral-naive?view=brief)
 
-#### for treatment-naive patients
+
+<b>Initial Regimens for most people with HIV who do not have a history of long-acting <span id="drug"> Cabotegravir </span> use as PrEP </b>
 
 * Integrase inhibitor-based regimens 
  * <span id="drug"> Bictegravir </span> plus <span id="drug"> tenofovir alafenamide </span> plus <span id="drug"> emtricitabine </span> 
@@ -687,23 +697,25 @@ These are just a few examples. Detailed list available from the link above
 	* <span id="drug">[Acyclovir, Valacyclovir](#/Acyclovir), [Tenofovir](#/Tenofovir2), [Famciclovir, Penciclovir](#/Penciclovir)</span>
 * <a href="#/cmv">Cytomegalovirus</a>
 	* <span id="drug">[Ganciclovir, Valganciclovir](#/Ganciclovir), [Cidofovir](#/Cidofovir), [Foscarnet](#/Foscarnet)</span>
-* <a href="#/hbv">Hepatitis Virus B </a> | Hepatitis Virus C 
-	* <span id="drug"> [Entecavir](#/Entecavir), [Ribavirin](#/Ribavirin), [Interferon alpha](#/Interferon) 
+* <a href="#/hbv">Hepatitis Virus B </a> | <a href="#/hcv"> Hepatitis Virus C</a> 
+	* <span id="drug"> [Entecavir](#/Entecavir), [Interferon alpha](#/Interferon),
+[Sofosbuvir](#/sofosbuvir) 
 * <a href="#/flu">Influenza Virus </a>
 	* Viral release inhibitors <span id="drug"> [Zanamivir, Oseltamivir](#/flurelease)</span>
 	* Cap-dependent endonuclease inhibitor <span id="drug"> [Baloxavir](#/flucap)</span>
 * <a href="#/covid">SARS-CoV-2 </a>
+	* <span id="drug">[Nirmatrelvir](#/Nirmatrelvir)</span>
 	* <span id="drug">[Remdesivir](#/remdesivir)</span>
 	* <span id="drug">[Molnupiravir](#/molnupiravir)</span>
-	* antibody drugs
+
 
 ---
 
 ## Objectives 
 
-1. For each virus, understand the <span id="yb"> major classes </span> of available antiviral agents.
-2. Describe the <span id="yb">mechanisms of action</span> for HSV, CMV, and HBV antiviral agents and <span id="yb">mechanisms of viral resistance</span> to these agents.
-3. Describe the common and unique adverse effects of the distinct classes of antiviral agents
+*  For each virus, understand the <span id="yb"> major classes </span> of available antiviral agents.
+*  Describe the <span id="yb">mechanisms of action</span> for HSV, CMV, and HBV antiviral agents and <span id="yb">mechanisms of viral resistance</span> to these agents.
+* Describe the common and unique adverse effects of the distinct classes of antiviral agents
 
 ---
 
@@ -1135,6 +1147,8 @@ HBV polymerase has reverse transcription activity
 
 ---
 
+<section id="hcv">
+
 ## Hepatitis C 
 
 <img src=./images/antiviral/hcv_structure.png>
@@ -1156,6 +1170,8 @@ a single-stranded, positive-sense RNA
 * Antiviral medicines can <b>cure</b> more than 95% of persons with hepatitis C infection
 
 ---
+
+<section id="sofosbuvir">
 
 ## Sofosbuvir 
 
@@ -1230,16 +1246,18 @@ a single-stranded, positive-sense RNA
 
 ## Mechanism of Action of Antiinfluenza Agents
 
+
 <table><tr><td>
 <img src="./images/antiviral/flu.png" width=100%>
 </td><td width=50%>
-<ol>
-<li> virus enter the cell via H spikes. In the endosome, low pH in the endosome trigger the <span id='bg'> fusion of membranes</span>.
-<li> viral ribonucleoprotein and viral RNA enters the cell nucleus, replicate the viral genome. 
-<li> viral RNA is also made and steals the 5'cap of of cellular RNA (important for making protein) and exported into the cytoplasm.
-<li> viral protein is made and virus is packaged on cell surface
-<li> the N spikes cleave the H spikes and releases the viron.
-</ol>
+
+* Life cycle 
+	* virus enter the cell via H spikes. In the endosome, low pH in the endosome trigger the <span id='bg'> fusion of membranes</span>.
+	* viral ribonucleoprotein and viral RNA enters the cell nucleus, replicate the viral genome. 
+	* viral RNA is also made and steals the 5'cap of of cellular RNA (important for making protein) and exported into the cytoplasm.
+	*  viral protein is made and virus is packaged on cell surface
+	* the N spikes cleave the H spikes and releases the viron.
+
 </td>
 </tr></table>
 
@@ -1392,6 +1410,8 @@ Another version of SARS-CoV-2 life cycle</a>
 	* <span id="drug"> Molnupiravir</span>
 ---
 
+<section id="Nirmatrelvir">
+
 ## Nirmatrelvir 
 
 * MoA
@@ -1408,35 +1428,36 @@ Another version of SARS-CoV-2 life cycle</a>
 
 <section id="remdesivir">
 
-### <span id="drug">Remdesivir (Veklury)</span>
+### Remdesivir (Veklury)
 
-<div id="left">
 
+<table> <tr><td width=35%>
 <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7566896/">
 <img src="./images/antiviral/remdesivir.png" width=80%>
 </a>
 
-</div>
+[FDA approves Remdesivir on Oct 22, 2020](https://www.fda.gov/news-events/press-announcements/fda-approves-first-treatment-covid-19)
 
-<div id="right">
+</td><td width=65%>
 
-* [FDA approves Remdesivir on Oct 22, 2020](https://www.fda.gov/news-events/press-announcements/fda-approves-first-treatment-covid-19)
 * Indication
 	* Treatment of COVID-19 in hospitalized adult and pediatric patients
 * MoA 
 	* Originally developed to treat Ebola virus 
 	* Nucleoside analog of Adenosine
 	* It is a prodrug, metabolized by carboxylesterase I to its triphosphate active form
-	* Coronaviruses replication requires **RNA-dependent RNA polymerase**. These enzymes can incorporate remdesivir into new RNA strands. Shortly after adding remdesivir, the enzyme stops being able to add more RNA subunits. This halts viral genome replication.
+	* Coronaviruses replication requires *RNA-dependent RNA polymerase*. These enzymes can incorporate remdesivir into new RNA strands. Shortly after adding remdesivir, the enzyme stops being able to function. This halts viral genome replication.
 * ADME ([review article](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8308800/))
 	* Administered as a slow i.v. infusion of a loading dose followed by a maintenance dose for 5 or 10 days
 	* Eliminated in urine
 * Adverse effects
 	* GI symptoms, elevated transaminase levels (liver function), hypersensitivity
 
-</div>
+</td></tr></table>
 
 ---
+
+<section id="Bebtelovimab">
 
 ## Bebtelovimab
 
