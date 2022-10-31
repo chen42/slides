@@ -1552,3 +1552,10 @@ by NIH COVID-19 Treatment Guidelines Panel
 [Zidovudine](#/nrti)|| 
 
 
+---
+
+tenofovir for HBV: https://pubmed.ncbi.nlm.nih.gov/29756595/
+HBV recommendations 
+
+
+

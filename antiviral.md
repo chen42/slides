@@ -1,5 +1,7 @@
 ----
+
 # Anti-HIV & Antiviral Agents
+
 ----
 
 [Hour 1](#/hour1) | [Hour 2](#/hour2)
@@ -8,15 +10,15 @@ Hao Chen, Ph.D
 
 hchen@uthsc.edu Dept. Pharmacology, UTHSC
 
-Online version: http://chen42.github.io/slides/antiviral.html
+### Last update: *Nov 1st, 2022*
 
-[**Printable version**](http://chen42.github.io/slides/antiviral.html?print-pdf#/)  
+Please use the live online version at http://chen42.github.io/slides/antiviral.html
 
-Last update: *Nov 5, 2021*
+Or download the [**Printable version**](http://chen42.github.io/slides/antiviral_dental.html?print-pdf#/) before class.
 
 ---
 
-## Conventions 
+## Formatting conventions 
 ### used in this document 
 
 * Color and style guide: 
@@ -44,10 +46,10 @@ Home or End
 ## Agents for the treatment of virus infections 
 ### [Hour 1](#/hiv) 
 * <a href="#/hiv">Retrovirus (HIV)</a>
-	* Fusion inhibitors <span id="drug">[Enfuvirtide](#/Enfuvirtide), [Maraviroc](#/Maraviroc)</span>
+	* Fusion inhibitors <span id="drug">[Enfuvirtide](#/Enfuvirtide)</span>
 	* Nucleoside reverse transcriptase inhibitors <span id="drug">[Zidovudine, Lamivudine, Abacavir, Emtricitabine](#/nrti)</span>
 	* Nucleotide inhibitors <span id="drug">[Tenofovir](#/Tenofovir)</span>
-	* Non-nucleoside reverse transcriptase inhibitors <span id="drug">[Nevirapine, Efavirenz](#/nnrti)</span>
+	* Non-nucleoside reverse transcriptase inhibitors <span id="drug">[Nevirapine](#/nnrti)</span>
 	* Integrase strand transfer inhibitor <span id="drug">[Bictegravir, Raltegravir, Dolutegravir](#/Integrase) </span>
 	* Protease inhibitors <span id="drug">[Ritonavir, Darunavir](#/pi) </span> 
 
@@ -67,7 +69,7 @@ Home or End
 
 <section id="hiv">
 
-## [Human Immunodeficiency Viruses](https://www.clinicalkey.com/#!/content/book/3-s2.0-B9780323547536000198?scrollTo=%23hl0002403)
+## Human Immunodeficiency Viruses
 
 <img src="./images/antiviral/hiv_structural_highlight.png" width=60%>
 
@@ -98,7 +100,6 @@ HIV-1 widely distributed, more pathogenic | HIV-2 restricted to Central and West
 
 ## AIDS Timeline 
 
-
 <td> <img src="./images/antiviral/hiv_untreated.png" width=80%> </td>
 ---
 
@@ -106,11 +107,21 @@ HIV-1 widely distributed, more pathogenic | HIV-2 restricted to Central and West
 
 #### The <span id="yb"> Initiation </span> of Antiretroviral Therapy 
 
-* Antiretroviral therapy (ART) is recommended for all persons with HIV to reduce morbidity and mortality (AI) and to prevent the transmission of HIV to others (AI).
-* The Panel on Antiretroviral Guidelines for Adults and Adolescents recommends initiating ART immediately (or as soon as possible) after HIV diagnosis in order to increase the uptake of ART and linkage to care, decrease the time to viral suppression for individual patients, and improve the rate of virologic suppression among persons with HIV (AII).
-* When initiating ART, it is important to educate patients regarding the benefits of ART and to deploy strategies to optimize care engagement and treatment adherence (AIII).
+* Antiretroviral therapy (ART) is recommended for all persons with HIV 
+	* reduce morbidity and mortality (AI) 
+	* prevent the transmission of HIV to others (AI).
 
-Rating of Recommendations: A = Strong; B = Moderate; C = Optional
+* The Panel recommends initiating ART immediately after HIV diagnosis
+	* increase the uptake of ART and linkage to care, 
+	* decrease the time to viral suppression for individual patients, 
+	* improve the rate of virologic suppression among persons with HIV (AII).
+
+* Educate patients (AIII)
+	* the benefits of ART
+	* to deploy strategies to optimize care engagement 
+	* treatment adherence 
+
+Rating of Recommendations: A = Strong; 
 Rating of Evidence: I = Data from randomized controlled trials; II = Data from well-designed nonrandomized trials or observational cohort studies with long-term clinical outcomes; III = Expert opinion
 
 
@@ -140,7 +151,7 @@ Rating of Evidence: I = Data from randomized controlled trials; II = Data from w
 
 ### [Current Guideline](https://clinicalinfo.hiv.gov/en/guidelines/adult-and-adolescent-arv/what-start-initial-combination-regimens-antiretroviral-naive?view=brief)
 
-#### for treatment-naive patients
+<b>Initial Regimens for most people with HIV who do not have a history of CAB-LA use as PrEP </b>
 
 updated on Jun 03, 2021
 
@@ -157,20 +168,20 @@ updated on Jun 03, 2021
 <section id="Integrase">
 
 ## In<font color="darkred">tegra</font>se Inhibitor
- Bic<font color="darkred">tegra</font>vir (Biktarvy) | Ral<font color="darkred">tegra</font>vir (Isentress) | Dolu<font color="darkred">tegra</font>vir (Tivicay) 
+ Bic<font color="darkred">tegra</font>vir (Biktarvy) | Ral<font color="darkred">tegra</font>vir (Isentress) | Dolu<font color="darkred">tegra</font>vir (Tivicay) | Elvi<font color="darkred">tegra</font>vir  
 <table><tr><td>
 <img src="./images/antiviral/hiv_integration.png"</img>
 </td> <td>
 <ul>
 <li>Mechanism of action
 <ul>
- <li> Inhibits HIV-1 integrase enzyme <br>
+ <li> Binds to HIV-1 integrase and prevents strand transfer  <br>
  <li> Prevents insertion of viral DNA into host genome <p>
  </ul>
 
 <li> ADME
  <ul>
- <li> Oral drug
+ <li> Oral drug (one tablet daily)
  <li> Glucuronidation and by CYP3A<br>
  	<li> <span id=drug> <a href="https://www.clinicalkey.com/#!/content/drug_monograph/6-s2.0-5011">Bictegravir </a> </span> is a substrate of P-glycoprotein. 
 	<li> <span id="drug"> Elvitegravir </span> is mainly metabolized by CYP3A4 <br>
@@ -184,7 +195,6 @@ updated on Jun 03, 2021
 </ul>
 </td> </tr></table>
 
-<span id=drug>Bictegravir</span> displays a high resistance barrier and has an improved phenotypic resistance profile compared to <span id=drug>dolutegravir (DTG), raltegravir (RAL) and elvitegravir (EVG) . Bictegravir </span> has a longer dissociation half-life from both wild-type and mutant HIV-1 integrase/DNA complexes compared with DTG, RAL, and EVG
 
 ---
 
@@ -199,6 +209,9 @@ updated on Jun 03, 2021
  * Not inducer, inhibitor or substrate of CYP3A4 (exeption: <span id="drug"> Elvitegravir </span> )
  * Metabolized by UDP glucuronosyltransferase (UGT)
  * <span id="drug"> Rifampin </span> (antibiotic) induces UGT, thus requires higher <span id="drug"> Raltegravir / Dolutegravir </span> dose
+
+<span id=drug>Bictegravir</span> displays a high resistance barrier and has an improved phenotypic resistance profile compared to <span id=drug>dolutegravir (DTG), raltegravir (RAL) and elvitegravir (EVG) . Bictegravir </span> has a longer dissociation half-life from both wild-type and mutant HIV-1 integrase/DNA complexes compared with DTG, RAL, and EVG
+
 ---
 
 <section id="nrti">
@@ -206,10 +219,10 @@ updated on Jun 03, 2021
 ## Nucleoside Reverse Transcriptase Inhibitors (NRTIs)
 
 * NRTIs
-	* <span id="drug">Zidovudine</span> (Retrovir, azidothymidine [ZVD], Apo-Zidovudine, Novo-AZT)
 	* <span id="drug" style="background-color:#ff9">**Abacavir**</span> (Ziagen, ABC)
-	* <span id="drug" style="background-color:#ff9">**Lamivudine**</span> (Epivir, 3TC)
 	* <span id="drug" style="background-color:#ff9">**Emtricitabine**</span> (Emtriva, FTC)
+	* <span id="drug" style="background-color:#ff9">**Lamivudine**</span> (Epivir, 3TC)
+	* <span id="drug">Zidovudine</span> (Retrovir, azidothymidine [ZVD], Apo-Zidovudine, Novo-AZT)
 	* many more available, some are no longer in use. 
 ---
 ## mechanism of action - NRTIs 
@@ -247,6 +260,7 @@ updated on Jun 03, 2021
 	* Little effect on cells already infected by HIV
 	* <span id="drug"> Zidovudine </span> 
 		* <span id="yb">Only NRTI shown to reduce perinatal HIV transmission</a>
+		* used in neonates to <a href="https://clinicalinfo.hiv.gov/en/guidelines/pediatric-arv/zidovudine">prevent perinatal transmission of HIV </a>. 
 * Resistance
 	* Drugs select for different mutations of the reverse transcriptase gene at the level of specific codons 
 
@@ -500,7 +514,7 @@ note: rifampin is a bacterial RNA polymerase inhibitor
 ## Non Nucleoside Reverse Transcriptase Inhibitors (NNRTIs)
 
  [Nevirapine (Viramune)](https://www.clinicalkey.com/#!/content/drug_monograph/6-s2.0-432)
-|| [Efavirenz (Sustiva)](https://www.clinicalkey.com/#!/content/drug_monograph/6-s2.0-2244)
+
 
 * Indications
 	* HIV-1 infections
@@ -525,31 +539,18 @@ note: rifampin is a bacterial RNA polymerase inhibitor
 
 * ADME
 	* Excellent oral absorption.
-	* Highly bound to plasma proteins.
 	* Metabolized by the cytochrome P-450 system
 		* Drug interactions are significant
-	* Excreted through the urines as glucuronide conjugates. 
-	* <span id="drug"> Efavirenz </span> and <span id="drug"> Nevirapine </span>: CYP3A4 inducer
+	* <span id="drug"> Nevirapine </span>: CYP3A4 inducer
 		* Reduces PIs, rifabutin, clarithromycin, methadone and ethinyl estradiol plasma levels
-
----
-
-## <a href="#/adverse">Adverse effects</a> of NNRTIs
-
-* Common toxicities
-	* Maculopapular rashes in the trunk and extremities
-* Unique toxicities 
-	* <span id="drug"> Nevirapine </span> 
-		* Fever, fatigue, headache, drowsiness, nausea
-		* Hepatotoxicity 	
-			* elevated liver enzymes 
-			* fulminant cholestatic hepatitis, hepatic necrosis, and hepatic failure
-	* <span id="drug"> Efavirenz </span> 
-		* Penetrate the blood brain barrier 
-		* Neuropsychiatric (headache, dizziness, abnormal dreams, psychosis, suicidal ideation)
-		* Teratogenic in nonhuman primates ([Pregnancy Category D](https://en.wikipedia.org/wiki/Pregnancy_category))
+* <a href="#/adverse">Adverse effects</a> 
+	* Common toxicities
+		* Maculopapular rashes in the trunk and extremities
 		* Hepatotoxicity 
- 
+	* Unique toxicities 
+		* <span id="drug"> Nevirapine </span> 
+			* Fever, fatigue, headache, drowsiness, nausea
+	 
 ---
 ## NNRTIs 
 ### Summary 
@@ -624,55 +625,6 @@ note: rifampin is a bacterial RNA polymerase inhibitor
 
 ---
 
-<section id="Maraviroc">
-
-## Fusion inhibitors
-
-[Maraviroc (<font color="orange">Sel</font>z<font color="darkred">entry</font>) ](https://www.clinicalkey.com/#!/content/drug_monograph/6-s2.0-3567)
- 
-
-<div id="right50">
-
-![](./images/antiviral/coreceptor.jpg)
-
-</div>	
-
-<div id="left50">
-
-**Mechanism of action** <br>
-
-[Chemokine](https://www.ncbi.nlm.nih.gov/pubmed/7548618) receptor 5 antagonist<br>
-Binds to CCR5 co-receptor<br>
-Prevents virus from entering the host cell <br>
-<p> 
-
-**ADME** <br>
-	Oral<br>
-	Substrate for both [CYP3A4](https://en.wikipedia.org/wiki/CYP3A4#Function) and [P-glycoprotein](https://en.wikipedia.org/wiki/P-glycoprotein) <br>
-	T&frac12;=14~18 h<br>
-	Both urine and feces
-</div>
-
----
-
-## Maraviroc (Selzentry)
- 
-* Indication
-	* Treatment of CCR5-tropic HIV-1 (not CXCR4)
-	* Coreceptor (i.e. CCR5 vs CXCR4) tropism assay must be performed 
-	* In combination for patients failing other antiretroviral drugs
-* <a href="#/adverse">Adverse effects</a>
-	* Rash
-	* Elevated hepatic enzyme, hepatitis 
-	* Systemic allergic reaction, cough, fever 
-* Drug interactions
-	* CYP3A inhibitors or inducers
-		* Reduce dosage when <span id="drug"> ritonavir </span> or <span id="drug"> cobicistat </span> is coadministered 
-		* Increase dosage with <span id="drug"> efavirenz </span> 
- 
-<a href="https://www.nature.com/articles/d41586-019-01739-w">Human genome editing on CCR5</a>
----
-
 ## Antiretroviral Drug Selectivity
 
 * NRTIs
@@ -714,7 +666,6 @@ An antiretroviral (ARV) regimen for a treatment-naive patient generally consists
 	* <span id="drug"> Emtricitabine </span> plus <span id="drug"> Lamivudine </span> (these two drugs are very similar)
 	* <span id="drug"> Darunavir </span> without boosting (anti-viral effect unclear without boosting) 
 
-
 These are just a few examples. Detailed list available from the link above
 
 ---
@@ -733,8 +684,8 @@ These are just a few examples. Detailed list available from the link above
 	* Viral release inhibitors <span id="drug"> [Zanamivir, Oseltamivir](#/flurelease)</span>
 	* Cap-dependent endonuclease inhibitor <span id="drug"> [Baloxavir](#/flucap)</span>
 * <a href="#/covid">SARS-CoV-2 </a>
-	* Comirnaty (Pfizer-BioNTech), Moderna, and Janssen vaccines
-	* <span id="drug">Remdesivir</span>
+	* <span id="drug">[Remdesivir](#/remdesivir)</span>
+	* <span id="drug">[Molnupiravir](#/molnupiravir)</span>
 	* antibody drugs
 
 ---
@@ -985,9 +936,9 @@ Partially double-stranded DNA virus
 
 ## HBV life cycle
 
-<iframe width="700" height="500" src="https://www.youtube.com/embed/sVpiXaEMs7I?start=202" frameborder="0" allowfullscreen></iframe>
+<iframe width="700" height="500" src="https://www.youtube.com/embed/sVpiXaEMs7I?start=342" frameborder="0" allowfullscreen></iframe>
 
-partial DNA enters nucleus -> cccDNA -> mRNA -> <span id='bg'>HBV polymerase</span> -> DNA (negative strand) -> DNA (positive strand)
+partial DNA enters nucleus -> cccDNA -> RNA -> <span id='bg'>HBV polymerase</span> -> DNA (negative strand) -> DNA (positive strand)
 
 <b>ccc</b>: covalently closed circular
 
@@ -1089,32 +1040,6 @@ HBV polymerase has reverse transcription activity
 
 ---
 
-<section id="Ribavirin">
-
-## [Ribavirin](https://www.clinicalkey.com/#!/content/drug_monograph/6-s2.0-542)
-(Copegus | Moderiba | Rebetol | RibaPak | RibaTab | Ribasphere | Virazole)
-
-* MoA 
-	* Nucleoside analog of guanosine
-	* Increase mutation of viral <a href="#/molnupiravir"> <span id="yb">DNA</span></a> and leads to "**error catastrophe**"
-	* Interference with synthesis of GTP / Increase production of cytokine
-* Indication 
-	* Treat <u>Hepatitis C</u> in combination with <span id="drug"> peginterferon alpha </span> 
-	* Weight-based dosing results in a higher sustained virologic response 
-	* <u>Respiratory syncytial virus</u>: aerosolized form 
-	* <u>Hantaan virus</u>: intravenous 
-* Adverse effects
-	* Dose dependent hemolytic anemia (10-20% of patients) with systemic use
-		* Extravascular hemolysis
-	* Bone morrow suppression
-	* Psychiatric effects: depression, insomnia, anxiety.
-	* Aerosolized form well tolerated
-		* Possible mild conjunctival irritation
-		* Reversible deterioration in pulmonary function
-	* Teratogenic in animals
-
----
-
 ## Common to all the nucleoside analogs
 
 <span id="drug">Entecavir </span> <span id="drug">Adefovir </span> <span id="drug">Tenofovir </span> 
@@ -1201,6 +1126,81 @@ HBV polymerase has reverse transcription activity
 
 ---
 
+## Hepatitis C 
+
+<img src=./images/antiviral/hcv_structure.png>
+
+
+<div id="greyText">
+a single-stranded, positive-sense RNA 
+</div>
+
+---
+
+## WHO Hepatitis C treatment <a href="https://www.ncbi.nlm.nih.gov/books/NBK531720/"> guideline</a>
+
+* 9 HCV genotypes, type 1 is most common in the US.
+
+* <span id="drug">sofosbuvir/ledipasvir </span>  for genotypes 1, 4, 5 and 6 (1st line treatment)
+* <span id="drug"> sofosbuvir/ribavirin </span> for genotype 2 and 3
+
+* Antiviral medicines can <b>cure</b> more than 95% of persons with hepatitis C infection
+
+---
+
+## Sofosbuvir 
+
+* MoA
+	* nucleotide analogue inhibitor
+	* a direct-acting antiviral agent 
+	* NS5B is an  RNA-dependent RNA polymerase
+	* incorporated into HCV RNA by the NS5B polymerase and acts as a chain terminator
+	* interferes with the HCV lifecycle, restraining viral replication. 
+
+* ADME
+	* oral 
+	* mainly eliminated in urine
+* Toxicity
+	* very mild (headache and fatigue)
+
+---
+
+## Ledipasvir 
+
+* MoA
+	* a direct-acting antiviral agent 
+	* NS5A is an RNA-dependent RNA polymerase
+	* Ledipasivir prevent hyperphosphorylation of NS5A polymerase 
+	* restraining viral replication. 
+	* there has been little drug resistance
+
+* ADME
+	* oral 
+	* mainly eliminated in feces 
+* Toxicity
+	* very mild (headache and fatigue)
+---
+
+<section id="Ribavirin">
+
+## [Ribavirin](https://www.clinicalkey.com/#!/content/drug_monograph/6-s2.0-542)
+(Copegus | Moderiba | Rebetol | RibaPak | RibaTab | Ribasphere | Virazole)
+
+* MoA 
+	* Nucleoside analog of guanosine
+	* Increase mutation of viral <a href="#/molnupiravir"> <span id="yb">DNA</span></a> and leads to "**error catastrophe**"
+	* Interference with synthesis of GTP / Increase production of cytokine
+* Indication 
+	* Treat <u>Hepatitis C</u> in combination with <span id="drug"> Sofosbuvir </span> 
+	* <u>Respiratory syncytial virus</u>: aerosolized form 
+	* <u>Hantaan virus</u>: intravenous 
+* Adverse effects
+	* Bone morrow suppression
+	* Psychiatric effects: depression, insomnia, anxiety.
+	* Teratogenic in animals
+
+---
+
 <section id="flu">
 
 ## Influenza virus
@@ -1249,7 +1249,6 @@ HBV polymerase has reverse transcription activity
 	* most current strains of flu virus are resistant to these drugs
 	* <span id="drug"> Amantadine</span> (Symadine, Symmetrel)
 	* <span id="drug"> Rimantadine</span> (Flumadine)
- 
 
 ---
 
@@ -1276,7 +1275,7 @@ Sialic acid analog inhibitors of influenza A and B neuraminidase
 
 <section id="flucap">
 
-## <span id="drug"> Baloxavir marboxil (Xofluza) </span> 
+##  Baloxavir marboxil (Xofluza) 
 
 * Approved by the [FDA on October 24, 2018](https://www.fda.gov/NewsEvents/Newsroom/PressAnnouncements/ucm624226.htm)
 	* The first oral, single-dose antiviral
@@ -1367,20 +1366,38 @@ Another version of SARS-CoV-2 life cycle</a>
 
 ---
 
-## [Summary Recommendations on Antiviral Drugs for SARS-CoV-2](https://www.covid19treatmentguidelines.nih.gov/therapies/antiviral-therapy/summary-recommendations/) 
+## [Recommendations on Antiviral Drugs for SARS-CoV-2](https://www.covid19treatmentguidelines.nih.gov/tables/management-of-nonhospitalized-adults-summary/)
 
-by NIH COVID-19 Treatment Guidelines Panel 
+(last update: Sept 26, 2022)
 
-* Nucleioside analog
+<b>For Patients do not require hospitalization or supplemental oxygen </b>
+
+* All patients 
+	* symptom management
+	* against the use of systemic corticosteroids
+* For patients who are at high risk of progression to severe COVID-19
+	* <span id="drug">Ritonavir</span>-boosted <span id="drug">nirmatrelvir</span> (Paxlovid)
 	* <span id="drug">Remdesivir (Veklury)</span>
-		* The only FDA approved drug for COVID-19
-* Monoclonal antibodies (mAb) 
-	* received emergency use authorization
-	* <span id="drug">Sotrovimab</span>
-	* <span id="drug">Bamlanivimab</span> plus <span id="drug"> etesevimab </span>
-	* <span id="drug">Casirivimab</span> plus <span id="drug">imdevimab</span>
+* Alternatives
+	* <span id="drug"> Bebtelovimab </span>
+	* <span id="drug"> Molnupiravir</span>
+---
+
+## Nirmatrelvir 
+
+* MoA
+	* protease inhibitor
+	* inhibits the maturation of nonstructural proteins (including proteases)
+
+* ADME
+	* orally bioavailable (thus can be given to patients without hospitalization.
+	* substrate of CYP3A4. 
+	* undergoes minimal metablolism when administered with <span id="drug">Ritonavir</span>
+
 
 ---
+
+<section id="remdesivir">
 
 ### <span id="drug">Remdesivir (Veklury)</span>
 
@@ -1394,7 +1411,7 @@ by NIH COVID-19 Treatment Guidelines Panel
 
 <div id="right">
 
-* [FDA approves Remdesivir on 2020-10-22](https://www.fda.gov/news-events/press-announcements/fda-approves-first-treatment-covid-19)
+* [FDA approves Remdesivir on Oct 22, 2020](https://www.fda.gov/news-events/press-announcements/fda-approves-first-treatment-covid-19)
 * Indication
 	* Treatment of COVID-19 in hospitalized adult and pediatric patients
 * MoA 
@@ -1412,44 +1429,26 @@ by NIH COVID-19 Treatment Guidelines Panel
 
 ---
 
-## SARS-CoV-2
+## Bebtelovimab
 
-### Monoclonal antibodies 
- 
-[NIH panel recommendation on mAB for SARS-CoV-2](https://www.covid19treatmentguidelines.nih.gov/therapies/anti-sars-cov-2-antibody-products/anti-sars-cov-2-monoclonal-antibodies/) 
-* Indications
-	* Treat nonhospitalized patients 
-		* with mild to moderate COVID-19 who are at high risk of clinical progression 
-			* Aged ≥65 years | Obesity (BMI >30) |  Diabetes  | Cardiovascular disease (including congenital heart disease) or hypertension | Chronic lung diseases (e.g., chronic obstructive pulmonary disease, moderate-to-severe asthma, interstitial lung disease, cystic fibrosis, pulmonary hypertension) 
-	* Use one of the three combinations (AII)
-* Anti-SARS-CoV-2 mAB received emergency use authorization from FDA 
-	* <span id="drug">Sotrovimab</span>
-	* <span id="drug">Bamlanivimab</span> plus <span id="drug"> etesevimab </span>
-	* <span id="drug">Casirivimab</span> plus <span id="drug">imdevimab</span>
-* Route of administration
-	* i.v. infusion
-	* <span id="drug">Casirivimab</span> plus <span id="drug">imdevimab</span> can be administered as SQ injection when iv is not an option
+* Received FDA emergency use auth on Feb 11, 2022.
+* MoA
+	* monoclonal antibody against the spike protein 
+	* prevent binding of SARS-COV-2 with ACE2 
+	* prevents viral entry
+	* the epitope Bebtelovimab binds to is less frequently mutated. 
+* ADME
+	* i.v. injection 
+	* likel degraded via catabolic process into small peptides and amino acids.
+	* no toxicity was found when 10 times of authorized dose was tested.
 
 ---
-
-## <span id="drug">Sotrovimab</span>
-
-* MoA 
-	* Derived from the memory B cell of a patient recovered from SARS in 2003
-	* It targets an epitope in the <a href="https://www.nature.com/articles/s41586-020-2180-5">Receptor Binding Domain</a> (<a href="https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41586-020-2180-5/MediaObjects/41586_2020_2180_Fig1_HTML.png?as=webp">RBD</a>) of the spike protein conserved between SARS-CoV and SARS-CoV-2
-	* Dual action monoclonal antibody ([review](https://www.nature.com/articles/s41551-020-00660-2))
-		* neutralizing against the spike protein
-		* activates the antibody-dependent cellular cytotoxicity ([ADCC](https://en.wikipedia.org/wiki/Antibody-dependent_cellular_cytotoxicity)) and antibody-dependent cellular phagocytosis ([ADCP](https://www.frontiersin.org/articles/10.3389/fimmu.2019.00332/full)) pathways
-	* [500 mg, 1-hour infusion](https://www.nejm.org/doi/full/10.1056/NEJMoa2107934)
-
----
-
 
 <section id="molnupiravir">
 
-## <span id="drug">Molnupiravir</span>
+## Molnupiravir
 
-* received approval in  UK on [Nov 4 2021](https://www.reuters.com/business/healthcare-pharmaceuticals/britain-approves-mercks-oral-covid-19-pill-2021-11-04/)
+* Received FDA emergency use auth on Dec 23, 2021
 * MoA
 	* nucleoside analoge 
 	* [promotes SARS-CoV-2 mutagenesis via the <a href="#/Ribavirin"><span id="yb">RNA</a></a> template](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8110631/)
@@ -1462,35 +1461,6 @@ by NIH COVID-19 Treatment Guidelines Panel
 	* At Day 5, virus was not isolated from any participants receiving 400 or 800 mg (11.1% virus positive in placebo)
 	* Adverse effect
 		* headache, insomnia, incrase alanine aminotransferase
-
----
-
-<div id="left">
-
-## <span id="drug">Bamlanivimab</span> plus <span id="drug"> etesevimab </span>
-* MoA
-	* Neutralizing mAbs that bind to different, but overlapping, epitopes in the spike protein RBD of SARS-CoV-2.
-	* Gamma and Beta variants have reduced susceptibility to these mAbs.
-
-</div>
-
-<div id="right">
-
-##	 <span id="drug">Casirivimab</span> plus <span id="drug">imdevimab</span>
-* MoA 
-	* Recombinant human mAbs that bind to nonoverlapping epitopes of the spike protein RBD of SARS-CoV-2
-
-</div>
-
----
-
-## What [NOT to use for COVID-19](https://www.covid19treatmentguidelines.nih.gov/therapies/antiviral-therapy/summary-recommendations/)
-
-* <span id="drug">Nitazoxanide </span>
-* <span id="drug">Hydroxychloroquine </span> or <span id="drug"> Chloroquine </span>
-* <span id="drug">Azithromycin </span>
-* <span id="drug">Lopinavir/Ritonavir </span> and Other HIV Protease Inhibitors
-
 ---
 
 ## Additional reading 
@@ -1500,48 +1470,8 @@ by NIH COVID-19 Treatment Guidelines Panel
 	* [Report by STAT](https://www.statnews.com/pharmalot/2021/01/21/fda-hiv-aids-injectable/)
 * [Gene editing for HIV enters into human testing](https://www.fiercebiotech.com/biotech/excision-hiv-crispr-gene-editing-therapy-cleared-for-human-studies-by-fda)
 
-* [How the coronavirus infects cells — and why Delta is so dangerous - Nature news feature](https://www.nature.com/articles/d41586-021-02039-y)
-
 ---
 
-<section id="adverse">
 
-## Antiviral Drugs with Overlapping toxicities
-
-#### Not an exhaustive list
-
-|Bone Marrow suppression|Peripheral neuropathy|Pancreatitis| Nephrotoxicity | Hepatoxicity| Lipodystrophy |Psychiatric CNS |Fever|Alopecia|
-|---|---|---|---|---|---|---|---|---|
-| | | Enfuvirtide | | Maraviroc| | | Maraviroc| | 
-|Zidovudine|Zidovudine Didanosine Stavudine|Didanosine Stavudine Lamivudine (children) || Stavudine Didanosine Tenofovir|Stavudine Zidovudine Didanosine Lamivudine Abacavir|Abacavir Emtricitabine Tenofovir|Zidovudine Emtricitabine|Lamivudine|
-|||||Nevirapine Efavirenz ||Efavirenz|||
-|||||Dolutegravir|||||
-||||Indinavir |Ritonavir|Indinavir Nelfinavir Fosamprenavir Darunavir Ritonavir|||Indinavir|
-|Ganciclovir Cidofovir Foscarnet|||Cidofovir Foscarnet |||Foscarnet||Cidofovir|
-|Ribavirin Peginterferon alpha2a|||Adefovir|Entecavir Adefovir||Ribavirin Peginterferon alpha2a|Ribavirin|Peginterferon alpha2a|
-
-[Abacavir](#/nrti)||
-[Acyclovir](#/Acyclovir)||
-[Adefovir](#/Adefovir)||
-[Cidofovir](#/Cidofovir)||
-[Darunavir](#/Darunavir)||
-[Dolutegravir](#/Integrase)||
-[Efavirenz](#/nnrti)||
-[Emtricitabine](#/nrti)||
-[Enfuvirtide](#/Enfuvirtide)||
-[Entecavir](#/Entecavir)||
-[Foscarnet](#/Foscarnet)||
-[Ganciclovir](#/Ganciclovir)||
-[Lamivudine](#/nrti)||
-[Maraviroc](#/Maraviroc)||
-[Nevirapine](#/nnrti)||
-[Oseltamivir](#/flurelease)||
-[Peginterferon](#/Interferon)||
-[Penciclovir](#/Penciclovir)||
-[Ribavirin](#/Ribavirin)||
-[Ritonavir](#/pi)||
-[Tenofovir](#/Tenofovir)||
-[Zanamivir](#/flurelease)||
-[Zidovudine](#/nrti)|| 
 
 
