@@ -13,7 +13,7 @@ hchen@uthsc.edu Dept. Pharmacology, UTHSC
 
 Please use the live online version at http://chen42.github.io/slides/antiviral.html
 
-Or download the [**Printable version**](http://chen42.github.io/slides/antiviral_dental.html?print-pdf#/) before class.
+Or download the [**Printable version**](http://chen42.github.io/slides/antiviral.html?print-pdf#/) before class.
 
 <b>Last update: Nov 1st, 2022</b>
 
