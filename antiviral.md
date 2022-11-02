@@ -82,24 +82,6 @@ HIV-1 widely distributed, more pathogenic | HIV-2 restricted to Central and West
 
 ---
 
-## [Stages of AIDS](https://www.clinicalkey.com/#!/content/book/3-s2.0-B9780323611794000107?scrollTo=%23t0015)
-
-<ol> <li> <b>Primary infection.</b> About 90% of patients develop a flu-like illness, which coincides with <a href= https://clinicalinfo.hiv.gov/en/glossary/seroconversion> seroconversion</a>, between 2 and 4 weeks post exposure. Symptoms include fever, night sweats, sore throat, lymphadenopathy, diarrhea. The illness is self-limiting.
-
-<li> <b>Asymptomatic phase.</b> Of variable duration, from 2 to 10 years. Patients are clinically well, but infectious.
-
-<li> <b>Acquired Immunodeficiency Syndrome (AIDS). </b>Features:
-	<ol>
-		<li> Constitutional symptoms: fever, diarrhea, weight loss, skin rashes.
-		<li> Immunodeficiency: increased susceptibility to opportunistic infections	
-		<li> Neurological disease: dementia, myelopathy, peripheral neuropathy	
-		<li> Rare malignancies: Kaposi sarcoma, oral hairy leukoplakia, or lymphoma
-	</ol>
-</ol>
-
----
-
-
 
 ## [Stages of AIDS](https://www.clinicalkey.com/#!/content/book/3-s2.0-B9780323611794000107?scrollTo=%23t0015)
 
@@ -305,7 +287,7 @@ updated on Jun 03, 2021
 ## <a href="#/adverse">Adverse Effects</a> of NRTIs
 * Common toxicities
 	* Rash; Gastrointestinal distress
-	* [Lactic acidosis](https://hivinfo.nih.gov/understanding-hiv/fact-sheets/hiv-and-lactic-acidosis), [hepatic steatosis](https://www.ncbi.nlm.nih.gov/pubmed/22760655) 
+	* [Lactic acidosis](https://hivinfo.nih.gov/understanding-hiv/fact-sheets/hiv-and-lactic-acidosis), [hepatic steatosis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6550355/)
 	* [Lipodystrophy](https://www.ncbi.nlm.nih.gov/PubMed/10509567): fat loss or buildup or both. 
 		* Including central obesity, dorsocervical fat enlargement [(buffalo hump)](https://www.clinicalkey.com/#!/content/medline/2-s2.0-9525364), peripheral wasting, accumulation of facial fat, [lipomas](http://www.mayoclinic.org/diseases-conditions/lipoma/basics/definition/con-20024646), breast enlargement, [gynecomastia](http://www.mayoclinic.org/diseases-conditions/gynecomastia/home/ovc-20257576)
 	*  [Mitochondrial toxicity](https://www.uptodate.com/contents/mitochondrial-toxicity-of-hiv-nucleoside-reverse-transcriptase-inhibitors/) is a major adverse effect of nucleoside analogues,  which can lead to myopathy, peripheral neuropathy, and hepatic steatosis with lactic acidosis
@@ -317,7 +299,7 @@ updated on Jun 03, 2021
 * Toxicities
 	* <span id="drug">Zidovudine</span>: bone marrow suppression; anemia, neutropenia; myopathy (mtDNA); 
 	* <span id="drug">Abacavir</span>: **hypersensitivity** reaction due to genetic predisposition (multi-organ autoimmune response, potentially life threatening) 
-		* <span id="yb">HLA-B\*5701	screening before starting therapy </span> [NEJM](http://www.nejm.org/doi/full/10.1056/NEJMoa0706135#t=article)
+		* <span id="yb"><a href="http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg38&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=chr6%3A31353875%2D31367067&hgsid=1488421281_ALYL8AoN0EV3FOejojvgWHHHoDaa">HLA-B\*5701</a>	screening before starting therapy </span> [NEJM](http://www.nejm.org/doi/full/10.1056/NEJMoa0706135#t=article)
 	* <span id="drug"> Emtricitabine </span>: psychiatric reactions, depression, dizziness, insomnia <span id="mem"> EmtriPSYtabine</span>
 
 ---
