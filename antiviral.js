@@ -16,7 +16,7 @@ var markdownContent = ''
 + "\n"
 + "Please use the live online version at http://chen42.github.io/slides/antiviral.html\n"
 + "\n"
-+ "Or download the [**Printable version**](http://chen42.github.io/slides/antiviral.html?print-pdf#/) before class.\n"
++ "Or download the [**Printable version**](http://chen42.github.io/slides/antiviral.html?print-pdf#/).\n"
 + "\n"
 + "<b>Last update: Nov 2nd, 2022</b>\n"
 + "\n"
