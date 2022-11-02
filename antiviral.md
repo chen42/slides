@@ -356,8 +356,8 @@ updated on Jun 03, 2021
 <span id="mem"> fo=pho=phosphate</mem>
 
 * Properties
-	* <span id="drug"> Tenofovir disoproxil </span> is a prodrug. It is hydrolyzed to release tenofovir
-	* Tenofovir is an analogue of adenosine- <font color="darkorange">5'-monophosphate </font>
+	* Tenofovir is an analogue of adenosine- <font color="darkorange">5'-monophosphate </font>, with low oral bioavailability.
+	* <span id="drug"> Tenofovir disoproxil </span> is a prodrug. It is hydrolyzed to release tenofovir, increasing bioavailability.
 	* Requires two intracellular phosphorylation steps for activation
 	* Weak inhibitor of mammalian DNA and mt polymerase
 	* Included in many <a href="#/recommend"> first-line ART regimens</a>
