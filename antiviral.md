@@ -15,7 +15,7 @@ Please use the live online version at http://chen42.github.io/slides/antiviral.h
 
 Or download the [**Printable version**](http://chen42.github.io/slides/antiviral.html?print-pdf#/) before class.
 
-<b>Last update: Nov 1st, 2022</b>
+<b>Last update: Nov 2nd, 2022</b>
 
 ---
 
@@ -279,7 +279,7 @@ updated on Jun 03, 2021
 * Crosses blood-brain barrier
 * Metabolism plays limited role in clearance 
 * Excreted unchanged in urine, except:
-	* <span id="drug"> Zidovudine </span> is metabolized to glucoronide
+	* <span id="drug"> Zidovudine </span> is metabolized to glucuronide
 	* <span id="drug"> Abacavir </span> metabolized by alcohol dehydrogenase 
 
 ---
@@ -330,7 +330,7 @@ updated on Jun 03, 2021
 * ADME 
 	* Well absorbed by the GI tract; good oral bioavailability
 	* Excreted unchanged by the kidney; except
-		* <span id="drug"> zidovudine </span> (metabolized into glucoronide)
+		* <span id="drug"> zidovudine </span> (metabolized into glucuronide)
 		* <span id="drug"> Abacavir </span> (metabolized by alcohol dehydrogenase)
 
 ---
@@ -389,16 +389,16 @@ updated on Jun 03, 2021
 
 ---
 
-## Tenofovir disoproxil and Emtricitabine 
-### (Truvada)
+## Tenofovir  and Emtricitabine 
+### (Truvada or Descovy)
 
 * Better than Abacavir-Lamivudine for initial therapy 
 	* Extending time to [virologic failure](https://clinicalinfo.hiv.gov/en/glossary/virologic-failure) and first adverse event 
 	* [NEJM Dec 3 2009](https://www.ncbi.nlm.nih.gov/pubmed/?term=19952143)
 * Effective as antiretroviral <span id='bg'>chemoprophylaxis </span>before exposure (PrEP)
 	* [NEJM Dec 30 2010](https://www.ncbi.nlm.nih.gov/pubmed/21091279)
+	* [NIH guideline, last updated Aug 10, 2021](https://hivinfo.nih.gov/understanding-hiv/fact-sheets/pre-exposure-prophylaxis-prep) 
 	* [CDC page on PrEP](https://www.cdc.gov/hiv/risk/prep/index.html)
-	* [full guideline pdf, updated in 2017](https://www.cdc.gov/hiv/pdf/risk/prep/cdc-hiv-prep-guidelines-2017.pdf)
 * <a href="#/recommend">Recommended for treatment naive patients</a>
 
 ---
@@ -482,7 +482,7 @@ note: rifampin is a bacterial RNA polymerase inhibitor
 	* <span id="drug"> darunavir </span> displays a < 10-fold decreased susceptibility against 90% of HIV-1 isolates resistant to <span id="drug"> amprenavir, atazanavir, indinavir, lopinavir, nelfinavir, ritonavir, saquinavir, </span> and/or <span id="drug"> tipranavir </span> . 	
 * Must be used in combination in an antiviral regimen.
 	* Requires an enhancer (i.e. low does <span id="drug"> ritonavir </span> or [cobicistat](https://www.ncbi.nlm.nih.gov/pubmed/26566368) )
-* Was <a href="#/recommend">Recommended</a> for treatment-naive patients
+* Moved off the  <a href="#/recommend">Recommended list</a> for treatment-naive patients in 2017
 
 ---
 
@@ -566,7 +566,7 @@ note: rifampin is a bacterial RNA polymerase inhibitor
 	* Well absorbed by the GI tract
 	* Good oral bioavailability
 	* Metabolized in the liver 	
-	* Excreted in the urine as glucoronidated metabolites
+	* Excreted in the urine as glucuronidated metabolites
 * Adverse effects
 	* All NNRTIs cause rash
 
@@ -696,8 +696,7 @@ These are just a few examples. Detailed list available from the link above
 ## Objectives 
 
 *  For each virus, understand the <span id="yb"> major classes </span> of available antiviral agents.
-*  Describe the <span id="yb">mechanisms of action</span> for HSV, CMV, and HBV antiviral agents and <span id="yb">mechanisms of viral resistance</span> to these agents.
-* Describe the common and unique adverse effects of the distinct classes of antiviral agents
+*  Describe the <span id="yb">mechanisms of action</span> for antiviral agents against HSV, CMV, HBV, HCV, SARS-CoV-2, and <span id="yb">mechanisms of viral resistance</span> to these agents.
 
 ---
 
@@ -798,8 +797,8 @@ c.f. <a href=#/hostcell>NRTI for HIV</a>
 * ADME
 	* <span id="drug"> acyclovir </span> has low oral bioavailability (10-20%). (i.v. or topical) 
 	* <span id="drug"> Valacyclovir </span> is hydrolyzed to acyclovir in intestine or liver. Increase bioavailability (3.3 - 5 X) 
-	* competitive inhibition of viral DNA polymerase; chain termination. 
-* Indication: * HSV keratitis, herpes labialis, genital herpes, HSV encephalitis
+* Indication: 
+	* HSV keratitis, herpes labialis, genital herpes, HSV encephalitis
 	* VZV 
 	* CMV-positive bone marrow transplant recipients
 * Adverse effects
@@ -845,7 +844,7 @@ Double stranded DNA virus
 ### [Valganciclovir](https://www.clinicalkey.com/#!/content/drug_monograph/6-s2.0-2584) (L-valyl ester prodrug)
 
 * MoA
-	* Ganciclovir is phosphorylated to ganciclovir monophosphate by a viral protein kinase
+	* Ganciclovir is phosphorylated to ganciclovir monophosphate by <a href="https://pubmed.ncbi.nlm.nih.gov/1319560/">a viral protein kinase</a>
 	* Ganciclovir triphosphate inhibits viral DNA synthesis 
 		* competing for a position in the viral DNA
 		* terminating DNA synthesis once incorporated 
@@ -890,7 +889,7 @@ Double stranded DNA virus
 * Mechanism of Action
 	* Inorganic pyro<font color="darkorange">phos</font>phate analog
 	* Inhibits HSV DNA polymerase and HIV-1 reverse transcriptase 
-	* Binds to pyrophosphate binding site of polymerase
+	* Binds to <a href="https://en.wikipedia.org/wiki/Pyrophosphate">pyrophosphate </a> binding site of polymerase
 	* <a href="https://en.wikipedia.org/wiki/Nucleoside_triphosphate#/media/File:DNA_synthesis_EN.png">Inhibits cleavage of pyrophosphate from deoxyribonucleotide triphosphate (dNTP)</a>
 	* Blocks viral DNA synthesis
 * Indications
@@ -1076,7 +1075,6 @@ HBV polymerase has reverse transcription activity
 ---
 
 ## Interferons 
-### Antiviral effect 
 
 * Type I has more potent antiviral effect. It can be produced in almost any cell type when it is infected with a virus. It is triggered by molecular patterns of characteristic of viral but not host components (e.g. viral 5'-triphosphorylated ssRNA and dsRNA). 
 	* dsRNA is produced by positive-strand RNA viruses and DNA viruses, but not detectable by negative-strand RNA Viruses [PubMed](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1472073/)
@@ -1142,6 +1140,18 @@ a single-stranded, positive-sense RNA
 
 ---
 
+## HCV life cycle
+
+
+<a href="https://www.nature.com/articles/nm.3248/figures/3">
+<img src="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnm.3248/MediaObjects/41591_2013_Article_BFnm3248_Fig3_HTML.jpg?as=webp" width=50%>
+
+</a>
+
+
+
+---
+
 ## WHO Hepatitis C treatment <a href="https://www.ncbi.nlm.nih.gov/books/NBK531720/"> guideline</a>
 
 * 9 HCV genotypes, type 1 is most common in the US.
@@ -1160,7 +1170,7 @@ a single-stranded, positive-sense RNA
 * MoA
 	* nucleotide analogue inhibitor
 	* a direct-acting antiviral agent 
-	* NS5B is an  RNA-dependent RNA polymerase
+	* NS5B is an <a href="https://en.wikipedia.org/wiki/RNA-dependent_RNA_polymerase"> RNA-dependent RNA polymerase</a>
 	* incorporated into HCV RNA by the NS5B polymerase and acts as a chain terminator
 	* interferes with the HCV lifecycle, restraining viral replication. 
 
@@ -1195,7 +1205,7 @@ a single-stranded, positive-sense RNA
 
 * MoA 
 	* Nucleoside analog of guanosine
-	* Increase mutation of viral <a href="#/molnupiravir"> <span id="yb">DNA</span></a> and leads to "**error catastrophe**"
+	* Increase mutation of viral <a href="#/molnupiravir"> <span id="yb">RNA/DNA</span></a> and leads to "**error catastrophe**"
 	* Interference with synthesis of GTP / Increase production of cytokine
 * Indication 
 	* Treat <u>Hepatitis C</u> in combination with <span id="drug"> Sofosbuvir </span> 
@@ -1310,6 +1320,8 @@ Sialic acid analog inhibitors of influenza A and B neuraminidase
 
 </a>
 
+brown: 5'cap. red arrow: endonuclease. light green: new copy of viral RNA.
+
 </div>
 
 <div id="right">
@@ -1338,6 +1350,8 @@ Sialic acid analog inhibitors of influenza A and B neuraminidase
 Single stranded RNA virus
 </div>
 
+ The RNA genome is [30 kilo bases](https://genome.ucsc.edu/cgi-bin/hgTracks?db=wuhCor1&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=NC_045512v2%3A1%2D29903&hgsid=1203179451_8263g5HiGW1R07rmnBegtA4EAf7w) 
+
 ---
 
 ## Life cycle of SARS-CoV-2 
@@ -1347,14 +1361,17 @@ Single stranded RNA virus
 <a href="https://www.nature.com/articles/s41579-020-00468-6">
 <img src="./images/antiviral/sars-cov-2_life_cycle.png" width=90%>
 </a>
+Color legend: Orange boxes -> life cycle  | 
+	Red boxes -> therapeutic options under investigation
+
+
 
 </div>
 
 <div id="right">
 
 * Infecting bronchial epithelial cells, pneumocytes and upper respiratory tract cells
-* The RNA genome is [30 kilo bases](https://genome.ucsc.edu/cgi-bin/hgTracks?db=wuhCor1&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=NC_045512v2%3A1%2D29903&hgsid=1203179451_8263g5HiGW1R07rmnBegtA4EAf7w) 
-* Spike protein binds to ACE2
+* Spike protein <a href="https://pubs.acs.org/cms/10.1021/acs.jpcb.1c02048/asset/images/medium/jp1c02048_0002.gif">binds</a> to <a href="https://alphafold.ebi.ac.uk/entry/Q9BYF1">ACE2</a>
 * Viral replication is particularly active early in COVID-19
 * Antiviral therapy have greatest impact before disease progresses to the hyperinflammatory stage
 * Acronyms
@@ -1362,10 +1379,6 @@ Single stranded RNA virus
 	* <b>ACE2</b>: angiotensin-converting enzyme 2;
 	* <b>RdRP</b>: RNA-dependent RNA polymerase;
 	* <b>TMPRSS2</b>: a cell surface serine protease
-* Color legend
-	* Orange boxes -> life cycle 
-	* Red boxes -> therapeutic options under investigation
-
 <hr>
 
 <a href="https://media.nature.com/lw800/magazine-assets/d41586-021-02039-y/d41586-021-02039-y_19394008.png">
@@ -1451,7 +1464,7 @@ Another version of SARS-CoV-2 life cycle</a>
 	* the epitope Bebtelovimab binds to is less frequently mutated. 
 * ADME
 	* i.v. injection 
-	* likel degraded via catabolic process into small peptides and amino acids.
+	* likely degraded via catabolic process into small peptides and amino acids.
 	* no toxicity was found when 10 times of authorized dose was tested.
 
 ---
@@ -1473,7 +1486,25 @@ Another version of SARS-CoV-2 life cycle</a>
 	* At Day 5, virus was not isolated from any participants receiving 400 or 800 mg (11.1% virus positive in placebo)
 	* Adverse effect
 		* headache, insomnia, incrase alanine aminotransferase
+
 ---
+
+## Antiviral Agent Summary
+
+* Understand the genome of the virus
+	* RNA
+	* double stranded DNA
+	* partially double stranded DNA
+* Understand the life cycle of the virus 
+	* entry
+	* replication
+	* protein synthesis
+	* release
+* Understand the MoA of treatments
+* Understand the how mutation of virus can evade the action of treatment agents.
+
+---
+
 
 ## Additional reading 
 
