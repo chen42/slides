@@ -10,10 +10,9 @@ Hao Chen, Ph.D
 
 hchen@uthsc.edu Dept. Pharmacology, UTHSC
 
-
 Please use the live online version at http://chen42.github.io/slides/antiviral.html
 
-Or download the [**Printable version**](http://chen42.github.io/slides/antiviral.html?print-pdf#/).
+Or download the [**Printable version that can be saved as a pdf file**](http://chen42.github.io/slides/antiviral.html?print-pdf#/).
 
 <b>Last update: Nov 2nd, 2022</b>
 
@@ -267,8 +266,8 @@ updated on Jun 03, 2021
 	* Prevent acute infection of susceptible cells
 	* Little effect on cells already infected by HIV
 	* <span id="drug"> Zidovudine </span> 
-		* <span id="yb">Only NRTI shown to reduce perinatal HIV transmission</a>
-		* used in neonates to <a href="https://clinicalinfo.hiv.gov/en/guidelines/pediatric-arv/zidovudine">prevent perinatal transmission of HIV </a>. 
+		* <span id="yb">passes placenta rapidly, reduce the rate of maternal-fetal HIV-1 transmission from <a href="https://www.nejm.org/doi/full/10.1056/nejm199411033311801">25% to 8%</a>  </a>
+		* also used in neonates to <a href="https://clinicalinfo.hiv.gov/en/guidelines/pediatric-arv/zidovudine">prevent perinatal transmission of HIV </a>. 
 * Resistance
 	* Drugs select for different mutations of the reverse transcriptase gene at the level of specific codons 
 
@@ -1505,12 +1504,12 @@ Another version of SARS-CoV-2 life cycle</a>
 
 ---
 
-
 ## Additional reading 
 
 * A single injection of a drug called cabotegravir every month was so successful in preventing HIV that the clinical trial wrapped up ahead of schedule.
 	* [Report by NPR](https://www.npr.org/sections/goatsandsoda/2020/11/11/933415492/protecting-women-against-hiv-just-got-9-times-easier)
 * [Gene editing for HIV enters into human testing](https://www.fiercebiotech.com/biotech/excision-hiv-crispr-gene-editing-therapy-cleared-for-human-studies-by-fda)
+* [Combination anti-HIV antibodies provide sustained virological suppression for up to 43 weeks](https://www.nature.com/articles/s41586-022-04797-9)
 
 ---
 
