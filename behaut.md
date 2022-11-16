@@ -264,6 +264,8 @@ https://chen42.github.io/slides/behaut.html
 <img src="./images/behaut/rpi_tail_immersion.jpg" width=80%>
 </a>
 
+<a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0256264"> TailTimer Paper </a>
+
 ---
 
 ## Example 7. PeerPub 
