@@ -308,7 +308,7 @@ var markdownContent = ''
 + "</td>\n"
 + "\n"
 + "<td width=14.3%>\n"
-+ "<img src=\"./images/lab/Caroline.png\">\n"
++ "<img src=\"./images/lab/caroline.png\">\n"
 + "Caroline Jones\n"
 + "</td>\n"
 + "\n"
