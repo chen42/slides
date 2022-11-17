@@ -267,6 +267,8 @@ var markdownContent = ''
 + "<img src=\"./images/behaut/rpi_tail_immersion.jpg\" width=80%>\n"
 + "</a>\n"
 + "\n"
++ "<a href=\"https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0256264\"> TailTimer Paper </a>\n"
++ "\n"
 + "---\n"
 + "\n"
 + "## Example 7. PeerPub \n"
