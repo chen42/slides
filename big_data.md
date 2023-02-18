@@ -5,11 +5,11 @@
 
 hchen@uthsc.edu 
 
-#### Associate Professor
+Professor
 
-#### Department of Pharmacology, UTHSC
+Department of Pharmacology, UTHSC
 
-Feb 14th 2022
+Feb 28th 2023
 
 
 ---
@@ -24,6 +24,7 @@ Feb 14th 2022
 * Supervised learning
 	* Regression
 	* Deep neural networks	
+        * Generative networks | Large language model | Transformers | GPT | ChatGPT
 ---
 
 ## Learning Objectives
@@ -404,7 +405,14 @@ print("%s: %.2f%%" % (model.metrics_names[1], scores[1]*100))
 
 ---
 
-# ?
+## How did we end with ChatGPT?
+
+* [Generative models](https://medium.com/analytics-vidhya/an-introduction-to-generative-deep-learning-792e93d1c6d4) 
+* [Transformer](https://jalammar.github.io/illustrated-transformer/)
+* [GPT](https://medium.com/sciforce/what-is-gpt-3-how-does-it-work-and-what-does-it-actually-do-9f721d69e5c1)
+    * The OpenAI lab showed bigger is better with its Generative Pretrained Transformer (GPT). The latest version, GPT-3, has 175 billion parameters, up from 1.5 billion for GPT-2. 
+* [chatGPT](http://chat.openai.com)
+
 
 ---
 
