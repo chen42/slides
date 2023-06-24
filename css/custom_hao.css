@@ -105,10 +105,9 @@
 }
 
 #cite{
-	color: royalblue;
-	font-size: 1.4em;
-	font-weight:900;
+	text-align: center;
+	color:  #cb4b16;
+	font-size: 1.2em;
+	font-weight:400;
+	font-style:italic;
 }
-
-
-

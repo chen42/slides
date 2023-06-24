@@ -86,18 +86,19 @@ html * {
 
 .reveal h1 {
   font-size: 3.0em;
-  color: #002b36; }
+  color: #073642; }
 
 .reveal h2 {
-  font-size: 2.0em; 
-  color: #073672; }
+  font-size: 2.5em; 
+  color: #268bd2; }
 
 .reveal h3 {
-  font-size: 1.5em; 
+  font-size: 2.0em; 
   color: #586e75;}
 
 .reveal h4 {
-  font-size: 1em;
+  font-size: 1.2em;
+  text-align: left;
   color: #657b83; }
 
 .reveal h1 {
@@ -145,21 +146,21 @@ html * {
 
 .reveal ul {
   list-style-type: disc;
-  font-size:1.2em;
+  font-size:1.6em;
   font-weight:bold;
-  color:#002b36;
+  color:#073642;
   }
 
 .reveal ul ul {
   list-style-type: square; 
-  font-size:1em;
-  font-weight:normal;
-  color:#073642;
+  font-size:0.9em;
+  font-weight:bold;
+  color:#586e75;;
   }
 
 .reveal ul ul ul {
   list-style-type: circle;
-  font-size:0.9em;
+  font-size:1.0em;
   font-weight:normal;
   color:#073642;
   }
@@ -263,7 +264,7 @@ html * {
 
 .reveal img {
   border-radius: 5px;
-  border: 1px solid #fff;
+  border: 0px solid #fff;
   margin: 20px 0; }
 
 /*********************************************
@@ -284,7 +285,7 @@ html * {
   background: #1a6091; }
 
 .reveal a:hover img {
-  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.3);
+  box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.3);
 }
 
 /*********************************************
