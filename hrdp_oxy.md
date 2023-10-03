@@ -1,6 +1,5 @@
 
-
-# Genetic Factors Influencing Individual Differences in Vulnerability to Oxycodone in Rats
+# Genetic factors influencing individual differences in vulnerability to Oxycodone in rats
 
 <hr color=orange>
 
@@ -12,15 +11,32 @@
 
 ---
 ## Oxycodone is highly addictive 
-### even when it is not injected
+
+* Prescription oral oxycodone is a major contributor to the current opioid abuse epidemic.
+* In general, rapid intravenous infusion of abused drugs produces greater positive subjective effects than slow infusion.
+* It has been claimed that delayed absorption of oxycodone reduces its abuse liability.
+* Oxycodone has strong addiction liability even when it is delivered orally in controlled-release formulation.
 
 ---
 ## Early prevention is key 
 
-Preaddiction
+* Early diagnosis and prevention is critical for stemming opioid abuse epidemic.
+* Readily available and easy to use test for many chronic diseases has been successful.
+* Identifying early behavioral phenotypes that predict drug abuse and their genetic contribution will have high impact. 
 
 ---
 ## Oral self-administration of oxycodone in rats
+
+<table> <tr><td width=50%>
+<img src="./images/oxycodone/oxycodone_operant_chamber.png">
+</td>
+<td>
+
+<li> drug
+<li> dd
+</td>
+</tr></table>
+
 
 
 ---
