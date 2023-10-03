@@ -228,7 +228,7 @@ html * {
 .reveal table th,
 .reveal table td {
   text-align: left;
-  vertical-align: top;
+  vertical-align: middle;
   padding: 0.2em 0.5em 0.2em 0.5em;
   border-bottom: 1px solid; }
 

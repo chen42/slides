@@ -1,0 +1,1255 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="296.8465"
+   height="325.69089"
+   id="violinplot0Svg"
+   version="1.1"
+   sodipodi:docname="violinplot0-save.svg"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs147" />
+  <sodipodi:namedview
+     id="namedview147"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="2.0310248"
+     inkscape:cx="180.45077"
+     inkscape:cy="222.54775"
+     inkscape:window-width="2554"
+     inkscape:window-height="1371"
+     inkscape:window-x="0"
+     inkscape:window-y="30"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="violinplot0Svg" />
+  <style
+     type="text/css"
+     id="style1"><![CDATA[
+.violin-x-axis line, .violin-y-axis line, .violin-x-axis path, .violin-y-axis path { font-family: "Open Sans", Helvetica, Arial, sans-serif; fill: none; stroke: silver; stroke-width: 1px; shape-rendering: crispedges; }
+.violin-x-axis text, .violin-y-axis text, .violin-x-axis-hide text { font-family: "Open Sans", Helvetica, Arial, sans-serif; fill: rgb(42, 113, 139); }
+.violin-size-axis-hide text { font-family: "Open Sans", Helvetica, Arial, sans-serif; fill: rgb(35, 157, 184); font-size: 11px; }
+.violin-size-axis-hide line, .violin-size-axis-hide path { fill: none; stroke: silver; stroke-width: 0; shape-rendering: crispedges; }
+.violin-sub-axis line, .violin-sub-axis path { stroke-width: 1px; stroke: silver; shape-rendering: crispedges; }
+.violin-sub-axis text, .violin-sub-axis-hide text { fill: slategray; font-size: 12px; font-family: "Open Sans", Helvetica, Arial, sans-serif; }
+.violin-axis-label { fill: slategray; font-size: 12px; font-family: "Open Sans", Helvetica, Arial, sans-serif; }
+.violin-group-label { font-size: 12px; text-anchor: middle; }
+line.violin-median { stroke-width: 2px; stroke: rgb(255, 255, 255); }
+rect.violin-ir { fill: rgb(85, 95, 102); stroke-width: 0; }
+.ed-section-title { font-family: "Open Sans", Helvetica, Arial, sans-serif; font-size: 15px; }
+
+]]></style>
+  <text
+     class="violin-axis-label"
+     text-anchor="middle"
+     transform="rotate(-90)"
+     id="text128"
+     x="-46.794006"
+     y="8.7480001">Norm. Expression</text>
+  <g
+     id="g150"
+     transform="translate(-4.5144979,-43.205995)">
+    <g
+       id="g2"
+       transform="translate(50,50)">
+      <text
+         x="0"
+         y="0"
+         class="violin-group-label"
+         text-anchor="center"
+         fill="#ff4500"
+         transform="translate(46,130)"
+         id="text2">pvalue: 1.3e-51</text>
+    </g>
+    <g
+       id="violin0-AA"
+       class="violin-g"
+       transform="translate(50,50)">
+      <path
+         d="m 16.917031,52 -0.148128,-1 -0.1638,-1 -0.184926,-1 h -0.212408 l -0.24649,-1 -0.286647,-1 H 15.343036 L 14.963599,46 14.53565,45 14.060739,44 H 13.542278 L 12.984962,43 12.394089,42 11.775002,41 H 11.132777 L 10.472276,40 9.7985138,39 H 9.1172394 L 8.4355344,38 7.7622421,37 7.1080684,36 H 6.4852915 L 5.9071099,35 5.3867409,34 4.9364277,33 H 4.5665208 L 4.2847653,32 4.0958762,31 H 4.0014238 L 4,30 4.0876019,29 4.2581483,28 H 4.504046 L 4.816737,27 5.1871759,26 5.6062146,25 H 6.0648923 L 6.554641,24 7.0674288,23 h 0.5284276 l 0.5373661,-1 0.5403414,-1 0.5381099,-1 h 0.531424 l 0.5210102,-1 0.507552,-1 0.491669,-1 h 0.473914 l 0.454768,-1 0.434629,-1 h 0.413838 l 0.392663,-1 0.371325,-1 0.349999,-1 h 0.328826 l 0.307935,-1 0.287444,-1 h 0.26749 l 0.248231,-1 0.229863,-1 0.212603,-1 h 0.196675 l 0.18226,-1 0.169457,-1 0.158232,-1 h 0.14839 l 0.13957,-1 h 1.937118 l 0.13957,1 h 0.14839 l 0.158232,1 0.169457,1 0.18226,1 h 0.196675 l 0.212603,1 0.229863,1 0.248231,1 h 0.26749 l 0.287444,1 0.307935,1 h 0.328826 l 0.349999,1 0.371325,1 0.392663,1 h 0.413838 l 0.434629,1 0.454768,1 h 0.473914 l 0.491669,1 0.507552,1 0.52101,1 h 0.531424 l 0.53811,1 0.540341,1 0.537367,1 h 0.528427 l 0.512788,1 0.489749,1 h 0.458677 l 0.419039,1 0.370439,1 0.312691,1 h 0.245898 l 0.170546,1 0.0876,1 -0.0014,1 h -0.09445 l -0.188889,1 -0.281756,1 h -0.369907 l -0.450313,1 -0.520369,1 -0.578181,1 h -0.622777 l -0.654174,1 -0.673292,1 -0.681705,1 H 26.20151 l -0.673762,1 -0.660501,1 h -0.642225 l -0.619087,1 -0.590873,1 -0.557316,1 h -0.518461 l -0.474911,1 -0.427949,1 -0.379437,1 h -0.331596 l -0.286647,1 -0.24649,1 h -0.212408 l -0.184926,1 -0.1638,1 -0.148128,1 z"
+         class="violin"
+         style="fill:#90c1c1"
+         id="path2" />
+      <rect
+         x="13.333333"
+         y="23"
+         width="9.333333"
+         height="12"
+         class="violin-ir"
+         id="rect2" />
+      <line
+         x1="13.333333"
+         x2="22.666666"
+         y1="29"
+         y2="29"
+         class="violin-median"
+         id="line2" />
+    </g>
+    <g
+       id="violin0-AG"
+       class="violin-g"
+       transform="translate(50,50)">
+      <path
+         d="m 45.508484,68 -0.0145,-1 -0.02075,-1 -0.04112,-1 h -0.07713 l -0.128335,-1 -0.192625,-1 h -0.266733 l -0.346807,-1 -0.428829,-1 -0.508809,-1 h -0.582772 l -0.646735,-1 -0.696823,-1 -0.729689,-1 h -0.743204 l -0.737229,-1 -0.714175,-1 h -0.679035 l -0.63869,-1 -0.600525,-1 -0.57063,-1 H 35.59127 L 35.047518,51 34.507187,50 33.973885,49 H 33.460804 L 32.989288,48 32.585166,47 H 32.273783 L 32.075074,46 32,45 32.04926,44 h 0.165265 l 0.267208,-1 0.353614,-1 0.426923,-1 h 0.491987 l 0.553917,-1 0.61604,-1 h 0.678611 l 0.738695,-1 0.791121,-1 0.83009,-1 h 0.850806 l 0.850598,-1 0.8293,-1 0.788971,-1 h 0.733233 l 0.666535,-1 0.593515,-1 h 0.518506 l 0.44517,-1 h 3.521274 l 0.44517,1 h 0.518506 l 0.593515,1 0.666535,1 h 0.733233 l 0.788971,1 0.8293,1 0.850598,1 h 0.850806 l 0.83009,1 0.791121,1 0.738695,1 h 0.678611 l 0.61604,1 0.553917,1 h 0.491987 l 0.426923,1 0.353614,1 0.267208,1 h 0.165265 L 60,45 l -0.07507,1 -0.198709,1 h -0.311383 l -0.404122,1 -0.471516,1 h -0.513081 l -0.533302,1 -0.540331,1 -0.543752,1 h -0.552071 l -0.57063,1 -0.600525,1 -0.63869,1 h -0.679035 l -0.714175,1 -0.737229,1 h -0.743204 l -0.729689,1 -0.696823,1 -0.646735,1 h -0.582772 l -0.508809,1 -0.428829,1 -0.346807,1 h -0.266733 l -0.192625,1 -0.128335,1 h -0.07713 l -0.04112,1 -0.02075,1 -0.0145,1 z"
+         class="violin"
+         style="fill:#90c1c1"
+         id="path3" />
+      <rect
+         x="41.333332"
+         y="40"
+         width="9.333333"
+         height="11"
+         class="violin-ir"
+         id="rect3" />
+      <line
+         x1="41.333332"
+         x2="50.666668"
+         y1="46"
+         y2="46"
+         class="violin-median"
+         id="line3" />
+    </g>
+    <g
+       id="violin0-GG"
+       class="violin-g"
+       transform="translate(50,50)">
+      <path
+         d="M 71.549262,77 71.217455,76 H 70.886506 L 70.555311,75 70.22065,74 69.877337,73 H 69.51793 l -0.385687,-1 -0.425041,-1 -0.479514,-1 h -0.548992 l -0.630027,-1 -0.715377,-1 h -0.794586 l -0.85556,-1 -0.88676,-1 -0.879347,-1 H 62.088328 L 61.353329,64 60.750684,63 H 60.311462 L 60.057363,62 60,61 60.140764,60 h 0.330052 l 0.500249,-1 0.641328,-1 0.744342,-1 h 0.802878 l 0.814881,-1 0.784161,-1 h 0.720921 l 0.640737,-1 0.561894,-1 0.501534,-1 h 0.471616 l 0.475921,-1 0.509121,-1 h 10.719202 l 0.509121,1 0.475921,1 h 0.471616 l 0.501534,1 0.561894,1 0.640737,1 h 0.720921 l 0.784161,1 0.814881,1 h 0.802878 l 0.744342,1 0.641328,1 0.500249,1 h 0.330052 L 88,61 l -0.05736,1 -0.254099,1 h -0.439222 l -0.602645,1 -0.734999,1 h -0.828711 l -0.879347,1 -0.88676,1 -0.85556,1 h -0.794586 l -0.715377,1 -0.630027,1 h -0.548992 l -0.479514,1 -0.425041,1 -0.385687,1 h -0.359407 l -0.343313,1 -0.334661,1 -0.331195,1 h -0.330949 l -0.331807,1 z"
+         class="violin"
+         style="fill:#90c1c1"
+         id="path4" />
+      <rect
+         x="69.333336"
+         y="57"
+         width="9.333333"
+         height="8"
+         class="violin-ir"
+         id="rect4" />
+      <line
+         x1="69.333336"
+         x2="78.666664"
+         y1="61"
+         y2="61"
+         class="violin-median"
+         id="line4" />
+    </g>
+    <g
+       class="violin-size-axis-hide"
+       transform="translate(50,148)"
+       fill="none"
+       font-size="10px"
+       font-family="sans-serif"
+       text-anchor="middle"
+       id="g8">
+      <path
+         class="domain"
+         stroke="currentColor"
+         d="M 3.5,6 V 0.5 h 86 V 6"
+         id="path5" />
+      <g
+         class="tick"
+         opacity="1"
+         transform="translate(18.5)"
+         id="g5">
+        <line
+           stroke="currentColor"
+           y2="6"
+           id="line5"
+           x1="0"
+           y1="0"
+           x2="0" />
+        <text
+           fill="currentColor"
+           y="9"
+           dy="0.70999998em"
+           id="text5">(86)</text>
+      </g>
+      <g
+         class="tick"
+         opacity="1"
+         transform="translate(46.5)"
+         id="g6">
+        <line
+           stroke="currentColor"
+           y2="6"
+           id="line6"
+           x1="0"
+           y1="0"
+           x2="0" />
+        <text
+           fill="currentColor"
+           y="9"
+           dy="0.70999998em"
+           id="text6">(81)</text>
+      </g>
+      <g
+         class="tick"
+         opacity="1"
+         transform="translate(74.5)"
+         id="g7">
+        <line
+           stroke="currentColor"
+           y2="6"
+           id="line7"
+           x1="0"
+           y1="0"
+           x2="0" />
+        <text
+           fill="currentColor"
+           y="9"
+           dy="0.70999998em"
+           id="text7">(24)</text>
+      </g>
+    </g>
+    <g
+       class="violin-sub-axis"
+       transform="translate(50,135)"
+       fill="none"
+       font-size="10px"
+       font-family="sans-serif"
+       text-anchor="middle"
+       id="g12">
+      <path
+         class="domain"
+         stroke="currentColor"
+         d="M 3.5,6 V 0.5 h 86 V 6"
+         id="path8" />
+      <g
+         class="tick"
+         opacity="1"
+         transform="translate(18.5)"
+         id="g9">
+        <line
+           stroke="currentColor"
+           y2="6"
+           id="line8"
+           x1="0"
+           y1="0"
+           x2="0" />
+        <text
+           fill="currentColor"
+           y="9"
+           dy="0.70999998em"
+           id="text8">AA</text>
+      </g>
+      <g
+         class="tick"
+         opacity="1"
+         transform="translate(46.5)"
+         id="g10">
+        <line
+           stroke="currentColor"
+           y2="6"
+           id="line9"
+           x1="0"
+           y1="0"
+           x2="0" />
+        <text
+           fill="currentColor"
+           y="9"
+           dy="0.70999998em"
+           id="text9">AG</text>
+      </g>
+      <g
+         class="tick"
+         opacity="1"
+         transform="translate(74.5)"
+         id="g11">
+        <line
+           stroke="currentColor"
+           y2="6"
+           id="line10"
+           x1="0"
+           y1="0"
+           x2="0" />
+        <text
+           fill="currentColor"
+           y="9"
+           dy="0.70999998em"
+           id="text10">GG</text>
+      </g>
+    </g>
+    <g
+       class="violin-y-axis axis--y"
+       transform="translate(45,50)"
+       fill="none"
+       font-size="10px"
+       font-family="sans-serif"
+       text-anchor="end"
+       id="g128">
+      <path
+         class="domain"
+         stroke="currentColor"
+         d="M -6,80.5 H 0.5 V 0.5 H -6"
+         id="path122" />
+      <g
+         class="tick"
+         opacity="1"
+         transform="translate(0,69.5)"
+         id="g123">
+        <line
+           stroke="currentColor"
+           x2="-6"
+           id="line122"
+           x1="0"
+           y1="0"
+           y2="0" />
+        <text
+           fill="currentColor"
+           x="-9"
+           dy="0.31999999em"
+           id="text122">-2.0</text>
+      </g>
+      <g
+         class="tick"
+         opacity="1"
+         transform="translate(0,55.5)"
+         id="g124">
+        <line
+           stroke="currentColor"
+           x2="-6"
+           id="line123"
+           x1="0"
+           y1="0"
+           y2="0" />
+        <text
+           fill="currentColor"
+           x="-9"
+           dy="0.31999999em"
+           id="text123">-1.0</text>
+      </g>
+      <g
+         class="tick"
+         opacity="1"
+         transform="translate(0,40.5)"
+         id="g125">
+        <line
+           stroke="currentColor"
+           x2="-6"
+           id="line124"
+           x1="0"
+           y1="0"
+           y2="0" />
+        <text
+           fill="currentColor"
+           x="-9"
+           dy="0.31999999em"
+           id="text124">0.0</text>
+      </g>
+      <g
+         class="tick"
+         opacity="1"
+         transform="translate(0,25.5)"
+         id="g126">
+        <line
+           stroke="currentColor"
+           x2="-6"
+           id="line125"
+           x1="0"
+           y1="0"
+           y2="0" />
+        <text
+           fill="currentColor"
+           x="-9"
+           dy="0.31999999em"
+           id="text125">1.0</text>
+      </g>
+      <g
+         class="tick"
+         opacity="1"
+         transform="translate(0,11.5)"
+         id="g127">
+        <line
+           stroke="currentColor"
+           x2="-6"
+           id="line126"
+           x1="0"
+           y1="0"
+           y2="0" />
+        <text
+           fill="currentColor"
+           x="-9"
+           dy="0.31999999em"
+           id="text126">2.0</text>
+      </g>
+    </g>
+    <line
+       class="vline"
+       x1="50"
+       x2="50"
+       y1="130"
+       y2="50"
+       style="opacity:0.5;stroke:#56626b;stroke-width:0"
+       id="line137" />
+    <g
+       id="g137"
+       transform="translate(50,50)">
+      <text
+         x="0"
+         y="0"
+         class="violin-group-label"
+         transform="translate(46,155)"
+         id="text137">Basolateral amygdala</text>
+    </g>
+  </g>
+  <g
+     id="g149"
+     transform="translate(-238.64546,-43.205995)">
+    <g
+       id="g35"
+       transform="translate(50,50)">
+      <text
+         x="0"
+         y="0"
+         class="violin-group-label"
+         text-anchor="center"
+         fill="#ff4500"
+         transform="translate(415,130)"
+         id="text34">pvalue: 3.5e-17</text>
+    </g>
+    <g
+       id="violin3-AA"
+       class="violin-g"
+       transform="translate(50,50)">
+      <path
+         d="m 378.54174,29 -1.20007,-1 h -1.12463 l -1.00277,-1 -0.84198,-1 -0.65267,-1 h -0.44693 L 373.03539,24 373,23 h 0.14901 l 0.30879,-1 0.43976,-1 0.54062,-1 h 0.61253 l 0.65848,-1 0.68249,-1 0.68897,-1 h 0.68212 l 0.66555,-1 0.6421,-1 h 0.61388 l 0.58236,-1 0.54868,-1 0.51392,-1 h 0.4794 l 0.44678,-1 0.41791,-1 h 0.39452 l 0.37771,-1 0.36735,-1 0.36192,-1 h 5.6503 l 0.36192,1 0.36735,1 0.37771,1 h 0.39452 l 0.41791,1 0.44678,1 h 0.4794 l 0.51392,1 0.54868,1 0.58236,1 h 0.61388 l 0.6421,1 0.66555,1 h 0.68212 l 0.68897,1 0.68249,1 0.65848,1 h 0.61253 l 0.54062,1 0.43976,1 0.30879,1 H 401 l -0.0354,1 -0.2373,1 h -0.44693 l -0.65267,1 -0.84198,1 -1.00277,1 h -1.12463 l -1.20007,1 z"
+         class="violin"
+         style="fill:#94a8b8"
+         id="path35" />
+      <rect
+         x="382.33334"
+         y="17"
+         width="9.333333"
+         height="8"
+         class="violin-ir"
+         id="rect35" />
+      <line
+         x1="382.33334"
+         x2="391.66666"
+         y1="22"
+         y2="22"
+         class="violin-median"
+         id="line35" />
+    </g>
+    <g
+       id="violin3-AG"
+       class="violin-g"
+       transform="translate(50,50)">
+      <path
+         d="m 407.19873,49 h -1.21225 l -1.10112,-1 -0.94302,-1 h -0.7605 l -0.57834,-1 -0.41854,-1 -0.29587,-1 h -0.21521 l -0.17146,-1 -0.1517,-1 -0.13925,-1 h -0.11841 L 401.01481,40 401,39 h 0.069 l 0.16522,-1 0.26395,-1 0.35601,-1 h 0.43503 l 0.49849,-1 0.54762,-1 0.58648,-1 h 0.62063 l 0.65538,-1 0.69417,-1 h 0.7374 l 0.78189,-1 0.82151,-1 0.84857,-1 h 0.85574 l 0.83797,-1 h 8.44994 l 0.83797,1 h 0.85574 l 0.84857,1 0.82151,1 0.78189,1 h 0.7374 l 0.69417,1 0.65538,1 h 0.62063 l 0.58648,1 0.54762,1 0.49849,1 h 0.43503 l 0.35601,1 0.26395,1 0.16522,1 H 429 l -0.0148,1 -0.0782,1 h -0.11841 l -0.13925,1 -0.1517,1 -0.17146,1 h -0.21521 l -0.29587,1 -0.41854,1 -0.57834,1 h -0.7605 l -0.94302,1 -1.10112,1 h -1.21225 z"
+         class="violin"
+         style="fill:#94a8b8"
+         id="path36" />
+      <rect
+         x="410.33334"
+         y="35"
+         width="9.333333"
+         height="10"
+         class="violin-ir"
+         id="rect36" />
+      <line
+         x1="410.33334"
+         x2="419.66666"
+         y1="40"
+         y2="40"
+         class="violin-median"
+         id="line36" />
+    </g>
+    <g
+       id="violin3-GG"
+       class="violin-g"
+       transform="translate(50,50)">
+      <path
+         d="m 438.8928,70 -0.34416,-1 -0.33988,-1 h -0.34832 l -0.36999,-1 -0.4031,-1 -0.44424,-1 h -0.48924 l -0.53406,-1 -0.57536,-1 h -0.61074 l -0.63858,-1 -0.65766,-1 -0.66659,-1 h -0.66337 l -0.64513,-1 -0.60806,-1 -0.54779,-1 h -0.46008 l -0.34174,-1 -0.19186,-1 H 429 l 0.18874,-1 0.40195,-1 0.6121,-1 h 0.80226 l 0.95552,-1 1.0576,-1 1.0995,-1 h 1.07916 l 1.0022,-1 0.88109,-1 h 0.73304 l 0.57698,-1 0.43021,-1 0.30568,-1 h 0.21011 l 0.14373,-1 0.10132,-1 0.0744,-1 h 0.0538 l 0.0322,-1 0.006,-1 h -0.0247 l -0.0554,-1 -0.0797,-1 -0.0905,-1 h -0.0824 l -0.0524,-1 -0.002,-1 0.0656,-1 h 0.14175 6.86372 0.14175 l 0.0656,1 -0.002,1 -0.0524,1 h -0.0824 l -0.0905,1 -0.0797,1 -0.0554,1 h -0.0247 l 0.006,1 0.0322,1 h 0.0538 l 0.0744,1 0.10132,1 0.14373,1 h 0.21011 l 0.30568,1 0.43021,1 0.57698,1 h 0.73304 l 0.88109,1 1.0022,1 h 1.07916 l 1.0995,1 1.0576,1 0.95552,1 h 0.80226 l 0.6121,1 0.40195,1 L 457,55 h -0.0129 l -0.19186,1 -0.34174,1 h -0.46008 l -0.54779,1 -0.60806,1 -0.64513,1 h -0.66337 l -0.66659,1 -0.65766,1 -0.63858,1 h -0.61074 l -0.57536,1 -0.53406,1 h -0.48924 l -0.44424,1 -0.4031,1 -0.36999,1 h -0.34832 l -0.33988,1 -0.34416,1 z"
+         class="violin"
+         style="fill:#94a8b8"
+         id="path37" />
+      <rect
+         x="438.33334"
+         y="51"
+         width="9.333333"
+         height="9"
+         class="violin-ir"
+         id="rect37" />
+      <line
+         x1="438.33334"
+         x2="447.66666"
+         y1="55"
+         y2="55"
+         class="violin-median"
+         id="line37" />
+    </g>
+    <g
+       class="violin-size-axis-hide"
+       transform="translate(50,148)"
+       fill="none"
+       font-size="10px"
+       font-family="sans-serif"
+       text-anchor="middle"
+       id="g41">
+      <path
+         class="domain"
+         stroke="currentColor"
+         d="M 372.5,6 V 0.5 h 86 V 6"
+         id="path38" />
+      <g
+         class="tick"
+         opacity="1"
+         transform="translate(387.5)"
+         id="g38">
+        <line
+           stroke="currentColor"
+           y2="6"
+           id="line38"
+           x1="0"
+           y1="0"
+           x2="0" />
+        <text
+           fill="currentColor"
+           y="9"
+           dy="0.70999998em"
+           id="text38">(17)</text>
+      </g>
+      <g
+         class="tick"
+         opacity="1"
+         transform="translate(415.5)"
+         id="g39">
+        <line
+           stroke="currentColor"
+           y2="6"
+           id="line39"
+           x1="0"
+           y1="0"
+           x2="0" />
+        <text
+           fill="currentColor"
+           y="9"
+           dy="0.70999998em"
+           id="text39">(40)</text>
+      </g>
+      <g
+         class="tick"
+         opacity="1"
+         transform="translate(443.5)"
+         id="g40">
+        <line
+           stroke="currentColor"
+           y2="6"
+           id="line40"
+           x1="0"
+           y1="0"
+           x2="0" />
+        <text
+           fill="currentColor"
+           y="9"
+           dy="0.70999998em"
+           id="text40">(25)</text>
+      </g>
+    </g>
+    <g
+       class="violin-sub-axis"
+       transform="translate(50,135)"
+       fill="none"
+       font-size="10px"
+       font-family="sans-serif"
+       text-anchor="middle"
+       id="g45">
+      <path
+         class="domain"
+         stroke="currentColor"
+         d="M 372.5,6 V 0.5 h 86 V 6"
+         id="path41" />
+      <g
+         class="tick"
+         opacity="1"
+         transform="translate(387.5)"
+         id="g42">
+        <line
+           stroke="currentColor"
+           y2="6"
+           id="line41"
+           x1="0"
+           y1="0"
+           x2="0" />
+        <text
+           fill="currentColor"
+           y="9"
+           dy="0.70999998em"
+           id="text41">AA</text>
+      </g>
+      <g
+         class="tick"
+         opacity="1"
+         transform="translate(415.5)"
+         id="g43">
+        <line
+           stroke="currentColor"
+           y2="6"
+           id="line42"
+           x1="0"
+           y1="0"
+           x2="0" />
+        <text
+           fill="currentColor"
+           y="9"
+           dy="0.70999998em"
+           id="text42">AG</text>
+      </g>
+      <g
+         class="tick"
+         opacity="1"
+         transform="translate(443.5)"
+         id="g44">
+        <line
+           stroke="currentColor"
+           y2="6"
+           id="line43"
+           x1="0"
+           y1="0"
+           x2="0" />
+        <text
+           fill="currentColor"
+           y="9"
+           dy="0.70999998em"
+           id="text43">GG</text>
+      </g>
+    </g>
+    <line
+       class="vline"
+       x1="403.5"
+       x2="403.5"
+       y1="130"
+       y2="50"
+       style="opacity:0.5;stroke:#56626b;stroke-width:1"
+       id="line130" />
+    <g
+       id="g140"
+       transform="translate(50,50)">
+      <text
+         x="0"
+         y="0"
+         class="violin-group-label"
+         transform="translate(415,155)"
+         id="text140">Lateral habenula</text>
+    </g>
+  </g>
+  <g
+     id="g147"
+     transform="translate(-360.67549,120.57089)">
+    <g
+       id="g46"
+       transform="translate(50,50)">
+      <text
+         x="0"
+         y="0"
+         class="violin-group-label"
+         text-anchor="center"
+         fill="#ff4500"
+         transform="translate(538,130)"
+         id="text45">pvalue: 1.44e-15</text>
+    </g>
+    <g
+       id="violin4-AA"
+       class="violin-g"
+       transform="translate(50,50)">
+      <path
+         d="m 501.30863,28 h -1.18872 l -1.10449,-1 -0.97606,-1 -0.8108,-1 h -0.6185 L 496.19938,24 496,23 h 0.004 l 0.18873,-1 0.348,-1 0.47712,-1 h 0.57475 l 0.64225,-1 0.68303,-1 0.70157,-1 h 0.70266 l 0.6907,-1 0.66934,-1 h 0.64137 l 0.60887,-1 0.5735,-1 0.53689,-1 h 0.5009 l 0.46768,-1 0.43948,-1 h 0.41808 l 0.40423,-1 0.39712,-1 h 6.65996 l 0.39712,1 0.40423,1 h 0.41808 l 0.43948,1 0.46768,1 h 0.5009 l 0.53689,1 0.5735,1 0.60887,1 h 0.64137 l 0.66934,1 0.6907,1 h 0.70266 l 0.70157,1 0.68303,1 0.64225,1 h 0.57475 l 0.47712,1 0.348,1 0.18873,1 H 524 l -0.19938,1 -0.41068,1 h -0.6185 l -0.8108,1 -0.97606,1 -1.10449,1 h -1.18872 z"
+         class="violin"
+         style="fill:#90c1c1"
+         id="path46" />
+      <rect
+         x="505.33334"
+         y="17"
+         width="9.333333"
+         height="8"
+         class="violin-ir"
+         id="rect46" />
+      <line
+         x1="505.33334"
+         x2="514.66669"
+         y1="22"
+         y2="22"
+         class="violin-median"
+         id="line46" />
+    </g>
+    <g
+       id="violin4-AG"
+       class="violin-g"
+       transform="translate(50,50)">
+      <path
+         d="m 531.36473,49 h -1.24258 l -1.20628,-1 -1.11474,-1 h -0.98001 l -0.81916,-1 -0.65076,-1 -0.49126,-1 h -0.35219 l -0.23893,-1 -0.15115,-1 -0.0846,-1 H 524 l 0.009,-1 0.0465,-1 h 0.082 l 0.11749,-1 0.15415,-1 0.19343,-1 h 0.23698 l 0.28664,-1 0.34422,-1 0.41101,-1 h 0.48727 l 0.57163,-1 0.66073,-1 h 0.74911 l 0.82984,-1 0.89545,-1 0.93922,-1 h 0.95615 l 0.94375,-1 h 10.17052 l 0.94375,1 h 0.95615 l 0.93922,1 0.89545,1 0.82984,1 h 0.74911 l 0.66073,1 0.57163,1 h 0.48727 l 0.41101,1 0.34422,1 0.28664,1 h 0.23698 l 0.19343,1 0.15415,1 0.11749,1 h 0.082 l 0.0465,1 0.009,1 h -0.0331 l -0.0846,1 -0.15115,1 -0.23893,1 h -0.35219 l -0.49126,1 -0.65076,1 -0.81916,1 h -0.98001 l -1.11474,1 -1.20628,1 h -1.24258 z"
+         class="violin"
+         style="fill:#90c1c1"
+         id="path47" />
+      <rect
+         x="533.33331"
+         y="34"
+         width="9.333333"
+         height="10"
+         class="violin-ir"
+         id="rect47" />
+      <line
+         x1="533.33331"
+         x2="542.66669"
+         y1="39"
+         y2="39"
+         class="violin-median"
+         id="line47" />
+    </g>
+    <g
+       id="violin4-GG"
+       class="violin-g"
+       transform="translate(50,50)">
+      <path
+         d="m 563.36577,72 -0.31831,-1 -0.3276,-1 h -0.34007 l -0.35643,-1 -0.37672,-1 h -0.40035 l -0.42644,-1 -0.45397,-1 -0.48202,-1 h -0.50983 l -0.53682,-1 -0.56245,-1 h -0.58617 l -0.60716,-1 -0.6243,-1 -0.63588,-1 h -0.63962 l -0.63249,-1 -0.61079,-1 -0.57032,-1 h -0.50681 l -0.41648,-1 -0.29689,-1 H 552 l 0.0278,-1 0.22342,-1 0.42894,-1 h 0.63109 l 0.81493,-1 0.9657,-1 1.0709,-1 h 1.12231 l 1.1173,-1 1.05934,-1 h 0.95742 l 0.82448,-1 0.67539,-1 0.52464,-1 h 0.3844 l 0.26331,-1 0.16599,-1 0.0934,-1 h 0.0439 l 0.0142,-1 2.1e-4,-1 h -0.001 l 0.006,-1 0.0215,-1 0.0425,-1 h 0.0679 l 0.0966,-1 0.12668,-1 0.15612,-1 h 4.1495 l 0.15612,1 0.12668,1 0.0966,1 h 0.0679 l 0.0425,1 0.0215,1 0.006,1 h -10e-4 l 2.1e-4,1 0.0142,1 h 0.0439 l 0.0934,1 0.16599,1 0.26331,1 h 0.3844 l 0.52464,1 0.67539,1 0.82448,1 h 0.95742 l 1.05934,1 1.1173,1 h 1.12231 l 1.0709,1 0.9657,1 0.81493,1 h 0.63109 l 0.42894,1 0.22342,1 0.0278,1 h -0.14785 l -0.29689,1 -0.41648,1 h -0.50681 l -0.57032,1 -0.61079,1 -0.63249,1 h -0.63962 l -0.63588,1 -0.6243,1 -0.60716,1 h -0.58617 l -0.56245,1 -0.53682,1 h -0.50983 l -0.48202,1 -0.45397,1 -0.42644,1 h -0.40035 l -0.37672,1 -0.35643,1 h -0.34007 l -0.3276,1 -0.31831,1 z"
+         class="violin"
+         style="fill:#90c1c1"
+         id="path48" />
+      <rect
+         x="561.33331"
+         y="51"
+         width="9.333333"
+         height="9"
+         class="violin-ir"
+         id="rect48" />
+      <line
+         x1="561.33331"
+         x2="570.66669"
+         y1="55"
+         y2="55"
+         class="violin-median"
+         id="line48" />
+    </g>
+    <g
+       class="violin-size-axis-hide"
+       transform="translate(50,148)"
+       fill="none"
+       font-size="10px"
+       font-family="sans-serif"
+       text-anchor="middle"
+       id="g52">
+      <path
+         class="domain"
+         stroke="currentColor"
+         d="M 495.5,6 V 0.5 h 86 V 6"
+         id="path49" />
+      <g
+         class="tick"
+         opacity="1"
+         transform="translate(510.5)"
+         id="g49">
+        <line
+           stroke="currentColor"
+           y2="6"
+           id="line49"
+           x1="0"
+           y1="0"
+           x2="0" />
+        <text
+           fill="currentColor"
+           y="9"
+           dy="0.70999998em"
+           id="text49">(15)</text>
+      </g>
+      <g
+         class="tick"
+         opacity="1"
+         transform="translate(538.5)"
+         id="g50">
+        <line
+           stroke="currentColor"
+           y2="6"
+           id="line50"
+           x1="0"
+           y1="0"
+           x2="0" />
+        <text
+           fill="currentColor"
+           y="9"
+           dy="0.70999998em"
+           id="text50">(39)</text>
+      </g>
+      <g
+         class="tick"
+         opacity="1"
+         transform="translate(566.5)"
+         id="g51">
+        <line
+           stroke="currentColor"
+           y2="6"
+           id="line51"
+           x1="0"
+           y1="0"
+           x2="0" />
+        <text
+           fill="currentColor"
+           y="9"
+           dy="0.70999998em"
+           id="text51">(23)</text>
+      </g>
+    </g>
+    <g
+       class="violin-sub-axis"
+       transform="translate(50,135)"
+       fill="none"
+       font-size="10px"
+       font-family="sans-serif"
+       text-anchor="middle"
+       id="g56">
+      <path
+         class="domain"
+         stroke="currentColor"
+         d="M 495.5,6 V 0.5 h 86 V 6"
+         id="path52" />
+      <g
+         class="tick"
+         opacity="1"
+         transform="translate(510.5)"
+         id="g53">
+        <line
+           stroke="currentColor"
+           y2="6"
+           id="line52"
+           x1="0"
+           y1="0"
+           x2="0" />
+        <text
+           fill="currentColor"
+           y="9"
+           dy="0.70999998em"
+           id="text52">AA</text>
+      </g>
+      <g
+         class="tick"
+         opacity="1"
+         transform="translate(538.5)"
+         id="g54">
+        <line
+           stroke="currentColor"
+           y2="6"
+           id="line53"
+           x1="0"
+           y1="0"
+           x2="0" />
+        <text
+           fill="currentColor"
+           y="9"
+           dy="0.70999998em"
+           id="text53">AG</text>
+      </g>
+      <g
+         class="tick"
+         opacity="1"
+         transform="translate(566.5)"
+         id="g55">
+        <line
+           stroke="currentColor"
+           y2="6"
+           id="line54"
+           x1="0"
+           y1="0"
+           x2="0" />
+        <text
+           fill="currentColor"
+           y="9"
+           dy="0.70999998em"
+           id="text54">GG</text>
+      </g>
+    </g>
+    <line
+       class="vline"
+       x1="526.5"
+       x2="526.5"
+       y1="130"
+       y2="50"
+       style="opacity:0.5;stroke:#56626b;stroke-width:1"
+       id="line131" />
+    <g
+       id="g141"
+       transform="translate(50,50)">
+      <text
+         x="0"
+         y="0"
+         class="violin-group-label"
+         transform="translate(538,155)"
+         id="text141">Nucleus accumbens core</text>
+    </g>
+  </g>
+  <g
+     id="g151"
+     transform="translate(-43.486131,-100.23806)">
+    <g
+       id="g148"
+       transform="translate(-196.04773,220.80895)">
+      <g
+         id="g24"
+         transform="translate(50,50)">
+        <text
+           x="0"
+           y="0"
+           class="violin-group-label"
+           text-anchor="center"
+           fill="#ff4500"
+           transform="translate(292,130)"
+           id="text23">pvalue: 2.11e-17</text>
+      </g>
+      <g
+         id="violin2-AA"
+         class="violin-g"
+         transform="translate(50,50)">
+        <path
+           d="m 255.80285,30 -1.13896,-1 -1.07905,-1 h -0.97933 l -0.84665,-1 -0.69028,-1 -0.52048,-1 h -0.34722 L 250.02196,24 250,23 h 0.11965 l 0.24387,-1 0.35018,-1 0.43893,-1 h 0.51092 l 0.56705,-1 0.60826,-1 0.63553,-1 h 0.64999 l 0.65293,-1 0.6458,-1 h 0.63023 l 0.60797,-1 0.58083,-1 0.55073,-1 h 0.5196 l 0.48939,-1 0.46181,-1 h 0.43823 l 0.41925,-1 0.40467,-1 0.39328,-1 h 6.1618 l 0.39328,1 0.40467,1 0.41925,1 h 0.43823 l 0.46181,1 0.48939,1 h 0.5196 l 0.55073,1 0.58083,1 0.60797,1 h 0.63023 l 0.6458,1 0.65293,1 h 0.64999 l 0.63553,1 0.60826,1 0.56705,1 h 0.51092 l 0.43893,1 0.35018,1 0.24387,1 H 278 l -0.022,1 -0.17892,1 h -0.34722 l -0.52048,1 -0.69028,1 -0.84665,1 h -0.97933 l -1.07905,1 -1.13896,1 z"
+           class="violin"
+           style="fill:#90c1c1"
+           id="path24" />
+        <rect
+           x="259.33334"
+           y="17"
+           width="9.333333"
+           height="9"
+           class="violin-ir"
+           id="rect24" />
+        <line
+           x1="259.33334"
+           x2="268.66666"
+           y1="22"
+           y2="22"
+           class="violin-median"
+           id="line24" />
+      </g>
+      <g
+         id="violin2-AG"
+         class="violin-g"
+         transform="translate(50,50)">
+        <path
+           d="m 284.35279,49 h -1.30512 l -1.24226,-1 -1.12022,-1 h -0.95002 l -0.74762,-1 -0.53172,-1 -0.32147,-1 H 278 l 0.0156,-1 0.1192,-1 0.17314,-1 h 0.18046 l 0.15026,-1 0.0968,-1 h 0.0374 l -0.01,-1 -0.0286,-1 -0.008,-1 h 0.0568 l 0.16317,-1 0.30165,-1 0.45777,-1 h 0.61471 l 0.75631,-1 0.86951,-1 h 0.94601 l 0.98279,-1 0.98156,-1 0.94772,-1 h 0.88888 l 0.81352,-1 0.72978,-1 0.64457,-1 h 0.56284 5.11178 0.56284 l 0.64457,1 0.72978,1 0.81352,1 h 0.88888 l 0.94772,1 0.98156,1 0.98279,1 h 0.94601 l 0.86951,1 0.75631,1 h 0.61471 l 0.45777,1 0.30165,1 0.16317,1 h 0.0568 l -0.008,1 -0.0286,1 -0.01,1 h 0.0374 l 0.0968,1 0.15026,1 h 0.18046 l 0.17314,1 0.1192,1 0.0156,1 h -0.13436 l -0.32147,1 -0.53172,1 -0.74762,1 h -0.95002 l -1.12022,1 -1.24226,1 h -1.30512 z"
+           class="violin"
+           style="fill:#90c1c1"
+           id="path25" />
+        <rect
+           x="287.33334"
+           y="34"
+           width="9.333333"
+           height="11"
+           class="violin-ir"
+           id="rect25" />
+        <line
+           x1="287.33334"
+           x2="296.66666"
+           y1="39"
+           y2="39"
+           class="violin-median"
+           id="line25" />
+      </g>
+      <g
+         id="violin2-GG"
+         class="violin-g"
+         transform="translate(50,50)">
+        <path
+           d="m 317.59987,73 -0.30643,-1 -0.3155,-1 -0.32709,-1 h -0.3422 l -0.36116,-1 -0.38366,-1 h -0.40899 l -0.43621,-1 -0.46444,-1 -0.49287,-1 h -0.52088 l -0.54797,-1 -0.57358,-1 h -0.59712 l -0.6176,-1 -0.63368,-1 -0.6434,-1 h -0.64411 l -0.63244,-1 -0.6044,-1 -0.55556,-1 h -0.48162 l -0.3791,-1 -0.24617,-1 H 306 l 0.10412,-1 0.30915,-1 0.51958,-1 h 0.7207 l 0.8964,-1 1.03111,-1 1.11198,-1 h 1.13079 l 1.08537,-1 0.98011,-1 h 0.82561 l 0.63755,-1 0.4347,-1 0.23677,-1 h 0.0621 l -0.0743,-1 -0.16266,-1 -0.19907,-1 h -0.18589 l -0.13109,-1 -0.047,-1 h 0.0519 l 0.15054,-1 0.23615,-1 0.29953,-1 h 0.33623 l 0.34666,-1 0.33534,-1 0.30947,-1 h 0.2771 l 0.24543,-1 0.21953,-1 h 3.81208 l 0.21953,1 0.24543,1 h 0.2771 l 0.30947,1 0.33534,1 0.34666,1 h 0.33623 l 0.29953,1 0.23615,1 0.15054,1 h 0.0519 l -0.047,1 -0.13109,1 h -0.18589 l -0.19907,1 -0.16266,1 -0.0743,1 h 0.0621 l 0.23677,1 0.4347,1 0.63755,1 h 0.82561 l 0.98011,1 1.08537,1 h 1.13079 l 1.11198,1 1.03111,1 0.8964,1 h 0.7207 l 0.51958,1 0.30915,1 L 334,55 h -0.0837 l -0.24617,1 -0.3791,1 h -0.48162 l -0.55556,1 -0.6044,1 -0.63244,1 h -0.64411 l -0.6434,1 -0.63368,1 -0.6176,1 h -0.59712 l -0.57358,1 -0.54797,1 h -0.52088 l -0.49287,1 -0.46444,1 -0.43621,1 h -0.40899 l -0.38366,1 -0.36116,1 h -0.3422 l -0.32709,1 -0.3155,1 -0.30643,1 z"
+           class="violin"
+           style="fill:#90c1c1"
+           id="path26" />
+        <rect
+           x="315.33334"
+           y="50"
+           width="9.333333"
+           height="10"
+           class="violin-ir"
+           id="rect26" />
+        <line
+           x1="315.33334"
+           x2="324.66666"
+           y1="54"
+           y2="54"
+           class="violin-median"
+           id="line26" />
+      </g>
+      <g
+         class="violin-size-axis-hide"
+         transform="translate(50,148)"
+         fill="none"
+         font-size="10px"
+         font-family="sans-serif"
+         text-anchor="middle"
+         id="g30">
+        <path
+           class="domain"
+           stroke="currentColor"
+           d="M 249.5,6 V 0.5 h 86 V 6"
+           id="path27" />
+        <g
+           class="tick"
+           opacity="1"
+           transform="translate(264.5)"
+           id="g27">
+          <line
+             stroke="currentColor"
+             y2="6"
+             id="line27"
+             x1="0"
+             y1="0"
+             x2="0" />
+          <text
+             fill="currentColor"
+             y="9"
+             dy="0.70999998em"
+             id="text27">(17)</text>
+        </g>
+        <g
+           class="tick"
+           opacity="1"
+           transform="translate(292.5)"
+           id="g28">
+          <line
+             stroke="currentColor"
+             y2="6"
+             id="line28"
+             x1="0"
+             y1="0"
+             x2="0" />
+          <text
+             fill="currentColor"
+             y="9"
+             dy="0.70999998em"
+             id="text28">(40)</text>
+        </g>
+        <g
+           class="tick"
+           opacity="1"
+           transform="translate(320.5)"
+           id="g29">
+          <line
+             stroke="currentColor"
+             y2="6"
+             id="line29"
+             x1="0"
+             y1="0"
+             x2="0" />
+          <text
+             fill="currentColor"
+             y="9"
+             dy="0.70999998em"
+             id="text29">(26)</text>
+        </g>
+      </g>
+      <g
+         class="violin-sub-axis"
+         transform="translate(50,135)"
+         fill="none"
+         font-size="10px"
+         font-family="sans-serif"
+         text-anchor="middle"
+         id="g34">
+        <path
+           class="domain"
+           stroke="currentColor"
+           d="M 249.5,6 V 0.5 h 86 V 6"
+           id="path30" />
+        <g
+           class="tick"
+           opacity="1"
+           transform="translate(264.5)"
+           id="g31">
+          <line
+             stroke="currentColor"
+             y2="6"
+             id="line30"
+             x1="0"
+             y1="0"
+             x2="0" />
+          <text
+             fill="currentColor"
+             y="9"
+             dy="0.70999998em"
+             id="text30">AA</text>
+        </g>
+        <g
+           class="tick"
+           opacity="1"
+           transform="translate(292.5)"
+           id="g32">
+          <line
+             stroke="currentColor"
+             y2="6"
+             id="line31"
+             x1="0"
+             y1="0"
+             x2="0" />
+          <text
+             fill="currentColor"
+             y="9"
+             dy="0.70999998em"
+             id="text31">AG</text>
+        </g>
+        <g
+           class="tick"
+           opacity="1"
+           transform="translate(320.5)"
+           id="g33">
+          <line
+             stroke="currentColor"
+             y2="6"
+             id="line32"
+             x1="0"
+             y1="0"
+             x2="0" />
+          <text
+             fill="currentColor"
+             y="9"
+             dy="0.70999998em"
+             id="text32">GG</text>
+        </g>
+      </g>
+      <line
+         class="vline"
+         x1="280.5"
+         x2="280.5"
+         y1="130"
+         y2="50"
+         style="opacity:0.5;stroke:#56626b;stroke-width:1"
+         id="line129" />
+      <g
+         id="g139"
+         transform="translate(50,50)">
+        <text
+           x="0"
+           y="0"
+           class="violin-group-label"
+           transform="translate(292,155)"
+           id="text139">Infralimbic cortex</text>
+      </g>
+    </g>
+    <g
+       class="violin-y-axis axis--y"
+       transform="translate(83.971633,270.60892)"
+       fill="none"
+       font-size="10px"
+       font-family="sans-serif"
+       text-anchor="end"
+       id="g128-3">
+      <path
+         class="domain"
+         stroke="currentColor"
+         d="M -6,80.5 H 0.5 V 0.5 H -6"
+         id="path122-6"
+         style="font-family:'Open Sans', Helvetica, Arial, sans-serif;fill:none;stroke:#c0c0c0;stroke-width:1px;shape-rendering:auto" />
+      <g
+         class="tick"
+         opacity="1"
+         transform="translate(0,69.5)"
+         id="g123-7">
+        <line
+           stroke="currentColor"
+           x2="-6"
+           id="line122-5"
+           x1="0"
+           y1="0"
+           y2="0"
+           style="font-family:'Open Sans', Helvetica, Arial, sans-serif;fill:none;stroke:#c0c0c0;stroke-width:1px;shape-rendering:auto" />
+        <text
+           fill="currentColor"
+           x="-9"
+           dy="0.31999999em"
+           id="text122-3"
+           style="font-family:'Open Sans', Helvetica, Arial, sans-serif;fill:#2a718b">-2.0</text>
+      </g>
+      <g
+         class="tick"
+         opacity="1"
+         transform="translate(0,55.5)"
+         id="g124-5">
+        <line
+           stroke="currentColor"
+           x2="-6"
+           id="line123-6"
+           x1="0"
+           y1="0"
+           y2="0"
+           style="font-family:'Open Sans', Helvetica, Arial, sans-serif;fill:none;stroke:#c0c0c0;stroke-width:1px;shape-rendering:auto" />
+        <text
+           fill="currentColor"
+           x="-9"
+           dy="0.31999999em"
+           id="text123-2"
+           style="font-family:'Open Sans', Helvetica, Arial, sans-serif;fill:#2a718b">-1.0</text>
+      </g>
+      <g
+         class="tick"
+         opacity="1"
+         transform="translate(0,40.5)"
+         id="g125-9">
+        <line
+           stroke="currentColor"
+           x2="-6"
+           id="line124-1"
+           x1="0"
+           y1="0"
+           y2="0"
+           style="font-family:'Open Sans', Helvetica, Arial, sans-serif;fill:none;stroke:#c0c0c0;stroke-width:1px;shape-rendering:auto" />
+        <text
+           fill="currentColor"
+           x="-9"
+           dy="0.31999999em"
+           id="text124-2"
+           style="font-family:'Open Sans', Helvetica, Arial, sans-serif;fill:#2a718b">0.0</text>
+      </g>
+      <g
+         class="tick"
+         opacity="1"
+         transform="translate(0,25.5)"
+         id="g126-7">
+        <line
+           stroke="currentColor"
+           x2="-6"
+           id="line125-0"
+           x1="0"
+           y1="0"
+           y2="0"
+           style="font-family:'Open Sans', Helvetica, Arial, sans-serif;fill:none;stroke:#c0c0c0;stroke-width:1px;shape-rendering:auto" />
+        <text
+           fill="currentColor"
+           x="-9"
+           dy="0.31999999em"
+           id="text125-9"
+           style="font-family:'Open Sans', Helvetica, Arial, sans-serif;fill:#2a718b">1.0</text>
+      </g>
+      <g
+         class="tick"
+         opacity="1"
+         transform="translate(0,11.5)"
+         id="g127-3">
+        <line
+           stroke="currentColor"
+           x2="-6"
+           id="line126-6"
+           x1="0"
+           y1="0"
+           y2="0"
+           style="font-family:'Open Sans', Helvetica, Arial, sans-serif;fill:none;stroke:#c0c0c0;stroke-width:1px;shape-rendering:auto" />
+        <text
+           fill="currentColor"
+           x="-9"
+           dy="0.31999999em"
+           id="text126-0"
+           style="font-family:'Open Sans', Helvetica, Arial, sans-serif;fill:#2a718b">2.0</text>
+      </g>
+    </g>
+    <line
+       class="vline"
+       x1="87.769997"
+       x2="87.769997"
+       y1="359"
+       y2="279"
+       style="opacity:0.5;stroke:#56626b;stroke-width:0"
+       id="line137-6" />
+  </g>
+</svg>
