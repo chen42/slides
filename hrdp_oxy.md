@@ -11,7 +11,6 @@
 October 4th, 2023
 
 
-
 ---
 ## Oxycodone is highly addictive 
 
@@ -41,15 +40,19 @@ October 4th, 2023
 
 <img src="./images/oxycodone/oxycodone_hrdp_schedule.png">
 
-</td>
-</tr></table>
-
 <p align=left>
 <span id="cite"> Sharp et. al., Genes Brain Behav, 2021</span>
 
+
+
+</td>
+</tr></table>
 ---
 ## Hybrid rat diversity panel
 <img src="./images/ratGenome/HRDP_1000x357.png">
+
+<b>Rat Genome Database | Medical College of Wisconsin</b>
+
 
 ---
 ## Whole genome sequencing of the HRDP
@@ -61,6 +64,11 @@ October 4th, 2023
 
 <td>
 <img src="./images/ratGenome/hrdp_variant_stat.png" width=60%>
+
+<p align=left>
+<span id="cite"> de Jong et. al., BioRxiv 2023</span>
+
+
 </td>
 </tr></table>
 
@@ -115,7 +123,7 @@ October 4th, 2023
 
 <b>females</b>
 <br>
-<img src="./images/oxycodone/oxy_nic_ethovision_corrrelation_females.png">
+<img src="./images/oxycodone/oxy_nic_ethovision_corrrelation_females.png" width=120%>
 
 <p>
 
@@ -125,19 +133,24 @@ October 4th, 2023
 
 ---
 ## Genetic mapping of substance use related traits in rats
-### Socially acquired nicotine intravenous self-administration
+### Socially acquired <font color="red">nicotine</font> intravenous self-administration
 
 <img src="./images/p50/porcupine_plot_nicotine.png">
 
+
+<p align=center>
+<span id="cite"> Chitre, Palmer et. al., unpublished</span>
+
+
 ---
 
-## https://genecup.org | Literature mining for biologically relevant candidate genes
+##  Literature mining for biologically relevant candidate genes |  https://genecup.org 
 
 <a href="https://genecup.org/cytoscape/?rnd=tmpDYEQAw&genequery=Shtn1_Gria4_Arhgef7_Alg8" target=_new>
 <img src="./images/p50/genecup_4_candidates.svg" width=80%>
 </a>
 
-<p align=left>
+<p align=center>
 <span id="cite"> Gunturkun, et. al., G3, 2022</span>
 
 
@@ -146,8 +159,14 @@ October 4th, 2023
 ## Combining brain region or cell type specific gene expression to identify candidate genes
 
 <table> <tr>
-<td width=50%>
+<td width=50% align="right">
 <img src="./images/p50/violinplot0-save.svg">
+
+<p align=right>
+<span id="cite"> Munro, Palmer et. al., Nucleic Acid Res. 2022</span>
+
+
+
 </td>
 
 <td width=50%>
@@ -179,7 +198,7 @@ October 4th, 2023
 
 * Oral oxycodone self-administration captures some key features of opioid use disorder 
 * Large phenotypic differences in oxycodone between inbred strains 
-* Rats are powerful model organism to study the genetics of SUD 
+* The rat is a powerful model organism to dissect the molecular mechanisms underlying SUD 
 
 ---
 
@@ -223,8 +242,8 @@ Tristan de Jong
 
 
 * Burt M Sharp | Megan K Mulligan | Robert W Williams (UTHSC)
-* Abraham Palmer  (UCSD)
+* Abraham A Palmer  (UCSD)
 
-Funding: NIDA U01 DA-053672
-
+Funding: NIDA U01DA053672 | U01U01DA047638 |   1U01DA057530 | P50DA037844 |  R01DA048017 
+ 
 
