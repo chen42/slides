@@ -12,21 +12,36 @@ October 4th, 2023
 
 
 ---
+
 ## Oxycodone is highly addictive 
 
-* Prescription oral oxycodone is a major contributor to the current opioid abuse epidemic.
-* In general, rapid intravenous infusion of abused drugs produces greater positive subjective effects than slow infusion.
+* Rapid intravenous infusion of abused drugs produces greater subjective effects than slow infusion.
 * It has been claimed that delayed absorption of oxycodone reduces its abuse liability.
 * Oxycodone has strong addiction liability even when it is delivered orally in controlled-release formulation.
+* Prescription oral oxycodone is a major contributor to the current opioid abuse epidemic.
+
+Note:
+
+In both animal and human studies, it has been found that, for abused substances, the route of administration is one of the  determining factors of their abuse liability. Strong euphoria is usually produced by the rapid pharmacokinetics in the brain following intravenous injection or inhalation. 
+Pharmaceutical companies have argued that the controlled release of oxycodone delivered orally is very safe and widely promoted its clinical use for pain management, which led to the current opioid epidemic.
+
 
 ---
-## Early prevention is key 
 
-* Early diagnosis and prevention is critical for stemming opioid abuse epidemic.
-* Readily available and easy to use test for many chronic diseases has been successful.
-* Identifying early behavioral phenotypes that predict drug abuse and their genetic contribution will have high impact. 
+## Early intervention is critical for ending an epidemic
+
+* Individual differences in vulnerability to opioids.
+* Both genetic and environmental factor contribute to vulnerability to opioids.
+* Animal models can help identifying genetic vulnerability to opioid abuse.   
+
+Note:
+
+There is large individual differences in the progression from opioid use to abuse. Not all individuals receive prescription oxycodone become addicted to opioids. Only some of them transition to compulsive use and addiction. Both genetic and environmental factor contribute to vulnerability to opioids.
+While the study of substance use in human is bounded by many ethical considerations, animal models can help identify individuals carry genetic vulnerability to opioids and environmental factors exacerbate these vulnerabilities. Animal studies can also identify causal molecular mechanisms. 
+These knowledge can contribute to the early intervention that is needed for ending this epidemic
 
 ---
+
 ## Oral self-administration of oxycodone in rats
 
 <table> <tr><td width=40%>
@@ -44,16 +59,22 @@ October 4th, 2023
 <span id="cite"> Sharp et. al., Genes Brain Behav, 2021</span>
 
 
-
 </td>
 </tr></table>
+
+Note:
+To model voluntary oxycodone use in rats, we developed an oral oxycodone self-administration procedure. 
+
 ---
+
 ## Hybrid rat diversity panel
 <img src="./images/ratGenome/HRDP_1000x357.png">
 
 RI panels provide mapping power | Classic inbreds provide mapping resolution
 <p align=center>
 <span id="cite"> Tabakoff, Saba, et al.  Methods Mol Biol. 2019 </span>
+<br>
+Available from Medical College of Wisconsin
 
 
 
@@ -76,6 +97,12 @@ RI panels provide mapping power | Classic inbreds provide mapping resolution
 
 </td>
 </tr></table>
+
+---
+#### Oxycodone self-administration in rats
+## Number of licks, all strains combined by sex 
+
+<img src="./images/oxycodone/hrdp_oxycodone_oral_operant_self-admin_summary_plot-0.png">
 
 ---
 #### Oxycodone self-administration in rats
