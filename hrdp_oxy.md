@@ -51,7 +51,12 @@ October 4th, 2023
 ## Hybrid rat diversity panel
 <img src="./images/ratGenome/HRDP_1000x357.png">
 
-<b>Rat Genome Database | Medical College of Wisconsin</b>
+RI panels provide mapping power | Classic inbreds provide mapping resolution
+<p align=center>
+<span id="cite"> Tabakoff, Saba, et al.  Methods Mol Biol. 2019 </span>
+
+
+
 
 
 ---
