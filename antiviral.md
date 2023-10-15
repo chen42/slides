@@ -14,7 +14,7 @@ Please use the live online version at http://chen42.github.io/slides/antiviral.h
 
 Or download the [**Printable version that can be saved as a pdf file**](http://chen42.github.io/slides/antiviral.html?print-pdf#/).
 
-<b>Last update: Nov 2nd, 2022</b>
+<b>Last update: Oct 14th, 2023</b>
 
 ---
 
@@ -949,13 +949,17 @@ HBV polymerase has reverse transcription activity
 
 ## Anti-Hepatitis Agents
 
+### [treatment guideline](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5975958/)
+
 * <span id="drug">Entecavir</span> (Baraclude)
-* <span id="drug">Adefovir</span> (Hepsera)
 * <span id="drug">Tenofovir</span> (Viread)
 * <span id="drug">Interferon alfa-2a</span> (Roferon) and -2b (Intron A)
 * <span id="drug">Peginterferon alfa-2a</span> (Pegasys) and alfa-2b (PegIntron)
 
+
+
 ---
+
 <section id="Entecavir">
 
 ## [Entecavir](https://www.clinicalkey.com/#!/content/drug_monograph/6-s2.0-3427) (Baraclude)
@@ -1021,23 +1025,6 @@ HBV polymerase has reverse transcription activity
 	* Most commonly (>3%) in clinical trials: nausea, diarrhea, asthenia, headache, vomiting, flatulence, abdominal pain, and anorexia. 
 	* Increase in liver enzymes
 	* watch for hepatitis flare if discontinued in patients with chronic HBV infection.
----
-<section id="Adefovir">
-
-## [Ade<font color="darkorange">fo</font>vir](https://www.clinicalkey.com/#!/content/drug_monograph/6-s2.0-2233)(Hepsera)
-
-* Mechanism of action 
-	* Nucleo<font color="darkorange">t</font>ide analog of deoxy<font color="darkorange">ade</font>nosine monophosphate
-	* Following formation of the diphosphate by cellular kinases, it inhibits HBV DNA polymerase
-	* ~10-fold more active for viral DNA polymerase than for the human DNA polymerase
-	* No cross resistance of <span id="drug"> lamivudine</span>-resistant HBV strains
-* Indication
-	* chronic hepatitis B
-* <a href="#/adverse">Adverse Effects</a>
-	* Exacerbations of hepatitis after discontinuation of treatment 
-	* Nephrotoxicity 
-	* Lactic acidosis/severe hepatomegaly with steatosis
-* [No longer](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5975958/) a preferred drug for HBV
 
 ---
 
@@ -1265,8 +1252,6 @@ a single-stranded, positive-sense RNA
 
 * Uncoating inhibitors 
 	* most current strains of flu virus are resistant to these drugs
-	* <span id="drug"> Amantadine</span> (Symadine, Symmetrel)
-	* <span id="drug"> Rimantadine</span> (Flumadine)
 
 ---
 
@@ -1305,8 +1290,6 @@ Sialic acid analog inhibitors of influenza A and B neuraminidase
 	* Only for those aged 12 or more initialy, subsequent clinical trails found to be safe for children as well.
 
 ---
-
-
 
 
 ## <span id="drug"> Baloxavir marboxil (Xofluza) </span> 
@@ -1389,7 +1372,7 @@ Another version of SARS-CoV-2 life cycle</a>
 
 ## [Recommendations on Antiviral Drugs for SARS-CoV-2](https://www.covid19treatmentguidelines.nih.gov/tables/management-of-nonhospitalized-adults-summary/)
 
-(last update: Sept 26, 2022)
+(last update: July 21, 2023)
 
 <b>For Patients do not require hospitalization or supplemental oxygen </b>
 
@@ -1399,9 +1382,7 @@ Another version of SARS-CoV-2 life cycle</a>
 * For patients who are at high risk of progression to severe COVID-19
 	* <span id="drug">Ritonavir</span>-boosted <span id="drug">nirmatrelvir</span> (Paxlovid)
 	* <span id="drug">Remdesivir (Veklury)</span>
-* Alternatives
-	* <span id="drug"> Bebtelovimab </span>
-	* <span id="drug"> Molnupiravir</span>
+	* <span id="drug">Molnupiravir</span>
 ---
 
 <section id="Nirmatrelvir">
@@ -1451,23 +1432,6 @@ Another version of SARS-CoV-2 life cycle</a>
 
 ---
 
-<section id="Bebtelovimab">
-
-## Bebtelovimab
-
-* Received FDA emergency use auth on Feb 11, 2022.
-* MoA
-	* monoclonal antibody against the spike protein 
-	* prevent binding of SARS-COV-2 with ACE2 
-	* prevents viral entry
-	* the epitope Bebtelovimab binds to is less frequently mutated. 
-* ADME
-	* i.v. injection 
-	* likely degraded via catabolic process into small peptides and amino acids.
-	* no toxicity was found when 10 times of authorized dose was tested.
-
----
-
 <section id="molnupiravir">
 
 ## Molnupiravir
@@ -1510,9 +1474,5 @@ Another version of SARS-CoV-2 life cycle</a>
 	* [Report by NPR](https://www.npr.org/sections/goatsandsoda/2020/11/11/933415492/protecting-women-against-hiv-just-got-9-times-easier)
 * [Gene editing for HIV enters into human testing](https://www.fiercebiotech.com/biotech/excision-hiv-crispr-gene-editing-therapy-cleared-for-human-studies-by-fda)
 * [Combination anti-HIV antibodies provide sustained virological suppression for up to 43 weeks](https://www.nature.com/articles/s41586-022-04797-9)
-
----
-
-
 
 
