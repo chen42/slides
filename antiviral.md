@@ -65,6 +65,10 @@ Home or End
 
 * Describe the mechanism of action and significant pharmacological properties of the <span id="yb">six major classes</span> of anti-HIV agents
 
+
+Note:
+Try to come up a few questions for the yellow highlighted sections.
+
 ---
 
 <section id="hiv">
@@ -78,6 +82,12 @@ single, positive strand RNA
 <br>
 HIV-1 widely distributed, more pathogenic | HIV-2 restricted to Central and West africa
 </div>
+
+Note: 
+Viral envelope, capsid is cone shaped, see  https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4876022/,  Fig 1. legend  
+
+Drug targets are highlighted using redish background
+
 
 ---
 
@@ -94,8 +104,12 @@ HIV-1 widely distributed, more pathogenic | HIV-2 restricted to Central and West
 	* Neurological disease: dementia, myelopathy, peripheral neuropathy	
 	* Rare malignancies: Kaposi sarcoma, oral hairy leukoplakia, or lymphoma
 
----
 
+Note: 
+* seroconversion: antibody test is positive.
+* should patents be treated if they are sympton free?
+
+---
 
 ## AIDS Timeline 
 
@@ -124,7 +138,10 @@ Rating of Recommendations: A = Strong;
 Rating of Evidence: I = Data from randomized controlled trials; II = Data from well-designed nonrandomized trials or observational cohort studies with long-term clinical outcomes; III = Expert opinion
 
 
-[HAART - cART - ART](https://www.verywell.com/cart-hiv-combination-antiretroviral-therapy-48921)
+[HAART - cART - ART](https://clinicalinfo.hiv.gov/en/glossary/antiretroviral-therapy-art)
+
+Note:
+A person's initial HIV regimen generally includes three antiretroviral (ARV) drugs from at least two different HIV drug classes
 
 ---
 ## HIV Life Cycle 
@@ -144,7 +161,14 @@ Rating of Evidence: I = Data from randomized controlled trials; II = Data from w
 1. *Initiation*: attachment, penetration, uncoating
 2. *Replication*: genome synthesis, RNA production, protein synthesis
 3. *Release*: assembly, maturation, exit from cell
+
+Note:
+which stages of viral replication can be targeted for treatment?
+The drug must kill the viral without kill the patient.
+
 ---
+
+
 
 <section id="recommend">
 
@@ -162,6 +186,11 @@ updated on Jun 03, 2021
 
 <small>An antiretroviral (ARV) regimen for a treatment-naive patient generally consists of two nucleoside reverse transcriptase inhibitors (NRTIs) administered in combination with a third active ARV drug from one of three drug classes: an integrase strand transfer inhibitor (INSTI), a non-nucleoside reverse transcriptase inhibitor (NNRTI), or a protease inhibitor (PI) with a pharmacokinetic (PK) enhancer (also known as a booster; the two drugs used for this purpose are cobicistat and ritonavir). </small>
 
+Note: 
+* ART is cART, a combination of drugs targeting multiple viral replication pathways.
+* Past recommendation includes protease inhibitors. Current recommendation all include INSTI
+* Need to understand the exceptions as well. 
+* click on the title link to read the full recommendation, DTG = dolutegravir;  3TC = lamivudine;  TAF = tenofovir alafenamide (no need to memorize these acronyms)
 ---
 
 <section id="Integrase">
@@ -199,6 +228,9 @@ updated on Jun 03, 2021
 </ul>
 </td> </tr></table>
 
+Note: 
+* this class of drug is named by its MoA
+* this class of drug is safer because human host cells do not integrate new DNA into its genome, so human cells do not use integrase.
 
 ---
 
@@ -217,6 +249,9 @@ updated on Jun 03, 2021
  * <span id="drug"> Rifampin </span> (antibiotic) induces UGT, thus requires higher <span id="drug"> Raltegravir / Dolutegravir </span> dose
 
 <span id=drug>Bictegravir</span> displays a high resistance barrier and has an improved phenotypic resistance profile compared to <span id=drug>dolutegravir (DTG), raltegravir (RAL) and elvitegravir (EVG). Bictegravir </span> has a longer dissociation half-life from both wild-type and mutant HIV-1 integrase/DNA complexes compared with DTG, RAL, and EVG
+
+Note:
+Among the five drugs, B and D are in the recommendations,  C is a new drug (expensive injectable), R is relatively worese in drug resistance, E is a substrate of CYP3A4
 
 ---
 
@@ -291,6 +326,10 @@ updated on Jun 03, 2021
 		* Including central obesity, dorsocervical fat enlargement [(buffalo hump)](https://www.clinicalkey.com/#!/content/medline/2-s2.0-9525364), peripheral wasting, accumulation of facial fat, [lipomas](http://www.mayoclinic.org/diseases-conditions/lipoma/basics/definition/con-20024646), breast enlargement, [gynecomastia](http://www.mayoclinic.org/diseases-conditions/gynecomastia/home/ovc-20257576)
 	*  [Mitochondrial toxicity](https://www.uptodate.com/contents/mitochondrial-toxicity-of-hiv-nucleoside-reverse-transcriptase-inhibitors/) is a major adverse effect of nucleoside analogues,  which can lead to myopathy, peripheral neuropathy, and hepatic steatosis with lactic acidosis
 
+Note: 
+These drugs inhibit DNA polymerase gamma, which replicates the mt genome.
+https://journals.sagepub.com/doi/full/10.1177/0192623313503519
+
 ---
 
 ## <a href="#/adverse/">Adverse Effects </a>of NRTIs
@@ -299,7 +338,11 @@ updated on Jun 03, 2021
 	* <span id="drug">Zidovudine</span>: bone marrow suppression; anemia, neutropenia; myopathy (mtDNA); 
 	* <span id="drug">Abacavir</span>: **hypersensitivity** reaction due to genetic predisposition (multi-organ autoimmune response, potentially life threatening) 
 		* <span id="yb"><a href="http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg38&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=chr6%3A31353875%2D31367067&hgsid=1488421281_ALYL8AoN0EV3FOejojvgWHHHoDaa">HLA-B\*5701</a>	screening before starting therapy </span> [NEJM](http://www.nejm.org/doi/full/10.1056/NEJMoa0706135#t=article)
-	* <span id="drug"> Emtricitabine </span>: psychiatric reactions, depression, dizziness, insomnia <span id="mem"> EmtriPSYtabine</span>
+	* <span id="drug"> Emtricitabine </span>: psychiatric reactions, depression, dizziness, insomnia 
+
+Note:
+* muscle has a lot of mtDNA
+* these drugs penetrate the BBB
 
 ---
 
@@ -776,7 +819,7 @@ c.f. <a href=#/hostcell>NRTI for HIV</a>
 
 * Drug selectivity:
 	* The <span id="yb">virus in infected cells activates the drug to an active form</span>
-		* Uninfected cell does not activate drug.
+		* Uninfected cells do not activate these drugs.
 	* Preferential affinity of acyclovir triphosphate for viral DNA polymerase rather than cellular enzyme. 
 * Resistance: 
 	* Altered viral thymidine kinase substrate specificity
@@ -843,11 +886,11 @@ Double stranded DNA virus
 ### [Valganciclovir](https://www.clinicalkey.com/#!/content/drug_monograph/6-s2.0-2584) (L-valyl ester prodrug)
 
 * MoA
-	* Ganciclovir is phosphorylated to ganciclovir monophosphate by <a href="https://pubmed.ncbi.nlm.nih.gov/1319560/">a viral protein kinase</a>
+	* Ganciclovir is phosphorylated to ganciclovir monophosphate by <a href="https://pubmed.ncbi.nlm.nih.gov/1319560/">a viral kinase</a>
 	* Ganciclovir triphosphate inhibits viral DNA synthesis 
 		* competing for a position in the viral DNA
 		* terminating DNA synthesis once incorporated 
-* ADME
+* ADM
 	* <span id="drug"> Valganciclovir </span> is hydrolyzed by esterases following oral administration to <span id="drug"> ganciclovir </span> 
 * Indications
 	* CMV retinitis in AIDS patients
@@ -866,7 +909,7 @@ Double stranded DNA virus
 
 * Mechanism of action 
 	* Cytidine nucleo<font color="darkorange">t</font>ide analog
-	* Not phosphorylated by viral TK
+	* Not phosphorylated by viral thymidine kinase 
 	* Inhibits herpevirus DNA polymerase >> human DNA polymerase
 	* Induce DNA fragmentation and Caspase-3 activity
 * ADME	
@@ -889,7 +932,7 @@ Double stranded DNA virus
 	* Inorganic pyro<font color="darkorange">phos</font>phate analog
 	* Inhibits HSV DNA polymerase and HIV-1 reverse transcriptase 
 	* Binds to <a href="https://en.wikipedia.org/wiki/Pyrophosphate">pyrophosphate </a> binding site of polymerase
-	* <a href="https://en.wikipedia.org/wiki/Nucleoside_triphosphate#/media/File:DNA_synthesis_EN.png">Inhibits cleavage of pyrophosphate from deoxyribonucleotide triphosphate (dNTP)</a>
+	* <a href="https://en.wikipedia.org/wiki/Nucleoside_triphosphate#/media/File:DNA_synthesis_EN.png">Inhibits cleavage of pyrophosphate from dNTP</a>
 	* Blocks viral DNA synthesis
 * Indications
 	* Nucleoside-resistant HSV, VZV, and CMV infections
@@ -1032,9 +1075,9 @@ HBV polymerase has reverse transcription activity
 
 <span id="drug">Entecavir </span> <span id="drug">Adefovir </span> <span id="drug">Tenofovir </span> 
 
+* Severe acute exacerbations of hepatitis B have been reported in patients who have stopped taking the drug.
 * Lactic acidosis and severe hepatomegaly with steatosis is a more common adverse effect of the nucleoside analogs in the treatment of HIV, where they are always used in combination therapy, but these effects are much <u>less</u> likely to occur with monotherapy for treatment of hepatitis B. 
 
-* Severe acute exacerbations of hepatitis B have been reported in patients who have stopped taking the drug.
 
 ---
 
@@ -1072,6 +1115,10 @@ HBV polymerase has reverse transcription activity
 * Induces immune responses, alter the expression of genes, cell surface markers, phagocytic activity, cytotoxicity, etc. 
 
 * Exact mechanism remain unclear, but may include the induction of enzymes that interfer with key steps in the HBV life cycle, include those that degrade foreign, but not host DNA ([PubMed](https://www.ncbi.nlm.nih.gov/pubmed?term=24557838)) 
+
+Note:
+HBV is weak IFN inducer. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6058040/
+
 ---
 
 <section id="Interferon">
@@ -1124,6 +1171,7 @@ HBV polymerase has reverse transcription activity
 a single-stranded, positive-sense RNA 
 </div>
 
+
 ---
 
 ## HCV life cycle
@@ -1134,6 +1182,11 @@ a single-stranded, positive-sense RNA
 
 </a>
 
+Viral RNA replication occurs near the ER, requirs NS5B/NS5A, RNA-dependent RNA-polymerases.
+
+Note:
+
+https://www.wjgnet.com/1007-9327/full/v27/i28/4555.htm
 
 
 ---
@@ -1220,6 +1273,8 @@ a single-stranded, positive-sense RNA
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2RMNwLdtRhw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 [Life cycle review](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2794490/)
+
+
 ---
 
 ## Mechanism of Action of Antiinfluenza Agents
@@ -1231,11 +1286,11 @@ a single-stranded, positive-sense RNA
 
 * Life cycle 
 	* virus enter the cell via H spikes. In the endosome, low pH in the endosome trigger the <span id='bg'> fusion of membranes</span>.
-	* viral ribonucleoprotein and viral RNA enters the cell nucleus, replicate the viral genome. 
-	* viral RNA is also made and steals the 5'cap of of cellular RNA (important for making protein) and exported into the cytoplasm.
-	*  viral protein is made and virus is packaged on cell surface
+	* viral ribonucleoprotein and viral RNA enters the cell
+    * viral RNA is replicated by RNA-dependent RNA polymerase. 
+	* viral RNA acquires the 5'cap of of cellular RNA (important for making protein) and exported into the cytoplasm.
+	* viral protein is made and virus is packaged on cell surface
 	* the N spikes cleave the H spikes and releases the viron.
-
 </td>
 </tr></table>
 
@@ -1394,7 +1449,7 @@ Another version of SARS-CoV-2 life cycle</a>
 	* inhibits the maturation of nonstructural proteins (including proteases)
 
 * ADME
-	* orally bioavailable (thus can be given to patients without hospitalization.
+	* orally bioavailable (thus can be given to patients without hospitalization).
 	* substrate of CYP3A4. 
 	* undergoes minimal metablolism when administered with <span id="drug">Ritonavir</span>
 
@@ -1441,11 +1496,10 @@ Another version of SARS-CoV-2 life cycle</a>
 	* nucleoside analoge 
 	* [promotes SARS-CoV-2 mutagenesis via the <a href="#/Ribavirin"><span id="yb">RNA</a></a> template](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8110631/)
 		* [can mimic either cytosine or uridine after incorporated into viral RNA template, causing mutations of the viral RNA](https://www.nature.com/articles/d41586-021-02783-1)
-* [Clinical trial](https://www.medrxiv.org/content/10.1101/2021.06.17.21258639v1)
-	* Outpatients with confirmed SARS-CoV-2 infection
+* [Clinical trial](https://www.science.org/doi/10.1126/scitranslmed.abl7430)
+	* 202 outpatients with confirmed SARS-CoV-2 infection
 	* Symton onset within 7 days
 	* Placebo, monupiravir 200 mg, 400 mg, 800 mg
-	* 202 treated patients 
 	* At Day 5, virus was not isolated from any participants receiving 400 or 800 mg (11.1% virus positive in placebo)
 	* Adverse effect
 		* headache, insomnia, incrase alanine aminotransferase
