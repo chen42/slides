@@ -1,0 +1,3057 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1983"
+   height="480"
+   version="1.1"
+   id="svg359"
+   sodipodi:docname="GCF_015227675.2(1)-GCF_000001405.40(10).svg"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   inkscape:export-filename="GCF_015227675.2(1)-GCF_000001405.40(10).png"
+   inkscape:export-xdpi="300.158"
+   inkscape:export-ydpi="300.158"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview359"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.7507042"
+     inkscape:cx="975.75051"
+     inkscape:cy="-82.589121"
+     inkscape:window-width="2554"
+     inkscape:window-height="1371"
+     inkscape:window-x="0"
+     inkscape:window-y="30"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g359" />
+  <style
+     id="style1">conn-widget { font-size:1.1rem;display:block;padding:1rem 0;box-sizing:content-box;user-select:none;-moz-user-select:none;-webkit-user-select:none;-ms-user-select:none;}&#10;conn-widget svg { display:block;}&#10;.x-data-connect { stroke-width:.25;stroke-opacity:.5;fill-opacity:.25;stroke:rgb(57,198,57);fill:rgb(32,223,32);}&#10;.x-zoomed .x-data-connect { cursor:pointer;}&#10;.x-conn-reverse { fill-opacity:.4;stroke-opacity:.8;stroke:rgb(0,0,179);fill:rgb(0,0,255);}&#10;.x-conn-select {&#10;}&#10;.x-data-connect.x-conn-off {&#10;}&#10;.x-conn-select .x-data-connect { stroke-width:.25;stroke-opacity:.2;fill-opacity:.1;}&#10;.x-conn-select .x-data-connect.x-conn-off {&#10;}&#10;.x-data-connect:hover,.x-data-connect.hover,.x-conn-select .x-data-connect:hover { fill-opacity:.5;stroke-opacity:.75;}&#10;.x-conn-reverse:hover,.x-conn-reverse.hover,.x-conn-select .x-conn-reverse:hover { fill-opacity:.5;stroke-opacity:.75;}&#10;.x-data-connect.x-conn-selected,.x-data-connect.x-conn-selected.x-conn-reverse,.x-data-connect.x-conn-selected:hover,.x-data-connect.x-conn-selected.hover { fill-opacity:.45;stroke-opacity:.8;stroke:rgb(0,128,255);fill:rgb(77,166,255);}&#10;.x-conn-axis { color:rgb(102,0,0);/*font-weight:bold;*/&#10;}&#10;.x-conn-axis .tick { pointer-events:none;}&#10;.domain-base { fill:none;stroke:rgb(140,115,115);stroke-opacity:.2;fill-opacity:.5;pointer-events:all;}&#10;#x-axis-fade-up stop,#x-axis-fade-down stop { stop-color:rgb(163,158,143);}&#10;.x-axis-up .domain-base { fill:url(#x-axis-fade-up);}&#10;.x-axis-down .domain-base { fill:url(#x-axis-fade-down);}&#10;.x-axis-up .domain-base:hover,.x-axis-down .domain-base:hover { fill-opacity:1;}&#10;.x-axis-range { fill:rgb(0,128,255);stroke:rgb(0,102,204);stroke-opacity:.75;fill-opacity:.5;pointer-events:none;}&#10;#x-mask-left stop,#x-mask-right stop { stop-color:#fff;}&#10;.x-conn-mask { color:#f5f5f5;/*opacity:.5;*/ stroke:none;}&#10;.x-axis-hair { font-size:1em;fill:none;stroke:none;pointer-events:none;}&#10;.x-axis-hair path { fill:none;}&#10;.x-axis-hair text { stroke:none;}&#10;.x-conn-axis.hover .x-axis-hair,.x-conn-axis:hover .x-axis-hair { color:rgb(77,26,26);stroke:currentcolor;stroke-width:.5;stroke-opacity:.75;fill:currentcolor;fill-opacity:.85;}&#10;/*.x-conn-axis.drag .x-axis-hair,*/&#10;.x-conn-axis.zoom .x-axis-hair { stroke:none;fill:none;}&#10;rect.x-conn-domain { width:100%;fill:none;stroke:none;pointer-events:all;}&#10;.x-conn-pad { pointer-events:none;}&#10;.x-conn-pad path { fill:rgb(163,204,245);/* fill:url(#line);*/ stroke:rgb(129,171,213);fill-opacity:.5;stroke-width:.5;}&#10;.zoom .x-gene-view { pointer-events:none;}&#10;.x-conn:focus { outline:none;}&#10;.x-conn:focus .x-conn-domain { stroke-width:.25rem;stroke:#2491ff;}&#10;@import url(&quot;https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&amp;family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;1,100;1,300;1,400;1,500;1,700&amp;display=swap&quot;);svg { font-family:Roboto,sans-serif;font-size:10px;}&#10;.x-ideo-group { font-size:1.2rem;}&#10;.x-assm-group { transform:translate(0,1em);font-size:1.4em;}&#10;.x-target .x-assm-group { transform:translate(0,calc(65px - .2em));}&#10;.x-assm-group .x-org,.x-assm-group .x-assm-name { font-weight:bold;}&#10;.x-assm-group .x-org { font-style:italic;}&#10;.x-assm-group .x-assm-acc { color:rgb(32,64,96);fill:currentcolor;}&#10;.x-label-wrap { color:rgb(96,128,159);font-size:1em;}&#10;.x-label-wrap.x-single { font-size:1.3em;}&#10;.x-target .x-label-wrap { transform:translate(0,calc(16px + 1em));}&#10;.x-anchor .x-label-wrap { transform:translate(0,45px);}&#10;.x-label { fill:currentcolor;}&#10;.x-gene-map path { /*fill:rgb(179,230,204);*/ /*fill:url(#gene-map);*/ fill-opacity:.9;stroke:rgb(0,255,128);stroke-width:.5;pointer-events:none;}&#10;.x-gene-map { cursor:crosshair;transition:transform 400ms;}&#10;.x-gene-map .x-hair { color:#555;stroke:currentcolor;fill:none;opacity:0;pointer-events:none;}&#10;.x-gene-map:hover .x-hair { opacity:.75;}&#10;.dragging .x-gene-map .x-hair { opacity:0;}&#10;rect.x-gene-pad { height:20px;width:100%;fill:none;stroke:none;pointer-events:all;}&#10;.x-gene-wrap { font-size:1em;line-height:1;color:rgb(0,128,0);fill:currentcolor;cursor:pointer;}&#10;.x-gene-wrap .x-gene-span { stroke:rgb(0,102,0);stroke-width:.5;}&#10;.x-gene-name line,.x-gene-name path { stroke-width:.5;stroke-opacity:.5;stroke:currentcolor;}&#10;.x-gene-name text { cursor:inherit;}&#10;.x-gene-wrap:hover { color:rgb(128,32,0);}&#10;.x-gene-wrap:hover .x-gene-span { color:rgb(204,102,0);stroke:rgb(153,77,0);}&#10;.x-gene-span&gt;rect:first-child { fill:none;stroke:none;pointer-events:all;}&#10;.x-gene-orient { stroke-width:.5;stroke:rgb(26,77,26);stroke-opacity:.75;fill:rgb(179,230,179);fill-opacity:.5;}&#10;.x-gene-wrap:hover .x-gene-orient { stroke:rgb(77,51,26);fill:rgb(230,204,179);}&#10;.x-gene-wrap.x-hide,.x-gene-name.x-hide { opacity:0;pointer-events:none;}&#10;em.x-gene { font-style:normal;color:rgb(82,82,20);}&#10;.x-gene-error { color:rgb(210,121,121);font-style:italic;font-size:1.4rem;}&#10;.x-gene-error&gt;text { fill:currentcolor;}&#10;.x-gene-error&gt;text&gt;tspan { font-size:2em;}&#10;.x-hide-gene-info { display:none;}&#10;.x-gene-info .x-tooltip-content { pointer-events:all;}&#10;.x-data-view{font-size:11px;}</style>
+  <style
+     id="style2" />
+  <defs
+     id="defs13">
+    <linearGradient
+       id="x-axis-fade-up"
+       gradientTransform="rotate(90)">
+      <stop
+         offset="5%"
+         stop-opacity=".4"
+         id="stop2" />
+      <stop
+         offset="50%"
+         stop-opacity=".3"
+         id="stop3" />
+      <stop
+         offset="95%"
+         stop-opacity=".1"
+         id="stop4" />
+    </linearGradient>
+    <linearGradient
+       id="x-axis-fade-down"
+       gradientTransform="rotate(90)"
+       x1="100%"
+       x2="0%">
+      <stop
+         offset="5%"
+         stop-opacity=".4"
+         id="stop5" />
+      <stop
+         offset="50%"
+         stop-opacity=".3"
+         id="stop6" />
+      <stop
+         offset="95%"
+         stop-opacity=".1"
+         id="stop7" />
+    </linearGradient>
+    <linearGradient
+       id="x-mask-right">
+      <stop
+         offset="5%"
+         stop-opacity=".1"
+         id="stop8" />
+      <stop
+         offset="95%"
+         stop-opacity=".9"
+         id="stop9" />
+    </linearGradient>
+    <linearGradient
+       id="x-mask-left">
+      <stop
+         offset="5%"
+         stop-opacity=".9"
+         id="stop10" />
+      <stop
+         offset="95%"
+         stop-opacity=".1"
+         id="stop11" />
+    </linearGradient>
+    <pattern
+       id="line"
+       width="3"
+       height="2"
+       patternUnits="userSpaceOnUse">
+      <rect
+         width="2"
+         height="1"
+         fill="rgb(179,204,230)"
+         id="rect11" />
+    </pattern>
+    <pattern
+       id="gene-map"
+       width="4"
+       height="2"
+       patternUnits="userSpaceOnUse">
+      <rect
+         width="3.9"
+         height="1"
+         fill="rgb(0,153,77)"
+         id="rect12" />
+    </pattern>
+    <pattern
+       id="load-progress"
+       width="2"
+       height="10"
+       patternUnits="userSpaceOnUse">
+      <rect
+         width="1"
+         height="10"
+         fill="rgb(0,128,0)"
+         id="rect13" />
+    </pattern>
+  </defs>
+  <g
+     class="x-ideo-group x-anchor"
+     transform="translate(0, 0)"
+     id="g57">
+    <g
+       class="x-assm-group"
+       transform="translate(0, 16.8)"
+       id="g15">
+      <text
+         id="text15"><tspan
+           dx=".2em"
+           class="x-org"
+           id="tspan13">Rattus norvegicus</tspan><tspan
+           dx=".5em"
+           class="x-assm-name"
+           id="tspan14">mRatBN7.2</tspan><tspan
+           dx=".25em"
+           class="x-assm-acc"
+           id="tspan15">(GCF_015227675.2)</tspan></text>
+    </g>
+    <g
+       transform="translate(0, 51)"
+       id="g54">
+      <svg
+         class="x-ideo"
+         height="16"
+         width="1986"
+         version="1.1"
+         id="svg53">
+        <style
+           id="style15">.x-ideo-arm {stroke:#555;stroke-width:1;}&#10;.x-ideo-band-label-wrap {font-size:10px;color:#555;}&#10;.x-ideo-band-label-wrap text {fill:currentcolor;}&#10;.x-ideo-band-label-wrap line {stroke-width:.75;fill:none;stroke:currentcolor;}&#10;.x-ideo-band-label-wrap circle {stroke-width:.75;fill:currentcolor;stroke:none;}&#10;</style>
+        <defs
+           id="defs27">
+          <g
+             id="x-ideo-chr-1"
+             class="x-ideo-chr">
+            <path
+               class="x-ideo-arm x-ideo-arm-1-0"
+               d="M6,0h-1.7999999999999998q-3.6000000000000005,0 -4.2,3v277.08039132284136q0.5999999999999996,3 4.2,3h3.5999999999999996q3.6000000000000005,0 4.2,-3v-277.08039132284136q-0.5999999999999996,-3 -4.2,-3Z"
+               id="x-ideo-arm-1-0" />
+            <path
+               class="x-ideo-arm x-ideo-arm-1-1"
+               d="M6,283.08039132284136h-1.7999999999999998q-3.6000000000000005,0 -4.2,3v1679.9196086771585q0.5999999999999996,3 4.2,3h3.5999999999999996q3.6000000000000005,0 4.2,-3v-1679.9196086771585q-0.5999999999999996,-3 -4.2,-3Z"
+               id="x-ideo-arm-1-1" />
+          </g>
+          <clipPath
+             class="x-ideo-chr"
+             id="x-ideo-clip-1">
+            <use
+               href="#x-ideo-arm-1-0"
+               id="use15" />
+            <use
+               href="#x-ideo-arm-1-1"
+               id="use16" />
+          </clipPath>
+          <linearGradient
+             class="x-ideo-stain"
+             id="x-ideo-stain-arm">
+            <stop
+               offset="10%"
+               stop-color="rgb(188,194,191)"
+               id="stop16" />
+            <stop
+               offset="25%"
+               stop-color="rgb(201,207,204)"
+               id="stop17" />
+            <stop
+               offset="50%"
+               stop-color="rgb(188,194,191)"
+               id="stop18" />
+          </linearGradient>
+          <linearGradient
+             class="x-ideo-stain"
+             id="x-ideo-stain-gneg">
+            <stop
+               offset="10%"
+               stop-color="rgb(227,232,230)"
+               id="stop19" />
+            <stop
+               offset="25%"
+               stop-color="rgb(233,237,235)"
+               id="stop20" />
+            <stop
+               offset="50%"
+               stop-color="rgb(227,232,230)"
+               id="stop21" />
+          </linearGradient>
+          <linearGradient
+             class="x-ideo-stain"
+             id="x-ideo-stain-gvar">
+            <stop
+               offset="10%"
+               stop-color="rgb(153,153,255)"
+               id="stop22" />
+            <stop
+               offset="25%"
+               stop-color="rgb(173,173,255)"
+               id="stop23" />
+            <stop
+               offset="50%"
+               stop-color="rgb(153,153,255)"
+               id="stop24" />
+          </linearGradient>
+          <linearGradient
+             class="x-ideo-stain"
+             id="x-ideo-stain-gpos">
+            <stop
+               offset="10%"
+               stop-color="rgb(0,0,0)"
+               id="stop25" />
+            <stop
+               offset="25%"
+               stop-color="rgb(46,56,51)"
+               id="stop26" />
+            <stop
+               offset="50%"
+               stop-color="rgb(0,0,0)"
+               id="stop27" />
+          </linearGradient>
+        </defs>
+        <g
+           transform="matrix(0 1 1 0 0 0)"
+           id="g53">
+          <g
+             class="x-ideo-wrap"
+             transform="translate(1,7)"
+             id="g52">
+            <g
+               class="x-ideo-chr"
+               transform="translate(1, 0)"
+               id="g51">
+              <use
+                 href="#x-ideo-chr-1"
+                 id="use27" />
+              <g
+                 class="chr-band-group"
+                 clip-path="url(#x-ideo-clip-1)"
+                 id="g50">
+                <path
+                   class="x-ideo-band"
+                   d="M0,0l12,0l0,283.08039132284136l-12,0Z"
+                   fill="url(#x-ideo-stain-arm)"
+                   id="path27" />
+                <path
+                   class="x-ideo-band"
+                   d="M0,283.08039132284136l12,0l0,1685.9196086771585l-12,0Z"
+                   fill="url(#x-ideo-stain-arm)"
+                   id="path28" />
+                <path
+                   class="x-ideo-band"
+                   d="M0,0l12,0l0,74.53891960867716l-12,0Z"
+                   fill="url(#x-ideo-stain-gneg)"
+                   id="path29" />
+                <path
+                   class="x-ideo-band"
+                   d="M0,74.53891960867716l12,0l0,103.85197788175242l-12,0Z"
+                   fill="url(#x-ideo-stain-gvar)"
+                   id="path30" />
+                <path
+                   class="x-ideo-band"
+                   d="M0,178.39089749042958l12,0l0,104.68949383241178l-12,0Z"
+                   fill="url(#x-ideo-stain-gneg)"
+                   id="path31" />
+                <path
+                   class="x-ideo-band"
+                   d="M0,283.08039132284136l12,0l0,74.53891960867713l-12,0Z"
+                   fill="url(#x-ideo-stain-gpos)"
+                   id="path32" />
+                <path
+                   class="x-ideo-band"
+                   d="M0,357.6193109315185l12,0l0,154.94045087196935l-12,0Z"
+                   fill="url(#x-ideo-stain-gneg)"
+                   id="path33" />
+                <path
+                   class="x-ideo-band"
+                   d="M0,512.5597618034878l12,0l0,149.07783921735438l-12,0Z"
+                   fill="url(#x-ideo-stain-gpos)"
+                   id="path34" />
+                <path
+                   class="x-ideo-band"
+                   d="M0,661.6376010208422l12,0l0,247.904721395151l-12,0Z"
+                   fill="url(#x-ideo-stain-gneg)"
+                   id="path35" />
+                <path
+                   class="x-ideo-band"
+                   d="M0,909.5423224159932l12,0l0,128.1399404508719l-12,0Z"
+                   fill="url(#x-ideo-stain-gpos)"
+                   id="path36" />
+                <path
+                   class="x-ideo-band"
+                   d="M0,1037.6822628668651l12,0l0,154.94045087196946l-12,0Z"
+                   fill="url(#x-ideo-stain-gneg)"
+                   id="path37" />
+                <path
+                   class="x-ideo-band"
+                   d="M0,1192.6227137388346l12,0l0,60.30114844746913l-12,0Z"
+                   fill="url(#x-ideo-stain-gpos)"
+                   id="path38" />
+                <path
+                   class="x-ideo-band"
+                   d="M0,1252.9238621863037l12,0l0,29.313058273075285l-12,0Z"
+                   fill="url(#x-ideo-stain-gneg)"
+                   id="path39" />
+                <path
+                   class="x-ideo-band"
+                   d="M0,1282.236920459379l12,0l0,39.36324968098688l-12,0Z"
+                   fill="url(#x-ideo-stain-gpos)"
+                   id="path40" />
+                <path
+                   class="x-ideo-band"
+                   d="M0,1321.600170140366l12,0l0,59.46363249680985l-12,0Z"
+                   fill="url(#x-ideo-stain-gneg)"
+                   id="path41" />
+                <path
+                   class="x-ideo-band"
+                   d="M0,1381.0638026371757l12,0l0,20.937898766482476l-12,0Z"
+                   fill="url(#x-ideo-stain-gpos)"
+                   id="path42" />
+                <path
+                   class="x-ideo-band"
+                   d="M0,1402.0017014036582l12,0l0,103.85197788175219l-12,0Z"
+                   fill="url(#x-ideo-stain-gneg)"
+                   id="path43" />
+                <path
+                   class="x-ideo-band"
+                   d="M0,1505.8536792854104l12,0l0,18.425350914504634l-12,0Z"
+                   fill="url(#x-ideo-stain-gpos)"
+                   id="path44" />
+                <path
+                   class="x-ideo-band"
+                   d="M0,1524.279030199915l12,0l0,116.41471714164163l-12,0Z"
+                   fill="url(#x-ideo-stain-gneg)"
+                   id="path45" />
+                <path
+                   class="x-ideo-band"
+                   d="M0,1640.6937473415567l12,0l0,59.46363249680985l-12,0Z"
+                   fill="url(#x-ideo-stain-gpos)"
+                   id="path46" />
+                <path
+                   class="x-ideo-band"
+                   d="M0,1700.1573798383665l12,0l0,59.46363249680985l-12,0Z"
+                   fill="url(#x-ideo-stain-gneg)"
+                   id="path47" />
+                <path
+                   class="x-ideo-band"
+                   d="M0,1759.6210123351764l12,0l0,45.225861335602076l-12,0Z"
+                   fill="url(#x-ideo-stain-gpos)"
+                   id="path48" />
+                <path
+                   class="x-ideo-band"
+                   d="M0,1804.8468736707785l12,0l0,59.46363249680985l-12,0Z"
+                   fill="url(#x-ideo-stain-gneg)"
+                   id="path49" />
+                <path
+                   class="x-ideo-band"
+                   d="M0,1864.3105061675883l12,0l0,104.6894938324117l-12,0Z"
+                   fill="url(#x-ideo-stain-gvar)"
+                   id="path50" />
+              </g>
+            </g>
+          </g>
+        </g>
+      </svg>
+    </g>
+    <g
+       class="x-label-wrap x-single"
+       transform="translate(0, 45)"
+       id="g56">
+      <g
+         class="x-label"
+         transform="translate(7, 0)"
+         id="g55">
+        <text
+           dx="2"
+           id="text54">Chr 1</text>
+      </g>
+    </g>
+  </g>
+  <g
+     class="x-ideo-group x-target"
+     transform="translate(0, 415)"
+     id="g136">
+    <g
+       class="x-assm-group"
+       transform="translate(0, 61.64)"
+       id="g59">
+      <text
+         id="text59"><tspan
+           dx=".2em"
+           class="x-org"
+           id="tspan57">Homo sapiens</tspan><tspan
+           dx=".5em"
+           class="x-assm-name"
+           id="tspan58">GRCh38.p14</tspan><tspan
+           dx=".25em"
+           class="x-assm-acc"
+           id="tspan59">(GCF_000001405.40)</tspan></text>
+    </g>
+    <g
+       transform="translate(0, -2)"
+       id="g133">
+      <svg
+         class="x-ideo"
+         height="16"
+         width="1986"
+         version="1.1"
+         id="svg132">
+        <style
+           id="style59">.x-ideo-arm {stroke:#555;stroke-width:1;}&#10;.x-ideo-band-label-wrap {font-size:10px;color:#555;}&#10;.x-ideo-band-label-wrap text {fill:currentcolor;}&#10;.x-ideo-band-label-wrap line {stroke-width:.75;fill:none;stroke:currentcolor;}&#10;.x-ideo-band-label-wrap circle {stroke-width:.75;fill:currentcolor;stroke:none;}&#10;</style>
+        <defs
+           id="defs86">
+          <g
+             id="x-ideo-chr-32"
+             class="x-ideo-chr">
+            <path
+               class="x-ideo-arm x-ideo-arm-32-0"
+               d="M6,0h-1.7999999999999998q-3.6000000000000005,0 -4.2,3v635.0167549668874q0.5999999999999996,3 4.2,3h3.5999999999999996q3.6000000000000005,0 4.2,-3v-635.0167549668874q-0.5999999999999996,-3 -4.2,-3Z"
+               id="x-ideo-arm-32-0" />
+            <path
+               class="x-ideo-arm x-ideo-arm-32-1"
+               d="M6,641.0167549668874h-1.7999999999999998q-3.6000000000000005,0 -4.2,3v1321.768013245033q0.5999999999999996,3 4.2,3h3.5999999999999996q3.6000000000000005,0 4.2,-3v-1321.768013245033q-0.5999999999999996,-3 -4.2,-3Z"
+               id="x-ideo-arm-32-1" />
+          </g>
+          <clipPath
+             class="x-ideo-chr"
+             id="x-ideo-clip-32">
+            <use
+               href="#x-ideo-arm-32-0"
+               id="use59" />
+            <use
+               href="#x-ideo-arm-32-1"
+               id="use60" />
+          </clipPath>
+          <linearGradient
+             class="x-ideo-stain"
+             id="linearGradient62">
+            <stop
+               offset="10%"
+               stop-color="rgb(188,194,191)"
+               id="stop60" />
+            <stop
+               offset="25%"
+               stop-color="rgb(201,207,204)"
+               id="stop61" />
+            <stop
+               offset="50%"
+               stop-color="rgb(188,194,191)"
+               id="stop62" />
+          </linearGradient>
+          <linearGradient
+             class="x-ideo-stain"
+             id="linearGradient65">
+            <stop
+               offset="10%"
+               stop-color="rgb(227,232,230)"
+               id="stop63" />
+            <stop
+               offset="25%"
+               stop-color="rgb(233,237,235)"
+               id="stop64" />
+            <stop
+               offset="50%"
+               stop-color="rgb(227,232,230)"
+               id="stop65" />
+          </linearGradient>
+          <linearGradient
+             class="x-ideo-stain"
+             id="x-ideo-stain-gpos-25">
+            <stop
+               offset="10%"
+               stop-color="rgb(185,198,191)"
+               id="stop66" />
+            <stop
+               offset="25%"
+               stop-color="rgb(199,209,204)"
+               id="stop67" />
+            <stop
+               offset="50%"
+               stop-color="rgb(185,198,191)"
+               id="stop68" />
+          </linearGradient>
+          <linearGradient
+             class="x-ideo-stain"
+             id="x-ideo-stain-gpos-50">
+            <stop
+               offset="10%"
+               stop-color="rgb(115,140,128)"
+               id="stop69" />
+            <stop
+               offset="25%"
+               stop-color="rgb(143,163,153)"
+               id="stop70" />
+            <stop
+               offset="50%"
+               stop-color="rgb(115,140,128)"
+               id="stop71" />
+          </linearGradient>
+          <linearGradient
+             class="x-ideo-stain"
+             id="x-ideo-stain-gpos-75">
+            <stop
+               offset="10%"
+               stop-color="rgb(57,70,64)"
+               id="stop72" />
+            <stop
+               offset="25%"
+               stop-color="rgb(92,112,102)"
+               id="stop73" />
+            <stop
+               offset="50%"
+               stop-color="rgb(57,70,64)"
+               id="stop74" />
+          </linearGradient>
+          <linearGradient
+             class="x-ideo-stain"
+             id="x-ideo-stain-gpos-100">
+            <stop
+               offset="10%"
+               stop-color="rgb(0,0,0)"
+               id="stop75" />
+            <stop
+               offset="25%"
+               stop-color="rgb(46,56,51)"
+               id="stop76" />
+            <stop
+               offset="50%"
+               stop-color="rgb(0,0,0)"
+               id="stop77" />
+          </linearGradient>
+          <linearGradient
+             class="x-ideo-stain"
+             id="x-ideo-stain-acen">
+            <stop
+               offset="10%"
+               stop-color="rgb(255,179,179)"
+               id="stop78" />
+            <stop
+               offset="25%"
+               stop-color="rgb(255,194,194)"
+               id="stop79" />
+            <stop
+               offset="50%"
+               stop-color="rgb(255,179,179)"
+               id="stop80" />
+          </linearGradient>
+          <linearGradient
+             class="x-ideo-stain"
+             id="linearGradient83">
+            <stop
+               offset="10%"
+               stop-color="rgb(153,153,255)"
+               id="stop81" />
+            <stop
+               offset="25%"
+               stop-color="rgb(173,173,255)"
+               id="stop82" />
+            <stop
+               offset="50%"
+               stop-color="rgb(153,153,255)"
+               id="stop83" />
+          </linearGradient>
+          <linearGradient
+             class="x-ideo-stain"
+             id="x-ideo-stain-stalk">
+            <stop
+               offset="10%"
+               stop-color="rgb(128,128,255)"
+               id="stop84" />
+            <stop
+               offset="25%"
+               stop-color="rgb(153,153,255)"
+               id="stop85" />
+            <stop
+               offset="50%"
+               stop-color="rgb(128,128,255)"
+               id="stop86" />
+          </linearGradient>
+        </defs>
+        <g
+           transform="matrix(0 1 1 0 0 0)"
+           id="g132">
+          <g
+             class="x-ideo-wrap"
+             transform="translate(1,7)"
+             id="g131">
+            <g
+               class="x-ideo-chr"
+               transform="translate(1, 0)"
+               id="g130">
+              <use
+                 href="#x-ideo-chr-32"
+                 id="use86" />
+              <g
+                 class="chr-band-group"
+                 clip-path="url(#x-ideo-clip-32)"
+                 id="g129">
+                <path
+                   class="x-ideo-band"
+                   d="M0,0l12,0l0,641.0167549668874l-12,0Z"
+                   fill="url(#x-ideo-stain-arm)"
+                   id="path86" />
+                <path
+                   class="x-ideo-band"
+                   d="M0,641.0167549668874l12,0l0,1327.768013245033l-12,0Z"
+                   fill="url(#x-ideo-stain-arm)"
+                   id="path87" />
+                <path
+                   class="x-ideo-band"
+                   d="M0,0l12,0l0,56.00642384105961l-12,0Z"
+                   fill="url(#x-ideo-stain-gneg)"
+                   id="path88" />
+                <path
+                   class="x-ideo-band"
+                   d="M0,56.00642384105961l12,0l0,24.4569536423841l-12,0Z"
+                   fill="url(#x-ideo-stain-gpos-25)"
+                   id="path89" />
+                <path
+                   class="x-ideo-band"
+                   d="M0,80.46337748344371l12,0l0,73.61543046357616l-12,0Z"
+                   fill="url(#x-ideo-stain-gneg)"
+                   id="path90" />
+                <path
+                   class="x-ideo-band"
+                   d="M0,154.07880794701987l12,0l0,70.19145695364239l-12,0Z"
+                   fill="url(#x-ideo-stain-gpos-75)"
+                   id="path91" />
+                <path
+                   class="x-ideo-band"
+                   d="M0,224.27026490066226l12,0l0,63.09894039735099l-12,0Z"
+                   fill="url(#x-ideo-stain-gneg)"
+                   id="path92" />
+                <path
+                   class="x-ideo-band"
+                   d="M0,287.36920529801324l12,0l0,45.48993377483441l-12,0Z"
+                   fill="url(#x-ideo-stain-gpos-75)"
+                   id="path93" />
+                <path
+                   class="x-ideo-band"
+                   d="M0,332.85913907284765l12,0l0,17.36443708609272l-12,0Z"
+                   fill="url(#x-ideo-stain-gneg)"
+                   id="path94" />
+                <path
+                   class="x-ideo-band"
+                   d="M0,350.2235761589404l12,0l0,42.065960264900696l-12,0Z"
+                   fill="url(#x-ideo-stain-gpos-75)"
+                   id="path95" />
+                <path
+                   class="x-ideo-band"
+                   d="M0,392.28953642384107l12,0l0,14.185033112582744l-12,0Z"
+                   fill="url(#x-ideo-stain-gneg)"
+                   id="path96" />
+                <path
+                   class="x-ideo-band"
+                   d="M0,406.4745695364238l12,0l0,56.006423841059586l-12,0Z"
+                   fill="url(#x-ideo-stain-gpos-50)"
+                   id="path97" />
+                <path
+                   class="x-ideo-band"
+                   d="M0,462.4809933774834l12,0l0,42.06596026490075l-12,0Z"
+                   fill="url(#x-ideo-stain-gneg)"
+                   id="path98" />
+                <path
+                   class="x-ideo-band"
+                   d="M0,504.54695364238415l12,0l0,42.06596026490064l-12,0Z"
+                   fill="url(#x-ideo-stain-gpos-25)"
+                   id="path99" />
+                <path
+                   class="x-ideo-band"
+                   d="M0,546.6129139072848l12,0l0,41.821390728476786l-12,0Z"
+                   fill="url(#x-ideo-stain-gneg)"
+                   id="path100" />
+                <path
+                   class="x-ideo-band"
+                   d="M0,588.4343046357616l12,0l0,52.58245033112587l-12,0Z"
+                   fill="url(#x-ideo-stain-acen)"
+                   id="path101" />
+                <path
+                   class="x-ideo-band"
+                   d="M0,641.0167549668874l12,0l0,56.006423841059586l-12,0Z"
+                   fill="url(#x-ideo-stain-acen)"
+                   id="path102" />
+                <path
+                   class="x-ideo-band"
+                   d="M0,697.023178807947l12,0l0,49.15847682119204l-12,0Z"
+                   fill="url(#x-ideo-stain-gneg)"
+                   id="path103" />
+                <path
+                   class="x-ideo-band"
+                   d="M0,746.1816556291391l12,0l0,49.15847682119204l-12,0Z"
+                   fill="url(#x-ideo-stain-gpos-25)"
+                   id="path104" />
+                <path
+                   class="x-ideo-band"
+                   d="M0,795.3401324503311l12,0l0,38.39741721854307l-12,0Z"
+                   fill="url(#x-ideo-stain-gneg)"
+                   id="path105" />
+                <path
+                   class="x-ideo-band"
+                   d="M0,833.7375496688742l12,0l0,84.13192052980128l-12,0Z"
+                   fill="url(#x-ideo-stain-gpos-100)"
+                   id="path106" />
+                <path
+                   class="x-ideo-band"
+                   d="M0,917.8694701986755l12,0l0,21.032980132450348l-12,0Z"
+                   fill="url(#x-ideo-stain-gneg)"
+                   id="path107" />
+                <path
+                   class="x-ideo-band"
+                   d="M0,938.9024503311258l12,0l0,63.09894039735104l-12,0Z"
+                   fill="url(#x-ideo-stain-gpos-100)"
+                   id="path108" />
+                <path
+                   class="x-ideo-band"
+                   d="M0,1002.0013907284768l12,0l0,90.97986754966871l-12,0Z"
+                   fill="url(#x-ideo-stain-gneg)"
+                   id="path109" />
+                <path
+                   class="x-ideo-band"
+                   d="M0,1092.9812582781456l12,0l0,45.489933774834526l-12,0Z"
+                   fill="url(#x-ideo-stain-gpos-50)"
+                   id="path110" />
+                <path
+                   class="x-ideo-band"
+                   d="M0,1138.47119205298l12,0l0,77.03940397350993l-12,0Z"
+                   fill="url(#x-ideo-stain-gneg)"
+                   id="path111" />
+                <path
+                   class="x-ideo-band"
+                   d="M0,1215.51059602649l12,0l0,56.25099337748338l-12,0Z"
+                   fill="url(#x-ideo-stain-gpos-100)"
+                   id="path112" />
+                <path
+                   class="x-ideo-band"
+                   d="M0,1271.7615894039734l12,0l0,32.03860927152323l-12,0Z"
+                   fill="url(#x-ideo-stain-gneg)"
+                   id="path113" />
+                <path
+                   class="x-ideo-band"
+                   d="M0,1303.8001986754966l12,0l0,55.517284768211994l-12,0Z"
+                   fill="url(#x-ideo-stain-gpos-75)"
+                   id="path114" />
+                <path
+                   class="x-ideo-band"
+                   d="M0,1359.3174834437086l12,0l0,27.88092715231778l-12,0Z"
+                   fill="url(#x-ideo-stain-gneg)"
+                   id="path115" />
+                <path
+                   class="x-ideo-band"
+                   d="M0,1387.1984105960264l12,0l0,52.582450331125756l-12,0Z"
+                   fill="url(#x-ideo-stain-gpos-50)"
+                   id="path116" />
+                <path
+                   class="x-ideo-band"
+                   d="M0,1439.7808609271522l12,0l0,21.032980132450575l-12,0Z"
+                   fill="url(#x-ideo-stain-gneg)"
+                   id="path117" />
+                <path
+                   class="x-ideo-band"
+                   d="M0,1460.8138410596027l12,0l0,38.641986754966865l-12,0Z"
+                   fill="url(#x-ideo-stain-gpos-50)"
+                   id="path118" />
+                <path
+                   class="x-ideo-band"
+                   d="M0,1499.4558278145696l12,0l0,17.36443708609272l-12,0Z"
+                   fill="url(#x-ideo-stain-gneg)"
+                   id="path119" />
+                <path
+                   class="x-ideo-band"
+                   d="M0,1516.8202649006623l12,0l0,28.125496688741578l-12,0Z"
+                   fill="url(#x-ideo-stain-gpos-25)"
+                   id="path120" />
+                <path
+                   class="x-ideo-band"
+                   d="M0,1544.945761589404l12,0l0,13.94046357615889l-12,0Z"
+                   fill="url(#x-ideo-stain-gneg)"
+                   id="path121" />
+                <path
+                   class="x-ideo-band"
+                   d="M0,1558.8862251655628l12,0l0,66.52291390728487l-12,0Z"
+                   fill="url(#x-ideo-stain-gpos-100)"
+                   id="path122" />
+                <path
+                   class="x-ideo-band"
+                   d="M0,1625.4091390728477l12,0l0,28.125496688741805l-12,0Z"
+                   fill="url(#x-ideo-stain-gneg)"
+                   id="path123" />
+                <path
+                   class="x-ideo-band"
+                   d="M0,1653.5346357615895l12,0l0,31.549470198675408l-12,0Z"
+                   fill="url(#x-ideo-stain-gpos-75)"
+                   id="path124" />
+                <path
+                   class="x-ideo-band"
+                   d="M0,1685.0841059602649l12,0l0,48.91390728476813l-12,0Z"
+                   fill="url(#x-ideo-stain-gneg)"
+                   id="path125" />
+                <path
+                   class="x-ideo-band"
+                   d="M0,1733.998013245033l12,0l0,31.549470198675408l-12,0Z"
+                   fill="url(#x-ideo-stain-gpos-50)"
+                   id="path126" />
+                <path
+                   class="x-ideo-band"
+                   d="M0,1765.5474834437084l12,0l0,70.1914569536425l-12,0Z"
+                   fill="url(#x-ideo-stain-gneg)"
+                   id="path127" />
+                <path
+                   class="x-ideo-band"
+                   d="M0,1835.738940397351l12,0l0,52.582450331125756l-12,0Z"
+                   fill="url(#x-ideo-stain-gpos-50)"
+                   id="path128" />
+                <path
+                   class="x-ideo-band"
+                   d="M0,1888.3213907284767l12,0l0,80.46337748344376l-12,0Z"
+                   fill="url(#x-ideo-stain-gneg)"
+                   id="path129" />
+              </g>
+            </g>
+          </g>
+        </g>
+      </svg>
+    </g>
+    <g
+       class="x-label-wrap x-single"
+       transform="translate(0, 31.6)"
+       id="g135">
+      <g
+         class="x-label"
+         transform="translate(7, 0)"
+         id="g134">
+        <text
+           dx="2"
+           id="text133">Chr 10</text>
+      </g>
+    </g>
+  </g>
+  <g
+     class="x-data-view x-zoomed"
+     transform="translate(0, 65)"
+     id="g359">
+    <rect
+       class="x-conn-domain"
+       y="30"
+       height="290"
+       id="rect136"
+       width="0"
+       x="0" />
+    <g
+       class="x-conn-group"
+       transform="translate(6)"
+       id="g169">
+      <path
+         class="x-data-connect x-conn-off"
+         d="m -138,30 v 29 c 0,73 391,160 391,232 v 29 h 87 V 291 C 340,219 -26,132 -26,59 V 30 Z"
+         id="path136" />
+      <path
+         class="x-data-connect x-conn-off"
+         d="m -525,30 v 29 c 0,73 476,160 476,232 v 29 H 7 V 291 C 7,219 -460,132 -460,59 V 30 Z"
+         id="path137" />
+      <path
+         class="x-data-connect x-conn-off"
+         d="m -460,30 v 29 c 0,73 469,160 469,232 v 29 H 53 V 291 C 53,219 -395,132 -395,59 V 30 Z"
+         id="path138" />
+      <path
+         class="x-data-connect x-conn-off"
+         d="m -316,30 v 29 c 0,73 444,160 444,232 v 29 h 43 V 291 C 171,219 -260,132 -260,59 V 30 Z"
+         id="path139" />
+      <path
+         class="x-data-connect x-conn-off"
+         d="m -372,30 v 29 c 0,73 457,160 457,232 v 29 h 43 V 291 C 128,219 -317,132 -317,59 V 30 Z"
+         id="path140" />
+      <path
+         class="x-data-connect x-conn-off"
+         d="m -218,30 v 29 c 0,73 423,160 423,232 v 29 h 29 V 291 C 234,219 -169,132 -169,59 V 30 Z"
+         id="path141" />
+      <path
+         class="x-data-connect x-conn-off"
+         d="m -169,30 v 29 c 0,73 403,160 403,232 v 29 h 19 V 291 C 253,219 -139,132 -139,59 V 30 Z"
+         id="path142" />
+      <path
+         class="x-data-connect x-conn-off"
+         d="m -242,30 v 29 c 0,73 428,160 428,232 v 29 h 17 V 291 C 203,219 -218,132 -218,59 V 30 Z"
+         id="path143" />
+      <path
+         class="x-data-connect x-conn-off"
+         d="m -392,30 v 29 c 0,73 459,160 459,232 v 29 H 85 V 291 C 85,219 -372,132 -372,59 V 30 Z"
+         id="path144" />
+      <path
+         class="x-data-connect x-conn-off"
+         d="m -260,30 v 29 c 0,73 432,160 432,232 v 29 h 12 V 291 C 184,219 -242,132 -242,59 V 30 Z"
+         id="path145" />
+      <path
+         class="x-data-connect x-conn-off"
+         d="m 1880,30 v 29 c 0,73 102,160 102,232 v 29 h 11 V 291 C 1993,219 1886,132 1886,59 V 30 Z"
+         id="path146" />
+      <path
+         class="x-data-connect"
+         d="m 212,30 v 29 c 0,73 279,160 279,232 v 29 H 748 V 291 C 748,219 598,132 598,59 V 30 Z"
+         id="path147" />
+      <path
+         class="x-data-connect"
+         d="m 22,30 v 29 c 0,73 348,160 348,232 v 29 H 490 V 291 C 490,219 212,132 212,59 V 30 Z"
+         id="path148" />
+      <path
+         class="x-data-connect"
+         d="m 1580,30 v 29 c 0,73 -75,160 -75,232 v 29 h 236 v -29 c 0,-72 6,-159 6,-232 V 30 Z"
+         id="path149" />
+      <path
+         class="x-data-connect"
+         d="m 1096,30 v 29 c 0,73 -29,160 -29,232 v 29 h 80 v -29 c 0,-72 106,-159 106,-232 V 30 Z"
+         id="path150" />
+      <path
+         class="x-data-connect"
+         d="m 718,30 v 29 c 0,73 102,160 102,232 v 29 h 79 V 291 C 899,219 851,132 851,59 V 30 Z"
+         id="path151" />
+      <path
+         class="x-data-connect"
+         d="m 1340,30 v 29 c 0,73 -140,160 -140,232 v 29 h 145 v -29 c 0,-72 122,-159 122,-232 V 30 Z"
+         id="path152" />
+      <path
+         class="x-data-connect"
+         d="m 882,30 v 29 c 0,73 33,160 33,232 v 29 h 84 V 291 C 999,219 969,132 969,59 V 30 Z"
+         id="path153" />
+      <path
+         class="x-data-connect"
+         d="m 1468,30 v 29 c 0,73 -122,160 -122,232 v 29 h 158 v -29 c 0,-72 76,-159 76,-232 V 30 Z"
+         id="path154" />
+      <path
+         class="x-data-connect"
+         d="m 999,30 v 29 c 0,73 16,160 16,232 v 29 h 52 v -29 c 0,-72 29,-159 29,-232 V 30 Z"
+         id="path155" />
+      <path
+         class="x-data-connect"
+         d="m 599,30 v 29 c 0,73 150,160 150,232 v 29 h 41 V 291 C 790,219 676,132 676,59 V 30 Z"
+         id="path156" />
+      <path
+         class="x-data-connect"
+         d="m 1813,30 v 29 c 0,73 58,160 58,232 v 29 h 86 v -29 c 0,-72 -95,-159 -95,-232 V 30 Z"
+         id="path157" />
+      <path
+         class="x-data-connect"
+         d="m 1277,30 v 29 c 0,73 -118,160 -118,232 v 29 h 36 v -29 c 0,-72 141,-159 141,-232 V 30 Z"
+         id="path158" />
+      <path
+         class="x-data-connect"
+         d="m 676,30 v 29 c 0,73 114,160 114,232 v 29 h 29 V 291 C 819,219 718,132 718,59 V 30 Z"
+         id="path159" />
+      <path
+         class="x-data-connect"
+         d="m -23,30 v 29 c 0,73 365,160 365,232 v 29 h 26 V 291 C 368,219 21,132 21,59 V 30 Z"
+         id="path160" />
+      <path
+         class="x-data-connect"
+         d="m 1784,30 v 29 c 0,73 28,160 28,232 v 29 h 57 v -29 c 0,-72 -57,-159 -57,-232 V 30 Z"
+         id="path161" />
+      <path
+         class="x-data-connect"
+         d="m 1747,30 v 29 c 0,73 -6,160 -6,232 v 29 h 45 v -29 c 0,-72 -15,-159 -15,-232 V 30 Z"
+         id="path162" />
+      <path
+         class="x-data-connect"
+         d="m 976,30 v 29 c 0,73 28,160 28,232 v 29 h 10 V 291 C 1014,219 998,132 998,59 V 30 Z"
+         id="path163" />
+      <path
+         class="x-data-connect"
+         d="m 851,30 v 29 c 0,73 49,160 49,232 v 29 h 11 V 291 C 911,219 874,132 874,59 V 30 Z"
+         id="path164" />
+      <path
+         class="x-data-connect"
+         d="m 1253,30 v 29 c 0,73 -106,160 -106,232 v 29 h 11 v -29 c 0,-72 118,-159 118,-232 V 30 Z"
+         id="path165" />
+      <path
+         class="x-data-connect"
+         d="m 1863,30 v 29 c 0,73 96,160 96,232 v 29 h 22 V 291 C 1981,219 1879,132 1879,59 V 30 Z"
+         id="path166" />
+      <path
+         class="x-data-connect"
+         d="m 1772,30 v 29 c 0,73 15,160 15,232 v 29 h 20 v -29 c 0,-72 -25,-159 -25,-232 V 30 Z"
+         id="path167" />
+      <path
+         class="x-data-connect"
+         d="m 876,30 v 29 c 0,73 36,160 36,232 v 29 h 3 V 291 C 915,219 881,132 881,59 V 30 Z"
+         id="path168" />
+      <path
+         class="x-data-connect"
+         d="m 970,30 v 29 c 0,73 31,160 31,232 v 29 h 2 V 291 C 1003,219 974,132 974,59 V 30 Z"
+         id="path169" />
+    </g>
+    <g
+       class="x-gene-wrap"
+       transform="translate(912,57)"
+       id="g173">
+      <g
+         class="x-gene-span"
+         transform="translate(0,2.5)"
+         id="g171">
+        <rect
+           height="7"
+           y="-3.5"
+           width="152"
+           id="rect169"
+           x="0" />
+        <rect
+           height="2.5"
+           y="-1.25"
+           width="152"
+           id="rect170"
+           x="0" />
+        <path
+           d="M 0,-4 H 1 V 4 H 0 Z m 5,0 H 7 V 4 H 5 Z m 3,0 h 2 V 4 H 8 Z m 3,0 h 3 v 8 h -3 z m 5,0 h 2 v 8 h -2 z m 3,0 h 2 v 8 h -2 z m 3,0 h 5 v 8 h -5 z m 6,0 h 1 v 8 h -1 z m 5,0 h 1 v 8 h -1 z m 2,0 h 1 v 8 h -1 z m 3,0 h 2 v 8 h -2 z m 9,0 h 1 v 8 h -1 z m 5,0 h 1 v 8 h -1 z m 6,0 h 2 v 8 h -2 z m 36,0 h 1 v 8 h -1 z m 19,0 h 3 v 8 h -3 z m 11,0 h 1 v 8 h -1 z m 24,0 h 4 v 8 h -4 z"
+           id="path170" />
+        <path
+           d="M 71,-4 73,0 68,4 80,0 68,-4 Z"
+           class="x-gene-orient"
+           id="path171" />
+      </g>
+      <g
+         class="x-gene-name"
+         transform="translate(72,40)"
+         id="g172">
+        <text
+           dy="1em"
+           id="text171">Atrnl1</text>
+        <path
+           d="M 4,-2 V -35.5"
+           id="path172" />
+      </g>
+    </g>
+    <g
+       class="x-gene-wrap"
+       transform="translate(273,57)"
+       id="g177"
+       style="fill:#ff0000">
+      <g
+         class="x-gene-span"
+         transform="translate(0,2.5)"
+         id="g175"
+         style="fill:#ff0000">
+        <rect
+           height="7"
+           y="-3.5"
+           width="85"
+           id="rect173"
+           x="0"
+           style="fill:#ff0000" />
+        <rect
+           height="2.5"
+           y="-1.25"
+           width="85"
+           id="rect174"
+           x="0"
+           style="fill:#ff0000" />
+        <path
+           d="M 0,-4 H 2 V 4 H 0 Z m 3,0 H 4 V 4 H 3 Z m 3,0 H 7 V 4 H 6 Z m 11,0 h 1 v 8 h -1 z m 2,0 h 3 v 8 h -3 z m 5,0 h 3 v 8 h -3 z m 25,0 h 1 v 8 h -1 z m 7,0 h 1 v 8 h -1 z m 27,0 h 1 v 8 h -1 z"
+           id="path174"
+           style="fill:#ff0000" />
+        <path
+           d=""
+           class="x-gene-orient"
+           id="path175"
+           style="fill:#ff0000" />
+      </g>
+      <g
+         class="x-gene-name"
+         transform="translate(38.5,40)"
+         id="g176"
+         style="fill:#ff0000">
+        <text
+           dy="1em"
+           id="text175"
+           style="fill:#ff0000">Vti1a</text>
+        <path
+           d="M 4,-2 V -35.5"
+           id="path176"
+           style="fill:#ff0000" />
+      </g>
+    </g>
+    <g
+       class="x-gene-wrap"
+       transform="translate(749,57)"
+       id="g181">
+      <g
+         class="x-gene-span"
+         transform="translate(0,2.5)"
+         id="g179">
+        <rect
+           height="7"
+           y="-3.5"
+           width="81"
+           id="rect177"
+           x="0" />
+        <rect
+           height="2.5"
+           y="-1.25"
+           width="81"
+           id="rect178"
+           x="0" />
+        <path
+           d="M 0,-4 H 7 V 4 H 0 Z m 8,0 h 8 V 4 H 8 Z m 17,0 h 2 v 8 h -2 z m 4,0 h 1 v 8 h -1 z m 6,0 h 1 v 8 h -1 z m 6,0 h 1 v 8 h -1 z m 5,0 h 3 v 8 h -3 z m 4,0 h 1 v 8 h -1 z m 3,0 h 1 v 8 h -1 z m 7,0 h 2 v 8 h -2 z m 14,0 h 1 v 8 h -1 z m 6,0 h 1 v 8 h -1 z"
+           id="path178" />
+        <path
+           d=""
+           class="x-gene-orient"
+           id="path179" />
+      </g>
+      <g
+         class="x-gene-name"
+         transform="translate(36.5,40)"
+         id="g180">
+        <text
+           dy="1em"
+           id="text179">Ablim1</text>
+        <path
+           d="M 4,-2 V -35.5"
+           id="path180" />
+      </g>
+    </g>
+    <g
+       class="x-gene-wrap"
+       transform="translate(1089,57)"
+       id="g185"
+       style="fill:#ff0000">
+      <g
+         class="x-gene-span"
+         transform="translate(0,2.5)"
+         id="g183"
+         style="fill:#ff0000">
+        <rect
+           height="7"
+           y="-3.5"
+           width="67"
+           id="rect181"
+           x="0"
+           style="fill:#ff0000" />
+        <rect
+           height="2.5"
+           y="-1.25"
+           width="67"
+           id="rect182"
+           x="0"
+           style="fill:#ff0000" />
+        <path
+           d="M 0,-4 H 4 V 4 H 0 Z m 9,0 h 1 V 4 H 9 Z m 3,0 h 2 v 8 h -2 z m 9,0 h 1 v 8 h -1 z m 27,0 h 1 v 8 h -1 z m 17,0 h 2 v 8 h -2 z"
+           id="path182"
+           style="fill:#ff0000" />
+        <path
+           d=""
+           class="x-gene-orient"
+           id="path183"
+           style="fill:#ff0000" />
+      </g>
+      <g
+         class="x-gene-name"
+         transform="translate(29.5,40)"
+         id="g184"
+         style="fill:#ff0000">
+        <text
+           dy="1em"
+           id="text183"
+           style="fill:#ff0000">Gfra1</text>
+        <path
+           d="M 4,-2 V -35.5"
+           id="path184"
+           style="fill:#ff0000" />
+      </g>
+    </g>
+    <g
+       class="x-gene-wrap"
+       transform="translate(1838,57)"
+       id="g189">
+      <g
+         class="x-gene-span"
+         transform="translate(0,2.5)"
+         id="g187">
+        <rect
+           height="7"
+           y="-3.5"
+           width="55"
+           id="rect185"
+           x="0" />
+        <rect
+           height="2.5"
+           y="-1.25"
+           width="55"
+           id="rect186"
+           x="0" />
+        <path
+           d="M 0,-4 H 1 V 4 H 0 Z m 12,0 h 1 v 8 h -1 z m 3,0 h 1 v 8 h -1 z m 8,0 h 1 v 8 h -1 z m 12,0 h 1 v 8 h -1 z m 4,0 h 2 v 8 h -2 z m 7,0 h 9 v 8 h -9 z"
+           id="path186" />
+        <path
+           d=""
+           class="x-gene-orient"
+           id="path187" />
+      </g>
+      <g
+         class="x-gene-name"
+         transform="translate(23.5,40)"
+         id="g188">
+        <text
+           dy="1em"
+           id="text187">Grk5</text>
+        <path
+           d="M 4,-2 V -35.5"
+           id="path188" />
+      </g>
+    </g>
+    <g
+       class="x-gene-wrap"
+       transform="translate(391,57)"
+       id="g193"
+       style="fill:#ff0000">
+      <g
+         class="x-gene-span"
+         transform="translate(0,2.5)"
+         id="g191"
+         style="fill:#ff0000">
+        <rect
+           height="7"
+           y="-3.5"
+           width="55"
+           id="rect189"
+           x="0"
+           style="fill:#ff0000" />
+        <rect
+           height="2.5"
+           y="-1.25"
+           width="55"
+           id="rect190"
+           x="0"
+           style="fill:#ff0000" />
+        <path
+           d="M 0,-4 H 2 V 4 H 0 Z m 4,0 H 5 V 4 H 4 Z m 17,0 h 1 v 8 h -1 z m 13,0 h 1 v 8 h -1 z m 10,0 h 1 v 8 h -1 z m 3,0 h 8 v 8 h -8 z"
+           id="path190"
+           style="fill:#ff0000" />
+        <path
+           d=""
+           class="x-gene-orient"
+           id="path191"
+           style="fill:#ff0000" />
+      </g>
+      <g
+         class="x-gene-name"
+         transform="translate(23.5,40)"
+         id="g192"
+         style="fill:#ff0000">
+        <text
+           dy="1em"
+           id="text191"
+           style="fill:#ff0000">Tcf7l2</text>
+        <path
+           d="M 4,-2 V -35.5"
+           id="path192"
+           style="fill:#ff0000" />
+      </g>
+    </g>
+    <g
+       class="x-gene-wrap"
+       transform="translate(1261,57)"
+       id="g197"
+       style="fill:#ff0000">
+      <g
+         class="x-gene-span"
+         transform="translate(0,2.5)"
+         id="g195"
+         style="fill:#ff0000">
+        <rect
+           height="7"
+           y="-3.5"
+           width="45"
+           id="rect193"
+           x="0"
+           style="fill:#ff0000" />
+        <rect
+           height="2.5"
+           y="-1.25"
+           width="45"
+           id="rect194"
+           x="0"
+           style="fill:#ff0000" />
+        <path
+           d="M 0,-4 H 5 V 4 H 0 Z m 6,0 h 4 V 4 H 6 Z m 13,0 h 1 v 8 h -1 z m 22,0 h 1 v 8 h -1 z m 3,0 h 1 v 8 h -1 z"
+           id="path194"
+           style="fill:#ff0000" />
+        <path
+           d=""
+           class="x-gene-orient"
+           id="path195"
+           style="fill:#ff0000" />
+      </g>
+      <g
+         class="x-gene-name"
+         transform="translate(18.5,40)"
+         id="g196"
+         style="fill:#ff0000">
+        <text
+           dy="1em"
+           id="text195"
+           style="fill:#ff0000">Hspa12a</text>
+        <path
+           d="M 4,-2 V -35.5"
+           id="path196"
+           style="fill:#ff0000" />
+      </g>
+    </g>
+    <g
+       class="x-gene-wrap"
+       transform="translate(1541,57)"
+       id="g201">
+      <g
+         class="x-gene-span"
+         transform="translate(0,2.5)"
+         id="g199">
+        <rect
+           height="7"
+           y="-3.5"
+           width="40"
+           id="rect197"
+           x="0" />
+        <rect
+           height="2.5"
+           y="-1.25"
+           width="40"
+           id="rect198"
+           x="0" />
+        <path
+           d="M 0,-4 H 1 V 4 H 0 Z m 29,0 h 3 v 8 h -3 z m 6,0 h 1 v 8 h -1 z m 2,0 h 3 v 8 h -3 z"
+           id="path198" />
+        <path
+           d=""
+           class="x-gene-orient"
+           id="path199" />
+      </g>
+      <g
+         class="x-gene-name"
+         transform="translate(16,40)"
+         id="g200">
+        <text
+           dy="1em"
+           id="text199">Rab11fip2</text>
+        <path
+           d="M 4,-2 V -35.5"
+           id="path200" />
+      </g>
+    </g>
+    <g
+       class="x-gene-wrap"
+       transform="translate(1312,57)"
+       id="g205"
+       style="fill:#ff0000">
+      <g
+         class="x-gene-span"
+         transform="translate(0,2.5)"
+         id="g203"
+         style="fill:#ff0000">
+        <rect
+           height="7"
+           y="-3.5"
+           width="30"
+           id="rect201"
+           x="0"
+           style="fill:#ff0000" />
+        <rect
+           height="2.5"
+           y="-1.25"
+           width="30"
+           id="rect202"
+           x="0"
+           style="fill:#ff0000" />
+        <path
+           d="M 0,-4 H 2 V 4 H 0 Z m 5,0 H 9 V 4 H 5 Z m 6,0 h 9 v 8 h -9 z m 10,0 h 1 v 8 h -1 z m 3,0 h 1 v 8 h -1 z m 5,0 h 1 v 8 h -1 z"
+           id="path202"
+           style="fill:#ff0000" />
+        <path
+           d=""
+           class="x-gene-orient"
+           id="path203"
+           style="fill:#ff0000" />
+      </g>
+      <g
+         class="x-gene-name"
+         transform="translate(11,53.2)"
+         id="g204"
+         style="fill:#ff0000">
+        <text
+           dy="1em"
+           id="text203"
+           style="fill:#ff0000">Shtn1</text>
+        <path
+           d="M 4,-2 V -48.7"
+           id="path204"
+           style="fill:#ff0000" />
+      </g>
+    </g>
+    <g
+       class="x-gene-wrap"
+       transform="translate(716,57)"
+       id="g209">
+      <g
+         class="x-gene-span"
+         transform="translate(0,2.5)"
+         id="g207">
+        <rect
+           height="7"
+           y="-3.5"
+           width="28"
+           id="rect205"
+           x="0" />
+        <rect
+           height="2.5"
+           y="-1.25"
+           width="28"
+           id="rect206"
+           x="0" />
+        <path
+           d="M 0,-4 H 8 V 4 H 0 Z m 9,0 h 1 V 4 H 9 Z m 2,0 h 1 v 8 h -1 z m 14,0 h 1 v 8 h -1 z m 2,0 h 1 v 8 h -1 z"
+           id="path206" />
+        <path
+           d=""
+           class="x-gene-orient"
+           id="path207" />
+      </g>
+      <g
+         class="x-gene-name"
+         transform="translate(10,40)"
+         id="g208">
+        <text
+           dy="1em"
+           id="text207">Afap1l2</text>
+        <path
+           d="M 4,-2 V -35.5"
+           id="path208" />
+      </g>
+    </g>
+    <g
+       class="x-gene-wrap"
+       transform="translate(547,57)"
+       id="g213"
+       style="fill:#ff0000">
+      <g
+         class="x-gene-span"
+         transform="translate(0,2.5)"
+         id="g211"
+         style="fill:#ff0000">
+        <rect
+           height="7"
+           y="-3.5"
+           width="22"
+           id="rect209"
+           x="0"
+           style="fill:#ff0000" />
+        <rect
+           height="2.5"
+           y="-1.25"
+           width="22"
+           id="rect210"
+           x="0"
+           style="fill:#ff0000" />
+        <path
+           d="M 0,-4 H 3 V 4 H 0 Z m 4,0 h 7 V 4 H 4 Z m 8,0 h 3 v 8 h -3 z m 4,0 h 6 v 8 h -6 z"
+           id="path210"
+           style="fill:#ff0000" />
+        <path
+           d=""
+           class="x-gene-orient"
+           id="path211"
+           style="fill:#ff0000" />
+      </g>
+      <g
+         class="x-gene-name"
+         transform="translate(7,40)"
+         id="g212"
+         style="fill:#ff0000">
+        <text
+           dy="1em"
+           id="text211"
+           style="fill:#ff0000">Nrap</text>
+        <path
+           d="M 4,-2 V -35.5"
+           id="path212"
+           style="fill:#ff0000" />
+      </g>
+    </g>
+    <g
+       class="x-gene-wrap"
+       transform="translate(204,57)"
+       id="g217">
+      <g
+         class="x-gene-span"
+         transform="translate(0,2.5)"
+         id="g215">
+        <rect
+           height="7"
+           y="-3.5"
+           width="18"
+           id="rect213"
+           x="0" />
+        <rect
+           height="2.5"
+           y="-1.25"
+           width="18"
+           id="rect214"
+           x="0" />
+        <path
+           d="M 0,-4 H 12 V 4 H 0 Z m 17,0 h 1 v 8 h -1 z"
+           id="path214" />
+        <path
+           d=""
+           class="x-gene-orient"
+           id="path215" />
+      </g>
+      <g
+         class="x-gene-name"
+         transform="translate(5,40)"
+         id="g216">
+        <text
+           dy="1em"
+           id="text215">Gpam</text>
+        <path
+           d="M 4,-2 V -35.5"
+           id="path216" />
+      </g>
+    </g>
+    <g
+       class="x-gene-wrap"
+       transform="translate(1738,57)"
+       id="g221">
+      <g
+         class="x-gene-span"
+         transform="translate(0,2.5)"
+         id="g219">
+        <rect
+           height="7"
+           y="-3.5"
+           width="18"
+           id="rect217"
+           x="0" />
+        <rect
+           height="2.5"
+           y="-1.25"
+           width="18"
+           id="rect218"
+           x="0" />
+        <path
+           d="M 0,-4 H 5 V 4 H 0 Z m 6,0 H 7 V 4 H 6 Z m 6,0 h 1 v 8 h -1 z m 5,0 h 1 v 8 h -1 z"
+           id="path218" />
+        <path
+           d=""
+           class="x-gene-orient"
+           id="path219" />
+      </g>
+      <g
+         class="x-gene-name"
+         transform="translate(5,40)"
+         id="g220">
+        <text
+           dy="1em"
+           id="text219">Cacul1</text>
+        <path
+           d="M 4,-2 V -35.5"
+           id="path220" />
+      </g>
+    </g>
+    <g
+       class="x-gene-wrap"
+       transform="translate(613,57)"
+       id="g225">
+      <g
+         class="x-gene-span"
+         transform="translate(0,2.5)"
+         id="g223">
+        <rect
+           height="7"
+           y="-3.5"
+           width="17"
+           id="rect221"
+           x="0" />
+        <rect
+           height="2.5"
+           y="-1.25"
+           width="17"
+           id="rect222"
+           x="0" />
+        <path
+           d="M 0,-4 H 2 V 4 H 0 Z m 6,0 H 9 V 4 H 6 Z m 6,0 h 5 v 8 h -5 z"
+           id="path222" />
+        <path
+           d=""
+           class="x-gene-orient"
+           id="path223" />
+      </g>
+      <g
+         class="x-gene-name"
+         transform="translate(4.5,40)"
+         id="g224">
+        <text
+           dy="1em"
+           id="text223">Nhlrc2</text>
+        <path
+           d="M 4,-2 V -35.5"
+           id="path224" />
+      </g>
+    </g>
+    <g
+       class="x-gene-wrap"
+       transform="translate(1402,57)"
+       id="g229">
+      <g
+         class="x-gene-span"
+         transform="translate(0,2.5)"
+         id="g227">
+        <rect
+           height="7"
+           y="-3.5"
+           width="17"
+           id="rect225"
+           x="0" />
+        <rect
+           height="2.5"
+           y="-1.25"
+           width="17"
+           id="rect226"
+           x="0" />
+        <path
+           d="M 0,-4 H 4 V 4 H 0 Z m 5,0 H 9 V 4 H 5 Z m 6,0 h 1 v 8 h -1 z m 5,0 h 1 v 8 h -1 z"
+           id="path226" />
+        <path
+           d=""
+           class="x-gene-orient"
+           id="path227" />
+      </g>
+      <g
+         class="x-gene-name"
+         transform="translate(4.5,40)"
+         id="g228">
+        <text
+           dy="1em"
+           id="text227">Pdzd8</text>
+        <path
+           d="M 4,-2 V -35.5"
+           id="path228" />
+      </g>
+    </g>
+    <g
+       class="x-gene-wrap"
+       transform="translate(1436,57)"
+       id="g233">
+      <g
+         class="x-gene-span"
+         transform="translate(0,2.5)"
+         id="g231">
+        <rect
+           height="7"
+           y="-3.5"
+           width="16"
+           id="rect229"
+           x="0" />
+        <rect
+           height="2.5"
+           y="-1.25"
+           width="16"
+           id="rect230"
+           x="0" />
+        <path
+           d="M 0,-4 H 1 V 4 H 0 Z m 8,0 h 2 V 4 H 8 Z m 7,0 h 1 v 8 h -1 z"
+           id="path230" />
+        <path
+           d=""
+           class="x-gene-orient"
+           id="path231" />
+      </g>
+      <g
+         class="x-gene-name"
+         transform="translate(4,53.2)"
+         id="g232">
+        <text
+           dy="1em"
+           id="text231">Emx2os</text>
+        <path
+           d="M 4,-2 V -48.7"
+           id="path232" />
+      </g>
+    </g>
+    <g
+       class="x-gene-wrap"
+       transform="translate(491,57)"
+       id="g237">
+      <g
+         class="x-gene-span"
+         transform="translate(0,2.5)"
+         id="g235">
+        <rect
+           height="7"
+           y="-3.5"
+           width="17"
+           id="rect233"
+           x="0" />
+        <rect
+           height="2.5"
+           y="-1.25"
+           width="17"
+           id="rect234"
+           x="0" />
+        <path
+           d="M 0,-4 H 2 V 4 H 0 Z m 7,0 H 9 V 4 H 7 Z m 9,0 h 1 v 8 h -1 z"
+           id="path234" />
+        <path
+           d=""
+           class="x-gene-orient"
+           id="path235" />
+      </g>
+      <g
+         class="x-gene-name"
+         transform="translate(4.5,53.2)"
+         id="g236">
+        <text
+           dy="1em"
+           id="text235">LOC103691380</text>
+        <path
+           d="M 4,-2 V -48.7"
+           id="path236" />
+      </g>
+    </g>
+    <g
+       class="x-gene-wrap"
+       transform="translate(1433,57)"
+       id="g241">
+      <g
+         class="x-gene-span"
+         transform="translate(0,12.5)"
+         id="g239">
+        <rect
+           height="7"
+           y="-3.5"
+           width="16"
+           id="rect237"
+           x="0" />
+        <rect
+           height="2.5"
+           y="-1.25"
+           width="16"
+           id="rect238"
+           x="0" />
+        <path
+           d="M 0,-4 H 3 V 4 H 0 Z m 15,0 h 1 v 8 h -1 z"
+           id="path238" />
+        <path
+           d=""
+           class="x-gene-orient"
+           id="path239" />
+      </g>
+      <g
+         class="x-gene-name"
+         transform="translate(4,66.4)"
+         id="g240">
+        <text
+           dy="1em"
+           id="text239">LOC120100068</text>
+        <path
+           d="M 4,-2 V -51.9"
+           id="path240" />
+      </g>
+    </g>
+    <g
+       class="x-gene-wrap"
+       transform="translate(1176,57)"
+       id="g245">
+      <g
+         class="x-gene-span"
+         transform="translate(0,2.5)"
+         id="g243">
+        <rect
+           height="7"
+           y="-3.5"
+           width="16"
+           id="rect241"
+           x="0" />
+        <rect
+           height="2.5"
+           y="-1.25"
+           width="16"
+           id="rect242"
+           x="0" />
+        <path
+           d="M 0,-4 H 1 V 4 H 0 Z m 4,0 H 5 V 4 H 4 Z m 3,0 H 8 V 4 H 7 Z m 4,0 h 5 v 8 h -5 z"
+           id="path242" />
+        <path
+           d=""
+           class="x-gene-orient"
+           id="path243" />
+      </g>
+      <g
+         class="x-gene-name"
+         transform="translate(4,40)"
+         id="g244">
+        <text
+           dy="1em"
+           id="text243">Ccdc172</text>
+        <path
+           d="M 4,-2 V -35.5"
+           id="path244" />
+      </g>
+    </g>
+    <g
+       class="x-gene-wrap"
+       transform="translate(691,57)"
+       id="g249">
+      <g
+         class="x-gene-span"
+         transform="translate(0,2.5)"
+         id="g247">
+        <rect
+           height="7"
+           y="-3.5"
+           width="14"
+           id="rect245"
+           x="0" />
+        <rect
+           height="2.5"
+           y="-1.25"
+           width="14"
+           id="rect246"
+           x="0" />
+        <path
+           d="M 0,-4 H 14 V 4 H 0 Z"
+           id="path246" />
+        <path
+           d=""
+           class="x-gene-orient"
+           id="path247" />
+      </g>
+      <g
+         class="x-gene-name"
+         transform="translate(3,53.2)"
+         id="g248">
+        <text
+           dy="1em"
+           id="text247">Tdrd1</text>
+        <path
+           d="M 4,-2 V -48.7"
+           id="path248" />
+      </g>
+    </g>
+    <g
+       class="x-gene-wrap"
+       transform="translate(254,57)"
+       id="g253">
+      <g
+         class="x-gene-span"
+         transform="translate(0,2.5)"
+         id="g251">
+        <rect
+           height="7"
+           y="-3.5"
+           width="14"
+           id="rect249"
+           x="0" />
+        <rect
+           height="2.5"
+           y="-1.25"
+           width="14"
+           id="rect250"
+           x="0" />
+        <path
+           d="M 0,-4 H 3 V 4 H 0 Z m 5,0 h 9 V 4 H 5 Z"
+           id="path250" />
+        <path
+           d=""
+           class="x-gene-orient"
+           id="path251" />
+      </g>
+      <g
+         class="x-gene-name"
+         transform="translate(3,40)"
+         id="g252">
+        <text
+           dy="1em"
+           id="text251">Acsl5</text>
+        <path
+           d="M 4,-2 V -35.5"
+           id="path252" />
+      </g>
+    </g>
+    <g
+       class="x-gene-wrap"
+       transform="translate(240,57)"
+       id="g257">
+      <g
+         class="x-gene-span"
+         transform="translate(0,12.5)"
+         id="g255">
+        <rect
+           height="7"
+           y="-3.5"
+           width="13"
+           id="rect253"
+           x="0" />
+        <rect
+           height="2.5"
+           y="-1.25"
+           width="13"
+           id="rect254"
+           x="0" />
+        <path
+           d="M 0,-4 H 13 V 4 H 0 Z"
+           id="path254" />
+        <path
+           d=""
+           class="x-gene-orient"
+           id="path255" />
+      </g>
+      <g
+         class="x-gene-name"
+         transform="translate(2.5,53.2)"
+         id="g256">
+        <text
+           dy="1em"
+           id="text255">Gucy2g</text>
+        <path
+           d="M 4,-2 V -38.7"
+           id="path256" />
+      </g>
+    </g>
+    <g
+       class="x-gene-wrap"
+       transform="translate(705,57)"
+       id="g261">
+      <g
+         class="x-gene-span"
+         transform="translate(0,12.5)"
+         id="g259">
+        <rect
+           height="7"
+           y="-3.5"
+           width="12"
+           id="rect257"
+           x="0" />
+        <rect
+           height="2.5"
+           y="-1.25"
+           width="12"
+           id="rect258"
+           x="0" />
+        <path
+           d="M 0,-4 H 1 V 4 H 0 Z m 2,0 H 6 V 4 H 2 Z m 5,0 h 5 V 4 H 7 Z"
+           id="path258" />
+        <path
+           d=""
+           class="x-gene-orient"
+           id="path259" />
+      </g>
+      <g
+         class="x-gene-name"
+         transform="translate(2,66.4)"
+         id="g260">
+        <text
+           dy="1em"
+           id="text259">Vwa2</text>
+        <path
+           d="M 4,-2 V -51.9"
+           id="path260" />
+      </g>
+    </g>
+    <g
+       class="x-gene-wrap"
+       transform="translate(868,57)"
+       id="g265">
+      <g
+         class="x-gene-span"
+         transform="translate(0,2.5)"
+         id="g263">
+        <rect
+           height="7"
+           y="-3.5"
+           width="12"
+           id="rect261"
+           x="0" />
+        <rect
+           height="2.5"
+           y="-1.25"
+           width="12"
+           id="rect262"
+           x="0" />
+        <path
+           d="M 0,-4 H 4 V 4 H 0 Z m 6,0 H 7 V 4 H 6 Z m 2,0 h 4 V 4 H 8 Z"
+           id="path262" />
+        <path
+           d=""
+           class="x-gene-orient"
+           id="path263" />
+      </g>
+      <g
+         class="x-gene-name"
+         transform="translate(2,40)"
+         id="g264">
+        <text
+           dy="1em"
+           id="text263">Trub1</text>
+        <path
+           d="M 4,-2 V -35.5"
+           id="path264" />
+      </g>
+    </g>
+    <g
+       class="x-gene-wrap"
+       transform="translate(680,57)"
+       id="g269">
+      <g
+         class="x-gene-span"
+         transform="translate(0,12.5)"
+         id="g267">
+        <rect
+           height="7"
+           y="-3.5"
+           width="12"
+           id="rect265"
+           x="0" />
+        <rect
+           height="2.5"
+           y="-1.25"
+           width="12"
+           id="rect266"
+           x="0" />
+        <path
+           d="M 0,-4 H 6 V 4 H 0 Z m 7,0 h 3 V 4 H 7 Z m 4,0 h 1 v 8 h -1 z"
+           id="path266" />
+        <path
+           d=""
+           class="x-gene-orient"
+           id="path267" />
+      </g>
+      <g
+         class="x-gene-name"
+         transform="translate(2,79.6)"
+         id="g268">
+        <text
+           dy="1em"
+           id="text267">Ccdc186</text>
+        <path
+           d="M 4,-2 V -65.1"
+           id="path268" />
+      </g>
+    </g>
+    <g
+       class="x-gene-wrap"
+       transform="translate(571,57)"
+       id="g273"
+       style="fill:#ff0000">
+      <g
+         class="x-gene-span"
+         transform="translate(0,12.5)"
+         id="g271"
+         style="fill:#ff0000">
+        <rect
+           height="7"
+           y="-3.5"
+           width="12"
+           id="rect269"
+           x="0"
+           style="fill:#ff0000" />
+        <rect
+           height="2.5"
+           y="-1.25"
+           width="12"
+           id="rect270"
+           x="0"
+           style="fill:#ff0000" />
+        <path
+           d="M 0,-4 H 1 V 4 H 0 Z m 2,0 H 3 V 4 H 2 Z m 4,0 H 7 V 4 H 6 Z m 2,0 h 4 V 4 H 8 Z"
+           id="path270"
+           style="fill:#ff0000" />
+        <path
+           d=""
+           class="x-gene-orient"
+           id="path271"
+           style="fill:#ff0000" />
+      </g>
+      <g
+         class="x-gene-name"
+         transform="translate(2,66.4)"
+         id="g272"
+         style="fill:#ff0000">
+        <text
+           dy="1em"
+           id="text271"
+           style="fill:#ff0000">Casp7</text>
+        <path
+           d="M 4,-2 V -51.9"
+           id="path272"
+           style="fill:#ff0000" />
+      </g>
+    </g>
+    <g
+       class="x-gene-wrap"
+       transform="translate(1645,57)"
+       id="g277">
+      <g
+         class="x-gene-span"
+         transform="translate(0,2.5)"
+         id="g275">
+        <rect
+           height="7"
+           y="-3.5"
+           width="12"
+           id="rect273"
+           x="0" />
+        <rect
+           height="2.5"
+           y="-1.25"
+           width="12"
+           id="rect274"
+           x="0" />
+        <path
+           d="M 0,-4 H 4 V 4 H 0 Z m 7,0 H 8 V 4 H 7 Z m 2,0 h 1 V 4 H 9 Z m 2,0 h 1 v 8 h -1 z"
+           id="path274" />
+        <path
+           d=""
+           class="x-gene-orient"
+           id="path275" />
+      </g>
+      <g
+         class="x-gene-name"
+         transform="translate(2,40)"
+         id="g276">
+        <text
+           dy="1em"
+           id="text275">Fam204a</text>
+        <path
+           d="M 4,-2 V -35.5"
+           id="path276" />
+      </g>
+    </g>
+    <g
+       class="x-gene-wrap"
+       transform="translate(1216,57)"
+       id="g281">
+      <g
+         class="x-gene-span"
+         transform="translate(0,2.5)"
+         id="g279">
+        <rect
+           height="7"
+           y="-3.5"
+           width="11"
+           id="rect277"
+           x="0" />
+        <rect
+           height="2.5"
+           y="-1.25"
+           width="11"
+           id="rect278"
+           x="0" />
+        <path
+           d="M 0,-4 H 1 V 4 H 0 Z m 7,0 h 4 V 4 H 7 Z"
+           id="path278" />
+        <path
+           d=""
+           class="x-gene-orient"
+           id="path279" />
+      </g>
+      <g
+         class="x-gene-name"
+         transform="translate(1.5,53.2)"
+         id="g280">
+        <text
+           dy="1em"
+           id="text279">Pnlip</text>
+        <path
+           d="M 4,-2 V -48.7"
+           id="path280" />
+      </g>
+    </g>
+    <g
+       class="x-gene-wrap"
+       transform="translate(1393,57)"
+       id="g285">
+      <g
+         class="x-gene-span"
+         transform="translate(0,12.5)"
+         id="g283">
+        <rect
+           height="7"
+           y="-3.5"
+           width="10"
+           id="rect281"
+           x="0" />
+        <rect
+           height="2.5"
+           y="-1.25"
+           width="10"
+           id="rect282"
+           x="0" />
+        <path
+           d="M 0,-4 H 1 V 4 H 0 Z m 3,0 H 5 V 4 H 3 Z m 3,0 H 8 V 4 H 6 Z m 3,0 h 1 V 4 H 9 Z"
+           id="path282" />
+        <path
+           d=""
+           class="x-gene-orient"
+           id="path283" />
+      </g>
+      <g
+         class="x-gene-name"
+         transform="translate(1,53.2)"
+         id="g284">
+        <text
+           dy="1em"
+           id="text283">Slc18a2</text>
+        <path
+           d="M 4,-2 V -38.7"
+           id="path284" />
+      </g>
+    </g>
+    <g
+       class="x-gene-wrap"
+       transform="translate(538,57)"
+       id="g289">
+      <g
+         class="x-gene-span"
+         transform="translate(0,12.5)"
+         id="g287">
+        <rect
+           height="7"
+           y="-3.5"
+           width="10"
+           id="rect285"
+           x="0" />
+        <rect
+           height="2.5"
+           y="-1.25"
+           width="10"
+           id="rect286"
+           x="0" />
+        <path
+           d="M 0,-4 H 1 V 4 H 0 Z m 3,0 H 4 V 4 H 3 Z m 2,0 h 5 V 4 H 5 Z"
+           id="path286" />
+        <path
+           d=""
+           class="x-gene-orient"
+           id="path287" />
+      </g>
+      <g
+         class="x-gene-name"
+         transform="translate(1,79.6)"
+         id="g288">
+        <text
+           dy="1em"
+           id="text287">Habp2</text>
+        <path
+           d="M 4,-2 V -65.1"
+           id="path288" />
+      </g>
+    </g>
+    <g
+       class="x-gene-wrap"
+       transform="translate(515,57)"
+       id="g293">
+      <g
+         class="x-gene-span"
+         transform="translate(0,2.5)"
+         id="g291">
+        <rect
+           height="7"
+           y="-3.5"
+           width="11"
+           id="rect289"
+           x="0" />
+        <rect
+           height="2.5"
+           y="-1.25"
+           width="11"
+           id="rect290"
+           x="0" />
+        <path
+           d="M 0,-4 H 2 V 4 H 0 Z m 9,0 h 2 V 4 H 9 Z"
+           id="path290" />
+        <path
+           d=""
+           class="x-gene-orient"
+           id="path291" />
+      </g>
+      <g
+         class="x-gene-name"
+         transform="translate(1.5,92.8)"
+         id="g292">
+        <text
+           dy="1em"
+           id="text291">LOC120100063</text>
+        <path
+           d="M 4,-2 V -88.3"
+           id="path292" />
+      </g>
+    </g>
+    <g
+       class="x-gene-wrap"
+       transform="translate(1804,57)"
+       id="g297">
+      <g
+         class="x-gene-span"
+         transform="translate(0,2.5)"
+         id="g295">
+        <rect
+           height="7"
+           y="-3.5"
+           width="9"
+           id="rect293"
+           x="0" />
+        <rect
+           height="2.5"
+           y="-1.25"
+           width="9"
+           id="rect294"
+           x="0" />
+        <path
+           d="M 0,-4 H 7 V 4 H 0 Z m 8,0 H 9 V 4 H 8 Z"
+           id="path294" />
+        <path
+           d=""
+           class="x-gene-orient"
+           id="path295" />
+      </g>
+      <g
+         class="x-gene-name"
+         transform="translate(0.5,40)"
+         id="g296">
+        <text
+           dy="1em"
+           id="text295">Eif3a</text>
+        <path
+           d="M 4,-2 V -35.5"
+           id="path296" />
+      </g>
+    </g>
+    <g
+       class="x-gene-wrap"
+       transform="translate(587,57)"
+       id="g301">
+      <g
+         class="x-gene-span"
+         transform="translate(0,2.5)"
+         id="g299">
+        <rect
+           height="7"
+           y="-3.5"
+           width="9"
+           id="rect297"
+           x="0" />
+        <rect
+           height="2.5"
+           y="-1.25"
+           width="9"
+           id="rect298"
+           x="0" />
+        <path
+           d="M 0,-4 H 2 V 4 H 0 Z m 3,0 H 9 V 4 H 3 Z"
+           id="path298" />
+        <path
+           d=""
+           class="x-gene-orient"
+           id="path299" />
+      </g>
+      <g
+         class="x-gene-name"
+         transform="translate(0.5,53.2)"
+         id="g300">
+        <text
+           dy="1em"
+           id="text299">Plekhs1</text>
+        <path
+           d="M 4,-2 V -48.7"
+           id="path300" />
+      </g>
+    </g>
+    <g
+       class="x-gene-wrap"
+       transform="translate(842,57)"
+       id="g305">
+      <g
+         class="x-gene-span"
+         transform="translate(0,2.5)"
+         id="g303">
+        <rect
+           height="7"
+           y="-3.5"
+           width="8"
+           id="rect301"
+           x="0" />
+        <rect
+           height="2.5"
+           y="-1.25"
+           width="8"
+           id="rect302"
+           x="0" />
+        <path
+           d="M 0,-4 H 1 V 4 H 0 Z m 2,0 H 8 V 4 H 2 Z"
+           id="path302" />
+        <path
+           d=""
+           class="x-gene-orient"
+           id="path303" />
+      </g>
+      <g
+         class="x-gene-name"
+         transform="translate(0,53.2)"
+         id="g304">
+        <text
+           dy="1em"
+           id="text303">Fhip2a</text>
+        <path
+           d="M 4,-2 V -48.7"
+           id="path304" />
+      </g>
+    </g>
+    <g
+       class="x-gene-wrap"
+       transform="translate(1096,57)"
+       id="g309">
+      <g
+         class="x-gene-span"
+         transform="translate(0,12.5)"
+         id="g307">
+        <rect
+           height="7"
+           y="-3.5"
+           width="7"
+           id="rect305"
+           x="0" />
+        <rect
+           height="2.5"
+           y="-1.25"
+           width="7"
+           id="rect306"
+           x="0" />
+        <path
+           d="M 0,-4 H 1 V 4 H 0 Z m 6,0 H 7 V 4 H 6 Z"
+           id="path306" />
+        <path
+           d=""
+           class="x-gene-orient"
+           id="path307" />
+      </g>
+      <g
+         class="x-gene-name"
+         transform="translate(-0.5,53.2)"
+         id="g308">
+        <text
+           dy="1em"
+           id="text307">LOC102556644</text>
+        <path
+           d="M 4,-2 V -38.7"
+           id="path308" />
+      </g>
+    </g>
+    <g
+       class="x-gene-wrap"
+       transform="translate(1817,57)"
+       id="g313">
+      <g
+         class="x-gene-span"
+         transform="translate(0,12.5)"
+         id="g311">
+        <rect
+           height="7"
+           y="-3.5"
+           width="7"
+           id="rect309"
+           x="0" />
+        <rect
+           height="2.5"
+           y="-1.25"
+           width="7"
+           id="rect310"
+           x="0" />
+        <path
+           d="M 0,-4 H 7 V 4 H 0 Z"
+           id="path310" />
+        <path
+           d=""
+           class="x-gene-orient"
+           id="path311" />
+      </g>
+      <g
+         class="x-gene-name"
+         transform="translate(-0.5,53.2)"
+         id="g312">
+        <text
+           dy="1em"
+           id="text311">Dennd10</text>
+        <path
+           d="M 4,-2 V -38.7"
+           id="path312" />
+      </g>
+    </g>
+    <g
+       class="x-gene-wrap"
+       transform="translate(1305,57)"
+       id="g317">
+      <g
+         class="x-gene-span"
+         transform="translate(0,12.5)"
+         id="g315">
+        <rect
+           height="7"
+           y="-3.5"
+           width="7"
+           id="rect313"
+           x="0" />
+        <rect
+           height="2.5"
+           y="-1.25"
+           width="7"
+           id="rect314"
+           x="0" />
+        <path
+           d="M 0,-4 H 7 V 4 H 0 Z"
+           id="path314" />
+        <path
+           d=""
+           class="x-gene-orient"
+           id="path315" />
+      </g>
+      <g
+         class="x-gene-name"
+         transform="translate(-0.5,66.4)"
+         id="g316">
+        <text
+           dy="1em"
+           id="text315">Eno4</text>
+        <path
+           d="M 4,-2 V -51.9"
+           id="path316" />
+      </g>
+    </g>
+    <g
+       class="x-gene-wrap"
+       transform="translate(1824,57)"
+       id="g321">
+      <g
+         class="x-gene-span"
+         transform="translate(0,2.5)"
+         id="g319">
+        <rect
+           height="7"
+           y="-3.5"
+           width="7"
+           id="rect317"
+           x="0" />
+        <rect
+           height="2.5"
+           y="-1.25"
+           width="7"
+           id="rect318"
+           x="0" />
+        <path
+           d="M 0,-4 H 7 V 4 H 0 Z"
+           id="path318" />
+        <path
+           d=""
+           class="x-gene-orient"
+           id="path319" />
+      </g>
+      <g
+         class="x-gene-name"
+         transform="translate(-0.5,66.4)"
+         id="g320">
+        <text
+           dy="1em"
+           id="text319">Sfxn4</text>
+        <path
+           d="M 4,-2 V -61.9"
+           id="path320" />
+      </g>
+    </g>
+    <g
+       class="x-gene-wrap"
+       transform="translate(1063,57)"
+       id="g325">
+      <g
+         class="x-gene-span"
+         transform="translate(0,12.5)"
+         id="g323">
+        <rect
+           height="7"
+           y="-3.5"
+           width="7"
+           id="rect321"
+           x="0" />
+        <rect
+           height="2.5"
+           y="-1.25"
+           width="7"
+           id="rect322"
+           x="0" />
+        <path
+           d="M 0,-4 H 2 V 4 H 0 Z m 6,0 H 7 V 4 H 6 Z"
+           id="path322" />
+        <path
+           d=""
+           class="x-gene-orient"
+           id="path323" />
+      </g>
+      <g
+         class="x-gene-name"
+         transform="translate(-0.5,66.4)"
+         id="g324">
+        <text
+           dy="1em"
+           id="text323">LOC120097692</text>
+        <path
+           d="M 4,-2 V -51.9"
+           id="path324" />
+      </g>
+    </g>
+    <g
+       class="x-gene-wrap"
+       transform="translate(47,57)"
+       id="g329">
+      <g
+         class="x-gene-span"
+         transform="translate(0,2.5)"
+         id="g327">
+        <rect
+           height="7"
+           y="-3.5"
+           width="7"
+           id="rect325"
+           x="0" />
+        <rect
+           height="2.5"
+           y="-1.25"
+           width="7"
+           id="rect326"
+           x="0" />
+        <path
+           d="M 0,-4 H 2 V 4 H 0 Z m 3,0 H 7 V 4 H 3 Z"
+           id="path326" />
+        <path
+           d=""
+           class="x-gene-orient"
+           id="path327" />
+      </g>
+      <g
+         class="x-gene-name"
+         transform="translate(-0.5,40)"
+         id="g328">
+        <text
+           dy="1em"
+           id="text327">LOC102552097</text>
+        <path
+           d="M 4,-2 V -35.5"
+           id="path328" />
+      </g>
+    </g>
+    <g
+       class="x-gene-view"
+       transform="matrix(1,0,0,-1,6,320)"
+       id="g331" />
+    <g
+       class="x-conn-axis x-axis-up"
+       transform="translate(6, 30)"
+       fill="none"
+       font-size="11"
+       text-anchor="middle"
+       id="g340">
+      <rect
+         class="domain-base"
+         x="0"
+         y="0em"
+         height="2em"
+         width="1969"
+         id="rect332" />
+      <path
+         class="domain"
+         stroke="currentColor"
+         d="M0,6V0H1969V6"
+         id="path332" />
+      <g
+         class="tick"
+         opacity="1"
+         transform="translate(169, 0)"
+         id="g333">
+        <line
+           stroke="currentColor"
+           y2="6"
+           id="line332" />
+        <text
+           fill="currentColor"
+           y="9"
+           dy="0.71em"
+           id="text332">254M</text>
+      </g>
+      <g
+         class="tick"
+         opacity="1"
+         transform="translate(445, 0)"
+         id="g334">
+        <line
+           stroke="currentColor"
+           y2="6"
+           id="line333" />
+        <text
+           fill="currentColor"
+           y="9"
+           dy="0.71em"
+           id="text333">255M</text>
+      </g>
+      <g
+         class="tick"
+         opacity="1"
+         transform="translate(721, 0)"
+         id="g335">
+        <line
+           stroke="currentColor"
+           y2="6"
+           id="line334" />
+        <text
+           fill="currentColor"
+           y="9"
+           dy="0.71em"
+           id="text334">256M</text>
+      </g>
+      <g
+         class="tick"
+         opacity="1"
+         transform="translate(997, 0)"
+         id="g336">
+        <line
+           stroke="currentColor"
+           y2="6"
+           id="line335" />
+        <text
+           fill="currentColor"
+           y="9"
+           dy="0.71em"
+           id="text335">257M</text>
+      </g>
+      <g
+         class="tick"
+         opacity="1"
+         transform="translate(1273, 0)"
+         id="g337">
+        <line
+           stroke="currentColor"
+           y2="6"
+           id="line336" />
+        <text
+           fill="currentColor"
+           y="9"
+           dy="0.71em"
+           id="text336">258M</text>
+      </g>
+      <g
+         class="tick"
+         opacity="1"
+         transform="translate(1549, 0)"
+         id="g338">
+        <line
+           stroke="currentColor"
+           y2="6"
+           id="line337" />
+        <text
+           fill="currentColor"
+           y="9"
+           dy="0.71em"
+           id="text337">259M</text>
+      </g>
+      <g
+         class="tick"
+         opacity="1"
+         transform="translate(1825, 0)"
+         id="g339">
+        <line
+           stroke="currentColor"
+           y2="6"
+           id="line338" />
+        <text
+           fill="currentColor"
+           y="9"
+           dy="0.71em"
+           id="text338">260M</text>
+      </g>
+    </g>
+    <g
+       class="x-conn-axis x-axis-down"
+       transform="translate(6, 320)"
+       fill="none"
+       font-size="11"
+       text-anchor="middle"
+       id="g351">
+      <rect
+         class="domain-base"
+         x="0"
+         y="-2em"
+         height="2em"
+         width="1969"
+         id="rect340" />
+      <path
+         class="domain"
+         stroke="currentColor"
+         d="M0,-6V0H1969V-6"
+         id="path340" />
+      <g
+         class="tick"
+         opacity="1"
+         transform="translate(103, 0)"
+         id="g341">
+        <line
+           stroke="currentColor"
+           y2="-6"
+           id="line340" />
+        <text
+           fill="currentColor"
+           y="-9"
+           dy="0em"
+           id="text340">110M</text>
+      </g>
+      <g
+         class="tick"
+         opacity="1"
+         transform="translate(281, 0)"
+         id="g342">
+        <line
+           stroke="currentColor"
+           y2="-6"
+           id="line341" />
+        <text
+           fill="currentColor"
+           y="-9"
+           dy="0em"
+           id="text341">111M</text>
+      </g>
+      <g
+         class="tick"
+         opacity="1"
+         transform="translate(456, 0)"
+         id="g343">
+        <line
+           stroke="currentColor"
+           y2="-6"
+           id="line342" />
+        <text
+           fill="currentColor"
+           y="-9"
+           dy="0em"
+           id="text342">112M</text>
+      </g>
+      <g
+         class="tick"
+         opacity="1"
+         transform="translate(630, 0)"
+         id="g344">
+        <line
+           stroke="currentColor"
+           y2="-6"
+           id="line343" />
+        <text
+           fill="currentColor"
+           y="-9"
+           dy="0em"
+           id="text343">113M</text>
+      </g>
+      <g
+         class="tick"
+         opacity="1"
+         transform="translate(774, 0)"
+         id="g345">
+        <line
+           stroke="currentColor"
+           y2="-6"
+           id="line344" />
+        <text
+           fill="currentColor"
+           y="-9"
+           dy="0em"
+           id="text344">114M</text>
+      </g>
+      <g
+         class="tick"
+         opacity="1"
+         transform="translate(914, 0)"
+         id="g346">
+        <line
+           stroke="currentColor"
+           y2="-6"
+           id="line345" />
+        <text
+           fill="currentColor"
+           y="-9"
+           dy="0em"
+           id="text345">115M</text>
+      </g>
+      <g
+         class="tick"
+         opacity="1"
+         transform="translate(1054, 0)"
+         id="g347">
+        <line
+           stroke="currentColor"
+           y2="-6"
+           id="line346" />
+        <text
+           fill="currentColor"
+           y="-9"
+           dy="0em"
+           id="text346">116M</text>
+      </g>
+      <g
+         class="tick"
+         opacity="1"
+         transform="translate(1194, 0)"
+         id="g348">
+        <line
+           stroke="currentColor"
+           y2="-6"
+           id="line347" />
+        <text
+           fill="currentColor"
+           y="-9"
+           dy="0em"
+           id="text347">117M</text>
+      </g>
+      <g
+         class="tick"
+         opacity="1"
+         transform="translate(1481, 0)"
+         id="g349">
+        <line
+           stroke="currentColor"
+           y2="-6"
+           id="line348" />
+        <text
+           fill="currentColor"
+           y="-9"
+           dy="0em"
+           id="text348">118M</text>
+      </g>
+      <g
+         class="tick"
+         opacity="1"
+         transform="translate(1832, 0)"
+         id="g350">
+        <line
+           stroke="currentColor"
+           y2="-6"
+           id="line349" />
+        <text
+           fill="currentColor"
+           y="-9"
+           dy="0em"
+           id="text349">119M</text>
+      </g>
+    </g>
+    <g
+       class="x-gene-map"
+       style="transform: translate(6px) scale(1);"
+       id="g353">
+      <rect
+         class="x-gene-pad"
+         id="rect351" />
+      <path
+         d="M0,0V4H4V4H7V8H11V6H15V9H18V12H22V8H25V3H29V4H33V15H36V12H40V2H44V5H47V12H51V13H54V12H58V9H62V3H65V3H69V0H73V3H76V0H81V6H85V8H89V14H93V8H97V3H101V11H105V14H109V9H114V5H118V13H122V9H126V10H130V16H134V6H138V5H143V8H147V8H151V6H155V5H159V3H163V7H167V9H171V7H176V13H179V8H183V16H186V15H190V8H193V5H196V3H200V0H203V4H207V10H210V11H213V7H217V0H220V1H223V0H227V1H230V6H234V2H237V5H240V2H244V17H247V10H250V5H254V1H257V0H261V0H264V2H267V2H271V5H274V15H278V4H281V11H284V15H288V16H292V10H296V0H300V13H304V10H308V12H311V2H315V2H319V12H323V13H327V13H331V7H335V11H338V11H342V17H346V17H350V16H354V7H358V2H362V5H366V14H371V13H375V10H379V7H384V20H388V20H392V6H396V7H401V6H405V4H409V0H413V2H418V6H422V4H426V2H431V1H435V2H439V9H443V6H448V5H452V8H456V5H461V6H465V3H469V4H473V7H478V9H482V7H486V13H491V7H495V4H499V5H503V11H508V8H512V6H516V6H519V7H523V2H527V3H531V3H534V8H538V3H542V5H545V6H549V8H553V13H556V5H560V12H564V9H567V4H571V12H575V14H578V10H582V8H586V13H590V11H593V6H597V7H601V13H604V11H608V11H612V15H615V11H619V12H623V11H626V6H630V8H634V11H638V12H641V3H645V2H649V1H652V15H656V8H660V5H664V3H668V8H672V4H676V9H680V9H684V7H688V12H692V14H696V16H701V13H705V13H709V9H713V2H717V3H721V12H725V14H729V16H733V2H738V10H742V0H746V3H750V0H754V3H758V0H762V0H766V0H771V8H775V5H779V8H783V17H787V11H791V14H795V7H799V0H803V6H808V17H812V16H816V4H820V0H824V0H828V0H832V3H836V2H840V8H845V5H849V8H853V6H857V4H861V13H865V8H869V16H873V13H877V10H882V10H886V12H890V10H894V12H898V10H902V3H906V0H910V0H915V8H919V0H923V2H928V6H932V2H936V0H941V7H945V6H949V9H954V5H958V10H962V6H967V16H971V7H975V1H980V6H984V8H988V8H993V11H997V11H1001V10H1006V13H1010V11H1014V12H1019V7H1023V2H1027V11H1032V10H1036V2H1040V5H1044V5H1048V5H1052V12H1056V17H1059V5H1063V0H1067V10H1071V14H1075V11H1079V16H1082V17H1086V16H1090V16H1094V10H1098V0H1102V1H1106V14H1109V10H1113V0H1117V13H1121V16H1125V15H1129V13H1132V15H1136V9H1140V11H1144V13H1148V11H1152V14H1156V14H1159V14H1163V15H1167V10H1171V2H1175V2H1179V9H1182V3H1186V3H1190V8H1194V2H1198V6H1202V9H1206V1H1210V3H1214V12H1217V14H1221V13H1225V12H1229V4H1233V9H1237V13H1241V8H1245V8H1249V12H1253V8H1264V4H1276V5H1284V18H1289V9H1293V0H1297V10H1302V3H1306V10H1310V11H1315V7H1319V18H1324V14H1328V16H1332V8H1337V11H1341V14H1346V10H1350V5H1355V12H1359V2H1364V3H1368V11H1372V13H1377V10H1381V9H1384V13H1387V10H1390V6H1393V5H1396V4H1399V10H1401V11H1405V13H1410V2H1414V7H1418V13H1422V4H1427V16H1431V10H1435V18H1440V7H1444V1H1448V0H1452V11H1457V3H1461V5H1465V2H1469V11H1474V10H1478V6H1482V1H1486V9H1491V12H1495V7H1499V9H1503V13H1507V13H1511V14H1515V11H1518V7H1522V13H1526V13H1530V14H1535V12H1539V10H1543V12H1547V9H1552V12H1556V8H1560V14H1564V4H1569V10H1573V13H1577V12H1581V7H1586V7H1590V4H1594V6H1598V1H1602V1H1607V1H1611V3H1615V0H1619V2H1624V11H1628V10H1632V11H1636V12H1641V0H1644V14H1648V3H1652V0H1656V2H1659V10H1663V6H1667V6H1671V16H1674V15H1678V11H1682V12H1686V12H1689V13H1693V11H1697V1H1701V7H1704V4H1708V4H1712V8H1716V13H1720V11H1724V11H1728V6H1732V7H1736V17H1739V16H1743V13H1747V11H1751V11H1755V8H1759V6H1762V5H1766V0H1769V5H1773V6H1776V11H1779V10H1783V10H1786V12H1790V10H1793V5H1797V4H1800V7H1803V11H1807V14H1811V14H1815V14H1819V12H1823V14H1827V16H1831V10H1835V9H1839V7H1843V10H1847V11H1851V13H1855V13H1859V14H1863V10H1867V16H1871V3H1875V2H1879V7H1883V12H1887V0H1891V1H1895V0H1899V0H1903V9H1907V11H1911V2H1915V1H1919V12H1923V10H1927V10H1932V11H1936V10H1940V16H1944V11H1948V12H1952V8H1956V5H1960V3H1964V10H1968V2H1972V0"
+         fill="url(#gene-map)"
+         id="path351" />
+      <g
+         class="x-hair"
+         transform="translate(1696.5, 0)"
+         id="g352">
+        <line
+           y1="-2"
+           y2="22"
+           id="line351" />
+      </g>
+    </g>
+    <g
+       class="x-gene-map"
+       style="transform: translate(6px, 350px) scale(1, -1);"
+       id="g355">
+      <rect
+         class="x-gene-pad"
+         id="rect353" />
+      <path
+         d=""
+         fill="url(#gene-map)"
+         id="path353" />
+      <g
+         class="x-hair"
+         transform="translate(817.5, 0)"
+         id="g354">
+        <line
+           y1="-2"
+           y2="22"
+           id="line353" />
+      </g>
+    </g>
+    <g
+       class="x-conn-pad"
+       transform="translate(6, 30)scale(1, -1)"
+       id="g356">
+      <path
+         d="M0,0V4L1915,13v34H1970v-34L1969,4V0"
+         id="path355" />
+    </g>
+    <g
+       class="x-conn-pad"
+       transform="translate(6, 320)scale(1, 1)"
+       id="g357">
+      <path
+         d="M0,0V4L1620,13v34H1725v-34L1969,4V0"
+         id="path356" />
+    </g>
+    <g
+       class="x-conn-mask"
+       id="g358">
+      <rect
+         y="0"
+         height="350"
+         width="6"
+         x="0"
+         fill="url(#x-mask-left)"
+         id="rect357" />
+      <rect
+         y="0"
+         height="350"
+         width="6"
+         x="1977"
+         fill="url(#x-mask-right)"
+         id="rect358" />
+    </g>
+  </g>
+</svg>
