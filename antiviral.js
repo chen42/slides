@@ -17,7 +17,7 @@ var markdownContent = ''
 + "\n"
 + "Or download the [**Printable version that can be saved as a pdf file**](http://chen42.github.io/slides/antiviral.html?print-pdf#/).\n"
 + "\n"
-+ "<b>Last update: Oct 14th, 2023</b>\n"
++ "<b>Last update: Nov 1th, 2023</b>\n"
 + "\n"
 + "---\n"
 + "\n"
