@@ -84,7 +84,7 @@ HIV-1 widely distributed, more pathogenic | HIV-2 restricted to Central and West
 </div>
 
 Note: 
-Viral envelope, capsid is cone shaped, see  https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4876022/,  Fig 1. legend  
+Viral envelope, capsid is cone shaped, see https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4876022/, Fig 1. legend 
 
 Drug targets are highlighted using redish background
 
@@ -190,7 +190,7 @@ Note:
 * ART is cART, a combination of drugs targeting multiple viral replication pathways.
 * Past recommendation includes protease inhibitors. Current recommendation all include INSTI
 * Need to understand the exceptions as well. 
-* click on the title link to read the full recommendation, DTG = dolutegravir;  3TC = lamivudine;  TAF = tenofovir alafenamide (no need to memorize these acronyms)
+* click on the title link to read the full recommendation, DTG = dolutegravir; 3TC = lamivudine; TAF = tenofovir alafenamide (no need to memorize these acronyms)
 ---
 
 <section id="Integrase">
@@ -200,14 +200,14 @@ Note:
  Dolu<font color="darkred">tegra</font>vir (Tivicay) |
  Cabo<font color="darkred">tegra</font>vir (Vocabria) | 
  Ral<font color="darkred">tegra</font>vir (Isentress) |
- Elvi<font color="darkred">tegra</font>vir  
+ Elvi<font color="darkred">tegra</font>vir 
 <table><tr><td>
 <img src="./images/antiviral/hiv_integration.png"</img>
 </td> <td>
 <ul>
 <li>Mechanism of action
 <ul>
- <li> Binds to HIV-1 integrase and prevents strand transfer  <br>
+ <li> Binds to HIV-1 integrase and prevents strand transfer <br>
  <li> Prevents insertion of viral DNA into host genome <p>
  </ul>
 
@@ -251,7 +251,7 @@ Note:
 <span id=drug>Bictegravir</span> displays a high resistance barrier and has an improved phenotypic resistance profile compared to <span id=drug>dolutegravir (DTG), raltegravir (RAL) and elvitegravir (EVG). Bictegravir </span> has a longer dissociation half-life from both wild-type and mutant HIV-1 integrase/DNA complexes compared with DTG, RAL, and EVG
 
 Note:
-Among the five drugs, B and D are in the recommendations,  C is a new drug (expensive injectable), R is relatively worese in drug resistance, E is a substrate of CYP3A4
+Among the five drugs, B and D are in the recommendations, C is a new drug (expensive injectable), R is relatively worese in drug resistance, E is a substrate of CYP3A4
 
 ---
 
@@ -301,7 +301,7 @@ Among the five drugs, B and D are in the recommendations,  C is a new drug (expe
 	* Prevent acute infection of susceptible cells
 	* Little effect on cells already infected by HIV
 	* <span id="drug"> Zidovudine </span> 
-		* <span id="yb">passes placenta rapidly, reduce the rate of maternal-fetal HIV-1 transmission from <a href="https://www.nejm.org/doi/full/10.1056/nejm199411033311801">25% to 8%</a>  </a>
+		* <span id="yb">passes placenta rapidly, reduce the rate of maternal-fetal HIV-1 transmission from <a href="https://www.nejm.org/doi/full/10.1056/nejm199411033311801">25% to 8%</a> </a>
 		* also used in neonates to <a href="https://clinicalinfo.hiv.gov/en/guidelines/pediatric-arv/zidovudine">prevent perinatal transmission of HIV </a>. 
 * Resistance
 	* Drugs select for different mutations of the reverse transcriptase gene at the level of specific codons 
@@ -324,7 +324,7 @@ Among the five drugs, B and D are in the recommendations,  C is a new drug (expe
 	* [Lactic acidosis](https://hivinfo.nih.gov/understanding-hiv/fact-sheets/hiv-and-lactic-acidosis), [hepatic steatosis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6550355/)
 	* [Lipodystrophy](https://www.ncbi.nlm.nih.gov/PubMed/10509567): fat loss or buildup or both. 
 		* Including central obesity, dorsocervical fat enlargement [(buffalo hump)](https://www.clinicalkey.com/#!/content/medline/2-s2.0-9525364), peripheral wasting, accumulation of facial fat, [lipomas](http://www.mayoclinic.org/diseases-conditions/lipoma/basics/definition/con-20024646), breast enlargement, [gynecomastia](http://www.mayoclinic.org/diseases-conditions/gynecomastia/home/ovc-20257576)
-	*  [Mitochondrial toxicity](https://www.uptodate.com/contents/mitochondrial-toxicity-of-hiv-nucleoside-reverse-transcriptase-inhibitors/) is a major adverse effect of nucleoside analogues,  which can lead to myopathy, peripheral neuropathy, and hepatic steatosis with lactic acidosis
+	* [Mitochondrial toxicity](https://www.uptodate.com/contents/mitochondrial-toxicity-of-hiv-nucleoside-reverse-transcriptase-inhibitors/) is a major adverse effect of nucleoside analogues, which can lead to myopathy, peripheral neuropathy, and hepatic steatosis with lactic acidosis
 
 Note: 
 These drugs inhibit DNA polymerase gamma, which replicates the mt genome.
@@ -431,7 +431,7 @@ Note:
 
 ---
 
-## Tenofovir  and Emtricitabine 
+## Tenofovir and Emtricitabine 
 ### (Truvada or Descovy)
 
 * Better than Abacavir-Lamivudine for initial therapy 
@@ -524,7 +524,7 @@ note: rifampin is a bacterial RNA polymerase inhibitor
 	* <span id="drug"> darunavir </span> displays a < 10-fold decreased susceptibility against 90% of HIV-1 isolates resistant to <span id="drug"> amprenavir, atazanavir, indinavir, lopinavir, nelfinavir, ritonavir, saquinavir, </span> and/or <span id="drug"> tipranavir </span> . 	
 * Must be used in combination in an antiviral regimen.
 	* Requires an enhancer (i.e. low does <span id="drug"> ritonavir </span> or [cobicistat](https://www.ncbi.nlm.nih.gov/pubmed/26566368) )
-* Moved off the  <a href="#/recommend">Recommended list</a> for treatment-naive patients in 2017
+* Moved off the <a href="#/recommend">Recommended list</a> for treatment-naive patients in 2017
 
 ---
 
@@ -737,8 +737,8 @@ These are just a few examples. Detailed list available from the link above
 
 ## Objectives 
 
-*  For each virus, understand the <span id="yb"> major classes </span> of available antiviral agents.
-*  Describe the <span id="yb">mechanisms of action</span> for antiviral agents against HSV, CMV, HBV, HCV, SARS-CoV-2, and <span id="yb">mechanisms of viral resistance</span> to these agents.
+* For each virus, understand the <span id="yb"> major classes </span> of available antiviral agents.
+* Describe the <span id="yb">mechanisms of action</span> for antiviral agents against HSV, CMV, HBV, HCV, SARS-CoV-2, and <span id="yb">mechanisms of viral resistance</span> to these agents.
 
 ---
 
@@ -1195,7 +1195,7 @@ https://www.wjgnet.com/1007-9327/full/v27/i28/4555.htm
 
 * 9 HCV genotypes, type 1 is most common in the US.
 
-* <span id="drug">sofosbuvir/ledipasvir </span>  for genotypes 1, 4, 5 and 6 (1st line treatment)
+* <span id="drug">sofosbuvir/ledipasvir </span> for genotypes 1, 4, 5 and 6 (1st line treatment)
 * <span id="drug"> sofosbuvir/ribavirin </span> for genotype 2 and 3
 
 * Antiviral medicines can <b>cure</b> more than 95% of persons with hepatitis C infection
@@ -1287,7 +1287,7 @@ https://www.wjgnet.com/1007-9327/full/v27/i28/4555.htm
 * Life cycle 
 	* virus enter the cell via H spikes. In the endosome, low pH in the endosome trigger the <span id='bg'> fusion of membranes</span>.
 	* viral ribonucleoprotein and viral RNA enters the cell
-    * viral RNA is replicated by RNA-dependent RNA polymerase. 
+ * viral RNA is replicated by RNA-dependent RNA polymerase. 
 	* viral RNA acquires the 5'cap of of cellular RNA (important for making protein) and exported into the cytoplasm.
 	* viral protein is made and virus is packaged on cell surface
 	* the N spikes cleave the H spikes and releases the viron.
@@ -1333,7 +1333,7 @@ Sialic acid analog inhibitors of influenza A and B neuraminidase
 
 <section id="flucap">
 
-##  Baloxavir marboxil (Xofluza) 
+## Baloxavir marboxil (Xofluza) 
 
 * Approved by the [FDA on October 24, 2018](https://www.fda.gov/NewsEvents/Newsroom/PressAnnouncements/ucm624226.htm)
 	* The first oral, single-dose antiviral
@@ -1398,7 +1398,7 @@ Single stranded RNA virus
 <a href="https://www.nature.com/articles/s41579-020-00468-6">
 <img src="./images/antiviral/sars-cov-2_life_cycle.png" width=90%>
 </a>
-Color legend: Orange boxes -> life cycle  | 
+Color legend: Orange boxes -> life cycle | 
 	Red boxes -> therapeutic options under investigation
 
 
@@ -1498,7 +1498,7 @@ Another version of SARS-CoV-2 life cycle</a>
 		* [can mimic either cytosine or uridine after incorporated into viral RNA template, causing mutations of the viral RNA](https://www.nature.com/articles/d41586-021-02783-1)
 * [Clinical trial](https://www.science.org/doi/10.1126/scitranslmed.abl7430)
 	* 202 outpatients with confirmed SARS-CoV-2 infection
-	* Symton onset within 7 days
+	* Sympton onset within 7 days
 	* Placebo, monupiravir 200 mg, 400 mg, 800 mg
 	* At Day 5, virus was not isolated from any participants receiving 400 or 800 mg (11.1% virus positive in placebo)
 	* Adverse effect
