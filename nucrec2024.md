@@ -10,6 +10,13 @@ TSRB Room 209
 
 Spring 2024
 
+<h3>
+<a href="https://chen42.github.io/slides/nucrec2024.html">
+https://chen42.github.io/slides/nucrec2024.html</a>
+</h3
+
+All figures are linked to the original papers 
+
 ---
 
 ## Outline
@@ -20,9 +27,7 @@ Spring 2024
 * Signaling
 * Diseases  
 
-<hr>
 
-### All figures are linked to the original papers 
 
 
 ---
