@@ -27,9 +27,6 @@ All figures are linked to the original papers
 * Signaling
 * Diseases  
 
-
-
-
 ---
 
 ## Nuclear receptor family 
@@ -38,6 +35,12 @@ All figures are linked to the original papers
 <img src="https://open.lib.umn.edu/app/uploads/sites/211/2018/05/100.png" width=70%>
 </a>
 
+
+---
+
+<a href="https://en.wikipedia.org/wiki/Transcription_factor">
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/80/Transcription_Factors.svg">
+</a>
 
 ---
 ##  Human has 48 NR
@@ -88,6 +91,13 @@ All figures are linked to the original papers
 
 ---
 
+## GR signaling pathways
+
+<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4084612/">
+<img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4084612/bin/nihms584741f3.jpg">
+</a>
+
+---
 ## NR signaling
 
 <a href="https://pubmed.ncbi.nlm.nih.gov/8521508/">
