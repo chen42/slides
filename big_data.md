@@ -1,4 +1,5 @@
-# Analyzing big data: from simple clustering to deep learning
+# Big data, artificial neural networks, and large language models.
+
 <hr style="color:royalblue">
 
 ## Hao Chen
@@ -9,8 +10,11 @@ Professor
 
 Department of Pharmacology, UTHSC
 
-Feb 28th 2023
+Feb 27th 2024
 
+ <h2><a href="https://chen42.github.io/slides/big_data.html">
+ https://chen42.github.io/slides/big_data.html
+ </a></h2>
 
 ---
 
@@ -24,7 +28,7 @@ Feb 28th 2023
 * Supervised learning
 	* Regression
 	* Deep neural networks	
-        * Generative networks | Large language model | Transformers | GPT | ChatGPT
+ * Generative networks | Large language model | Transformers | GPT | ChatGPT
 ---
 
 ## Learning Objectives
@@ -47,10 +51,10 @@ Feb 28th 2023
 	* Variety
 		* geospatial, audio, video
 	* High Dimension !! 
-  
+ 
 * Major difference between "Big" data and "small" data 
 	* analysis methods 
-	* analysis objective  
+	* analysis objective 
 		* Hypothesis testing vs Discovery vs prediction
 
 ---
@@ -121,7 +125,7 @@ What kind of inherent structure can an algorithm discover?
 
 ---
 
-## snRNA-seq  
+## snRNA-seq 
 
 UMAP
 
@@ -136,7 +140,7 @@ UMAP
 ![](./images/deep_learning/100.samples.boxplot.png)
 
 
-Each sample has the expression level of 12,000 genes. So the data set has 12,000,000 data points.  The means of RNA samples are very similar.  
+Each sample has the expression level of 12,000 genes. So the data set has 12,000,000 data points. The means of RNA samples are very similar. 
 
 ---
 <!---
@@ -172,7 +176,7 @@ The distribution is somewhat different between brain regions.
 
 ![](./images/deep_learning/brain.region.hclust.png)
 
-Label of the sample is not part of the input data for clustering. And yet the samples from the same brain region stayed right next to each other.  
+Label of the sample is not part of the input data for clustering. And yet the samples from the same brain region stayed right next to each other. 
 
 
 ---
@@ -188,7 +192,7 @@ Label of the sample is not part of the input data for clustering. And yet the sa
 * Training 	
 	* Collect a set of data that has labels 
 		* Images with text annotation of the object in the image (e.g. [hand written digits](https://www.kaggle.com/c/digit-recognizer))
-	* Select a mathematical model, adjust the parameter in the model  so the output is close to the label
+	* Select a mathematical model, adjust the parameter in the model so the output is close to the label
 	* Repeatedly adjust the parameters for all the samples in the data collection, with an effort to reduce overall error rate
 * Testing
 	* Run a set of new samples with labels through the model 
@@ -234,9 +238,9 @@ print(P)
 <pre> <code>
 ## theta is the parameter, alpha is learning rate
 for (i in 1:num_iters) {
-  error <- (X %*% theta - y)
-  delta <- t(X) %*% error / length(y)
-  theta <- theta - alpha * delta
+ error <- (X %*% theta - y)
+ delta <- t(X) %*% error / length(y)
+ theta <- theta - alpha * delta
 }
 </code>
 </pre>
@@ -270,7 +274,7 @@ for (i in 1:num_iters) {
 
 ---
 
-## Rectified Linear Unit  (ReLU)
+## Rectified Linear Unit (ReLU)
 
 Activation of the neurons
 
@@ -325,7 +329,7 @@ print(p)
 
 ---
 
-##  Convolutional Neural Networks
+## Convolutional Neural Networks
 
 <a href="http://scs.ryerson.ca/~aharley/vis/conv/">
 
@@ -342,7 +346,7 @@ print(p)
 
 ---
 
-##  Dimension reduction on the last hidden layer 
+## Dimension reduction on the last hidden layer 
 
 ![](./images/deep_learning/tSNE.png)
 
@@ -380,7 +384,7 @@ from keras.layers import Dense, Dropout, Activation, Flatten
 
 # read in the data, split training vs testing 
 dataset=pd.read_csv("./hs_snps.csv",delimiter=",", dtype="float", na_filter=True)
-X = dataset[:,1:18571] #chr1  SNPs
+X = dataset[:,1:18571] #chr1 SNPs
 Y = dataset[:,0] #coat color
 X_train, X_test, y_train, y_test = train_test_split(X, Y, test_size=0.25, random_state=42)
 
@@ -405,14 +409,43 @@ print("%s: %.2f%%" % (model.metrics_names[1], scores[1]*100))
 
 ---
 
-## How did we end with ChatGPT?
+## The road to ChatGPT?
 
 * [Generative models](https://medium.com/analytics-vidhya/an-introduction-to-generative-deep-learning-792e93d1c6d4) 
 * [Transformer](https://jalammar.github.io/illustrated-transformer/)
 * [GPT](https://medium.com/sciforce/what-is-gpt-3-how-does-it-work-and-what-does-it-actually-do-9f721d69e5c1)
-    * The OpenAI lab showed bigger is better with its Generative Pretrained Transformer (GPT). The latest version, GPT-3, has 175 billion parameters, up from 1.5 billion for GPT-2. 
 * [chatGPT](http://chat.openai.com)
+* [open LLMs](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)
 
+
+---
+
+## But humans living in a world with multiple sensory modalities 
+
+* [GPT-4 accepts image and text inputs](https://openai.com/research/gpt-4)
+
+* SORA can generate videos (1 min)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HK6y8DAPN_0?si=IssyOSYcgzOPRrpw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+---
+
+## Google Gemini
+
+
+<img src="https://www.unite.ai/wp-content/uploads/2023/12/2023-12-11-22_49_18-gemini_1_report.pdf.png" width=60%>
+
+---
+
+## Microsoft: Agents!
+
+<img src="https://www.microsoft.com/en-us/research/uploads/prod/2023/12/EmergentAgentAI-657efcb33d5b4-1536x1074.png" width=60%>
+
+---
+
+## AGI
+
+<img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*UOAVMxmC1M1YznMBjX8o5w.png" width=70%>
 
 ---
 
