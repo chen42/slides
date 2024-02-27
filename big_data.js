@@ -423,7 +423,7 @@ var markdownContent = ''
 + "\n"
 + "---\n"
 + "\n"
-+ "## But humans living in a world with multiple sensory modalities \n"
++ "## But humans live in a world with multiple sensory modalities \n"
 + "\n"
 + "* [GPT-4 accepts image and text inputs](https://openai.com/research/gpt-4)\n"
 + "\n"

@@ -323,7 +323,7 @@ print(p)
 ---
 ## A toy neural network 
 
-<a href="https://lecture-demo.ira.uka.de/neural-network-demo/?preset=Binary%20Classifier%20for%20circular%20data" target=_new>
+<a href="https://playground.tensorflow.org/" target=_new> 
 <img src="./images/deep_learning/toy.png">
 </a>
 
@@ -420,7 +420,7 @@ print("%s: %.2f%%" % (model.metrics_names[1], scores[1]*100))
 
 ---
 
-## But humans living in a world with multiple sensory modalities 
+## But humans live in a world with multiple sensory modalities 
 
 * [GPT-4 accepts image and text inputs](https://openai.com/research/gpt-4)
 
