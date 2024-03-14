@@ -3,11 +3,17 @@
 <hr color=orange >
 
 ## Hao Chen, Ph.D.
-### Professor
 
 
 ### Department of Pharmacology, Addiction Science and Toxicology
 ### University of Tennessee Health Science Center
+
+---
+
+## Outline
+
+* Behavior model
+* Genetic studies using this model
 
 
 ---
@@ -40,7 +46,14 @@ We all know nicotine is higly addicitive. However, unlikely other addicive susta
 
 ## Nicotine conditioned taste aversion in rats
 
+<table><tr><td>
+
+<img src="./images/nicotien_cta.png">
+</td></tr><tr><td>
+<center>
 <img src="./images/nicotine_cta_bjpharm1983.png" width=70%>
+</center>
+</td></tr></table>
 
 <p align=left>
 <span id="cite"> Kumar, et. al., Br J Pharmac 1983</span>
@@ -187,7 +200,7 @@ Reinforcement schedule: FR10TO20
 
 ---
 
-## What is transferred? 
+## What is transmitted from the demonstrator? 
 
 <img src="./images/Fig1.social.rats.withdemo.svg">
 
@@ -263,14 +276,22 @@ With these inbred rats, we wanted to ask another question, which is the relation
 
 ### Summary 
 ## Socially acquired nicotine IVSA in adolescent rats
+<ul>
+<li class="fragment"> This model incorporates the aversive and reinforcing properties of nicotine
+</li>
+<li class="fragment"> Flavor cues are associated with the aversive property of nicotine 
+</li>
+<li class="fragment"> Operant responding is driven by the reinforcing property of nicotine </li>
+<ul>
+	<li class="fragment"> nicotine can be self-administered with an aversive flavor cue </li>
+</ul>
+<li class="fragment"> Social learning facilitates nicotine intake by enhancing the extinction of conditioned aversion</li>
+<li class="fragment"> Nicotine IVSA is heritable in this model.</li>
+<li class="fragment"> Familiar rats as demonstrator increase learning rate.</li>
+<li class="fragment"> Social signals are not needed to maintain nicotine self-administration, but nevertheless, they still promote intake. </li>
 
-* This model incorporates the aversive and reinforcing properties of nicotine
-* Flavor cues are associated with the aversive property of nicotine 
-* Operant responding is driven by the rewarding property of nicotine 
-	* nicotine can be self-administered with an aversive flavor cue 
-	* dose response to nicotine across isogenic strains 
-* Social learning facilitates nicotine intake by enhancing the extinction of conditioned aversion
-* Nicotine IVSA is heritable in this model.
+</ul>
+
 
 ---
 
@@ -739,20 +760,39 @@ Note:
 
 ---
 
-## In vivo genome editing in rats 
 
-<img src="./images/p50/cas9_NAcSH_mutation.png" width=60%>
+## Gria4 Western blot
 
-<p align=left>
-<span id="cite"> Sharp, et. al., Scientific Report, 2024 </span>
+<table><tr><td width=60%>
+
+<img src="./images/p50/wes_slope_sample_characteristics.png">
+
+<img src="./images/p50/wes_gria4_lanes.png">
+</td>
+<td width=40% valign="middle"> 
+<img src="./images/p50/ampa4_gria4_western_barplot.png" >
+</td></tr></table>
 
 ---
+
+## Gria4 null mutation abolishes nicotine CCP in C.elegans 
+
+<table><tr><td width=15%>
+<img src="https://www.uthsc.edu/pharmacology/faculty/images/jee-changhoon.jpg">
+<b> Dr. Changhoon Jee </br> Assistant Prof, UTHSC</b>
+
+</td><td width=85%>
+<img src="./images/p50/celegans2.png">
+</td></tr></table>
+
+---
+
 
 ## Zebrafish Nicotine Conditioned Place Preference Test
 
 <table><tr><td width=50%>
 
-<img src="./images/p50/fish_sleap.jpg">
+<img src="./images/zebrafish_chamber.png">
 
 </td><td>
 
@@ -764,39 +804,61 @@ Note:
 
 ## Base Editing Zebrafish Genome 
 
-<table><tr><td width=37%>
+<table><tr><td width=50%>
 
-<img src="./images/p50/fish_inj3.jpg">
+<img src="./images/zebrafishknockout_vs_wildtype.png">
 
-</td><td width=63%>
-
+</td>
+<td width=50%>
 <img src="./images/p50/zebrafish_pamless.png">
+</td></tr>
 
 </td></table>
 
 
 ---
 
+## In vivo genome editing in rats 
+
+<img src="./images/p50/cas9_NAcSH_mutation.png" width=60%>
+
+<p align=left>
+<span id="cite"> Sharp, et. al., Scientific Report, 2024 </span>
+
+---
+
 ## Acknowledgements
 
+<table><tr align=center>
 
-<table width=70%><tr>
-
-<td width=20%>
+<td width=16.7%>
 <img src="./images/lab/angel.jpg">
-Angel Garcia Martinez
+Angel G Martinez
 </td>
-<td width=20%>
+<td width=16.7%>
 <img src="./images/lab/shuangying.jpg">
 Shuangying Leng
 </td>
-<td width=20%>
+<td width=16.7%>
 <img src="./images/lab/caroline.png">
 Caroline Jones
 </td>
-<td width=20%>
+<td width=1>
+
+<td width=16.7%>
+<img src="./images/lab/tomi.jpeg">
+Tomomi Green
+</td>
+
+
+<td width=16.7%>
 <img src="./images/lab/rachel.jpg">
 Rachel Ward
+</td>
+
+<td width=16.7%>
+<img src="./images/lab/jun.jpg">
+Jun Huang
 </td>
 
 </tr>
@@ -811,7 +873,7 @@ Ryan Luib (2023)
 * P50 collaborators 
 	* Abraham Palmer | Oksana Polesskaya | Sanches, Thiago | Apurva Chitre | Shae Ziegler | Leah Solberg-Woods 
 * UTHSC collaborators
-	* Changhoon Jee | Burt Sharp | Thirumalini Vaithianathan | Rob Williams
+	* Changhoon Jee | Burt Sharp | Thirumalini Vaithianathan | Rob Williams | and others
 ---
 
 ## Nicotine metabolism
