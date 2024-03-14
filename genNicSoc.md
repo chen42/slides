@@ -285,6 +285,7 @@ With these inbred rats, we wanted to ask another question, which is the relation
 <ul>
 	<li class="fragment"> nicotine can be self-administered with an aversive flavor cue </li>
 </ul>
+<li class="fragment"> Social environment determines the subjective value of nicotine</li>
 <li class="fragment"> Social learning facilitates nicotine intake by enhancing the extinction of conditioned aversion</li>
 <li class="fragment"> Nicotine IVSA is heritable in this model.</li>
 <li class="fragment"> Familiar rats as demonstrator increase learning rate.</li>

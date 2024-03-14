@@ -288,6 +288,7 @@ var markdownContent = ''
 + "<ul>\n"
 + "	<li class=\"fragment\"> nicotine can be self-administered with an aversive flavor cue </li>\n"
 + "</ul>\n"
++ "<li class=\"fragment\"> Social environment determines the subjective value of nicotine</li>\n"
 + "<li class=\"fragment\"> Social learning facilitates nicotine intake by enhancing the extinction of conditioned aversion</li>\n"
 + "<li class=\"fragment\"> Nicotine IVSA is heritable in this model.</li>\n"
 + "<li class=\"fragment\"> Familiar rats as demonstrator increase learning rate.</li>\n"
