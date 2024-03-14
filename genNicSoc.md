@@ -874,6 +874,10 @@ Ryan Luib (2023)
 	* Abraham Palmer | Oksana Polesskaya | Sanches, Thiago | Apurva Chitre | Shae Ziegler | Leah Solberg-Woods 
 * UTHSC collaborators
 	* Changhoon Jee | Burt Sharp | Thirumalini Vaithianathan | Rob Williams | and others
+
+
+Funding: NIH/NIDA P50DA037844
+
 ---
 
 ## Nicotine metabolism
@@ -889,20 +893,6 @@ Ryan Luib (2023)
 
 ---
 
-<section id="manh_d5">
-
-## GWAS: Nicotine infusion on session 5 
-
-<img src="images/p50/gwas_day5_infusion.jpg">
-
-
----
-
-## Porcupine plot: socially acquired nicotine IVSA
-
-<img src="./images/p50/porcupine_plot_nicotine.png">
-
----
 
 ## Slope of nicotine intake chr8:4459578 
 
@@ -926,43 +916,6 @@ There are 32 known genes in this 5.1 Mb interval. Gria4 is a candidate gene.
 
 ---
 
-## <a href="http://genecup.org" target=_new> GeneCup.org </a>
-
-<a href="https://genecup.org/cytoscape/?rnd=tmpDYEQAw&genequery=Shtn1_Gria4_Arhgef7_Alg8" target=_new>
-<img src="./images/p50/genecup_4_candidates.svg" width=90%>
-</a>
-
-
-<p align=left>
-<span id="cite"> Gunturkun, et. al., G3, 2022</span>
-
-
----
-
-
-#### Summary of nicotine GWAS 
-
-## Number of licks on the active spout
-
-|ID |Session|Loc| Genes (n) | Overlapping with human smoking GWAS|
-|---|:---:|---|---|---|
-|12.20 | day 1 | chr1:278524299| 99 | [Shtn1](http://rats.pub/cytoscape/?rnd=tmpJiHXFf&genequery=KIAA1598_SHOOTIN-1_SHOOTIN1_SHTN1)<font color="darkslateblue">&spades;</font>&diams;, [Nrap](http://rats.pub/cytoscape/?rnd=tmpaUzTZp&genequery=N-RAP_NEBULIN-RELATED-ANCHORING-PROTEIN_NRAP)<font color="darkslateblue">&spades;</font>, [Vti1a](http://rats.pub/cytoscape/?rnd=tmpUpzbbT&genequery=VTI1A)<font color="darkslateblue">&spades;</font>, Gpam&clubs;&diams;, Casp7&diams; Nhlrc2&clubs;&diams; Adrb1&clubs; Tcf7l2&diams; Hspa12a |
-|12.29 | day 2 | chr8:22496077| 29| Carm1|
-|12.24 | day 4 | chr4:145377793| 20| Emc3 |
-|12.12 | day 5 | chr16:83955432| 23| LINC02337| 
-|12.08 | day 7 | chr16:83489214| 23| LINC02337| 
-|12.02 | day 9 | chr10:32845925| 90| | 
-|12.22 | day 10 | chr2:247766389|20| Pkn2, Gtf2b |
-|12.16 | Reinstatment | chr1:161226950| 28|Usp35&dagger;, Gab2&dagger;, Tenm4&dagger;, [Alg8](http://rats.pub/cytoscape/?rnd=tmpJKLgcJ&genequery=Usp35_Gab2_Nars2_Tenm4_Alg8)&diams;&hearts;&dagger; |
-
-
-<font color="darkslateblue">&spades;</font>: Smoking initiation 
-&clubs;: Alcohol GWAS 
-&diams;: cis-eQTL
-&hearts; missense variants
-&dagger; Psychiatric GWAS
-
----
 
 ## Vti1a, Shtn1 and/or Nrap 
 
@@ -984,32 +937,6 @@ Liu, et. al., Nature Genetics 2019
 
 ---
 
-#### Summary of nicotine GWAS
-
-## Number of nicotine infusions
-
-|ID |Session|Loc| Genes (n) | Overlapping with human smoking GWAS|
-|---|:---:|---|---|---|
-|12.09 | day 5 | chr16:83500180| 23| LINC02337 |
-|12.13 | day 5 | chr17:17103044| 1| ID4 |
-|12.11 | day 7 | chr16:83500180| 23| LINC02337|
-|12.23 | day 7 | chr3:104723116| 8| Hmgn4, Fmn1 |
-|12.15 | day 8 | chr19:26396258| 1| |
-|12.03 | median of last 3 days | chr11:17834164|27| | 
-|12.10 |total infusion | <a href="#/manh_d5">chr16:83500180</a>| 23| LINC02337|
-|12.30 |slope of regression | chr8:4459578| 74| Gria4&diams;, Pdgfd&diams;, Mmp12 |
-
-&diams;: cis-eQTL
-
----
-## Potential targets for validation 
-
-* Shtn1 (active lick on day 1)
-* Gria4 (progression of intake)
-* Arhgef7 (total intake)
-* Alg8 (reinstatement) 
-
----
 
 ## C.elegans model of nicotine conditioned cue preference
 
@@ -1033,59 +960,6 @@ Liu, et. al., Nature Genetics 2019
 
 ---
 
-
-## Acknowledgements
-
-
-<table><tr>
-<td width=12.5%>
-<img src="http://www.chenlab.one/img/team/twang18.jpg">
-Tengfei Wang
-</td>
-<td width=12.5%>
-<img src="http://www.chenlab.one/img/team/angel.jpg">
-Angel Garcia Martinez
-</td>
-<td width=12.5%>
-<img src="http://www.chenlab.one/img/team/shuangying.jpg">
-Shuangying Leng
-</td>
-
-<td width=12.5%>
-<img src="http://www.chenlab.one/img/team/Caroline.png">
-Caroline Jones
-</td>
-
-<td width=12.5%>
-<img src="http://www.chenlab.one/img/team/gwen.png">
-Gwen Johnson
-</td>
-
-<td width=12.5%>
-<img src="http://www.chenlab.one/img/team/rachel.jpg">
-Rachel Ward
-</td>
-<td width=12.5%>
-<img src="http://www.chenlab.one/img/team/jun.jpg">
-Jun Huang 
-</td>
-<td width=12.5%>
-<img src="http://www.chenlab.one/img/team/tristan.jpg">
-Tristan de Jong
-</td>
-</tr>
-</table>
-
-
-<b>Past lab members </b>: Jie Shen | Wenyan Han | Pawandeep Kaur | Yanyan Lin | Xinyu Fan | Hukan Gunturkun 
-
-* UCSD: Abraham Palmer | Oksana Polaskaya | Apurva Chitre 
-* Wake Forest: Leah Solberg-Woods 
-* UTHSC: Changhoon Jee | Rob Williams
-
-Funding: NIH/NIDA P50DA037844
-
----
 
 
 ## Social interaction is not required to maintain nicotine intake
@@ -1111,42 +985,6 @@ Adolescent heterogeneous rats
 
 ---
 
-#### Summary of nicotine GWAS, part 3/4
-
-## Number of licks on the inactive spout 
-
-
-|ID |Session|Loc| Genes (n) | Overlapping with human smoking GWAS|
-|---|:---:|---|---|---|
-|12.18 | day 3 | chr1:253523411| 10| |
-|12.04 | day 7 | chr14:108854633|23| XPO1, USP34, BCL11A |
-|12.06 | day 9 | chr16:5256755|1| Cacna2d3 |
-|12.21 | day 9 | chr1:74927958| 195| U2af2, KMT5C, FAM71E2, TMEM238, COX6B2, TMEM190, Il11, Lilrb4| 
-|12.26 | day 9 | chr6:71588778| 46| Foxg1, Heatr5a&hearts;, Prkd1 |
-|12.27 | day 9 | chr7:110658276| 7| |
-|12.07 | day 10 | chr16:5288954|1 | Cacna2d3 |
-|12.17 | total | chr1:239058463| 7||
-|12.19 | total | chr1:253766837| 10||
-
-&hearts;:protein coding variant
-
----
-
-#### Summary of nicotine GWAS, part 4/4
-
-## Ratio of licks on the active/inactive spouts
-
-
-|ID |Session|Loc| Genes (n) | Overlapping with human smoking GWAS|
-|---|:---:|---|---|---|
-|12.28 | day 2 | chr8:22201332| 37| Carm1 | 
-|12.14 | day 3 | chr18:50265173| 13| |
-|12.05 | day 4 | chr16:43380960|7 | |
-|12.01 | day 10 | chr10:104395310| 54|Tsen54 |
-|12.25 | day 11 | chr6:21268257| 5| TTC27 |
-
----
-
 ## Is self-administration driven by nicotine or flavor cue?
 
 <img src="./images/p50/fig5.sansFlavor.png" width=80%>
@@ -1169,7 +1007,7 @@ Adolescent heterogeneous rats
 <p>
 
 <div id="twocols">
- There are a total of 16913 genes symbols common between human and rat. There are 315 genes under nicotine QTL share the symbol with human genes. Chance of human/rat gene involved in smoking: 1772/16913=10%. For 315 genes, we expect to find 32 genes. The actual overlap is 39. Although this is a small enrichment, calculation conducted on other traits shows that this is an under-estimation. This is likely because the nicotine QTL contained many genes. *: reported in <a href="https://pubmed.ncbi.nlm.nih.gov/30584246/">GWAS catalog</a>
+There are a total of 16913 genes symbols common between human and rat. There are 315 genes under nicotine QTL share the symbol with human genes. Chance of human/rat gene involved in smoking: 1772/16913=10%. For 315 genes, we expect to find 32 genes. The actual overlap is 39. Although this is a small enrichment, calculation conducted on other traits shows that this is an under-estimation. This is likely because the nicotine QTL contained many genes. *: reported in <a href="https://pubmed.ncbi.nlm.nih.gov/30584246/">GWAS catalog</a>
 
 </div>
 
@@ -1185,5 +1023,4 @@ Adolescent heterogeneous rats
 </p>
 
 
----
 
