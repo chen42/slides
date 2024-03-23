@@ -96,16 +96,23 @@ Kendler, et al., Am J Psychiatry 2003</p>
     * Direct genetic effect
     * Indirect genetic effect 
         * e.g., CHRNA5 and lung cancer 
-        
 
 <p id=cite> Young, et al., Science, 2019</p>
 
 </td></tr></table>
 
+<ul>
+<li class="fragment"> Many genotypes vs phenotype  &rarr; GWAS </li>
+<li class="fragment"> Genotype vs many phenotypes  &rarr; PheWAS </li>
+</ul>
+
+
 ---
 ## Genome-wide association study (GWAS)
 
 <b>Progression from opioid exposure (n=161) to opioid daily injection (n=1567)</b>
+<br>
+470,296 SNPs
 
 <img src="./images/oxycodone/oud_gwas_cnih3.png" width=70%>
 
@@ -114,7 +121,9 @@ Kendler, et al., Am J Psychiatry 2003</p>
 
 <p id=cite>Nelson, et al., Mol Psychiatry, 2016</p>
 
-Note: Our GWAS analyses compared the ODE group (N=1167 opioid dependent daily injectors) to a group characterized as having opioid use with impeded progression (OUIP) that combined non-dependent opioid misusers (N=88; 69.3% reporting heroin use) and opioid dependent individuals without a history of daily injection (N=73).
+
+
+Note: this  GWAS analyses compared the ODE group (N=1167 opioid dependent daily injectors) to a group characterized as having opioid use with impeded progression (OUIP) that combined non-dependent opioid misusers (N=88; 69.3% reporting heroin use) and opioid dependent individuals without a history of daily injection (N=73).
 
 ---
 ## Multi trait analysis of GWAS 
@@ -168,10 +177,11 @@ n=5152
 
 ---
 ## Human OUD/OD GWAS Summary
-<h4> only genome-wide significant results are included  </h4>
+<h4>  genome-wide significant results </h4>
 
 <h4> 14 publications | 123 associations | 100 SNPs | 98 genes  </h3>
 
+<span class="fragment">
 
 | Times reported | Genes | 
 | ---| ---|
@@ -183,6 +193,8 @@ n=5152
 | 2 | BARHL2, GAPDHP15, KRT18P4, LINC01360, LINC02238, LINC02609, LINC02661, MIR548I2, PDE4B, PLCL2, RABEPK, RBBP4P4, RGMA, RNU6-147P, SEPHS1P2, SLC39A8, TMPRSS5, VPS51P18, YAE1-DT | 
 | 1 | ADH1B, APOC4-APOC2, ARHGAP15, ATP23, ATP6V0D1-DT, CADM2, CAMKMT, CAPZBP1, CLPTM1, CNIH3, CNOT4, CREB3L1, CTNND1, DPP4, ERC2, FOXP2, FTO, GBF1, GIHCG, GMEB1, GPRIN3, H3C9P, H4C8, HLA-DRA, HMGB3P19, HS6ST3, KDM4A, LINC01414, LINC01833, LINC01965, LINC02057, LINC02837, MAGI2, MCFD2P1, MIR548A1HG, MTMR2, NICN1, OR2H4P, OR2J4P, POR, POU6F2, PPP6C, RIPOR1, RN7SL423P, RNA5SP130, RNU11, RNU1-64P, RNU6-256P, RNU6-289P, RPL21P61, RPL36AP23, RUNX1T1, SMIM15-AS1, SNCA, SORL1, SRP72P1, TANK, TANK-AS1, TCF20, THAP12P5, TMEM120A, TSBP1-AS1, USP4, VN1R68P, VN1R69P, VRK2, ZNF184  | 
 
+
+</span>
 
 ---
 ## Pathway enrichment for OUD genes
@@ -256,6 +268,7 @@ Note:
 In both animal and human studies, it has been found that, for abused substances, the route of administration is one of the  determining factors of their abuse liability. Strong euphoria is usually produced by the rapid pharmacokinetics in the brain following intravenous injection or inhalation. 
 Pharmaceutical companies have argued that the controlled release of oxycodone delivered orally is very safe and widely promoted its clinical use for pain management, which led to the current opioid epidemic.
 
+
 ---
 
 
@@ -281,8 +294,6 @@ Pharmaceutical companies have argued that the controlled release of oxycodone de
 </td>
 </tr></table>
 
-Note:
-To model voluntary oxycodone use in rats, we developed an oral oxycodone self-administration procedure. 
 
 ---
 
@@ -319,7 +330,11 @@ To model voluntary oxycodone use in rats, we developed an oral oxycodone self-ad
 
 <img src="./images/oxycodone/wl_strain_selection_for_escalation.png" width=80%>
 
+<span class="fragment">
+
 Human oxycodone is metabolised via Cyp3A4 and Cyp2D6. There are 1233 SNPs of these orthologs (Cyp3A2/Cyp3A9/Cyp2D1) in rats.
+
+</span>
 
 ---
 
@@ -354,12 +369,16 @@ Human oxycodone is metabolised via Cyp3A4 and Cyp2D6. There are 1233 SNPs of the
 ## Correlations between oxycodone and other behavioral traits
 
 <table><tr><td>
+<center>
 <b>females</b>
+</center>
 <br>
 <img src="./images/oxycodone/oxy_ethovision_corrrelation_females_36OxyStrains_20CorrStrains.png">
 
 </td><td>
+<center>
 <b>males</b>
+</center>
 <br>
 <img src="./images/oxycodone/oxy_ethovision_corrrelation_males_36OxyStrains_20CorrStrains.png">
 </td></tr></table>
@@ -422,7 +441,9 @@ greater tendency to explore  -> higher motivation for oxycodone
 
 64 strains
 
-<p id=cite>Paige, et al., BioRxiv, 2022</p>
+<p id=cite>Philip, et al., Gene Behav Brain, 2010
+<br>
+Paige, et al., BioRxiv, 2022</p>
 
 
 ---
@@ -433,9 +454,9 @@ greater tendency to explore  -> higher motivation for oxycodone
 
 ---
 
-## Gene X gene interaction on morphine locomotion 
+## Gene x gene interaction on morphine locomotion 
 
-<img src="./images/oxycodone/morphine_bxd_epistasis_horizontal.png" width=80% >
+<img src="./images/oxycodone/morphine_bxd_epistasis_horizontal.png" width=100% >
 
 ---
 
