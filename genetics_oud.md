@@ -170,6 +170,14 @@ n=5152
 
 <p id=cite> Li, et al., Neuropsychopharmacology, 2015</p>
 
+<span class="fragment">
+
+A combined analysis of 281 genome-wide association studies finds 12,111 common DNA variants associated with a person’s height.
+
+<p id=cite> Yengo, et al., Nature 2022</p>
+
+</span>
+
 ---
 ## Human OUD/OD GWAS Summary
 
