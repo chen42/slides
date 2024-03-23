@@ -453,7 +453,7 @@ var markdownContent = ''
 + "\n"
 + "## QTL for morphine locomotion\n"
 + "\n"
-+ "<img src=\"./images/oxycodone/morphine_locomotion_qtl_all_time_bins_female_male.png\" width=60%>\n"
++ "<img src=\"./images/oxycodone/morphine_locomotion_qtl_all_time_bins_female_male.png\" width=80%>\n"
 + "\n"
 + "---\n"
 + "\n"

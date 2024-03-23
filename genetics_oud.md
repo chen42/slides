@@ -450,7 +450,7 @@ Paige, et al., BioRxiv, 2022</p>
 
 ## QTL for morphine locomotion
 
-<img src="./images/oxycodone/morphine_locomotion_qtl_all_time_bins_female_male.png" width=60%>
+<img src="./images/oxycodone/morphine_locomotion_qtl_all_time_bins_female_male.png" width=80%>
 
 ---
 
