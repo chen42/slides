@@ -168,7 +168,7 @@ n=5152
 
 ---
 ## Human OUD/OD GWAS Summary
-<h4> 2023-03 </h4>
+<h4> only genome-wide significant results are included  </h4>
 
 <h4> 14 publications | 123 associations | 100 SNPs | 98 genes  </h3>
 
@@ -285,11 +285,13 @@ Note:
 To model voluntary oxycodone use in rats, we developed an oral oxycodone self-administration procedure. 
 
 ---
+
 ## Number of licks, all strains, by sex 
 
 <img src="./images/oxycodone/hrdp_oxycodone_oral_operant_self-admin_summary_plot-0.png" width=80%>
 
 ---
+
 ## Rewards and intake, all strains, by sex 
 
 <img src="./images/oxycodone/hrdp_oxycodone_oral_operant_self-admin_summary_plot-1.png" width=80%>
@@ -506,7 +508,6 @@ Credit: Francesca Telese, UCSD
 <span id="cite"> Sharp et. al., Scientific Report, 2024</span>
 
 ---
-
 
 ## Acknowledgements
 

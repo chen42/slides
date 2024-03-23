@@ -8,8 +8,7 @@
 
 #### Department of Pharmacology, Addiction Science and Toxicology, University of Tennessee Health Science Center
 
-October 4th, 2023
-
+March 21, 2024
 
 ---
 
@@ -78,8 +77,6 @@ Available from Medical College of Wisconsin
 
 
 
-
-
 ---
 ## Whole genome sequencing of the HRDP
 <table><tr>
@@ -92,7 +89,7 @@ Available from Medical College of Wisconsin
 <img src="./images/ratGenome/hrdp_variant_stat.png" width=60%>
 
 <p align=left>
-<span id="cite"> de Jong et. al., BioRxiv 2023</span>
+<span id="cite"> de Jong et. al., Cell Genomics, in press</span>
 
 
 </td>
