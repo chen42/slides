@@ -11,6 +11,8 @@
 
 #### 2024-04-02
 
+### https://chen42.github.io/slides/pns.html
+
 ---
 
 ## Outline
@@ -196,7 +198,7 @@ Historical achievements
 
 <div id="right50">
 
-The recognition of self-antigens in the thymus is facilitated by multigene transcription factors, such as AIRE (autoimmune regulator), which is expressed in thymic medulla. AIRE leads to the expression of major peripheral proteins on the surface of thymic epithelial cells, after which T cells that recognize these proteins (or ‘self-antigens’) are targeted for negative selection and undergo apoptosis. Self-reactive T cells that escape central tolerance enter the periphery, where they can undergo apoptosis, enter into a state of anergy or undergo suppression (peripheral tolerance). The central and peripheral tolerance of T and B cells to self-antigens is crucial for health and development. In myasthenia gravis, there is a failure of central tolerance, occurring within the thymus in most patients, leading to the development of self-reactive cells. 
+The recognition of self-antigens in the thymus is facilitated by multigene transcription factors, such as AIRE (autoimmune regulator), which is expressed in thymic medulla. AIRE leads to the expression of major peripheral proteins on the surface of thymic epithelial cells, after which T cells that recognize these proteins (or ‘self-antigens’) are targeted for negative selection and undergo apoptosis. Self-reactive T cells that escape central tolerance enter the periphery, where they can undergo apoptosis, enter into a state of <a href="https://en.wikipedia.org/wiki/Clonal_anergy">anergy </a> or undergo suppression (peripheral tolerance). The central and peripheral tolerance of T and B cells to self-antigens is crucial for health and development. In myasthenia gravis, there is a failure of central tolerance, occurring within the thymus in most patients, leading to the development of self-reactive cells. 
 
 AChR, acetylcholine receptor; APC, antigen-presenting cell; MHC, major histocompatibility complex; TCR, T cell receptor; Treg cell, regulatory T cell.
 
