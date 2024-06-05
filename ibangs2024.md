@@ -23,7 +23,7 @@
  </tr>
  <tr>
  <td>
- Nausea, dizziness, sickness, headache, burning throat, coughing, etc..
+ Nausea, dizziness, sickness, headache, etc..
  </td>
  <td>
  Nicotine induces drug high only in <em>significantly nicotine-deprived smokers</em>. 
@@ -60,6 +60,8 @@ The dose here, 0.08mg/kg, is about 3 infusions in most nicotine self-admionistra
 <a href="#/demo">
 <img height:auto width=90% src="images/p50/flavorcue_conditioned_aversion.png">
 </a>
+
+Adolescent Sprague Dawley females
 
 <p align="left">
 <span id="cite"> Chen, et al., Neuropsychopharmacology, 2011 </span>
@@ -310,18 +312,18 @@ n=1995
 ## PheWAS: Social Interaction & Socially Acquired Nicotine IVSA
 
 <table><tr>
+<td width=33%><img src="images/p50/hs_gwas_insocdurat.png"></td>
 <td width=33%> <img src="images/p50/hs_gwas_nicsa_day1_active.png"> </td>
 <td width=33%> <img src="images/p50/hs_gwas_nicsa_first3day_infusion.png"></td>
-<td width=33%><img src="images/p50/hs_gwas_insocdurat.png"></td>
 </tr></table>
 
 | SNP PheDb   | -Log10(p)PheDb | R2    | DP    | trait PheDb                                                 |
 | ----------- | -------------- | ----- | ----- | ----------------------------------------------------------- |
+| 4:151964479 | 4.329          | 0.408 | 0.953 | <b>social interaction: in social zone duration, 0-3 min</b> |
 | 4:151349337 | 5.04           | 0.959 | 0.982 | nicsa day1 infusion                                         |
 | 4:151240226 | 4.057          | 0.798 | 0.995 | nicsa day1 active inactive ratio                            |
 | 4:151324325 | 6.15           | 0.966 | 0.987 | nicsa first three days activelick total                     |
 | 4:151324325 | 4.78           | 0.966 | 0.987 | nicsa first three days infusion total                       |
-| 4:151964479 | 4.329          | 0.408 | 0.953 | <b>social interaction: in social zone duration, 0-3 min</b> |
 
 ---
 
@@ -355,35 +357,11 @@ n=1995
 
 ---
 
-## Top Smoking Phenotypes in GWAS Catalogue
-
-| Trait                           | Number of Sig. SNPs <sup>1</sup> | Note                                                                     |
-| ------------------------------- | -------------------------------- | ------------------------------------------------------------------------ |
-| Smoking initiation <sup>2</sup> | 5498                             | 5269 from Saunders, et al. PMID: 36477530 and Liu et al., PMID: 30643251 |
-| Cigarettes smoked per day       | 610                              |                                                                          |
-| Smoking status <sup>3 </sup>    | 481                              | 218 were from Karlsson Linnér et al. PMID: 30643258.                     |
-| Smoking cessation <sup>4 </sup> | 452                              | 335 were from Saunders, et al., PMID: 36477530.                          |
-| Age of smoking initiation       | 243                              |                                                                          |
-
-<table><tr><td>
-<p align="left">
-1. p-val < 5E-8, replicated finding not filtered out
-<br>
-2. Ever being a regular smoker in their life (current or former) vs never being a regular smoker in their life 
-<br>
-3. Ever vs nerver smoker
-<br>
-4. Current smokers vs former smokers 
-</p>
-</td></tr></table>
-
-</p>
-
----
-
 ## Overlap Between Genes Under Rat Nictotine IVSA QTL
 
 ## and Human Smoking Initiation
+
+48 unique genes
 
 <img src="images/p50/hs_gwas_nicsa_smoking_init_genes.png" width=70%>
 
@@ -392,6 +370,8 @@ n=1995
 ## Overlap Between Genes Under Rat Nicotine IVSA QTL
 
 ## and Cigarettes per Day
+
+9 unique genes
 
 <img src="images/p50/hs_gwas_nicsa_cig_per_day_genes.png" width=70%>
 
@@ -458,6 +438,12 @@ Note:
 <img src="./images/zebrafish_nicotine_cpp_30um_3day.png">
 
 </td></table>
+
+---
+
+## Generating gene knockout zebrafish using base editor
+
+<img src="./images/zebrafish_cbe_tyr_15dpf.png" width=50%>
 
 ---
 
@@ -720,5 +706,31 @@ To further demonstrate that the appetitiveness of flavor cue is driving nicotine
 
 Note:
 Obviously, there are many questions in this somewhat complicated model. There is nicotine, there is flavor cue, there is social cue. They key question is what is driving the self-admnistration behavior. We've done a lot of expeirments to show that the operant licking behavior is driven by nicotine. I don't have time to show you all the data but here are some of the key findings. First of all, is a flavor cue with strong appetitiveness sufficient to drive nicotine intake without social factors.
+
+---
+
+## Top Smoking Phenotypes in GWAS Catalogue
+
+| Trait                           | Number of Sig. SNPs <sup>1</sup> | Note                                                                     |
+| ------------------------------- | -------------------------------- | ------------------------------------------------------------------------ |
+| Smoking initiation <sup>2</sup> | 5498                             | 5269 from Saunders, et al. PMID: 36477530 and Liu et al., PMID: 30643251 |
+| Cigarettes smoked per day       | 610                              |                                                                          |
+| Smoking status <sup>3 </sup>    | 481                              | 218 were from Karlsson Linnér et al. PMID: 30643258.                     |
+| Smoking cessation <sup>4 </sup> | 452                              | 335 were from Saunders, et al., PMID: 36477530.                          |
+| Age of smoking initiation       | 243                              |                                                                          |
+
+<table><tr><td>
+<p align="left">
+1. p-val < 5E-8, replicated finding not filtered out
+<br>
+2. Ever being a regular smoker in their life (current or former) vs never being a regular smoker in their life 
+<br>
+3. Ever vs nerver smoker
+<br>
+4. Current smokers vs former smokers 
+</p>
+</td></tr></table>
+
+</p>
 
 ---
