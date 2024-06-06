@@ -171,22 +171,6 @@ We confirmed that neither nicotine associated flavor cue nor carbon disulfide al
 
 ---
 
-### Summary
-
-## Socially acquired nicotine IVSA in adolescent rats
-
-<ul>
-<li > This model incorporates the aversive and reinforcing properties of nicotine </li>
-<li > Flavor cues are associated with the aversive property of nicotine </li>
-<li > Operant responding is driven by the reinforcing property of nicotine </li>
-<li > The subjective value of nicotine is determined by the social environment</li>
-<li > Social learning facilitates nicotine intake by enhancing the extinction of conditioned aversion</li>
-<li > Nicotine IVSA is heritable in this model.</li>
-
-</ul>
-
----
-
 ## Heterogeneous stock rats
 
 <table><tr><td width=80%>
@@ -276,29 +260,12 @@ n=1857
 
 ---
 
-## GWAS: Novel Object Interaction
-
-n=1963
-
-<img src="images/p50/hs_gwas_novel_porcupine.png" width=70%>
-<img src="images/p50/hs_gwas_novel_qtlCnt.png" width=70%>
----
-
 ## GWAS: Social Interaction
 
 n=1835
 
 <img src="images/p50/hs_gwas_social_porcupine.png" width=70%>
 <img src="images/p50/hs_gwas_social_qtlCnt.png" width=70%>
-
----
-
-## GWAS: Elevated Plus Maze
-
-n=1875
-
-<img src="images/p50/hs_gwas_epm_porcupine.png" width=70%>
-<img src="images/p50/hs_gwas_epm_qtlCnt.png" width=70%>
 
 ---
 
@@ -377,12 +344,6 @@ n=1995
 9 unique genes
 
 <img src="images/p50/hs_gwas_nicsa_cig_per_day_genes.png" width=70%>
-
----
-
-## Gene Ontology Enrichment of Overlapping Rat and Human Genes
-
-<img src="images/p50/goprofiler_GO_enrichemnt_for_smoking_genes.png" width=60%>
 
 ---
 
@@ -742,4 +703,21 @@ Obviously, there are many questions in this somewhat complicated model. There is
 <p align=left>
 <span id="cite"> Sharp, et. al., Scientific Report, 2024 </span>
 
+---
+
+## GWAS: Elevated Plus Maze
+
+n=1875
+
+<img src="images/p50/hs_gwas_epm_porcupine.png" width=70%>
+<img src="images/p50/hs_gwas_epm_qtlCnt.png" width=70%>
+
+---
+
+## GWAS: Novel Object Interaction
+
+n=1963
+
+<img src="images/p50/hs_gwas_novel_porcupine.png" width=70%>
+<img src="images/p50/hs_gwas_novel_qtlCnt.png" width=70%>
 ---
