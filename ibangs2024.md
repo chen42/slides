@@ -32,7 +32,7 @@
 </table>
 
 Note:
-We all know nicotine is higly addicitive. However, unlikely other addicive sustances, it does not produce strong euhphorian. Not only that, it also has has strong aversive properties. This aversiveness is especially promimant in non-smokers, or in otherwords, for people start experimenting with tobacco. New smokers experience diziness, sickness
+We all know nicotine the principal psychoactive compn of tabacco products and smoking ciagrettes is higly addicitive. However, unlikely other addicive sustances, nicotine does not produce strong euhphorian. Not only that, it also has has strong aversive properties. This aversiveness is especially promimant in non-smokers, or in otherwords, for people start experimenting with tobacco. New smokers experience diziness, sickness
 
 ---
 
@@ -47,9 +47,7 @@ Note: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2044849/?page=3
 flavors: sodium sacchaine vs sodium chloride
 water access were limited to 1 h per day. flavors were presented every other day, followed by nicotine vs saline injection.
 
-Here is an early nicotine conditioned taste aversion experiment.
-
-The dose here, 0.08mg/kg, is about 3 infusions in most nicotine self-admionistration studies using rats. But rats also self-administer iv nicotine. One question is then do rats also experience the aversive response when nicotine is self-administered.
+Here is a rat study published 30 years ago. These authors give rats access to flavord solutions after give them nicotine or saline injectios. After the injection and flavor are paired four times, they then tested the rats for preference between the two flavors. At the low does tested, rats did not show a preference. But at the middle and high dose, rats showed strong avoidance to the flavor paird with nicotine, not only during the test session, but even during the training sessins. These data clearly demonstrated that nicotine has aversive properies in rats. And these does, espeically the middle does, is not a high. In fact, that amout of nicotine equals to three infusins in most self-administration stuides. So one question is if self-administred nicotine also procues aversive response.
 
 ---
 
@@ -68,7 +66,7 @@ Adolescent Sprague Dawley females
 
 Note:
 One way you can study this is by combining conditioned taste aversion with i.v. self-administraion.
-adolescent rats developed conditioned aversion to an appetitive flavor cue (saccharine + grape odor) associated with self-administered i.v. nicotine. In this operant <i>licking</i> model, oral flavor cue and <strong>i.v.</strong> nicotine were delivered simultaneously upon the completion of a fixed-ratio 5 reinforcement schedule.
+adolescent rats developed conditioned aversion to an appetitive flavor cue (saccharine + grape odor) associated with self-administered i.v. nicotine. In this operant licking model, oral flavor cue and iv nicotine were delivered simultaneously upon the completion of a fixed-ratio 10 reinforcement schedule.
 
 ---
 
@@ -115,9 +113,15 @@ No water or food deprivation or operant pretraining is needed. Thus the model is
 
 ---
 
-## Social learning changes the subjective value of the reward
+## IVSA is driven by nicotine
 
-<img src="./images/p50/socially_acquired_nicotine_IVSA_lick_cluster_size.png" width=70%>
+#### NOT by the subjective value of the flavor cue
+
+<img width=35% src="images/p50/4.sacc.v.quinine_only.png">
+
+<p align=left>
+<span id="cite"> Wang, et al., Psychopharmacology, 2016 </span>
+</p>
 
 ---
 
@@ -125,7 +129,7 @@ No water or food deprivation or operant pretraining is needed. Thus the model is
 
 #### NOT by the subjective value of the flavor cue
 
-<img width=40% src="images/quinine/pres.sacc_quinine.png">
+<img width=35% src="images/p50/4.sacc.v.quinine.png">
 
 <p align=left>
 <span id="cite"> Wang, et al., Psychopharmacology, 2016 </span>
@@ -175,7 +179,7 @@ We confirmed that neither nicotine associated flavor cue nor carbon disulfide al
 <li > This model incorporates the aversive and reinforcing properties of nicotine </li>
 <li > Flavor cues are associated with the aversive property of nicotine </li>
 <li > Operant responding is driven by the reinforcing property of nicotine </li>
-<li > Social environment determines the subjective value of nicotine</li>
+<li > The subjective value of nicotine is determined by the social environment</li>
 <li > Social learning facilitates nicotine intake by enhancing the extinction of conditioned aversion</li>
 <li > Nicotine IVSA is heritable in this model.</li>
 
@@ -185,17 +189,16 @@ We confirmed that neither nicotine associated flavor cue nor carbon disulfide al
 
 ## Heterogeneous stock rats
 
-<table><tr><td width=20%>
-<img src="https://school.wakehealth.edu/-/media/WakeForest/Global/System/Person-Images/l/Leah-Catherine-Solberg-Woods.jpg">
-<b>Leah Solberg Woods <br>Wake Forest School of Medicine 
-</b>
-</td>
-<td width=80%>
-             <center>
-<img src="./images/p50/hs_rats.png" width=60%>
-              </center>
-<p align=left>
+<table><tr><td width=80%>
+<center> <img src="./images/p50/hs_rats.png" width=60%> </center> <p align=left>
 <span id="cite"> Garret and Korstanje, Trends Genet, 2020</span>
+
+</td>
+<td width=20%>
+
+<img src="https://school.wakehealth.edu/-/media/WakeForest/Global/System/Person-Images/l/Leah-Catherine-Solberg-Woods.jpg">
+<b>Leah Solberg Woods <br>Wake Forest School of Medicine </b>
+
 </td>
 </tr></table>
 
@@ -208,7 +211,7 @@ We confirmed that neither nicotine associated flavor cue nor carbon disulfide al
 <table> <tr><td width=30%>
 
 <a href="#/ethovision_v4_v15">
-<img src="./images/p50/openfields_verticle.png">
+<img src="./images/p50/openfields_verticle.png" width=80%> 
 </a>
 
 </td><td>
@@ -317,7 +320,7 @@ n=1995
 <td width=33%> <img src="images/p50/hs_gwas_nicsa_first3day_infusion.png"></td>
 </tr></table>
 
-| SNP PheDb   | -Log10(p)PheDb | R2    | DP    | trait PheDb                                                 |
+| SNP PheDb   | -Log10(p)PheDb | R2    | DP    | trait                                                       |
 | ----------- | -------------- | ----- | ----- | ----------------------------------------------------------- |
 | 4:151964479 | 4.329          | 0.408 | 0.953 | <b>social interaction: in social zone duration, 0-3 min</b> |
 | 4:151349337 | 5.04           | 0.959 | 0.982 | nicsa day1 infusion                                         |
@@ -427,7 +430,7 @@ Note:
 
 ---
 
-## Zebrafish Nicotine Conditioned Place Preference Test
+## Zebrafish Nicotine Conditioned Place Aversion/Preference Test
 
 <table><tr><td width=50%>
 
@@ -444,15 +447,6 @@ Note:
 ## Generating gene knockout zebrafish using base editor
 
 <img src="./images/zebrafish_cbe_tyr_15dpf.png" width=50%>
-
----
-
-## In vivo genome editing in rats
-
-<img src="./images/p50/cas9_NAcSH_mutation.png" width=60%>
-
-<p align=left>
-<span id="cite"> Sharp, et. al., Scientific Report, 2024 </span>
 
 ---
 
@@ -732,5 +726,20 @@ Obviously, there are many questions in this somewhat complicated model. There is
 </td></tr></table>
 
 </p>
+
+---
+
+## Social learning changes the subjective value of the reward
+
+<img src="./images/p50/socially_acquired_nicotine_IVSA_lick_cluster_size.png" width=70%>
+
+---
+
+## In vivo genome editing in rats
+
+<img src="./images/p50/cas9_NAcSH_mutation.png" width=60%>
+
+<p align=left>
+<span id="cite"> Sharp, et. al., Scientific Report, 2024 </span>
 
 ---
