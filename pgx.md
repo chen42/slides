@@ -139,8 +139,10 @@ Source: <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8317496/figure/F1/
 
 <table> <tr><td width=60%>
 
-<a href="https://accessmedicine.mhmedical.com/content.aspx?bookid=3191&sectionid=268215725#brun14_ch7fg2">
-<img src="https://mgh.silverchair-cdn.com/mgh/content_public/book/3191/m_brun14_ch7_f002_1660821841.68021.png?Expires=1727710957&Signature=TzB6ZP57C9senycFFxoBTMNg3W61qPxDuJWX6GJhFRw3TJyf5DBwOSOoof-Zi3qSYfWUkQJAl3uNsMGi73aekch7CoXKFA-xk0RqSIlDp4Yt-qkRo2cqGXV~y3ImxmNup0oRdp9LhkUERxyZZ8eCeFUMP1KIkoEvVolmST0t8GBH77F0-fBufTGMKdNcNaBqxE5NVxUBg2zbB~4WAUfWx-ccr6rG7g~D-S4pgTLC6JeyugowsWRGjFeSlJ42Y8Hd3SJmiunQ2PsZ~OVKIu5xm2qt0RpJcUjr7m1be2zvryWwuh5znQ5E-XfdXdd63Xh71WncUSkZ~Hl8FH-b5nHW8g__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" target=_new>
+<a href="https://accessmedicine.mhmedical.com/content.aspx?bookid=3191&sectionid=268215725#brun14_ch7fg2"  target=_new>
+<center>
+<img src="https://mgh.silverchair-cdn.com/mgh/content_public/book/3191/m_brun14_ch7_f002_1660821841.68021.png?Expires=1727710957&Signature=TzB6ZP57C9senycFFxoBTMNg3W61qPxDuJWX6GJhFRw3TJyf5DBwOSOoof-Zi3qSYfWUkQJAl3uNsMGi73aekch7CoXKFA-xk0RqSIlDp4Yt-qkRo2cqGXV~y3ImxmNup0oRdp9LhkUERxyZZ8eCeFUMP1KIkoEvVolmST0t8GBH77F0-fBufTGMKdNcNaBqxE5NVxUBg2zbB~4WAUfWx-ccr6rG7g~D-S4pgTLC6JeyugowsWRGjFeSlJ42Y8Hd3SJmiunQ2PsZ~OVKIu5xm2qt0RpJcUjr7m1be2zvryWwuh5znQ5E-XfdXdd63Xh71WncUSkZ~Hl8FH-b5nHW8g__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" width=60%>
+<center>
 </a>
 
 </td><td>
@@ -357,5 +359,3 @@ Source: <a href="https://pubmed.ncbi.nlm.nih.gov/36739136/" target=_new> Lancet
 - <a href="https://www.pharmgkb.org/" target=_new>PharmGKB: Pharmacogenomic information for individual drugs</a>
 
 - <a href="https://www.fda.gov/drugs/scienceresearch/researchareas/pharmacogenetics/ucm083378.htm" target=_new> Pharmacogenomic markers in drug labeling by FDA</a>
-
----
