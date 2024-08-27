@@ -80,18 +80,20 @@ Safe vs sever side effect
 </td> <td>
 
 - Drug (dose, route, formulation)
-- Environment (diet, infection, other drugs)
-- Clinical (age, hormone, organ function, microbiome)
+- Environment (diet, other drugs)
+- Clinical (age, other infection, hormone, organ function, microbiome)
 - **Genetic Factors**:
+
   - Type of genetic variation
+
     - Single Nucleotide Polymorphisms (SNPs, e.g., A->G; T->A)
     - Insertions and deletions (Indels, e.g., AAACTAC->G; T-> ATAGATCG )
     - Structural variants (inversion, duplication, large deletion, large insertion)
-- Consequence of genetic variations, differences in
 
-  - drug metabolism | drug transport | drug targets | genes regulated by drugs
+  - Consequence: differences in
+    - drug metabolism | drug transport | drug targets | genes regulated by drugs
 
-- **Pharmacokinetics**: Absorption | Distribution | Metabolism | Excretion
+- Pharmacokinetics (Absorption | Distribution | Metabolism | Excretion) and Pharmacodynamics
 
 </td></tr></table>
 
@@ -105,7 +107,7 @@ Safe vs sever side effect
 
 ## How genes affect phenotypes
 
-<img src="./images/teaching/mono-polygenic.png" width=60%>
+<img src="./images/teaching/mono-polygenic.png" width=70%>
 <br>
 Source: <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8317496/figure/F1/" target=_new> DOI:10.1007/s11886-021-01540-0</a>
 
@@ -324,7 +326,7 @@ Source: <a href="https://pharmrev.aspetjournals.org/content/65/3/987" target= _n
 
 ---
 
-## PGx in clinical practice
+## <a href="https://accessmedicine.mhmedical.com/content.aspx?bookid=3191&sectionid=268215725#1193227105" target=_new>PGx in clinical practice</a>
 
 - Point-of-care testing
   - Genotyping is ordered at the time of drug prescription.
