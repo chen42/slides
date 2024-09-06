@@ -13,7 +13,7 @@ var markdownContent = ''
 + "\n"
 + "---\n"
 + "\n"
-+ "## GWAS on nicotine IVSA in adolescent HS rats\n"
++ "## GWAS on socially acquired nicotine IVSA in adolescent HS rats\n"
 + "\n"
 + "<img src=\"./images/Fig1.social.rats.withdemo.svg\" width=50%>\n"
 + "\n"
