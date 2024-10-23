@@ -214,7 +214,7 @@ Note:
 
 ##### For people who have a history of <span id="drug">CAB-LA</span> use as PrEP, integrase strand transfer inhibitor genotype resistance testing should be performed before starting ART. If ART is to be started before results of genotypic testing results, the following regimen is recommended:
 
-- (<span id="drug">Darunavir/cobicistat</span> or <span id="drug">darunavir/iitonavir</span>) plus (<span id="drug">tenofovir alafenamide</span> or<span id="drug"> tenofovir disoproxil fumarate</span>) plus (<span id="drug">emtricitabine </span> or <span id="drug"> lamivudine</span>)
+- (<span id="drug">Darunavir/cobicistat</span> or <span id="drug">darunavir/Ritonavir</span>) plus (<span id="drug">tenofovir alafenamide</span> or<span id="drug"> tenofovir disoproxil fumarate</span>) plus (<span id="drug">emtricitabine </span> or <span id="drug"> lamivudine</span>)
 
 <hr>
 
@@ -400,7 +400,7 @@ https://journals.sagepub.com/doi/full/10.1177/0192623313503519
 | **Bioavailability**             | ~85%                                                        | ~93%                                                  |
 | **<a href="#/sd">MoA</a>**      | Nucleoside analog that inhibits reverse transcriptase       |                                                       |
 | **Dosing Frequency**            | Once or twice daily                                         | Once daily                                            |
-| **Excretion**                   | Renal (requires dose adjustment in renal impairment)}       |                                                       |
+| **Excretion**                   | Renal (requires dose adjustment in renal impairment)        |                                                       |
 | **Common Side Effects**         | Pancreatitis, peripheral neuropathy, lactic acidosis (rare) | Skin discoloration, headache, gastrointestinal issues |
 | **Resistance (M184V mutation)** | Confers resistance                                          |
 | **Clinical Use**                | Used in combination ART regimens, DTG/3TC regimen           | Used in combination ART regimens, BIC/TAF/FTC regimen |
@@ -531,7 +531,7 @@ note: rifampin is a bacterial RNA polymerase inhibitor
 
 - <a href="#/sd">Mechanism of action</a>
   - Inhibits the protease enzyme, preventing the cleavage of viral polyproteins into functional protein
-- Achieves faster virologic response than control protease inhibitors(PI). [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/21692667)
+- Achieves faster virologic response than other protease inhibitors(PI). [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/21692667)
 - Can be used to treat patients resist to other PIs.
   - <span id="drug"> darunavir </span> displays a < 10-fold decreased susceptibility against 90% of HIV-1 isolates resistant to many other protease inhibitors.
 - Must be used in combination in an antiviral regimen.
@@ -627,7 +627,7 @@ note: rifampin is a bacterial RNA polymerase inhibitor
 
 ## [What not to use, updated Feb 2024](https://clinicalinfo.hiv.gov/sites/default/files/guidelines/archive/adult-adolescent-arv-2024-02-27.pdf)
 
-<b> No long part of the guidline</b>
+<b> No longer part of the guidline as of Oct 2024</b>
 
 - Drugs
   - <span id=drug>delavirdine, didanosine, indinavir, nelfinavir, stavudine</span>
@@ -831,7 +831,7 @@ Double stranded DNA virus
   - CMV retinitis in AIDS patients
     - Activity 100 x greater than <span id="drug"> Acyclovir </span> <span id='mem'>Gangbuster drug for a gigantic virus</span>
   - CMV prophylaxis (e.g., liver transplant patients)
-- <a href="#/adverse">Adverse effects</a>
+- Adverse effects
   - Bone marrow suppression, neutropenia, anemia,
 
 ---
@@ -1045,7 +1045,7 @@ HBV is weak IFN inducer. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6058040/
 ## [peginterferon alpha-2a](https://www.clinicalkey.com/#!/content/drug_monograph/6-s2.0-2634)
 
 - <a href="#/sd">Mechanism of Action</a>
-  - Immune stimulation: Enhances NK cells, CTLs, and antigen presentation.
+  - Immune stimulation: Enhances natural killer cells, cytotoxic T lymphocytes, and antigen presentation.
   - Direct antiviral effects: Inhibits HBV replication, mRNA transcription, and viral particle assembly.
   - Antiproliferative effects: Limits hepatocyte proliferation, reducing the risk of liver fibrosis and cancer.
   - Immunomodulation: Shifts immune response towards Th1-mediated viral clearance.
@@ -1215,11 +1215,12 @@ https://www.wjgnet.com/1007-9327/full/v27/i28/4555.htm
 - Life cycle
   - virus enter the cell via H spikes. In the endosome, low pH in the endosome trigger the <span id='bg'> fusion of membranes</span>.
   - viral ribonucleoprotein and viral RNA enters the cell
-- viral RNA is replicated by RNA-dependent RNA polymerase.
-_ viral RNA acquires the 5'cap of of cellular RNA (important for making protein) and exported into the cytoplasm.
-_ viral protein is made and virus is packaged on cell surface \* the N spikes cleave the H spikes and releases the viron.
-</td>
-</tr></table>
+  - viral RNA is replicated by RNA-dependent RNA polymerase.
+  - viral RNA acquires the 5'cap of of cellular RNA (important for making protein) and exported into the cytoplasm.
+  - viral protein is made and virus is packaged on cell surface
+  - the N spikes cleave the H spikes and releases the viron.
+  </td>
+  </tr></table>
 
 ---
 
@@ -1328,6 +1329,7 @@ The RNA genome is [30 kilo bases](https://genome.ucsc.edu/cgi-bin/hgTracks?db=wu
 <a href="https://www.nature.com/articles/s41579-020-00468-6">
 <img src="./images/antiviral/sars-cov-2_life_cycle.png" width=90%>
 </a>
+    <br>
 Color legend: Orange boxes -> life cycle | 
 	Red boxes -> therapeutic options under investigation
 
@@ -1339,11 +1341,9 @@ Color legend: Orange boxes -> life cycle |
 - Spike protein <a href="https://pubs.acs.org/cms/10.1021/acs.jpcb.1c02048/asset/images/medium/jp1c02048_0002.gif">binds</a> to <a href="https://alphafold.ebi.ac.uk/entry/Q9BYF1">ACE2</a>
 - Viral replication is particularly active early in COVID-19
 - Antiviral therapy have greatest impact before disease progresses to the hyperinflammatory stage
-- Acronyms
-_ <b>An</b>: 3′ polyA sequence;
-_ <b>ACE2</b>: angiotensin-converting enzyme 2;
-_ <b>RdRP</b>: RNA-dependent RNA polymerase;
-_ <b>TMPRSS2</b>: a cell surface serine protease
+
+Acronyms: <b>An</b>: 3′ polyA sequence; <b>ACE2</b>: angiotensin-converting enzyme 2; <b>RdRP</b>: RNA-dependent RNA polymerase; <b>TMPRSS2</b>: a cell surface serine protease
+
 <hr>
 
 <a href="https://media.nature.com/lw800/magazine-assets/d41586-021-02039-y/d41586-021-02039-y_19394008.png">
