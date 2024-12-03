@@ -1,7 +1,7 @@
 (function () {
 'strict'
 var markdownContent = ''
-+ "# Genetic and genomic factors influencing voluntary nicotine intake in rats\n"
++ "# Genetic and Genomic Factors Influencing Voluntary Nicotine Intake in Rats\n"
 + "\n"
 + "<hr>\n"
 + "\n"
@@ -847,10 +847,10 @@ var markdownContent = ''
 + "  <!--- REHU students Abigale Salinero (2015) | Cindy Tay (2016) | Raven David (2017) | Christian Hurt (2018) | Gwen Johnson (2021) | Olivia Harrison (2022, 2023) | Ryan Luib (2023)\n"
 + "    --->\n"
 + "\n"
-+ "- P50 collaborators\n"
-+ "  - Abraham Palmer | Oksana Polesskaya | Thiago Sanches | Apurva Chitre | Leah Solberg-Woods\n"
 + "- PhD students\n"
 + "  - Panjun Kim | Mallory Udell | Paige Lemen\n"
++ "- P50 collaborators\n"
++ "  - Abraham Palmer | Oksana Polesskaya | Thiago Sanches | Apurva Chitre | Leah Solberg-Woods\n"
 + "- UTHSC collaborators\n"
 + "  - Changhoon Jee | Burt Sharp | Thirumalini Vaithianathan | Rob Williams | Brendan Tunstall | Dean Kirson | Erik Garrison | Enza Colonna | Pjotr Prins\n"
 + "- Past technicians and analysts\n"

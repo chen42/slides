@@ -1,4 +1,4 @@
-# Genetic and genomic factors influencing voluntary nicotine intake in rats
+# Genetic and Genomic Factors Influencing Voluntary Nicotine Intake in Rats
 
 <hr>
 
@@ -844,10 +844,10 @@ A-I mod is mediated by the <a href="https://www.ebi.ac.uk/gwas/genes/ADAR">ADAR<
   <!--- REHU students Abigale Salinero (2015) | Cindy Tay (2016) | Raven David (2017) | Christian Hurt (2018) | Gwen Johnson (2021) | Olivia Harrison (2022, 2023) | Ryan Luib (2023)
     --->
 
-- P50 collaborators
-  - Abraham Palmer | Oksana Polesskaya | Thiago Sanches | Apurva Chitre | Leah Solberg-Woods
 - PhD students
   - Panjun Kim | Mallory Udell | Paige Lemen
+- P50 collaborators
+  - Abraham Palmer | Oksana Polesskaya | Thiago Sanches | Apurva Chitre | Leah Solberg-Woods
 - UTHSC collaborators
   - Changhoon Jee | Burt Sharp | Thirumalini Vaithianathan | Rob Williams | Brendan Tunstall | Dean Kirson | Erik Garrison | Enza Colonna | Pjotr Prins
 - Past technicians and analysts
