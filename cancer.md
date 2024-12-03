@@ -51,8 +51,8 @@ Credit: biorender
 
 - GWAS on socially-acquired nicotine self-administration
   - outbred
-  - Hi-C
   - eQTL
+  - Hi-C
 - QTL mapping on menthol cue for nicotine self-administration
   - inbred
   - whole genome sequencing
@@ -295,35 +295,42 @@ We confirmed that neither nicotine associated flavor cue nor carbon disulfide al
 
 ---
 
-## Experimental design
+<div id="ofdiagram">
 
-<div id="left50">
-<font size=3>
+## Behavioral Test Schedule
 
-| Age        | Test                                              |
-| ---------- | ------------------------------------------------- |
-| PND21      | Wean, Body weight                                 |
-| PND31      | Open field                                        |
-| PND32      | Novel object                                      |
-| PND33      | Social interaction in the same arena as openfield |
-| PND34      | Elevated plus maze                                |
-| PND38      | Surgery                                           |
-| PND39 - 41 | Recovery                                          |
-| PND42 - 51 | Socially acquired nicotine IVSA                   |
-| PND52      | Progressive ratio test                            |
-| PND53 - 56 | Extinction                                        |
-| PND57      | Contextual cue induced reinstatement              |
-| PND59      | Tissue Collection                                 |
+<table> <tr><td width=20%>
+
+<a href="#/ethovision_v4_v15">
+<img src="./images/p50/openfields_verticle.png">
+</a>
+
+</td><td width=60%>
+
+<font size=4>
+
+| Age         | Test                                 |
+| ----------- | ------------------------------------ |
+| PND21       | Wean, Body weight                    |
+| PND31       | Open field test (20min)              |
+| PND32       | Novel object interaction (20min)     |
+| PND33       | Social interaction test (20 min)     |
+| PND34       | Elevated plus maze (6min)            |
+| PND38       | Surgery                              |
+| PND39 -- 41 | Recovery                             |
+| PND42 -- 51 | Socially acquired nicotine IVSA      |
+| PND52       | Progressive ratio test               |
+| PND53 -- 56 | Extinction                           |
+| PND57       | Contextual cue induced reinstatement |
+| PND59       | Tissue Collection for the IVSA rats  |
 
 </font>
 
-</div>
+</td>
 
-<div id="right50">
-<center>
-<table width=80%><tr><td>
-We phenotyped 1600 adolescent heterogeneous stock rats on socially acquired nicotine IVSA using an flavor cue containing CS<sub>2</sub>. We also collected other behavioral traits before nicotine IVSA was started. Spleen from each rat was collected for genotyping once behavioral tests were completed. 
-</td></tr></table>
+<td width=40%>
+We phenotyped ~2000 adolescent heterogeneous stock rats on socially acquired nicotine IVSA using an flavor cue containing CS<sub>2</sub>. We also collected other behavioral traits before nicotine IVSA was started. Spleen from each rat was collected for genotyping once behavioral tests were completed. 
+</td></tr> </table>
 </center>
 
 </div>
@@ -332,7 +339,7 @@ We phenotyped 1600 adolescent heterogeneous stock rats on socially acquired nico
 
 ## Nicotine self-administration
 
-Adolescent HS rats (711 F, 711 M)
+Adolescent HS rats
 
 <img width=75% height="auto" src="images/gwasv3/nicotine_fr10_phaseone_all_data.png">
 
@@ -484,7 +491,7 @@ There are 32 known genes in this 5.1 Mb interval. Gria4 is a candidate gene.
 
 ## GeneCup for literature mining
 
-<a href="http://rats.pub/cytoscape/?rnd=tmpzcBObC&genequery=Gfra1_Nhlrc2_Hspa12a_Vti1a_Shtn1_Tcf7l2_Adrb1_Nrap_Gpam_Casp7" target=_new>
+<a href="http://genecup.org" target=_new>
 <img src="./images/gwasv3/active_lick_gwas_smoking_genes_ratspub.svg" width=50%>
 </a>
 
@@ -712,10 +719,21 @@ Note:
 
 ### Flavia Villani, Andrea Gurracino, Erik Garrison, Enza Colonna (GGI)
 
-<img src="./images/ratGenome/rat_pangenome_graphical.svg" width=50%>
+<table><tr><td width=40%>   
+    <center>
+<img src="./images/ratGenome/pangenome_liao.png" width=80% >
+        </center>
 
 <p align=left>
+<span id="cite"> Liao, et al. Nature 2023 </span>
+
+</td>
+<td width=60%>
+
+<img src="./images/ratGenome/rat_pangenome_graphical.svg">
+<p align=left>
 <span id="cite"> Villani, et al. iScience, in press </span>
+</td></tr></table>
 
 ---
 
@@ -762,12 +780,6 @@ Note:
 - No PCR bias
 
 </td></tr></table>
-
----
-
-## Rat Accumbens direct RNA
-
-<img src="./images/directrna/directRNA_basic_stats.png">
 
 ---
 
@@ -837,7 +849,7 @@ A-I mod is mediated by the <a href="https://www.ebi.ac.uk/gwas/genes/ADAR">ADAR<
 - PhD students
   - Panjun Kim | Mallory Udell | Paige Lemen
 - UTHSC collaborators
-  - Changhoon Jee | Burt Sharp | Thirumalini Vaithianathan | Rob Williams | Brendan Tunstall | Dean Kirson | Erik Garrison | Enza Colonna
+  - Changhoon Jee | Burt Sharp | Thirumalini Vaithianathan | Rob Williams | Brendan Tunstall | Dean Kirson | Erik Garrison | Enza Colonna | Pjotr Prins
 - Past technicians and analysts
   - _Tengfei Wang_ | _Xia Hong_ | _Jie Shen_ | _Wenyan Han_ | _Pawandeep Kaur_ | _Yanyan Lin_ | _Xinyu Fan_ | _Mallory Udell_ | _Gwen Johnson_ | _Hakan Gunturkun_ | _Angel Garcia Martinez_ |
 
