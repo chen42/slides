@@ -177,16 +177,6 @@ We further reported that even when an aversive (i.e. quinine) flavor was used in
 
 ---
 
-## Aversive vs appetitive flavor cue
-
-<img width=50% src="images/quinine/pres.sacc_quinine.png">
-
-<p align=left>
-<span id="cite"> Wang, et al., Psychopharmacology, 2016 </span>
-</p>
-
----
-
 ## What is transmitted from the demonstrator?
 
 <img src="./images/Fig1.social.rats.withdemo.svg">
@@ -217,19 +207,6 @@ We further reported that even when an aversive (i.e. quinine) flavor was used in
 
 Note:
 We confirmed that neither nicotine associated flavor cue nor carbon disulfide alone supported nicotine IVSA. However, their combination was sufficient to replicate the behavior induced by live demonstrator rats.
-
----
-
-<section id="cta1">
-
-## Social learning facilitates the extinction of conditioned nicotine aversion
-
-<a href="#/cta0">
-<img src="./images/p50/correlation_ext_cta_nicotine.png" >
-</a>
-<p align=left>
-<span id="cite"> Han, et al., Sci Report, 2017 </span>
-</p>
 
 ---
 
@@ -696,6 +673,8 @@ Note:
 
 #### Mindy Dwinell, Anne Kwitek (MCW), Laura Saba (Univ Colorado), Rob Williams (UTHSC)
 
+### Data available at Genenetowrk.org
+
 <img src="https://rgd.mcw.edu/common/images/HRDP_1000x357.png" width=90%>
 
 ---
@@ -854,3 +833,18 @@ A-I mod is mediated by the <a href="https://www.ebi.ac.uk/gwas/genes/ADAR">ADAR<
   - _Tengfei Wang_ | _Xia Hong_ | _Jie Shen_ | _Wenyan Han_ | _Pawandeep Kaur_ | _Yanyan Lin_ | _Xinyu Fan_ | _Mallory Udell_ | _Gwen Johnson_ | _Hakan Gunturkun_ | _Angel Garcia Martinez_ |
 
 Funding: NIDA P50DA037844 (Chen) U01DA053672 and U01DA057530 (Sharp, Chen, Williams)
+
+---
+
+<section id="cta1">
+
+## Social learning facilitates the extinction of conditioned nicotine aversion
+
+<a href="#/cta0">
+<img src="./images/p50/correlation_ext_cta_nicotine.png" >
+</a>
+<p align=left>
+<span id="cite"> Han, et al., Sci Report, 2017 </span>
+</p>
+
+---
