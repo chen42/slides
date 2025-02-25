@@ -431,6 +431,12 @@ print("%s: %.2f%%" % (model.metrics_names[1], scores[1]*100))
 
 ---
 
+## Deepseek
+
+<img src="./images/deep_learning/deepseek_nvida.png" width=70%>
+
+---
+
 ## AGI
 
 <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*UOAVMxmC1M1YznMBjX8o5w.png" width=70%>
