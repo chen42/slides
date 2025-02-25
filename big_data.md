@@ -4,13 +4,13 @@
 
 ## Hao Chen
 
-hchen@uthsc.edu 
+hchen@uthsc.edu
 
 Professor
 
 Department of Pharmacology, UTHSC
 
-Feb 27th 2024
+Feb 25th 2025
 
  <h2><a href="https://chen42.github.io/slides/big_data.html">
  https://chen42.github.io/slides/big_data.html
@@ -18,48 +18,48 @@ Feb 27th 2024
 
 ---
 
-
 ## Outline
 
-* What makes data Big?
-* Unsupervised learning
-	* Dimension reduction (e.g., principal component analysis)
-	* Clustering (e.g., hierarchical clustering) 	
-* Supervised learning
-	* Regression
-	* Deep neural networks	
- * Generative networks | Large language model | Transformers | GPT | ChatGPT
+- What makes data big?
+- Unsupervised learning
+  - Dimension reduction (e.g., principal component analysis)
+  - Clustering (e.g., hierarchical clustering)
+- Supervised learning
+  - Regression
+  - Deep neural networks
+- Generative networks | Large language model | Transformers | GPT | ChatGPT
+
 ---
 
 ## Learning Objectives
 
-* Understand a few commonly used algorithms 
+- Understand a few commonly used algorithms
 
-* Understand the idea behind deep neural network
+- Understand the idea behind deep neural network
 
-* Appreciate the tremendous potential of data science in medicine
+- Appreciate the tremendous potential of data science in medicine
 
 ---
 
 ## What is big data
 
-* Big data 
-	* Volume 
-		* Boeing 737 generates 240 terabytes of flight data during a single flight
-	* Velocity 
-		* sensors can have millisecond resolutions
-	* Variety
-		* geospatial, audio, video
-	* High Dimension !! 
- 
-* Major difference between "Big" data and "small" data 
-	* analysis methods 
-	* analysis objective 
-		* Hypothesis testing vs Discovery vs prediction
+- Big data
+  _ Volume
+  _ Boeing 737 generates 240 terabytes of flight data during a single flight
+  _ Velocity
+  _ sensors can have millisecond resolutions
+  https://www.bbc.com/news/articles/clkkllxm4jzo
+  _ Variety
+  _ geospatial, audio, video \* High Dimension !!
+
+- Major difference between "Big" data and "small" data
+  - analysis methods
+  - analysis objective
+    - Hypothesis testing vs Discovery vs prediction
 
 ---
 
-## Some data 
+## Some data
 
 <font size=1>
 
@@ -79,21 +79,22 @@ Feb 27th 2024
 
 ![](./images/deep_learning/deepLearning_google_trends.png)
 
-
 ---
 
 ## Two major types of machine learning
-* Unsupervised 
-	* The data has no label
-	* The label of the data are not used 
 
-* Supervised learning
-	* Part of the data has label (e.g. disease, healthy) 
-	* Can you predict the label of new data?
+- Unsupervised
+
+  - The data has no label
+  - The label of the data are not used
+
+- Supervised learning
+  - Part of the data has label (e.g. disease, healthy)
+  - Can you predict the label of new data?
 
 ---
 
-## Unsupervised learning 
+## Unsupervised learning
 
 What kind of inherent structure can an algorithm discover?
 
@@ -103,7 +104,6 @@ What kind of inherent structure can an algorithm discover?
 
 ![](./images/deep_learning/fake_data.png)
 
-
 ---
 
 ## Principal component analysis
@@ -112,26 +112,25 @@ What kind of inherent structure can an algorithm discover?
 
 ---
 
-
 ## Variable loading in a PCA analysis
 
 ![](./images/p50retreat2017/pca_loading.png)
 
-
 ---
-## t-SNE 
+
+## t-SNE
+
+[The MNIST database](https://en.wikipedia.org/wiki/MNIST_database)
 
 <img src="https://lvdmaaten.github.io/tsne/examples/mnist_tsne.jpg" width=50% height=40%>
 
 ---
 
-## snRNA-seq 
+## snRNA-seq
 
 UMAP
 
 <img src="images/deep_learning/snRNAseq_PFC.png" width=80% height=40%>
-
-
 
 ---
 
@@ -139,13 +138,13 @@ UMAP
 
 ![](./images/deep_learning/100.samples.boxplot.png)
 
-
-Each sample has the expression level of 12,000 genes. So the data set has 12,000,000 data points. The means of RNA samples are very similar. 
+Each sample has the expression level of 12,000 genes. So the data set has 12,000,000 data points. The means of RNA samples are very similar.
 
 ---
+
 <!---
 
-## Histogram and density plots 
+## Histogram and density plots
 
 ![](./images/deep_learning/histogram_density.png)
 
@@ -170,14 +169,11 @@ The distribution is somewhat different between brain regions.
 
 --->
 
-
-## Hierarchical clustering 
-
+## Hierarchical clustering
 
 ![](./images/deep_learning/brain.region.hclust.png)
 
-Label of the sample is not part of the input data for clustering. And yet the samples from the same brain region stayed right next to each other. 
-
+Label of the sample is not part of the input data for clustering. And yet the samples from the same brain region stayed right next to each other.
 
 ---
 
@@ -189,16 +185,16 @@ Label of the sample is not part of the input data for clustering. And yet the sa
 
 ## Supervised Learning
 
-* Training 	
-	* Collect a set of data that has labels 
-		* Images with text annotation of the object in the image (e.g. [hand written digits](https://www.kaggle.com/c/digit-recognizer))
-	* Select a mathematical model, adjust the parameter in the model so the output is close to the label
-	* Repeatedly adjust the parameters for all the samples in the data collection, with an effort to reduce overall error rate
-* Testing
-	* Run a set of new samples with labels through the model 
-	* Record the number of errors.
-* Deployment
-	* Use the model to **predict** the label of completely new data.
+- Training
+  - Collect a set of data that has labels
+    - Images with text annotation of the object in the image (e.g. [hand written digits](https://www.kaggle.com/c/digit-recognizer))
+  - Select a mathematical model, adjust the parameter in the model so the output is close to the label
+  - Repeatedly adjust the parameters for all the samples in the data collection, with an effort to reduce overall error rate
+- Testing
+  - Run a set of new samples with labels through the model
+  - Record the number of errors.
+- Deployment
+  - Use the model to **predict** the label of completely new data.
 
 ---
 
@@ -210,9 +206,10 @@ Label of the sample is not part of the input data for clustering. And yet the sa
 
 ## Linear regression
 
-Y=a*X+b
+Y=a\*X+b
 
 ![](./images/deep_learning/linear_regression.png)
+
 <pre> <code data-trim data-noescape>
 #Linear regression
 library(ggplot2)
@@ -225,15 +222,11 @@ print(P)
 </code>
 </pre>
 
-
 ---
 
 ## Linear regresssion by iterative updates [R code](https://www.r-bloggers.com/linear-regression-by-gradient-descent/)
 
-
-
 ![](./images/deep_learning/gradient_descent_for_linear_regression.gif)
-
 
 <pre> <code>
 ## theta is the parameter, alpha is learning rate
@@ -247,7 +240,7 @@ for (i in 1:num_iters) {
 
 ---
 
-## A neuron: biological model vs mathematical model 
+## A neuron: biological model vs mathematical model
 
 <table><tr><td width=50%>
 <img src="./images/deep_learning/neuron.gif" width=90%>
@@ -257,18 +250,16 @@ for (i in 1:num_iters) {
 </td></tr>
 </table>
 
-
-
 ---
+
 ## Deep neural network
 
-
 ![](http://neuralnetworksanddeeplearning.com/images/tikz40.png)
-
 
 ---
 
 ## Gradient descent error surface
+
 <a href="https://spin.atomicobject.com/2014/06/24/gradient-descent-linear-regression/">
 <img src="./images/deep_learning/gradient_descent_error_surface.png"></a>
 
@@ -294,12 +285,12 @@ print(P)
 
 ---
 
-
 ## Logistic regression
 
 Output layer
 
 ![](./images/deep_learning/logit_regression.png)
+
 <pre> <code data-trim data-noescape>
 #Logistic regression
 library(ggplot2)
@@ -319,9 +310,9 @@ print(p)
 <img src="./images/deep_learning/network_structure.png">
 </a>
 
-
 ---
-## A toy neural network 
+
+## A toy neural network
 
 <a href="https://playground.tensorflow.org/" target=_new> 
 <img src="./images/deep_learning/toy.png">
@@ -331,10 +322,9 @@ print(p)
 
 ## Convolutional Neural Networks
 
-<a href="http://scs.ryerson.ca/~aharley/vis/conv/">
+<a href="https://poloclub.github.io/cnn-explainer/">
 
-<img src="https://ujwlkarn.files.wordpress.com/2016/08/conv_all.png"></a>
-
+<img src="./images/deep_learning/cnn.png"></a>
 
 ---
 
@@ -342,11 +332,11 @@ print(p)
 <img src="./images/deep_learning/dermatologist.png">
 </a>
 
-<img src="./images/deep_learning/skin_cnn.png"> 
+<img src="./images/deep_learning/skin_cnn.png">
 
 ---
 
-## Dimension reduction on the last hidden layer 
+## Dimension reduction on the last hidden layer
 
 ![](./images/deep_learning/tSNE.png)
 
@@ -355,6 +345,7 @@ print(p)
 ## Detecting Rodent Social Interaction Using a CNN
 
 ### Labeling the data
+
 <img src="./images/deep_learning/labelRatBodyParts.png" width=50% height=70%>
 
 ---
@@ -363,7 +354,7 @@ print(p)
 
 ---
 
-## Object detection and reconstruction of behavior 
+## Object detection and reconstruction of behavior
 
 <iframe width="1080" height="630" src="https://www.youtube.com/embed/9cmLqHrcnQM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
@@ -406,32 +397,29 @@ print("%s: %.2f%%" % (model.metrics_names[1], scores[1]*100))
 </code>
 </pre>
 
-
 ---
 
 ## The road to ChatGPT?
 
-* [Generative models](https://medium.com/analytics-vidhya/an-introduction-to-generative-deep-learning-792e93d1c6d4) 
-* [Transformer](https://jalammar.github.io/illustrated-transformer/)
-* [GPT](https://medium.com/sciforce/what-is-gpt-3-how-does-it-work-and-what-does-it-actually-do-9f721d69e5c1)
-* [chatGPT](http://chat.openai.com)
-* [open LLMs](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)
-
+- [Generative models](https://medium.com/analytics-vidhya/an-introduction-to-generative-deep-learning-792e93d1c6d4)
+- [Transformer](https://jalammar.github.io/illustrated-transformer/)
+- [GPT](https://medium.com/sciforce/what-is-gpt-3-how-does-it-work-and-what-does-it-actually-do-9f721d69e5c1)
+- [chatGPT](http://chat.openai.com)
+- [open LLMs](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)
 
 ---
 
-## But humans live in a world with multiple sensory modalities 
+## But humans live in a world with multiple sensory modalities
 
-* [GPT-4 accepts image and text inputs](https://openai.com/research/gpt-4)
+- [GPT-4 accepts image and text inputs](https://openai.com/research/gpt-4)
 
-* SORA can generate videos (1 min)
+- SORA can generate videos (1 min)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HK6y8DAPN_0?si=IssyOSYcgzOPRrpw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 
 ## Google Gemini
-
 
 <img src="https://www.unite.ai/wp-content/uploads/2023/12/2023-12-11-22_49_18-gemini_1_report.pdf.png" width=60%>
 
@@ -451,12 +439,10 @@ print("%s: %.2f%%" % (model.metrics_names[1], scores[1]*100))
 
 ## Additional reading
 
-* [Are you ready for a computer to predict the death of your patients?](https://arxiv.org/abs/1711.06402) 
+- [Are you ready for a computer to predict the death of your patients?](https://arxiv.org/abs/1711.06402)
 
-* [Deep learning is hard, why can we have a neural net to design other neural nets?](https://www.youtube.com/watch?v=o4rFnSh1ZFs)
+- [Deep learning is hard, why can we have a neural net to design other neural nets?](https://www.youtube.com/watch?v=o4rFnSh1ZFs)
 
-* [Can deep learning work withouth training data?](http://www.andrewng.org/portfolio/deep-learning-and-unsupervised-feature-learning/)
+- [Can deep learning work withouth training data?](http://www.andrewng.org/portfolio/deep-learning-and-unsupervised-feature-learning/)
 
-* [Applications in medicine: diagnosis, treatments](http://www.nvidia.com/object/deep-learning-in-medicine.html)
-
-
+- [Applications in medicine: diagnosis, treatments](http://www.nvidia.com/object/deep-learning-in-medicine.html)
