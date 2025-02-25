@@ -47,8 +47,7 @@ Feb 25th 2025
   _ Volume
   _ Boeing 737 generates 240 terabytes of flight data during a single flight
   _ Velocity
-  _ sensors can have millisecond resolutions
-  https://www.bbc.com/news/articles/clkkllxm4jzo
+  _ sensors can have millisecond resolutions, [800Gbps or petabits per seconds](https://www.bbc.com/news/articles/clkkllxm4jzo)
   _ Variety
   _ geospatial, audio, video \* High Dimension !!
 
@@ -254,7 +253,7 @@ for (i in 1:num_iters) {
 
 ## Deep neural network
 
-![](http://neuralnetworksanddeeplearning.com/images/tikz40.png)
+![](https://upload.wikimedia.org/wikipedia/commons/2/2f/Example_of_a_deep_neural_network.png)
 
 ---
 
