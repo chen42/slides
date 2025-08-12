@@ -12,7 +12,7 @@ Please use the live online version at http://chen42.github.io/slides/pgx.html
 
 Or download the [**Printable version that can be saved as a pdf file**](http://chen42.github.io/slides/pgx.html?print-pdf#/).
 
-<b>Last update: Aug 27th, 2024</b>
+<b>Last update: Aug 27th, 2025</b>
 
 ---
 
@@ -26,10 +26,9 @@ Or download the [**Printable version that can be saved as a pdf file**](http://c
 
 ## Text books
 
-### May need to login using your UTHSC NETID
+#### May need to login using your UTHSC NETID
 
 - Basic & Clinical Pharmacology, 15e Bertram G. Katzung, Todd W. Vanderah
-
   - <a href="https://accesspharmacy-mhmedical-com.ezproxy.uthsc.edu/content.aspx?bookid=2988&sectionid=250594573" target=_new> Chapter 5: Pharmacogenomics </a>
 
 - Goodman & Gilman's: The Pharmacological Basis of Therapeutics, 14th Edition
@@ -83,9 +82,7 @@ Safe vs sever side effect
 - Environment (diet, other drugs)
 - Clinical (age, other infection, hormone, organ function, microbiome)
 - **Genetic Factors**:
-
   - Type of genetic variation
-
     - Single Nucleotide Polymorphisms (SNPs, e.g., A->G; T->A)
     - Insertions and deletions (Indels, e.g., AAACTAC->G; T-> ATAGATCG )
     - Structural variants (inversion, duplication, large deletion, large insertion)
@@ -116,11 +113,9 @@ Source: <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8317496/figure/F1/
 ## Variations of the genetic variants
 
 - Genetic Variation Characteristics
-
   - Variants can differ by number of base pairs involved, gene location, and impact on the encoded protein.
 
 * Population Frequency of Pharmacogenetic Variants:
-
   - Pharmacogenetic variants can range from extremely rare (documented in a single individual) to very common (difficult to define a “wild type” allele).
   - Allele frequencies can vary significantly across different populations.
 
@@ -143,7 +138,8 @@ Source: <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8317496/figure/F1/
 
 <a href="https://accessmedicine.mhmedical.com/content.aspx?bookid=3191&sectionid=268215725#brun14_ch7fg2"  target=_new>
 <center>
-<img src="https://mgh.silverchair-cdn.com/mgh/content_public/book/3191/m_brun14_ch7_f002_1660821841.68021.png?Expires=1727710957&Signature=TzB6ZP57C9senycFFxoBTMNg3W61qPxDuJWX6GJhFRw3TJyf5DBwOSOoof-Zi3qSYfWUkQJAl3uNsMGi73aekch7CoXKFA-xk0RqSIlDp4Yt-qkRo2cqGXV~y3ImxmNup0oRdp9LhkUERxyZZ8eCeFUMP1KIkoEvVolmST0t8GBH77F0-fBufTGMKdNcNaBqxE5NVxUBg2zbB~4WAUfWx-ccr6rG7g~D-S4pgTLC6JeyugowsWRGjFeSlJ42Y8Hd3SJmiunQ2PsZ~OVKIu5xm2qt0RpJcUjr7m1be2zvryWwuh5znQ5E-XfdXdd63Xh71WncUSkZ~Hl8FH-b5nHW8g__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" width=60%>
+<img src="https://mgh.silverchair-cdn.com/mgh/content_public/book/3191/m_brun14_ch7_f002_1660821841.68021.png?Expires=1758030032&Signature=mEO9OPgmjFk7pi5Rl23Qx9RvJT4Cppyy~mM8RxMx-MHRs86hA8X8BHPduXz1sU1YWBMRXw~KslmcqNyTmaOCWV3HILfRMdyKIZdt6S-2fJi9HP9yFgDLQvs1BVjuQO8wXtBk-QmzOYtbf2HS3X5MX-hJeB70w14EcbI9Wgh2FbQOtfKeVz7EizrJL2raldgf1H1Oc0F6E77DBA0wS5a0lE~H~-mldhLEziDxsMY924003TsMm0c2m8~eDrpIm5ns-TTbANcmVWn5ZYHxcvM-4a5aIulsNsSTg7dIOtdetOQKHw5dqqZcL5VsWITt0YAEfGipbZzJ8hBJIW7ph9TaBg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" width=60%>
+
 <center>
 </a>
 
@@ -252,7 +248,7 @@ Source: <a href="https://pubmed.ncbi.nlm.nih.gov/11972444/" target=_new> Pharmac
 
 <table><tr><td width=50%>
 
-<img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10264946/bin/CTS-16-1012-g003.jpg" >
+<img src="https://cdn.ncbi.nlm.nih.gov/pmc/blobs/d535/10264946/2fadf6b25f1c/CTS-16-1012-g003.jpg">
 </td><td>
 
 <font size=-1>
@@ -289,14 +285,12 @@ Source: <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10264946/" target=
 ## PGx of drug hypersensitivity
 
 - Abacavir is used in the treatment of HIV
-
   - associated with hypersensitivity reactions in the skin
   - for many years appeared to be idiosyncratic, ie, of unknown mechanism.
 
 - Abcavir specifically interact with with the product of HLA-B\*57:01
 
 - <a href="https://www.nejm.org/doi/full/10.1056/NEJMoa0706135#core-r007" target=_new> HLA-B\*57:01 screening reduced the risk of hypersensitivity reaction to abacavir.</a>
-
   - Screening eliminated immunologically confirmed hypersensitivity reaction (0% in the prospective-screening group vs. 2.7% in the control group, P<0.001).
   - The results show that a pharmacogenetic test can be used to prevent a specific toxic effect of a drug.
 
