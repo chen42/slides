@@ -31,6 +31,7 @@ Or download the [**Printable version that can be saved as a pdf file**](http://c
 #### May need to login using your UTHSC NETID
 
 - Basic & Clinical Pharmacology, 15e Bertram G. Katzung, Todd W. Vanderah
+
   - <a href="https://accesspharmacy-mhmedical-com.ezproxy.uthsc.edu/content.aspx?bookid=2988&sectionid=250594573" target=_new> Chapter 5: Pharmacogenomics </a>
 
 - Goodman & Gilman's: The Pharmacological Basis of Therapeutics, 14th Edition
@@ -84,7 +85,9 @@ Safe vs sever side effect
 - Environment (diet, other drugs)
 - Clinical (age, other infection, hormone, organ function, microbiome)
 - **Genetic Factors**:
+
   - [Types of genetic variations](https://www.genome.gov/about-genomics/educational-resources/fact-sheets/human-genomic-variation)
+
     - Single Nucleotide Polymorphisms (SNPs, e.g., A->G; T->A)
     - Insertions and deletions (indels, e.g., AAACTAC->G; T-> ATAGATCG )
     - Structural variants (inversion, duplication, large deletion, large insertion)
@@ -117,6 +120,7 @@ Source: <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8317496/figure/F1/
 ## Not all genetic variants are equal
 
 - Variant Characteristics
+
   - Variants can differ by number of base pairs involved, gene location, and impact on the encoded protein.
 
 - Population Characteristics
@@ -153,7 +157,7 @@ Source: <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8317496/figure/F1/
 
 <b>Common CYP2C19 variants, haplotypes, star alleles, functional effects, and metabolizer status.</b>
 
-The patterns of individual variants define _haplotypes_, which in turn are designated using specific star alleles.
+The patterns of individual variants define <font color = "firebrick">_haplotypes_</font>, which in turn are designated using specific star alleles.
 
 \*1 is normal
 
@@ -183,14 +187,25 @@ CYP2D6 metabolizes several opioid pain medications commonly used in dental pract
 <img src=./images/teaching/cyp2d6_tradmadol.png> 
 </td></tr></table>
 
+<small>
+Both codeine and tramadol are  of prodrugs. They are administered in an less active form and require metabolic conversion by *Cyp2D6* in the liver to produce their primary therapeutic effect.
+
+**Codeine**: Codeine itself has a weak affinity for mu-opioid receptors and provides minimal pain relief on its own. Its analgesic power comes from its conversion into morphine.
+
+**Tramadol**: The opioid-related pain relief effect of tramadol is dependent on its metabolism by CYP2D6 into O-desmethyltramadol (M1). The M1 metabolite binds to mu-opioid receptors with a much higher affinity (up to 200 times greater) than tramadol.
+
 Source: <a href="https://pubmed.ncbi.nlm.nih.gov/34267337/" target=_new> Eur J Hum Genet
 . 2022 Oct;30(10):1105-1113. doi: 10.1038/s41431-021-00920-y. </a>
+
+</small>
 
 ---
 
 ## CYP2D6 alleles
 
 CYP2D6 is a highly polymorphic gene and contains 1536 variants, from which over 140 CYP2D6 alleles and 250 sub-alleles have been identified.
+
+<a href="https://genome.ucsc.edu/cgi-bin/hgTracks?db=hg38&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=chr22%3A42121168-42167211&hgsid=3046983582_AjmqAESMUd6R4TP7EVF0HG6z04hP" target=_new>CYP2D7, CYP2D8, CYP2D9 on Chr22</a>
 
 <table><tr><td width=60%>
 
@@ -303,12 +318,14 @@ Source: <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10264946/" target=
 ## PGx of drug hypersensitivity
 
 - Abacavir is used in the treatment of HIV
+
   - associated with hypersensitivity reactions in the skin
   - for many years appeared to be idiosyncratic, ie, of unknown mechanism.
 
 - Abcavir specifically interact with with the product of HLA-B\*57:01
 
 - <a href="https://www.nejm.org/doi/full/10.1056/NEJMoa0706135#core-r007" target=_new> HLA-B\*57:01 screening reduced the risk of hypersensitivity reaction to abacavir.</a>
+
   - Screening eliminated immunologically confirmed hypersensitivity reaction (0% in the prospective-screening group vs. 2.7% in the control group, P<0.001).
   - The results show that a pharmacogenetic test can be used to prevent a specific toxic effect of a drug.
 
@@ -325,10 +342,11 @@ Source: <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10264946/" target=
 </td><td>
 
 - The pathway
-  - Vitamin K is required for the activation of clotting factors
+  - Vitamin K (reduced) is required for the activation of clotting factors
+  - Vitamin K (reduced) is recycled from its oxidized form by VKROC1
   - Warfarin interacts with VKORC1 to inhibit vitamin K and is used as an anticoagulant
 - The regulators
-  - S-Warfarin (more potent than R-Warfarin) is metabolized by CYP2C9
+  - S-Warfarin is metabolized by CYP2C9
   - VKORC1 variants affect the dosing of warfarin
   - Vitamin K is metabolized by CYP4F2
 
