@@ -96,7 +96,7 @@ Drug targets are highlighted using redish background
 ## [Stages of AIDS](https://www.clinicalkey.com/#!/content/book/3-s2.0-B9780323611794000107?scrollTo=%23t0015)
 
 - Primary infection.
-  - About 90% of patients develop a flu-like illness, which coincides with <a href= https://clinicalinfo.hiv.gov/en/glossary/seroconversion> seroconversion</a>, between 2 and 4 weeks post exposure. Symptoms include fever, night sweats, sore throat, lymphadenopathy, diarrhea. The illness is self-limiting.
+  - About 90% of patients develop a flu-like illness, which coincides with <a href= https://clinicalinfo.hiv.gov/en/glossary/seroconversion> seroconversion</a> (detectable HIV antibodies in blood), between 2 and 4 weeks post exposure. Symptoms include fever, night sweats, sore throat, lymphadenopathy, diarrhea. The illness is self-limiting.
 - Asymptomatic phase.
   - Of variable duration, from 2 to 10 years. Patients are clinically well, but infectious.
 - Acquired Immunodeficiency Syndrome (AIDS). Features:
@@ -118,31 +118,27 @@ Note:
 
 ---
 
-### Current [guidelines](https://clinicalinfo.hiv.gov/en/guidelines/adult-and-adolescent-arv/initiation-antiretroviral-therapy?view=full)
+## Current [guidelines](https://clinicalinfo.hiv.gov/en/guidelines/adult-and-adolescent-arv/initiation-antiretroviral-therapy?view=full)
 
 <b> The <span id="yb"> Initiation </span> of Antiretroviral Therapy </b>
 
 - Antiretroviral therapy (ART) is recommended for all persons with HIV
-  - reduce morbidity and mortality (AI)
-  - prevent the transmission of HIV to others (AI).
+
+  - reduce morbidity and mortality
+  - prevent the transmission of HIV to others
 
 - The Panel recommends initiating ART immediately after HIV diagnosis
+
   - increase the uptake of ART and linkage to care,
   - decrease the time to viral suppression for individual patients,
-  - improve the rate of virologic suppression among persons with HIV (AII).
+  - improve the rate of virologic suppression among persons with HIV.
 
-- Educate patients (AIII)
+- Educate patients
   - the benefits of ART
   - to deploy strategies to optimize care engagement
   - treatment adherence
 
-Rating of Recommendations: A = Strong;
-Rating of Evidence: I = Data from randomized controlled trials; II = Data from well-designed nonrandomized trials or observational cohort studies with long-term clinical outcomes; III = Expert opinion
-
 [HAART - cART - ART](https://clinicalinfo.hiv.gov/en/glossary/antiretroviral-therapy-art)
-
-Note:
-A person's initial HIV regimen generally includes three antiretroviral (ARV) drugs from at least two different HIV drug classes
 
 ---
 
@@ -171,25 +167,6 @@ The drug must kill the viral without kill the patient.
 
 ---
 
-## General principle of ART
-
-An antiretroviral regimen for a treatment-naive patient generally consists of
-
-- two reverse transcriptase inhibitors (one nucleo<font color="red">s</font>ide and one nucleo<font color="red">t</font>ide) in combination with a third active drug from one of three drug classes:
-  - an integrase strand transfer inhibitor
-  - a protease inhibitor with a pharmacokinetic enhancer (also known as a booster)
-  - a non-nucleoside reverse transcriptase inhibitor (less common)
-
-Note:
-
-- ART is cART, a combination of drugs targeting multiple viral replication pathways.
-- Past recommendation includes protease inhibitors. Current recommendation all include INSTI
-- Need to understand the exceptions as well.
-- click on the title link to read the full recommendation, DTG = dolutegravir; 3TC = lamivudine; TAF = tenofovir alafenamide (no need to memorize these acronyms)
-- <span id="drug"> Dolutegravir </span> plus <span id="drug"> abacavir </span> plus <span id="drug"> lamivudine </span> — only for individuals who are HLA-B\*5701 negative and without chronic hepatitis B virus (HBV) coinfection
-
----
-
 <section id="recommend">
 
 ### [Current Guideline](https://clinicalinfo.hiv.gov/en/guidelines/adult-and-adolescent-arv/what-start-initial-combination-regimens-antiretroviral-naive?view=brief)
@@ -215,6 +192,25 @@ Note:
 - (<span id="drug">Darunavir/cobicistat</span> or <span id="drug">darunavir/Ritonavir</span>) plus (<span id="drug">tenofovir alafenamide</span> or<span id="drug"> tenofovir disoproxil fumarate</span>) plus (<span id="drug">emtricitabine </span> or <span id="drug"> lamivudine</span>)
 
 <hr>
+
+---
+
+## General principle of ART
+
+An antiretroviral regimen for a treatment-naive patient generally consists of
+
+- two reverse transcriptase inhibitors (one nucleo<font color="red">s</font>ide and one nucleo<font color="red">t</font>ide) in combination with a third active drug from one of three drug classes:
+  - an integrase strand transfer inhibitor
+  - a protease inhibitor with a pharmacokinetic enhancer (also known as a booster)
+  - a non-nucleoside reverse transcriptase inhibitor (less common)
+
+Note:
+
+- ART is cART, a combination of drugs targeting multiple viral replication pathways.
+- Past recommendation includes protease inhibitors. Current recommendation all include INSTI
+- Need to understand the exceptions as well.
+- click on the title link to read the full recommendation, DTG = dolutegravir; 3TC = lamivudine; TAF = tenofovir alafenamide (no need to memorize these acronyms)
+- <span id="drug"> Dolutegravir </span> plus <span id="drug"> abacavir </span> plus <span id="drug"> lamivudine </span> — only for individuals who are HLA-B\*5701 negative and without chronic hepatitis B virus (HBV) coinfection
 
 ---
 
@@ -269,8 +265,7 @@ Note:
 
 - Indication
   - <a href="#/recommend">Recommended</a> for naive patients as part of combination ART
-  - <span id="drug"> Cabotegravir </span> injecable once a month for pre-exposure prophylaxis (PrEP) in HIV naive individuals
-    - [Report by STAT](https://www.statnews.com/pharmalot/2021/01/21/fda-hiv-aids-injectable/)
+  - <span id="drug"> Cabotegravir </span> injecable once a month for pre-exposure prophylaxis (PrEP) in HIV naive individuals ([news report on FDA approval](https://www.statnews.com/pharmalot/2021/01/21/fda-hiv-aids-injectable/))
 - Adverse effects
   - Diarrhea, nausea, headache, and fever
   - <a href="https://pubmed.ncbi.nlm.nih.gov/34524918/">Hypersensitivity</a> to <span id="drug"> Dolutegravir </span> include serious rash, blisters/peeling of skin, hepatitis, facial edema, angioedema, difficulty breathing, or eosinophilia.
@@ -366,14 +361,15 @@ Note:
 
 ---
 
-## <a href="#/adverse">Adverse Effects</a> of NRTIs
+## Adverse Effects of NRTIs
 
 - Common toxicities
-  - Rash; Gastrointestinal distress
+  - [Mitochondrial toxicity](https://www.uptodate.com/contents/mitochondrial-toxicity-of-hiv-nucleoside-reverse-transcriptase-inhibitors/) is a major adverse effect of nucleoside analogues, which can lead to myopathy, peripheral neuropathy, and hepatic steatosis with lactic acidosis
   - [Lactic acidosis](https://hivinfo.nih.gov/understanding-hiv/fact-sheets/hiv-and-lactic-acidosis), [hepatic steatosis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6550355/)
   - [Lipodystrophy](https://www.ncbi.nlm.nih.gov/PubMed/10509567): fat loss or buildup or both.
     - Including central obesity, dorsocervical fat enlargement [(buffalo hump)](https://www.clinicalkey.com/#!/content/medline/2-s2.0-9525364), peripheral wasting, accumulation of facial fat, [lipomas](http://www.mayoclinic.org/diseases-conditions/lipoma/basics/definition/con-20024646), breast enlargement, [gynecomastia](http://www.mayoclinic.org/diseases-conditions/gynecomastia/home/ovc-20257576)
-  - [Mitochondrial toxicity](https://www.uptodate.com/contents/mitochondrial-toxicity-of-hiv-nucleoside-reverse-transcriptase-inhibitors/) is a major adverse effect of nucleoside analogues, which can lead to myopathy, peripheral neuropathy, and hepatic steatosis with lactic acidosis
+  - Rash; Gastrointestinal distress
+- Drug specific side effects
   - <span id="drug">Abacavir</span>: **hypersensitivity** reaction due to genetic predisposition (multi-organ autoimmune response, potentially life threatening)
     - <span id="yb"><a href="http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg38&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=chr6%3A31353875%2D31367067&hgsid=1488421281_ALYL8AoN0EV3FOejojvgWHHHoDaa">HLA-B\*5701</a> screening before starting therapy </span> [NEJM](http://www.nejm.org/doi/full/10.1056/NEJMoa0706135#t=article)
   - <span id="drug"> Emtricitabine </span>: psychiatric reactions, depression, dizziness, insomnia
@@ -455,8 +451,7 @@ https://journals.sagepub.com/doi/full/10.1177/0192623313503519
   - [NEJM Dec 3 2009](https://www.ncbi.nlm.nih.gov/pubmed/?term=19952143)
 - Effective as antiretroviral <span id='bg'>chemoprophylaxis </span>before exposure (PrEP)
   - [NEJM Dec 30 2010](https://www.ncbi.nlm.nih.gov/pubmed/21091279)
-  - [NIH guideline, last updated Aug 10, 2021](https://hivinfo.nih.gov/understanding-hiv/fact-sheets/pre-exposure-prophylaxis-prep)
-  - [CDC page on PrEP](https://www.cdc.gov/hiv/risk/prep/index.html)
+  - [NIH guideline, last updated July 3, 2025](https://hivinfo.nih.gov/understanding-hiv/fact-sheets/pre-exposure-prophylaxis-prep)
 - <a href="#/recommend">Recommended for treatment naive patients</a>
 
 ---
@@ -530,11 +525,11 @@ note: rifampin is a bacterial RNA polymerase inhibitor
   - Inhibits the protease enzyme, preventing the cleavage of viral polyproteins into functional protein
 - Achieves faster virologic response than other protease inhibitors(PI). [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/21692667)
 - Can be used to treat patients resist to other PIs.
-  - <span id="drug"> darunavir </span> displays a < 10-fold decreased susceptibility against 90% of HIV-1 isolates resistant to many other protease inhibitors.
+  - <span id="drug"> darunavir </span> retains activity against 90% of HIV-1 isolates that are resistant to other protease inhibitors, exhibiting 10-fold decrease in susceptibility.
 - Must be used in combination in an antiviral regimen.
   - Requires an enhancer (i.e. low does <span id="drug"> ritonavir </span> or [cobicistat](https://www.ncbi.nlm.nih.gov/pubmed/26566368) )
-- Moved off the Recommended list for treatment-naive patients in 2017
-- <a href="#/recommend">Recommended </a> for treating patients with INSTI PrEP history, before testing results is available in 2024
+- No longer for treatment-naive patients (2017)
+- <a href="#/recommend">Recommended </a> for treating patients with integrase PrEP history, before testing results is available (2024)
 
 ---
 
@@ -572,6 +567,7 @@ note: rifampin is a bacterial RNA polymerase inhibitor
 <table><tr><td width=60% >
 
 - Structure
+
   - a synthetic pep<font color="darkorange">tide</font> with <a href="https://www.drugbank.ca/drugs/DB00109">36 amino acids </a>
 
 - <a href="#/sd">Mechanism of action</a>
@@ -579,7 +575,7 @@ note: rifampin is a bacterial RNA polymerase inhibitor
 - Indications
   - Reserved as salvage therapy for treatment resistant patients.
   - Prophylasis after occupational HIV exposure.
-  - Not part of 1st line ART (due to the self-injection method, injection site reaction, and high cost).
+  - Not part of 1st line ART (injection site reaction, high cost).
 
 </td><td>
 
@@ -598,9 +594,7 @@ note: rifampin is a bacterial RNA polymerase inhibitor
   - T&frac12; = 4 h
 - Adverse effect
   - Injection-site pain or infection
-  - Pancreatitis
   - Hypersensitivity reaction (rash, fever, peripheral edema, acute respiratory distress, etc.)
-  - Initial report of increased bacterial pneumonia (but no longer significant after adjusting for monitoring duration)
 - Resistance
   - gp41 mutations may develop when drug is given at suboptimal doses as monotherapy; No cross-resistance with other HIV Agents
   - Ineffective for HIV-2
@@ -611,19 +605,20 @@ note: rifampin is a bacterial RNA polymerase inhibitor
 
 - NRTIs
   - Once phosphorylated by cellular kinases, NRTIs have greater affinity for viral reverse transcriptase than for cellular DNA polymerases.
-- NNRTIs
-  - Do not undergo phosphorylation
-  - Have greater affinity for viral reverse transcriptase than for cellular DNA polymerases
 - PIs
   - Greater affinity for HIV aspartyl protease than for human protease.
 - Integrase Inhibitors
   - Much higher selectivity than other classes of anti-HIV drugs.
 
+Note:
+
+- NNRTIs
+  - Do not undergo phosphorylation
+  - Have greater affinity for viral reverse transcriptase than for cellular DNA polymerases
+
 ---
 
 ## [What not to use, updated Feb 2024](https://clinicalinfo.hiv.gov/sites/default/files/guidelines/archive/adult-adolescent-arv-2024-02-27.pdf)
-
-<b> No longer part of the guidline as of Oct 2024</b>
 
 - Drugs
   - <span id=drug>delavirdine, didanosine, indinavir, nelfinavir, stavudine</span>
@@ -643,7 +638,7 @@ These are just a few examples. Detailed list available from the link above
 
 ## Agents for the treatment of virus infections
 
-### [Hour 2](#/hour2)
+### Hour 2
 
 - <a href="#/hsv">Herpes Simplex Virus</a> and Varicella Zoster Virus
   - <span id="drug">[Acyclovir, Valacyclovir](#/Acyclovir), [Tenofovir](#/Tenofovir2), [Famciclovir, Penciclovir](#/Penciclovir)</span>
@@ -825,7 +820,7 @@ Double stranded DNA virus
   - <span id="drug"> Valganciclovir </span> is hydrolyzed by esterases following oral administration to <span id="drug"> ganciclovir </span>
 - Indications
   - CMV retinitis in AIDS patients
-    - Activity 100 x greater than <span id="drug"> Acyclovir </span> <span id='mem'>Gangbuster drug for a gigantic virus</span>
+    - Activity 100 x greater than <span id="drug"> Acyclovir </span>
   - CMV prophylaxis (e.g., liver transplant patients)
 - Adverse effects
   - Bone marrow suppression, neutropenia, anemia,
@@ -985,12 +980,14 @@ HBV polymerase has reverse transcription activity
 
 ---
 
-## Common to all the nucleoside analogs
+## Common to all the nucleoside analogs for HBV
 
 <span id="drug">Entecavir </span> <span id="drug">Adefovir </span> <span id="drug">Tenofovir </span>
 
 - Severe acute exacerbations of hepatitis B have been reported in patients who have stopped taking the drug.
 - Lactic acidosis and severe hepatomegaly with steatosis is a more common adverse effect of the nucleoside analogs in the treatment of HIV, where they are always used in combination therapy, but these effects are much <u>less</u> likely to occur with monotherapy for treatment of hepatitis B.
+
+Bonus question: Why is monotherapy used for HBV but combination therapy is needed for HIV?
 
 ---
 
@@ -1003,33 +1000,28 @@ HBV polymerase has reverse transcription activity
     - Blocks protein synthesis &mdash; inhibits translation initiation complex
   - Three major classes of human IFNs
 
-| Interferon | Type    | Receptor       | Effect           |
-| ---------- | ------- | -------------- | ---------------- |
-| &alpha;    | Type I  | IFNAR &dagger; | Antiviral        |
-| &beta;     | Type I  | IFNAR          | Antiviral        |
-| &gamma;    | Type II | IFNGR &Dagger; | Immunomodulation |
+| Interferon | Type    | Receptor | Effect           |
+| ---------- | ------- | -------- | ---------------- |
+| &alpha;    | Type I  | IFNAR    | Antiviral        |
+| &beta;     | Type I  | IFNAR    | Antiviral        |
+| &gamma;    | Type II | IFNGR    | Immunomodulation |
 |            |
-
-<small>
- &dagger; composed of two subunits IFNAR1 and IFNAR2. &Dagger; composed of two subunits IFNGR1 and IFNGR2
- </small>
 
 ---
 
 ## Interferons
 
-- Type I has more potent antiviral effect. It can be produced in almost any cell type when it is infected with a virus. It is triggered by molecular patterns of characteristic of viral but not host components (e.g. viral 5'-triphosphorylated ssRNA and dsRNA).
-  - dsRNA is produced by positive-strand RNA viruses and DNA viruses, but not detectable by negative-strand RNA Viruses [PubMed](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1472073/)
+- Type I has more potent antiviral effect.
+
+  - It can be produced in almost any cell type when infected with a virus.
+  - Triggered by molecular patterns characteristic of viral but not host components (e.g. viral 5'-triphosphorylated ssRNA and dsRNA) [PubMed](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1472073/)
 
 - Interferon alpha is generally active against the following viruses <i> in vitro</i>: \* <span style="font-weight:normal; font-size: 0.6em"> adenovirus; coronavirus; encephalomyocarditis virus; hepatitis B virus; hepatitis C virus (HCV); hepatitis D virus; herpes simplex virus type 1; herpes simplex virus type 2; human immunodeficiency virus (HIV); papillomavirus; poliovirus; rhinovirus; vaccinia virus; varicella-zoster virus; vesicular stomatitis virus; human T-lymphotropic virus type I (HTLV-I).
   </span>
 
 - Induces immune responses, alter the expression of genes, cell surface markers, phagocytic activity, cytotoxicity, etc.
 
-- Exact mechanism remain unclear, but may include the induction of enzymes that interfer with key steps in the HBV life cycle, include those that degrade foreign, but not host DNA ([PubMed](https://www.ncbi.nlm.nih.gov/pubmed?term=24557838))
-
-Note:
-HBV is weak IFN inducer. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6058040/
+- HBV is weak IFN inducer. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6058040/" target="_new">PubMed</a>
 
 ---
 
@@ -1084,6 +1076,18 @@ HBV is weak IFN inducer. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6058040/
 
 ---
 
+## IFN-α vs. Entecavir
+
+|                             | Interferon-Alpha                                                              | Entecavir                                                          |
+| --------------------------- | ----------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| **Treatment goal**          | Finite treatment with the potential for long-term remission (functional cure) | Long-term or indefinite viral suppression                          |
+| **Treatment duration**      | Fixed, finite course, typically 48 weeks                                      | Long-term or indefinite                                            |
+| **Mechanism of action**     | Immunomodulatory                                                              | Suppress viral replication                                         |
+| **Route of administration** | Subcutaneous injection                                                        | Oral tablet                                                        |
+| **Adverse effects**         | Frequent and severe (fever, fatigue, depression, bone marrow suppression)     | Rare, potent antiviral effect, and well-tolerated by most patients |
+
+---
+
 <section id="hcv">
 
 ## Hepatitis C
@@ -1103,7 +1107,7 @@ a single-stranded, positive-sense RNA
 
 </a>
 
-Viral RNA replication occurs near the ER, requirs NS5B/NS5A, RNA-dependent RNA-polymerases.
+Viral RNA replication occurs near the ER, requirs nonstructural protein NS5B/NS5A, <a href="https://en.wikipedia.org/wiki/RNA-dependent_RNA_polymerase">RNA-dependent RNA-polymerases</a>.
 
 Note:
 
@@ -1111,7 +1115,7 @@ https://www.wjgnet.com/1007-9327/full/v27/i28/4555.htm
 
 ---
 
-## WHO Hepatitis C treatment <a href="https://www.ncbi.nlm.nih.gov/books/NBK531720/"> guideline</a>
+## <a href="https://www.ncbi.nlm.nih.gov/books/NBK531720/"> WHO Hepatitis C treatment guideline</a>
 
 - 9 HCV genotypes, type 1 is most common in the US.
 
@@ -1127,6 +1131,7 @@ https://www.wjgnet.com/1007-9327/full/v27/i28/4555.htm
 ## Sofosbuvir
 
 - <a href="#/sd">Mechanims of Action </a>
+
   - nucleotide analogue inhibitor
   - a direct-acting antiviral agent
   - NS5B is an <a href="https://en.wikipedia.org/wiki/RNA-dependent_RNA_polymerase"> RNA-dependent RNA polymerase</a>
@@ -1146,6 +1151,7 @@ https://www.wjgnet.com/1007-9327/full/v27/i28/4555.htm
 ## Ledipasvir
 
 - <a href="#/sd">Mechanism of Action </a>
+
   - a direct-acting antiviral agent
   - NS5A is an RNA-dependent RNA polymerase
   - Ledipasivir prevent hyperphosphorylation of NS5A polymerase
@@ -1193,7 +1199,7 @@ https://www.wjgnet.com/1007-9327/full/v27/i28/4555.htm
 
 ## Life cycle
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2RMNwLdtRhw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2RMNwLdtRhw?si=MtlsQERrl-O3eTE8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 [Life cycle review](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2794490/)
 
@@ -1220,10 +1226,12 @@ https://www.wjgnet.com/1007-9327/full/v27/i28/4555.htm
 ## Antiinfluenza Agents
 
 - Virus release inhibitors
+
   - <span id="drug"> Zanamivir</span> (Relenza)
   - <span id="drug"> Oseltamivir</span> (Tamiflu)
 
 - Cap-dependent endonuclease inhibitor
+
   - <span id="drug"> Baloxavir </span> (Xofluza)
 
 - Uncoating inhibitors
@@ -1344,9 +1352,9 @@ Another version of SARS-CoV-2 life cycle</a>
 
 ---
 
-## [Recommendations on Antiviral Drugs for SARS-CoV-2](https://www.ncbi.nlm.nih.gov/books/NBK570371/)
+## [Recommendations on Antiviral Drugs for SARS-CoV-2](https://www.cdc.gov/covid/hcp/clinical-care/outpatient-treatment.html)
 
-(last update: Feb 29, 2024)
+(last update: Jun 11, 2025)
 
 #### Nonhospitalized Adults With Mild to Moderate COVID-19 Who Do Not Require Supplemental Oxygen
 
@@ -1465,7 +1473,16 @@ Another version of SARS-CoV-2 life cycle</a>
 
 ---
 
-## Additional reading
+## NotebookLM study guide
+
+### <a href="https://notebooklm.google.com/notebook/a45a17ff-93b3-4e83-bcfc-a305d432c7ea?authuser=1">NotebookLM for this lecture</a>
+
+- Lecture slides
+- Treatment guidelines
+
+---
+
+## Additional Reading
 
 - [Gene editing for HIV enters into human testing](https://www.fiercebiotech.com/biotech/excision-hiv-crispr-gene-editing-therapy-cleared-for-human-studies-by-fda)
 - [Combination anti-HIV antibodies provide sustained virological suppression for up to 43 weeks](https://www.nature.com/articles/s41586-022-04797-9)
