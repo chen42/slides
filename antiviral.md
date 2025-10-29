@@ -96,7 +96,7 @@ Drug targets are highlighted using redish background
 ## [Stages of AIDS](https://www.clinicalkey.com/#!/content/book/3-s2.0-B9780323611794000107?scrollTo=%23t0015)
 
 - Primary infection.
-  - About 90% of patients develop a flu-like illness, which coincides with <a href= https://clinicalinfo.hiv.gov/en/glossary/seroconversion> seroconversion</a> (detectable HIV antibodies in blood), between 2 and 4 weeks post exposure. Symptoms include fever, night sweats, sore throat, lymphadenopathy, diarrhea. The illness is self-limiting.
+  - About 90% of patients develop a flu-like illness, which coincides with <a href="https://clinicalinfo.hiv.gov/en/glossary/seroconversion" target="_new"> seroconversion</a> (detectable HIV antibodies in blood), between 2 and 4 weeks post exposure. Symptoms include fever, night sweats, sore throat, lymphadenopathy, diarrhea. The illness is self-limiting.
 - Asymptomatic phase.
   - Of variable duration, from 2 to 10 years. Patients are clinically well, but infectious.
 - Acquired Immunodeficiency Syndrome (AIDS). Features:
@@ -1085,6 +1085,8 @@ Bonus question: Why is monotherapy used for HBV but combination therapy is neede
 | **Mechanism of action**     | Immunomodulatory                                                              | Suppress viral replication                                         |
 | **Route of administration** | Subcutaneous injection                                                        | Oral tablet                                                        |
 | **Adverse effects**         | Frequent and severe (fever, fatigue, depression, bone marrow suppression)     | Rare, potent antiviral effect, and well-tolerated by most patients |
+
+Functional cure: undetectable HBsAg and unquantifiable serum HBV DNA for at least 24 weeks after a finite course of therapy <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11249939/" target="_new">PubMed</a>
 
 ---
 
