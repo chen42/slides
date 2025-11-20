@@ -237,7 +237,7 @@ var markdownContent = ''
 + "\n"
 + "---\n"
 + "\n"
-+ "## GWAS on social interaction test\n"
++ "## GWAS in social interaction test\n"
 + "\n"
 + "<img src=\"./images/hs/socal_gwas_porcupine_v6.png\" width=90%>\n"
 + "\n"
