@@ -42,8 +42,12 @@ html * {
 }
 
 .reveal-viewport {
-  background: #fdf6e3;
+  /* background: #fdf6e3; */
   background-color: #fdf6e3;
+  background-image: url("../images/background.png");
+  background-size: cover; /* stretch to fill screen */
+  background-repeat: no-repeat; /* no tiling */
+  background-position: center; /* center the image */
 }
 
 .reveal {
@@ -305,6 +309,9 @@ html * {
   border-radius: 5px;
   border: 0px solid #fff;
   margin: 20px 0;
+  display: block; /* Makes the image a block-level element */
+  margin-left: auto; /* Centers the image horizontally */
+  margin-right: auto; /* Centers the image horizontally */
 }
 
 /*********************************************

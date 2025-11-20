@@ -9,7 +9,6 @@
   text-align: center;
   width: 80%;
   vertical-align: middle;
-  z-index: -10;
   background-color: #222;
   font-size: 0.7em;
   font-weight: bold;
@@ -23,7 +22,6 @@
   float: left;
   width: 80%;
   vertical-align: middle;
-  z-index: -10;
 }
 
 #right20 {
@@ -31,7 +29,6 @@
   top: 75px;
   float: right;
   text-align: left;
-  z-index: -10;
   vertical-align: middle;
   width: 20%;
 }
@@ -42,7 +39,6 @@
   text-align: left;
   float: left;
   vertical-align: top;
-  z-index: -10;
 }
 
 #right {
@@ -50,7 +46,6 @@
   left: 31.25%;
   float: right;
   text-align: left;
-  z-index: -10;
   vertical-align: top;
 }
 
@@ -60,7 +55,6 @@
   float: left;
   width: 50%;
   vertical-align: right;
-  z-index: -10;
 }
 
 #right50 {
@@ -68,7 +62,6 @@
   top: 75px;
   float: right;
   text-align: left;
-  z-index: -10;
   vertical-align: left;
   width: 50%;
 }
@@ -79,7 +72,6 @@
   float: left;
   width: 100%;
   vertical-align: middle;
-  z-index: -10;
 }
 
 #drug {
@@ -102,8 +94,10 @@
 }
 
 #cite {
-  color: #cb4b16;
+  /* color: #cb4b16; */
+  color: grey;
   font-size: 1.2em;
   font-weight: 600;
   font-style: italic;
 }
+

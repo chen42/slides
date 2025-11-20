@@ -123,12 +123,10 @@ Note:
 <b> The <span id="yb"> Initiation </span> of Antiretroviral Therapy </b>
 
 - Antiretroviral therapy (ART) is recommended for all persons with HIV
-
   - reduce morbidity and mortality
   - prevent the transmission of HIV to others
 
 - The Panel recommends initiating ART immediately after HIV diagnosis
-
   - increase the uptake of ART and linkage to care,
   - decrease the time to viral suppression for individual patients,
   - improve the rate of virologic suppression among persons with HIV.
@@ -567,7 +565,6 @@ note: rifampin is a bacterial RNA polymerase inhibitor
 <table><tr><td width=60% >
 
 - Structure
-
   - a synthetic pep<font color="darkorange">tide</font> with <a href="https://www.drugbank.ca/drugs/DB00109">36 amino acids </a>
 
 - <a href="#/sd">Mechanism of action</a>
@@ -1012,7 +1009,6 @@ Bonus question: Why is monotherapy used for HBV but combination therapy is neede
 ## Interferons
 
 - Type I has more potent antiviral effect.
-
   - It can be produced in almost any cell type when infected with a virus.
   - Triggered by molecular patterns characteristic of viral but not host components (e.g. viral 5'-triphosphorylated ssRNA and dsRNA) [PubMed](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1472073/)
 
@@ -1133,7 +1129,6 @@ https://www.wjgnet.com/1007-9327/full/v27/i28/4555.htm
 ## Sofosbuvir
 
 - <a href="#/sd">Mechanims of Action </a>
-
   - nucleotide analogue inhibitor
   - a direct-acting antiviral agent
   - NS5B is an <a href="https://en.wikipedia.org/wiki/RNA-dependent_RNA_polymerase"> RNA-dependent RNA polymerase</a>
@@ -1153,7 +1148,6 @@ https://www.wjgnet.com/1007-9327/full/v27/i28/4555.htm
 ## Ledipasvir
 
 - <a href="#/sd">Mechanism of Action </a>
-
   - a direct-acting antiviral agent
   - NS5A is an RNA-dependent RNA polymerase
   - Ledipasivir prevent hyperphosphorylation of NS5A polymerase
@@ -1228,12 +1222,10 @@ https://www.wjgnet.com/1007-9327/full/v27/i28/4555.htm
 ## Antiinfluenza Agents
 
 - Virus release inhibitors
-
   - <span id="drug"> Zanamivir</span> (Relenza)
   - <span id="drug"> Oseltamivir</span> (Tamiflu)
 
 - Cap-dependent endonuclease inhibitor
-
   - <span id="drug"> Baloxavir </span> (Xofluza)
 
 - Uncoating inhibitors
