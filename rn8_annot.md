@@ -10,20 +10,26 @@ Note: This presentation provides a comprehensive comparison between the Ensembl 
 
 ---
 
-## Analysis Workflow
+## Compare gtf files from <a href="https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_036323735.1/" target=_new>NCBI</a> vs <a href="https://useast.ensembl.org/Rattus_norvegicus/Info/Index" target=_new>Ensembl v 115</a>
 
-- **Genomic Overview:** Global feature counts.
-- **Gene Overview:** Biotypes, lengths, and splicing complexity.
-- **Transcript Structure:** Exon inventory, UTR mapping, and length details.
-- **Gene Identity:** Overlap of Symbols, IDs, and Protein models.
-- **Nomenclature:** Detailed breakdown of naming conflicts.
-
-Note: Our goal is to provide a definitive recommendation on which annotation set to prefer for different research objectives.
+- Global feature counts
+- Transcript Structure
+- Gene Identity
+- Nomenclature conflicts
 
 ---
 
-## Unique Feature Counts: High and Low Coverage
+## Feature Counts
 
+### Column 3 o the GTF file
+
+<pre> 
+# Ensembl
+1	ensembl	gene	268909413	269079661	.	-	.	gene_id "ENSRNOG00000009523"; gene_version "9"; gene_name "Rab11fip2"; gene_source "ensembl"; gene_biotype "protein_coding";
+# NCBI
+NC_086019.1	Gnomon	gene	43201	45926	.	-	.	gene_id "LOC134485287"; transcript_id ""; db_xref "GeneID:134485287"; description "zinc finger protein 431-like"; gbkey "Gene"; gene "LOC134485287"; gene_biotype "protein_coding"; partial "true"; 
+
+</pre>
 <table> <tr><td width=50%>
 <img src="./images/rn8annot/z01_feature_counts_high.png" width=100%>
 </td><td>
@@ -31,9 +37,7 @@ Note: Our goal is to provide a definitive recommendation on which annotation set
 </td></tr></table>
 
 Note:
-Left: High-count features (Exons and CDS). Note that Ensembl has more unique exon locations (~369k vs ~344k).
-Right: Low-count features. NCBI has a higher transcript count (~91k vs ~88k) and more unique UTR segments (~129k vs ~87k).
-Key finding: The UTR discrepancy is large (42k extra in NCBI) because NCBI identifies many more alternative start/stop codons within the same physical exons.
+exon = CDS + UTRs
 
 ---
 
@@ -46,70 +50,64 @@ Key finding: The UTR discrepancy is large (42k extra in NCBI) because NCBI ident
 </td></tr></table>
 
 Note:
-Left: Major biotypes (>100 genes). Protein coding counts are similar (~23k).
-Right: Minor biotypes (<=100 genes). NCBI identifies many more small features like tRNAs (771 vs 0 in Ensembl) and lncRNAs (~11k vs ~6k).
-Ensembl has a surplus of processed_pseudogenes.
+protein coding: ORF translated into protein
+pseudogene: there is premature stop codon or frame shift
+processed pseudogene: created via retrotransposition of mRNA
+non-processed pseudogene: created via gene duplication
+transcribed pseudogene: transcribed but not functional
+snRNA: small nuclear RNA: involved in splicing of introns
+snoRNA: small nucleolor RNA: guide chemical modifications of RNAs
+scaRNA: a subset of snoRNA
+lncRNA: longer than 200 nt but are not translated
+ncRNA:
+miRNA: 19 to 25 nt, post-transcriptional regulation of gene expression
+Y RNA: involved in the initiation of chromosomal DNA replication
 
 ---
 
-## Distribution of Gene Spans and Mature Transcript Lengths
+## Gene Spans and Transcript Lengths
 
-<table> <tr><td width=50%>
+<table> <tr><td width=33%>
 <img src="./images/rn8annot/z01_dist_gene_length.png" width=100%>
-</td><td>
+</td><td width=33%>
+<img src="./images/rn8annot/z09_intron_length_per_gene.png" width=100%>
+</td><td width=33%>
 <img src="./images/rn8annot/z01_dist_transcript_length.png" width=100%>
 </td></tr></table>
 
 Note:
-Left: Ensembl has a longer median gene span (~10.9kb vs 6.5kb).
-Right: NCBI has significantly longer mature transcripts (Median: 2,802 bp vs Ensembl 1,778 bp).
+Ensembl has a longer median gene span (~10.9kb vs 6.5kb).
+NCBI has significantly longer mature transcripts (Median: 2,802 bp vs Ensembl 1,778 bp).
 The "Short Gene" paradox in NCBI is caused by its inclusion of thousands of very short ncRNAs and pseudogenes that pull the median down.
 
----
-
-## Intron Length Distribution for Shared Genes
-
-<img src="./images/rn8annot/z09_intron_length_per_gene.png" width=60%>
-
-Note:
-Investigating why Ensembl genomic spans are longer despite shorter mature transcripts.
-While medians are similar (~12kb), Ensembl has a much higher mean intron length (243kb vs 43kb).
-This confirms that Ensembl is more aggressive in linking distal exons separated by massive intronic gaps into single gene models.
+The Genes around 100 bp are miRNA, snoRNA, and snRNA, tRNA, 5S RNA and short pseudogenes
+the shortest in NCBI are mature miRNA products (18 to 25 nt) (ensembl annotates pre-miRNA, about 80bp, NCBI includes both)
 
 ---
 
-## Comparison of Splicing Complexity: Transcripts and Exons
+## Transcripts and Exons
 
-<table> <tr><td width=50%>
+<table> <tr><td width=33%>
 <img src="./images/rn8annot/z01_dist_transcripts_per_gene.png" width=100%>
-</td><td>
+</td> <td width=33%>
 <img src="./images/rn8annot/z01_dist_exons_per_transcript.png" width=100%>
+</td> <td width=33%>
+<img src="./images/rn8annot/z03_isoform_density.png" width=100%>
 </td></tr></table>
 
-Note:
-Left: NCBI shows higher transcript-per-gene counts, reflecting denser isoform annotation (3.8 isoforms per unique exon location vs Ensembl 2.0).
-Right: NCBI transcripts contain more exons on average (11.2 vs 7.7), confirming higher structural complexity.
-
 ---
 
-## Unique Exon Inventory by Biotype Classification
+## Exons by Biotype Classification
 
 <img src="./images/rn8annot/z03_exon_inventory.png" width=60%>
-
-Note:
-Deduplicated physical exon locations categorized by usage.
-Ensembl's total surplus (~369k) is driven by **Non-Coding** gene features (Orange), which account for ~110k unique locations.
-In the **Protein-Coding** category (Green), NCBI actually has more unique physical locations (~285k vs ~259k).
 
 ---
 
 ## UTR Mapping Consistency and Generation Efficiency
 
-<table> <tr><td width=33%>
+<table> <tr><td width=50%>
 <img src="./images/rn8annot/z03_utr_location_comparison.png" width=100%>
-</td><td width=33%>
-<img src="./images/rn8annot/z03_isoform_density.png" width=100%>
-</td><td width=33%>
+</td><td width=50%>
 <img src="./images/rn8annot/z03_utr_efficiency.png" width=100%>
 </td></tr></table>
 
@@ -132,7 +130,7 @@ These are algorithmic placeholders. NCBI models are more evidence-driven.
 
 ---
 
-## Locus Count vs Gene Symbol Overlap
+## Gene Count vs Gene Symbol Overlap
 
 <table> <tr><td width=50%>
 <img src="./images/rn8annot/z02_total_unique_loci.png" width=100%>
@@ -141,9 +139,6 @@ These are algorithmic placeholders. NCBI models are more evidence-driven.
 </td></tr></table>
 
 Note:
-Left: Total annotated loci are similar (~43k vs ~47k).
-Right: Shared Symbols are much lower (~22k).
-Conclusion: The apparent 25k "Unique NCBI Symbols" is a naming artifact. It includes ~11k loci that are shared physically but left unnamed in Ensembl (blank names in GTF), plus ~14k loci that are truly unique to NCBI.
 
 ---
 
@@ -152,8 +147,18 @@ Conclusion: The apparent 25k "Unique NCBI Symbols" is a naming artifact. It incl
 <img src="./images/rn8annot/z07_unique_symbol_biotypes.png" width=90%>
 
 Note:
-Biotypes for the ~25k unique NCBI symbols and ~700 Ensembl symbols.
-NCBI's surplus is primarily tRNAs and lncRNAs. Many of these appear "unique" because Ensembl provides no symbol name for the locus, only a stable ID.
+
+---
+
+## Nomenclature Consistency
+
+#### Genes linked by unique IDs in Ensembl BioMart (22k named genes)
+
+<img src="./images/rn8annot/z05_nomenclature_comparison.png" width=70%>
+
+Note:
+Nomenclature agreement is high (95%) for shared, well-characterized genes.
+The 25k unique NCBI symbols from earlier are largely excluded here because they lack cross-database ID links (mostly small RNAs).
 
 ---
 
@@ -167,14 +172,11 @@ NCBI provides nearly double the amount of unique protein isoforms (43k vs 24k), 
 
 ---
 
-## Characterization of Nomenclature Discrepancies
+## Consistency of lncRNA Models
 
-<img src="./images/rn8annot/z05_nomenclature_comparison.png" width=70%>
+#### only 4 lncRNA genes have exact locations
 
-Note:
-Conflict analysis for the 22k genes linkable via persistent IDs.
-Nomenclature agreement is high (95%) for shared, well-characterized genes.
-The 25k unique NCBI symbols from earlier are largely excluded here because they lack cross-database ID links (mostly small RNAs).
+<img src="./images/rn8annot/z02_lncrna_consistency_transcript.png" width=60%>
 
 ---
 
@@ -209,16 +211,22 @@ These represent the most significant discrepancies in the rat genome—disputed 
 
 ---
 
-## Final Recommendation: Use NCBI RefSeq
+## Summary
 
-| Feature                  | NCBI (RefSeq)   | Ensembl (v115) |
-| :----------------------- | :-------------- | :------------- |
-| **Protein-Coding Genes** | **23,154**      | 22,016         |
-| **Isoform Density**      | **3.8** (mean)  | 2.0 (mean)     |
-| **Transcripts per Gene** | **3.02** (mean) | 2.20 (mean)    |
-| **Unique UTR Locs**      | **129,096**     | 87,012         |
-| **Orphan PC Genes**      | **1,250**       | 419            |
+| Feature                     | NCBI (RefSeq)   | Ensembl (v115) |
+| :-------------------------- | :-------------- | :------------- |
+| **Protein-Coding Genes**    | **23,154**      | 22,016         |
+| **Isoform Density**         | **3.8** (mean)  | 2.0 (mean)     |
+| **Transcripts per Gene**    | **3.02** (mean) | 2.20 (mean)    |
+| **Orphan PC Genes**         | **1,250**       | 419            |
+| **Unique UTR Locs**         | **129,096**     | 87,012         |
+| **lncRNA Transcripts**      | 21,024          | **39,234**     |
+| **Unique Non-Coding Exons** | 59,602          | **110,104**    |
 
-#### _Use Ensembl primarily for regulatory UTR extraction or clinical VEP pipelines._
+---
 
-Note: Based on all metrics—isoform depth, structural completeness, and gene catalog size—NCBI RefSeq provides a more biologically representative and comprehensive model of the rat transcriptome.
+## Which one to use?
+
+- **For Protein-Coding Studies:** **NCBI RefSeq** is the superior choice. It provides 67% more mRNA transcripts and captures a much denser alternative splicing landscape for protein-coding genes.
+- **For RNA Biology & lncRNA:** **Ensembl** is preferred. It identifies nearly double the number of lncRNA transcripts and maintains a much larger catalog of unique non-coding exon locations (~110k vs ~60k).
+- **For Structural Completeness:** NCBI models generally feature longer UTRs and more complex internal splicing, whereas Ensembl often uses algorithmic placeholders for UTRs (e.g., exactly 1,001 bp).
