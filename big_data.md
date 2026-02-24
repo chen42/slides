@@ -46,12 +46,13 @@ Feb 24th 2026
 ## What is big data
 
 - Big data
-  _ Volume
-  _ Boeing 737 generates 240 terabytes of flight data during a single flight
-  _ Velocity
-  _ sensors can have millisecond resolutions, [800Gbps or petabits per seconds](https://www.bbc.com/news/articles/clkkllxm4jzo)
-  _ Variety
-  _ geospatial, audio, video \* High Dimension !!
+
+  - Volume
+    - Boeing 737 generates 240 terabytes of flight data during a single flight
+  - Velocity
+    - sensors can have millisecond resolutions, [800Gbps or petabits per seconds](https://www.bbc.com/news/articles/clkkllxm4jzo)
+  - Variety
+    - geospatial, audio, video \* High Dimension !!
 
 - Major difference between "Big" data and "small" data
   - analysis methods
@@ -227,7 +228,7 @@ print(P)
 
 ## Linear regresssion by iterative updates [R code](https://www.r-bloggers.com/linear-regression-by-gradient-descent/)
 
-![](./images/deep_learning/gradient_descent_for_linear_regression.gif)
+<img src="./images/deep_learning/gradient_descent_for_linear_regression.gif" width=60%>
 
 <pre> <code>
 ## theta is the parameter, alpha is learning rate
@@ -355,6 +356,10 @@ print(p)
 
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lwfg2t9nXcI?si=nBHdVSVOpq3U_sCK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 ## Can deep neural networks be used on genetics data?
 
 <img src="./images/deep_learning/gwas.jpg" width=70%>
@@ -405,9 +410,9 @@ print("%s: %.2f%%" % (model.metrics_names[1], scores[1]*100))
 ## Large lanugage models
 
 - [chatGPT | OpenAI](http://chat.openai.com)
-- [Sonet , Opus | Claude](http://claude.ai)
+- [Sonnet , Opus | Claude](http://claude.ai)
 - [Gemini | Google](https://gemini.google.com)
-- [open LLMs](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)
+- [open LLMs](https://huggingface.co/models)
 
 ---
 
@@ -443,7 +448,7 @@ print("%s: %.2f%%" % (model.metrics_names[1], scores[1]*100))
 
 ---
 
-## Agents and beyong
+## Agents and beyond
 
 - [https://openclaw.ai/](https://openclaw.ai/)
 - [https://www.moltbook.com/](https://www.moltbook.com/)
