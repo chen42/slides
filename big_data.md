@@ -46,7 +46,6 @@ Feb 24th 2026
 ## What is big data
 
 - Big data
-
   - Volume
     - Boeing 737 generates 240 terabytes of flight data during a single flight
   - Velocity
@@ -86,7 +85,6 @@ Feb 24th 2026
 ## Two major types of machine learning
 
 - Unsupervised
-
   - The data has no label
   - The label of the data are not used
 
@@ -453,6 +451,7 @@ print("%s: %.2f%%" % (model.metrics_names[1], scores[1]*100))
 - [https://openclaw.ai/](https://openclaw.ai/)
 - [https://www.moltbook.com/](https://www.moltbook.com/)
 - [https://rentahuman.ai/](https://rentahuman.ai/)
+- [What happens when the work by an agent was rejected by a human](https://crabby-rathbun.github.io/mjrathbun-website/blog/posts/2026-02-11-gatekeeping-in-open-source-the-scott-shambaugh-story.html)
 
 ---
 
