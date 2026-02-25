@@ -54,9 +54,19 @@ All figures are linked to the original papers
 
 ## Four types of NR
 
+<table> <tr><td width=50%>
 <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6159888/">
-<img src="./images/nr/nr_four_types.png" width=60%>`
+
+<img src="./images/nr/nr_four_types.png" width=80%>`
 </a>
+
+</td><td width=50%>
+
+<a href ="https://pmc.ncbi.nlm.nih.gov/articles/PMC6201731/#pro3496-sec-0003">
+
+<img src="./images/nr/PRO-27-1876-g001.jpg" width=100%>
+</a>
+        </td></tr></table>
 
 ---
 
@@ -78,7 +88,8 @@ All figures are linked to the original papers
 
 ## NR mechanism of action
 
-<a href="https://onlinelibrary.wiley.com/doi/full/10.1002/pro.3496">
+<a href ="https://pmc.ncbi.nlm.nih.gov/articles/PMC6201731/#pro3496-sec-0009">
+
 <img src="./images/nr/PRO-27-1876-g008.jpg" width=60%>
 </a>
 
@@ -109,9 +120,20 @@ All figures are linked to the original papers
 
 ## Coactivator and corepressor complexes and histone acetylation
 
+<table> <tr><td width=50%>
+
 <a href="https://journals.physiology.org/doi/full/10.1152/physrev.2001.81.3.1269?rfr_dat=cr_pub++0pubmed&url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org">
-<img src="https://journals.physiology.org/cms/10.1152/physrev.2001.81.3.1269/asset/images/large/9j0310150009.jpeg">
+<img src="./images/nr/images_large_9j0310150009.jpeg">
+
 </a>
+
+ </td><td width=50%>
+
+<a href="https://onlinelibrary.wiley.com/doi/full/10.1002/pro.3496">
+<img src="./images/nr/PRO-27-1876-g009.jpg" width=100%>
+
+</a>
+</td></tr></table>
 
 ---
 
