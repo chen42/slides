@@ -56,7 +56,6 @@ All figures are linked to the original papers
 
 <table> <tr><td width=50%>
 <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6159888/">
-
 <img src="./images/nr/nr_four_types.png" width=80%>`
 </a>
 
@@ -72,26 +71,56 @@ All figures are linked to the original papers
 
 ## RXR
 
-<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4097889/">
-<img src="https://cdn.ncbi.nlm.nih.gov/pmc/blobs/2eef/4097889/79c8a6ca5828/nihms341742f2.jpg" width=60%> </a>
+<table> <tr><td width=50%>
+
+<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4097889/#S10">
+
+<img src="https://cdn.ncbi.nlm.nih.gov/pmc/blobs/2eef/4097889/79c8a6ca5828/nihms341742f2.jpg" width=80%> </a>
+
+</td><td width=50%>
+
+<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4097889/#S56">
+<img src="./images/nr/nihms341742f6.jpg" width=100%>
+</td></tr></table>
 
 ---
 
 ## DNA binding properties of NR
 
+<table> <tr><td width=50%>
 <a href="https://academic.oup.com/biolreprod/article/83/1/3/2530060?login=false">
 
-<img src="./images/nr/nr_dna_binding.png" width = 60%>
+<img src="./images/nr/nr_dna_binding.png" width = 90%>
 </a>
+
+</td><td width=50%>
+<a href ="https://pmc.ncbi.nlm.nih.gov/articles/PMC6201731/#pro3496-sec-0009">
+
+<img src="./images/nr/PRO-27-1876-g008.jpg" width=100%>
+</a>
+
+## </td></tr></table>
 
 ---
 
 ## NR mechanism of action
 
-<a href ="https://pmc.ncbi.nlm.nih.gov/articles/PMC6201731/#pro3496-sec-0009">
+#### Coactivator and corepressor complexes and histone acetylation
 
-<img src="./images/nr/PRO-27-1876-g008.jpg" width=60%>
+<table> <tr><td width=50%>
+
+<a href="https://journals.physiology.org/doi/full/10.1152/physrev.2001.81.3.1269?rfr_dat=cr_pub++0pubmed&url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org">
+<img src="./images/nr/images_large_9j0310150009.jpeg">
+
 </a>
+
+ </td><td width=50%>
+
+<a href="https://onlinelibrary.wiley.com/doi/full/10.1002/pro.3496">
+<img src="./images/nr/PRO-27-1876-g009.jpg" width=100%>
+
+</a>
+</td></tr></table>
 
 ---
 
@@ -115,25 +144,6 @@ All figures are linked to the original papers
 <a href="https://pubmed.ncbi.nlm.nih.gov/8521508/">
 <img src="images/nr/rxr_steps.png">
 </a>
-
----
-
-## Coactivator and corepressor complexes and histone acetylation
-
-<table> <tr><td width=50%>
-
-<a href="https://journals.physiology.org/doi/full/10.1152/physrev.2001.81.3.1269?rfr_dat=cr_pub++0pubmed&url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org">
-<img src="./images/nr/images_large_9j0310150009.jpeg">
-
-</a>
-
- </td><td width=50%>
-
-<a href="https://onlinelibrary.wiley.com/doi/full/10.1002/pro.3496">
-<img src="./images/nr/PRO-27-1876-g009.jpg" width=100%>
-
-</a>
-</td></tr></table>
 
 ---
 
