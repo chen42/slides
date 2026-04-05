@@ -47,7 +47,12 @@
 
 ## Bayesian Network Webserver
 
-<img src="./images/fgf12/fgf12_oprm1_morphine_locomotion_bayesian_network_settings.png" width=70%>
+<img src="./images/fgf12/fgf12_oprm1_morphine_locomotion_bayesian_network_settings.png" width=60%>
+
+<div style="text-align: left;">
+  <hr style="border: 0; height: 2px; background-color: orange; width: 20%; margin-left: 0;">
+  <span id="cite" style="display: block;"> Y Cui, et al., UTHSC </span>
+</div>
 
 ---
 
@@ -102,6 +107,11 @@
 ## GeneCup Literature Mining
 
 <img src="images/fgf12/genecup_graph.svg" width=60%>
+
+<div style="text-align: left;">
+  <hr style="border: 0; height: 2px; background-color: orange; width: 20%; margin-left: 0;">
+  <span id="cite" style="display: block;"> P Prins, et al., UTHSC </span>
+</div>
 
 ---
 
@@ -163,4 +173,10 @@ Based on the provided information, MAP3K5 is a plausible candidate gene. It poss
 
 ## Acknowledgment
 
-### Paige M Lemen, Yanning Zuo, Alexander S Hatoum, Price E Dickson, Guy Mittleman, Arpana Agrawal, Benjamin C Reiner, Wade Berrettini, David G Ashbrook, Mustafa Hakan Gunturkun, Xusheng Wang, Megan K Mulligan, Caleb J Browne, Eric J Nestler, Francesca Telese
+<font size =-3>
+
+## Paige M Lemen, Yanning Zuo, Alexander S Hatoum, Price E Dickson, Guy Mittleman, Arpana Agrawal, Benjamin C Reiner, Wade Berrettini, David G Ashbrook, Mustafa Hakan Gunturkun, Xusheng Wang, Megan K Mulligan, Caleb J Browne, Eric J Nestler, Francesca Telese
+
+### University of Tennessee Health Science Center, Memphis; University of California San Diego, San Diego; Washington University in St. Louis, St Louis; Marshall University, Huntington; Ball State University, Muncie; University of Pennsylvania, Philadelphia; Nash Family Department of Neuroscience and Friedman Brain Institute, Icahn School of Medicine at Mount Sinai, New York
+
+</font>
