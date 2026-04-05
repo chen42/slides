@@ -16,6 +16,26 @@
 
 ---
 
+## Using Bayesian Networks to Infer Causal Architecture
+
+- The Bayesian Network Webserver
+  - Identifies **directed, causal relationships** in multi-omic and behavioral datasets.
+- Step 1: Local Scoring:
+  - For every potential parent-child pair, calculates a local score based on the conditional probability P(B|A).
+  - Uses Conditional Gaussian Distributions to allow discrete variables (e.g., Genotypes) to be the parents of continuous traits (e.g., Gene Expression).
+- Step 2: Global Optimization:
+  - Assembles these local "parent-child" blocks into the single most probable global map of the entire system.
+- Integrates prior knowledge by enforcing biological flow
+  - e.g., QTLs -> Transcripts -> Phenotypes.
+
+---
+
+## Bayesian Network Webserver
+
+<img src="./images/fgf12/fgf12_oprm1_morphine_locomotion_bayesian_network_settings.png" width=70%>
+
+---
+
 ## Bayesian Network Analysis for Causality
 
 <img src="images/fgf12/BNW_network_inkscape_fixed.png" width=70%>
@@ -23,6 +43,10 @@
 ---
 
 ## Signals in Human Genetics Studies
+
+<a href="https://www.ebi.ac.uk/gwas/genes/OPRM1">
+<img src="./images/fgf12/oprm1_fgf12_gwas.png" width=70%>
+</a>
 
 ---
 
