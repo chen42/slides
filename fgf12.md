@@ -2,17 +2,32 @@
 
 <img src="images/fgf12/snRNAseq_Umap_msn.png" width=70%>
 
+<div style="text-align: left;">
+  <hr style="border: 0; height: 2px; background-color: orange; width: 20%; margin-left: 0;">
+  <span id="cite" style="display: block;"> Y Zuo and F Telese, UCSD </span>
+</div>
+
 ---
 
-## snRNA-seq of NAc
+## Cell-type Specific Expression of Oprm1 and Fgf12 in NAc
 
 <img src="images/fgf12/snRNAseq_violion.png" width=70%>
 
+<div style="text-align: left;">
+  <hr style="border: 0; height: 2px; background-color: orange; width: 20%; margin-left: 0;">
+  <span id="cite" style="display: block;"> Y Zuo and F Telese, UCSD </span>
+</div>
+
 ---
 
-## snRNA-seq of NAc
+## Cell-type Specific Correlation Between Oprm1 and Fgf12
 
 <img src="images/fgf12/snRNAseq_correlation.png" width=70%>
+
+<div style="text-align: left;">
+  <hr style="border: 0; height: 2px; background-color: orange; width: 20%; margin-left: 0;">
+  <span id="cite" style="display: block;"> Y Zuo and F Telese, UCSD </span>
+</div>
 
 ---
 
@@ -42,7 +57,7 @@
 
 ---
 
-## Signals in Human Genetics Studies
+## OPRM1 and FGF12 in Human Genetics Studies
 
 <a href="https://www.ebi.ac.uk/gwas/genes/OPRM1">
 <img src="./images/fgf12/oprm1_fgf12_gwas.png" width=70%>
@@ -50,13 +65,35 @@
 
 ---
 
-## Naloxone responses
+## Enrichment of OPRM1 and FGF12 Associated Genenework
+
+- Generating correlation networks
+  - Obtain top 500 genes correlated to ORPM1 or FGF12 from GTEx v8 from 8 related tissues
+  - Find genes shared between OPRM1 and FGF12 within each tissue
+  - Find genes shared between more than 3 tissues.
+  - Use MAGMA to conduct enrichment analysis.
+
+| VARIABLE              | NGENES | BETA    | BETA_STD | SE    | P     |
+| --------------------- | ------ | ------- | -------- | ----- | ----- |
+| OUD                   |        |         |          |       |       |
+| Network               | 68     | 0.00197 | 0.00012  | 0.113 | 0.493 |
+| Addiction Risk Factor |        |         |          |       |       |
+| Network               | 68     | 0.21938 | 0.01348  | 0.124 | 0.039 |
+
+<div style="text-align: left;">
+  <hr style="border: 0; height: 2px; background-color: orange; width: 20%; margin-left: 0;">
+  <span id="cite" style="display: block;">A Hatoum, Wash U</span>
+</div>
+
+---
+
+## Naloxone Responses
 
 <img src="images/fgf12/fig6_naloxone.png" width=70%>
 
 ---
 
-## Many other loci
+## Many Other Loci
 
 <img src="images/fgf12/list_of_loci.png" width=70%>
 
@@ -106,8 +143,24 @@ Based on the provided information, MAP3K5 is a plausible candidate gene. It poss
 
 ## Summary
 
+<font size =-4>
+
+- Morphine-induced locomotion is governed by a dynamic timeline where _Oprm1_ (Chr 10) dominates the early phase, while the novel _Fgf12_ (Chr 16) locus controls the late phase.
+
+- A significant but transient gene-gene interaction between _Oprm1_ and _Fgf12_ occurs specifically between 45–90 minutes post-injection, representing a rare demonstration of time-dependent epistasis in mammals.
+
+- Single-nucleus RNA sequencing identified the D1-MSN-3 neuronal subtype in the Nucleus Accumbens as the likely site of this interaction, where both genes are co-expressed and positively correlated.
+
+- Bayesian modeling suggests the interaction is mediated through a MAP kinase network, specifically identifying Map3k11 as a potential molecular bridge between opioid receptor signaling and Fgf12.
+
+- Human GWAS data corroborates the importance of the _FGF12_ locus in substance use disorders, suggesting _Fgf12_ and its interaction with sodium channels as a novel therapeutic target for OUD.
+
+- This work highlights how FAIR data reanalysis and the merging of human and animal neurogenomic data can facilitate bidirectional translational validation to uncover novel disease variants and molecular networks.
+
+</font>
+
 ---
 
 ## Acknowledgment
 
-#### Paige M Lemen, Yanning Zuo, Alexander S Hatoum, Price E Dickson, Guy Mittleman, Arpana Agrawal, Benjamin C Reiner, Wade Berrettini, David G Ashbrook, Mustafa Hakan Gunturkun, Xusheng Wang, Megan K Mulligan, Caleb J Browne, Eric J Nestler, Francesca Telese
+### Paige M Lemen, Yanning Zuo, Alexander S Hatoum, Price E Dickson, Guy Mittleman, Arpana Agrawal, Benjamin C Reiner, Wade Berrettini, David G Ashbrook, Mustafa Hakan Gunturkun, Xusheng Wang, Megan K Mulligan, Caleb J Browne, Eric J Nestler, Francesca Telese
