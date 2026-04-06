@@ -66,17 +66,6 @@
 
 ---
 
-## Proteomic Data
-
-<img src="./images/fgf12/protein_fgf12_oprm1.png" width=60%>
-
-<div style="text-align: left;">
-  <hr style="border: 0; height: 2px; background-color: orange; width: 20%; margin-left: 0;">
-  <span id="cite" style="display: block;"> X Wang, UTHSC </span>
-</div>
-
----
-
 ## OPRM1 and FGF12 in Human Genetics Studies
 
 <a href="https://www.ebi.ac.uk/gwas/genes/OPRM1">
@@ -200,3 +189,16 @@ Evaluation of
 ### University of Tennessee Health Science Center, Memphis; University of California San Diego, San Diego; Washington University in St. Louis, St Louis; Marshall University, Huntington; Ball State University, Muncie; University of Pennsylvania, Philadelphia; Nash Family Department of Neuroscience and Friedman Brain Institute, Icahn School of Medicine at Mount Sinai, New York
 
 </font>
+
+---
+
+## Proteomic Data
+
+<img src="./images/fgf12/protein_fgf12_oprm1.png" width=60%>
+
+<div style="text-align: left;">
+  <hr style="border: 0; height: 2px; background-color: orange; width: 20%; margin-left: 0;">
+  <span id="cite" style="display: block;"> X Wang, UTHSC </span>
+</div>
+
+---
