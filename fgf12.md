@@ -117,7 +117,7 @@
 
 ---
 
-## Many Other Loci
+## Many More Loci!
 
 <img src="images/fgf12/list_of_loci.png" width=70%>
 
