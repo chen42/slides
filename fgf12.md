@@ -43,7 +43,7 @@
 - Step 2: Global Optimization:
   - Assembles these local "parent-child" blocks into the single most probable global map of the entire system
 - Integrates prior knowledge by enforcing biological flow
-  - e.g., QTLs -> Transcripts -> Phenotypes
+  - e.g., Genotype -> Transcripts -> Phenotypes
 
 </font>
 

@@ -46,7 +46,7 @@ var markdownContent = ''
 + "- Step 2: Global Optimization:\n"
 + "  - Assembles these local \"parent-child\" blocks into the single most probable global map of the entire system\n"
 + "- Integrates prior knowledge by enforcing biological flow\n"
-+ "  - e.g., QTLs -> Transcripts -> Phenotypes\n"
++ "  - e.g., Genotype -> Transcripts -> Phenotypes\n"
 + "\n"
 + "</font>\n"
 + "\n"
