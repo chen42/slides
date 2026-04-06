@@ -33,15 +33,19 @@
 
 ## Using Bayesian Networks to Infer Causal Architecture
 
+<font size =-1>
+
 - The Bayesian Network Webserver
-  - Identifies **directed, causal relationships** in multi-omic and behavioral datasets.
+  - Identifies **directed, causal relationships** in genetic, multi-omic and behavioral datasets
 - Step 1: Local Scoring:
-  - For every potential parent-child pair, calculates a local score based on the conditional probability P(B|A).
-  - Uses Conditional Gaussian Distributions to allow discrete variables (e.g., Genotypes) to be the parents of continuous traits (e.g., Gene Expression).
+  - For every potential parent-child pair, calculates a local score based on the conditional probability P(B|A)
+  - Uses Conditional Gaussian Distributions to allow discrete variables (e.g., Genotypes) to be the parents of continuous traits (e.g., Gene Expression)
 - Step 2: Global Optimization:
-  - Assembles these local "parent-child" blocks into the single most probable global map of the entire system.
+  - Assembles these local "parent-child" blocks into the single most probable global map of the entire system
 - Integrates prior knowledge by enforcing biological flow
-  - e.g., QTLs -> Transcripts -> Phenotypes.
+  - e.g., QTLs -> Transcripts -> Phenotypes
+
+</font>
 
 ---
 
@@ -62,6 +66,17 @@
 
 ---
 
+## Proteomic Data
+
+<img src="./images/fgf12/protein_fgf12_oprm1.png" width=60%>
+
+<div style="text-align: left;">
+  <hr style="border: 0; height: 2px; background-color: orange; width: 20%; margin-left: 0;">
+  <span id="cite" style="display: block;"> X Wang, UTHSC </span>
+</div>
+
+---
+
 ## OPRM1 and FGF12 in Human Genetics Studies
 
 <a href="https://www.ebi.ac.uk/gwas/genes/OPRM1">
@@ -72,11 +87,15 @@
 
 ## Enrichment of OPRM1 and FGF12 Associated Genenework
 
+<font size=-2>
+
 - Generating correlation networks
   - Obtain top 500 genes correlated to ORPM1 or FGF12 from GTEx v8 from 8 related tissues
   - Find genes shared between OPRM1 and FGF12 within each tissue
   - Find genes shared between more than 3 tissues.
   - Use MAGMA to conduct enrichment analysis.
+
+</font>
 
 | VARIABLE              | NGENES | BETA    | BETA_STD | SE    | P     |
 | --------------------- | ------ | ------- | -------- | ----- | ----- |
@@ -106,7 +125,10 @@
 
 ## GeneCup Literature Mining
 
+<a href="https://genecup2.genenetwork.org/cytoscape/?rnd=tmpvWtwVP&genequery=Adora1_Rgs7_Sema3d_Epha5_Slc6a1_Tenm4_Oprm1_Ywhaq_Ppm1a_Rps6ka5_Slc7a7_Slc7a8" target=_new>
+
 <img src="images/fgf12/genecup_graph.svg" width=60%>
+    </a>
 
 <div style="text-align: left;">
   <hr style="border: 0; height: 2px; background-color: orange; width: 20%; margin-left: 0;">
@@ -117,7 +139,8 @@
 
 ## Structured LLM Literature Summary
 
-Scientific Evaluation of MAP3K5 as a Causal Gene for Morphine-Induced Locomotion in Mice.
+Evaluation of
+<a href="https://genecup2.genenetwork.org/synonyms?node=Rgs7&rnd=" target=_new> Rgs7 </a> as a Causal Gene for Morphine-Induced Locomotion in Mice.
 
 - A. Term Disambiguation
 
@@ -141,13 +164,17 @@ Scientific Evaluation of MAP3K5 as a Causal Gene for Morphine-Induced Locomotion
 
   - Final Judgment:
 
-Based on the provided information, MAP3K5 is a plausible candidate gene. It possesses the necessary regional expression and general signaling machinery to influence behavioral traits. However, it cannot be classified as a "strong" candidate without specific functional validation (e.g., knockout or knockdown studies) directly targeting morphine-induced locomotor phenotypes in mice.
+- Results
+  - <a href="https://gemini.google.com/share/55a1a9faa9d5" target=_new> Gemini </a>
+  - <a href="https://claude.ai/share/6fe1fa08-3c21-4fc0-b736-70b44fa2318b" target=_new> Claude </a>
 
 ---
 
 ## Assisted Manual Validation of Citations
 
+<a href=" https://chen42.github.io/SourceCery/ " target=\_new >
 <img src="images/fgf12/sourcery.png" width=70%>
+</a>
 
 ---
 
