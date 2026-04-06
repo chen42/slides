@@ -6,6 +6,10 @@ hchen@uthsc.edu
 
 2026-04-07
 
+## https://chen42.github.io/slides/pns.html
+
+<a href="https://notebooklm.google.com/notebook/b7d15719-87a0-4fa0-bf2e-7b67427955fb?authuser=1" target=_blank> Notebook LM</a>
+
 ---
 
 ## Outline
@@ -38,7 +42,7 @@ hchen@uthsc.edu
 ## Nicotinic receptor subtypes
 
 <div id="left50">
-<a href="https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2020.609005/full">
+<a href="https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2020.609005/full" target=_blank>
 <img src="https://images-provider.frontiersin.org/api/ipx/f=webp/https://www.frontiersin.org/files/Articles/609005/xml-images/fnins-14-609005-g001.webp">
 </a>
 </div>
@@ -100,7 +104,7 @@ The physiology of neurons measuring many meters or tens of meters is difficult t
 
 <div id="left50">
 <center>
-<a href="https://www.chop.edu/conditions-diseases/myasthenia-gravis">
+<a href="https://www.chop.edu/conditions-diseases/myasthenia-gravis" target=_blank>
 
 <img src="https://www.chop.edu/sites/default/files/styles/original_320x_2x/public/ocular-myasthenia-gravis-illustration-3x4.webp?itok=G5oub5JQ">
 
