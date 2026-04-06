@@ -113,7 +113,7 @@
 
 ## Naloxone Responses
 
-<img src="images/fgf12/fig6_naloxone.png" width=70%>
+<img src="images/fgf12/fig6_naloxone.png" width=60%>
 
 ---
 
@@ -142,31 +142,24 @@
 Evaluation of
 <a href="https://genecup2.genenetwork.org/synonyms?node=Rgs7&rnd=" target=_new> Rgs7 </a> as a Causal Gene for Morphine-Induced Locomotion in Mice.
 
+<font size=-1>
+
 - A. Term Disambiguation
-
 - B. Synthesis of Function and Experimental Context
-
 - C. Critical Evaluation of Causal Gene Plausibility
-
   - 1. Assessment of Functional Plausibility
-
   - 2. Assessment of Tissue/Cell Type Relevance
-
   - 3. Assessment of Pathway and Network Involvement
-
   - 4. Assessment of Existing Disease/Trait Associations
-
 - D. Balanced Concluding Assessment
-
   - Supporting Evidence:
-
   - Limitations and Gaps:
-
   - Final Judgment:
-
 - Results
   - <a href="https://gemini.google.com/share/55a1a9faa9d5" target=_new> Gemini </a>
   - <a href="https://claude.ai/share/6fe1fa08-3c21-4fc0-b736-70b44fa2318b" target=_new> Claude </a>
+
+</font>
 
 ---
 
