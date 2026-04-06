@@ -79,7 +79,7 @@
 <font size=-2>
 
 - Generating correlation networks
-  - Obtain top 500 genes correlated to ORPM1 or FGF12 from GTEx v8 from 8 related tissues
+  - Obtain top 500 genes correlated to OPRM1 or FGF12 from GTEx v8 from 8 related tissues
   - Find genes shared between OPRM1 and FGF12 within each tissue
   - Find genes shared between more than 3 tissues.
   - Use MAGMA to conduct enrichment analysis.

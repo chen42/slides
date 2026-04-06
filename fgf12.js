@@ -82,7 +82,7 @@ var markdownContent = ''
 + "<font size=-2>\n"
 + "\n"
 + "- Generating correlation networks\n"
-+ "  - Obtain top 500 genes correlated to ORPM1 or FGF12 from GTEx v8 from 8 related tissues\n"
++ "  - Obtain top 500 genes correlated to OPRM1 or FGF12 from GTEx v8 from 8 related tissues\n"
 + "  - Find genes shared between OPRM1 and FGF12 within each tissue\n"
 + "  - Find genes shared between more than 3 tissues.\n"
 + "  - Use MAGMA to conduct enrichment analysis.\n"
