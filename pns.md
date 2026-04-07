@@ -165,13 +165,6 @@ Historical achievements
 
 ---
 
-## Muscle contraction
-
-<a href="https://reactome.org/content/detail/R-HSA-397014">
-<img src="https://reactome.org/download/current/ehld/R-HSA-397014.svg?title=false" width=50%> </a>
-
----
-
 ## Myasthenia Gravis etiology
 
 <a href="https://www.nature.com/articles/s41572-019-0079-y">
@@ -234,6 +227,7 @@ Note: Antibody responses to protein antigens require antigen-specific T-cell hel
 
 </a>
 </div>
+
 ---
 
 ## Myasthenia Gravis pharmacological intervention
