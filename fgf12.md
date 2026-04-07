@@ -108,7 +108,7 @@
 
 ## Many More Loci!
 
-<img src="images/fgf12/list_of_loci.png" width=70%>
+<img src="images/fgf12/list_of_loci.png" width=80%>
 
 ---
 

@@ -23,13 +23,24 @@ hchen@uthsc.edu
 
 ## The peripheral nervous system
 
+<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5005185/">
+
 ![](https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fnrgastro.2016.107/MediaObjects/41575_2016_Article_BFnrgastro2016107_Fig1_HTML.jpg?as=webp)
+
+</a>
 
 ---
 
 ## The peripheral nervous system
 
-![](https://accessmedicine.mhmedical.com/data/books/1193/m_kat_ch6_f001.png)
+<a href="https://en.wikipedia.org/wiki/Peripheral_nervous_system">
+
+<img src="https://accessmedicine.mhmedical.com/data/books/1193/m_kat_ch6_f001.png">
+
+</a>
+
+Note:
+Note the difference btw standard text book vs wikipedia on PNS
 
 ---
 
@@ -45,6 +56,17 @@ hchen@uthsc.edu
 <a href="https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2020.609005/full" target=_blank>
 <img src="https://images-provider.frontiersin.org/api/ipx/f=webp/https://www.frontiersin.org/files/Articles/609005/xml-images/fnins-14-609005-g001.webp">
 </a>
+<center>
+<b> AlphaFold </b>
+
+<a href = "https://alphafold.ebi.ac.uk/entry/A0A1W2PN81" target=\_new>Human chrna7</a>
+
+<a href="https://www.nobelprize.org/prizes/chemistry/2024/hassabis/facts/">
+<img src="https://www.nobelprize.org/images/165765-portrait-medium.jpg" width=20%>
+</a>
+
+</center>
+
 </div>
 
 <div id="right50">
@@ -61,9 +83,6 @@ Early studies of nAChR subtypes expressed on autonomic neurons showed a great di
 It has been suggested that the expression of α9α10 nAChRs may be a universal feature of all DRG neurons (Lips et al., 2002). Recent studies indicate that antagonists of α9-containing nAChRs are analgesic in animal models of neuropathic pain. [Br J Pharmacol . 2018 Jun;175(11):1915-1927.](https://pubmed.ncbi.nlm.nih.gov/28662295/)
 
 <hr>
-<b> AlphaFold </b>
-
-<a href = "https://alphafold.ebi.ac.uk/entry/A0A1W2PN81" target=\_new>Human chrna7</a>
 
 </div>
 
@@ -83,7 +102,7 @@ Having fun going down rabbit holes!
 
 <a href="https://bioone.org/journals/acta-palaeontologica-polonica/volume-57/issue-2/app.2011.0019/A-Monument-of-Inefficiency--The-Presumed-Course-of-the/10.4202/app.2011.0019.full">
 
-![](https://bioone.org/ContentImages/Journals/acpp/57/2/app.2011.0019/graphic/WebImages/f01_251.jpg)
+<img src="https://bioone.org/ContentImages/Journals/acpp/57/2/app.2011.0019/graphic/WebImages/f01_251.jpg">
 
 </a>
 
@@ -234,7 +253,7 @@ b | Treatment of acute exacerbations of MG.
 
 The individualized combination of symptomatic drugs, immunosuppressive drugs, thymectomy and supportive therapy should lead to a very good outcome in patients with MG. The combination of prednisolone and azathioprine is recommended, but prednisolone alone or prednisolone combined with mycophenolate mofetil are alternative first-line immunosuppressive treatments.
 
-IVIg, intravenous immunoglobulin. [IVIg is prepared from Ig from >1000 healthy donors](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2536015/?page=4) [Mechanism of Action for IVIg](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2811867/)
+IVIg, intravenous immunoglobulin. [IVIg is prepared from Ig from >1000 healthy donors](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2536015/?page=4) [Mechanism of Action for IVIg](https://www.ncbi.nlm.nih.gov/books/NBK554446/)
 
 </div>
 
@@ -338,7 +357,7 @@ IVIg, intravenous immunoglobulin. [IVIg is prepared from Ig from >1000 healthy d
 ## hATTR
 
 <p align="left">
-hATTR amyloidosis is caused by an inherited gene mutations. There are 120 or more gene mutations known to be associated with hATTR amyloidosis. These mutations affect the function of a protein called transthyretin (TTR), a protein that is made primarily in the liver and carries substances such as vitamin A. hATTR is characterized by the buildup of abnormal deposits of protein fibers called amyloid in the body's organs and tissues, interfering with their normal functioning. These protein deposits most frequently occur in the peripheral nervous system, which can result in a loss of sensation, pain, or immobility in the arms, legs, hands and feet. Amyloid deposits can also affect the functioning of the heart, kidneys, eyes and gastrointestinal tract. Treatment options have generally focused on symptom management.
+Hereditary Transthyretin Amyloidosis (hATTR) is caused by an inherited gene mutations. There are 120 or more gene mutations known to be associated with hATTR amyloidosis. These mutations affect the function of a protein called transthyretin (TTR), a protein that is made primarily in the liver and carries substances such as vitamin A. hATTR is characterized by the buildup of abnormal deposits of protein fibers called amyloid in the body's organs and tissues, interfering with their normal functioning. These protein deposits most frequently occur in the peripheral nervous system, which can result in a loss of sensation, pain, or immobility in the arms, legs, hands and feet. Amyloid deposits can also affect the functioning of the heart, kidneys, eyes and gastrointestinal tract. Treatment options have generally focused on symptom management.
 
 </a>
 
@@ -493,8 +512,15 @@ Each of these three phenomena described above requires the presence of intact va
 - Protein, peptide, RNAi, gene therapy, epigenome modification?
 - Do pharmcological principles, such as PK/PD, still apply to these large or nano molecular therapeutics?
 
-<img src="https://media.nature.com/lw800/magazine-assets/d41586-020-02765-9/d41586-020-02765-9_18456700.jpg" width=40%>
+<table><tr><td width=50%>
+<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4975809/">
+<img src="https://uskudar.edu.tr/assets/uploads/sayfa/693/images/crispr-021.png" width=100%></a>
+</td><td>
+<img src="https://media.nature.com/lw800/magazine-assets/d41586-020-02765-9/d41586-020-02765-9_18456700.jpg" width=100%>
 
+</td></tr></table>
 Jennifer Doudna and Emmanuelle Charpentier <br> 2020 Nobel chemistry prize <br>for the discovery of a game-changing gene-editing technique
 
 [FDA approves first test of CRISPR to correct genetic defect causing sickle cell disease](https://news.berkeley.edu/2021/03/30/fda-approves-first-test-of-crispr-to-correct-genetic-defect-causing-sickle-cell-disease/)
+
+<a href="https://www.nejm.org/doi/full/10.1056/NEJMoa2510209">CRISPR based treatment of ATTR in clinical trials</a>

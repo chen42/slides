@@ -111,7 +111,7 @@ var markdownContent = ''
 + "\n"
 + "## Many More Loci!\n"
 + "\n"
-+ "<img src=\"images/fgf12/list_of_loci.png\" width=70%>\n"
++ "<img src=\"images/fgf12/list_of_loci.png\" width=80%>\n"
 + "\n"
 + "---\n"
 + "\n"
