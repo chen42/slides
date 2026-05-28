@@ -168,7 +168,6 @@
 - RFID tags for automated animal identification
 - 12:12h reversed light cycle; dark-phase testing
 - Reinforcement schedule
-
   - Fixed ratio 5: every 5th lick on active spout delivers 60 µL oxycodone + visual cue (LED flash)
   - 20-second timeout after each reward - Licks during timeout recorded but no drug delivered
 
@@ -188,7 +187,6 @@
 - Within-strain: genetically identical individuals (VE = environmental variance)
 - Between-strain: genetic differences (VA = additive genetic variance)
 - h² = VA / (VA + VE) directly estimable
-- Replicable across labs, paradigms, and time
 
 ---
 
@@ -251,7 +249,7 @@ Note:
 - Active licks: mean h² = 0.34
 - Rewards: mean h² = 0.39
 - Intake: mean h² = 0.46 (range 0.18-0.65)
-- Inactive licks: mean h² = 0.16 (near zero — confirms specificity)
+- Inactive licks: mean h² = 0.16
 - h² varies by sex and by behavioral stage
 - Substantial genetic contribution to vulnerability
 
@@ -261,6 +259,12 @@ Note:
 ---
 
 ## <font color="firebrick"> Augmenter vs. Non-Augmenter Strains </font>
+
+<img src="./images/quest/oxyren_alldata_sexdiff.png">
+
+---
+
+## Augmenter vs. Non-Augmenter Strains
 
 <div style="display: flex; align-items: center;">
 <div style="flex: 1;">
@@ -316,7 +320,6 @@ Note:
 ## Toward Objective Biomarkers for Early Detection of OUD Risk
 
 - Aim 1: Biomarker discovery
-
   - Augmenters vs. Non-augmenters after the last 4-h stage.
   - Brain reward regions
   - Blood
@@ -430,8 +433,7 @@ Note:
 
 ## Quantifying the Liking→Wanting Coupling
 
-- Female Augmenters: large consumption clusters → large seeking clusters
-- Male Augmenters: weaker but present coupling
+- Augmenters in both M and F: large consumption clusters → large seeking clusters
 - Non-Augmenters: no significant coupling
 - Heritability:
 
@@ -593,6 +595,12 @@ Found a great QTL, but there are 10 genes under the peak. Need to read all the l
 
 ---
 
+## GeneCup
+
+<img src="./images/fgf12/genecup_graph.svg" width=60%>
+
+---
+
 ## Hypothesis Prompt Structure
 
 <table> <tr> <td width="30%"> <img src="./images/ctc2025/2025-10-22-genecup-llm.png"></td><td>
@@ -600,7 +608,6 @@ Found a great QTL, but there are 10 genes under the peak. Need to read all the l
 - Research Context
 - Goal
 - Required Analysis:
-
   - A. Term Disambiguation
     - MADD = MAP kinase-activating death domain protein ? Mothers against drunk driving
   - B. Synthesis of Function and Experimental Context
@@ -625,16 +632,6 @@ Found a great QTL, but there are 10 genes under the peak. Need to read all the l
 
 ---
 
-## Example Uses of Language Models
-
-- Grant revision
-- Data visualization and analysis
-- Grant Ideas
-- Experimental protocol
-- Engineering projects
-
----
-
 ## Hypothesis Evaluation Results
 
 ### <a href="https://docs.google.com/document/d/1c46UYfp3DVfnEMBhSNb_QWXyWP7SQktOTq0QZZGAoPA/edit?usp=sharing"  target="_new"> Full report</a>
@@ -644,6 +641,16 @@ Reduced 99 pages of relevant sentences into 2.5 pages of structured summary, wit
 **Summary of Supporting Evidence:**
 
 The evidence supporting CACNA1C as a plausible causal gene for socially acquired nicotine intravenous self-administration is **substantial**. The strongest lines of evidence are: **1.** Its critical role in reward processing, learning, and memory, which are core components of addiction (PMID: 25290268, 28604818). **2.** Its expression and function in key brain regions of the reward pathway, such as the nucleus accumbens (PMID: 28165117). **3.** Its position as a hub gene in addiction-related molecular networks (PMID: 36744178, 36865068). **4**. Existing genetic associations with nicotine dependence and other substance use disorders in humans (PMID: 25555482, 36551763).
+
+---
+
+## Example Uses of Language Models
+
+- Grant revision
+- Data visualization and analysis
+- Grant ideas
+- Experimental protocol
+- Engineering projects
 
 ---
 
