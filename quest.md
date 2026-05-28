@@ -323,14 +323,14 @@ Note:
   - Augmenters vs. Non-augmenters after the last 4-h stage.
   - Brain reward regions
   - Blood
-  - Proteomics (Xusheng Wang, UTHSC Neurology)
-
+  - Proteomics
 - Aim 2: Validation in human subjects
-  - Karen Derefinko, Preventive Med, and The McNabb Center
 
 <hr>
 
 #### Funded by The State of Tennessee Opiate Abatement Fund (2026-2027)
+
+(Burt Sharp, GGI | Xusheng Wang, Neurology | Karen Derefinko, Preventive Med | Jennifer Tourville, UT SMART Initiative | The McNabb Center)
 
 ---
 
@@ -361,6 +361,12 @@ Note: cluster threshold is 0.5s
 <img src="./images/quest/Mean-SE-number-of-bursts-for-all-conditions-n-15-The-pause-criterion-is-indicated.png" width = 60%>
 
 <span id="cite"> Spector, et al, Behav Neurosci, 1998</span>
+
+---
+
+## Rat Licking on a Spout
+
+<iframe width="718" height="1276" src="https://www.youtube.com/embed/nGrPtfv10s0" title="Slow motion of rat licking on a spout" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
