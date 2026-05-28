@@ -437,10 +437,10 @@ Note:
 
 ---
 
-## Quantifying the Liking→Wanting Coupling
+## The Liking→Wanting Coupling
 
 - Augmenters in both M and F: large consumption clusters → large seeking clusters
-- Non-Augmenters: no significant coupling
+- Non-Augmenters: no significant correlation
 - Heritability:
 
 | Sex    | Phase       | 4-h  | 16-h |
