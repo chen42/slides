@@ -46,6 +46,8 @@ https://chen42.github.io/slides/behaut.html
 
 <a href="https://maker.pro/raspberry-pi/tutorial/how-to-get-started-with-your-first-raspberry-pi" ><img src="https://raspi.tv/wp-content/uploads/2018/03/Pi-Family-Photo-Master-Mar2018-1500-1-939x1024.jpg" width=50%, style="transform:rotate(270deg);"></a>
 
+<a href="https://www.raspberrypi.com/products/raspberry-pi-5/">RPI 5</a>
+
 ---
 
 ## Raspberry Pi 3B+
@@ -100,7 +102,7 @@ https://chen42.github.io/slides/behaut.html
 ## Sensors: Temperature
 
 <a href="https://raspberrypi.stackexchange.com/questions/48357/connecting-ds18b20-temperature-sensor-with-rj45-connector">
-<img src="https://i.stack.imgur.com/5EKzW.png" width=70%></a>
+<img src="./images/behaut/5EKzW.png" width=70%></a>
 
 ---
 
@@ -238,7 +240,19 @@ https://chen42.github.io/slides/behaut.html
 
 ---
 
-## Example 6. TailTimer (prototype)
+## Example 6: Video Recorder
+
+<img src="./images/behaut/rpi_camera_tripod.jpg" width=60%>
+
+---
+
+## Example 7: Zelfish
+
+<img src="./images/behaut/zelfish.png" width=60%>
+
+---
+
+## Example 8. TailTimer
 
 <a href="https://github.com/chen42/openbehavior/tree/master/RFID">
 <img src="./images/behaut/rpi_tail_immersion.jpg" width=80%>
@@ -248,35 +262,21 @@ https://chen42.github.io/slides/behaut.html
 
 ---
 
-## Example 7. PeerPub
+## Example 9. PeerPub
 
 <img src="./images/behaut/PeerPub.jpg">
 
----
-
-## PeerPub Spout Holder
-
-<img src="./images/behaut/rfid_spout_door.jpg">
+<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11728851/"> PeerPub Paper</a>
 
 ---
 
-## PeerPub Syringe Pump
+## Example 10: HomeBrew
 
-<img src="./images/behaut/new_syringe_pump.jpg" width=60%>
+Tracking two rats independently during oral operant self-administration
 
----
-
-## Example 8: Video Recorder
-
-<img src="./images/behaut/rpi_camera_tripod.jpg" width=60%>
-
----
-
-## Example 9: HomeBrew
-
----
-
-## Example 10: Zelfish
+<a href="https://github.com/miraclezero/HomeBrew">
+<img src="./images/behaut/homebrew.png" width=100%>
+</a>
 
 ---
 
@@ -285,7 +285,6 @@ https://chen42.github.io/slides/behaut.html
 - Linux command line
   - <a href="https://chen42.github.io/slides/linux.html"> Hao's tutorial </a>
 - 3D design using openscad
-
   - <a href="https://www.makeuseof.com/tag/beginners-guide-openscad-programming-3d-printed-models/">Makeuseof.com tutorial</a>
   - <a href="http://edutechwiki.unige.ch/en/OpenScad_beginners_tutorial#Primitive_Solids"> EduTech Wiki</a>
   - <a href="https://www.youtube.com/playlist?list=PLDhWPyde5E_Rz7LghBXmnhhY9F8X7k503">Patrick Conner YouTube series</a>
@@ -293,3 +292,6 @@ https://chen42.github.io/slides/behaut.html
 - 3D design using FreeCAD
   - <a href="https://www.youtube.com/watch?v=sxnij3CkkdU">Youtube: FreeCAD for beginners</a>
   - <a href="https://wiki.freecadweb.org/Tutorials">Official Tutorials</a>
+
+- Replicable data analysis using AI agents
+  - <a href="https://wwww.github.com/chen42/beaver-data">Beaver Data</a>
