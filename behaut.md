@@ -25,17 +25,17 @@ https://chen42.github.io/slides/behaut.html
 ## Typical rodent behavior experiments
 
 - Only visual observation --> camera
-- Open field, plus maze, object interaction, social interaction
-- Video analysis
+  - Open field, plus maze, object interaction, social interaction
+  - Video analysis
 - Measure a specific reaction --> sensor
-- Tail immersion
-- Tremor
+  - Tail immersion
+  - Tremor
 - Operant conditioning --> sensor + motor
-- Lever pressing (switch)
-- Nose poking (RFID or IR)
-- Licking or touching (capatitive sensor)
+  - Lever pressing (switch)
+  - Nose poking (RFID or IR)
+  - Licking or touching (capatitive sensor)
 - Rodent identification
-- RFID system
+  - RFID system
 - What kind of behavior are you intersted in studing?
 
 ---
@@ -56,9 +56,29 @@ https://chen42.github.io/slides/behaut.html
 
 ---
 
+## Operating system for the RPi
+
+- Raspberry PI OS (previously Rasbian) is the official OS <a href="https://www.youtube.com/watch?v=RDAklos4F8k">YouTube Video</a>
+  - derived from Debian Linux
+  - command line interface (CLI)
+  - graphical user interface (GUI)
+- Why you should learn some Linux/Unix commands
+  - Mac OS (Terminal app)
+  - Windows subsystem for Linux (<a href="https://docs.microsoft.com/en-us/windows/wsl/install-win10">Installation guide</a>)
+  - Servers
+  - Supercomputer
+
+---
+
 ## GPIO (general purpose input-output)
 
 <img src="https://www.raspberrypi-spy.co.uk/wp-content/uploads/2012/06/Raspberry-Pi-GPIO-Layout-Model-B-Plus-rotated-2700x900.png">
+
+---
+
+## GPIO (general purpose input-output)
+
+<img src="./images/behaut/Raspberry-Pi-GPIO-Header-with-Photo.png" width=60%>
 
 - Ground (grey), 5V (pink), 3V(orange),
 - GPIO (either input or output, green)
@@ -66,20 +86,6 @@ https://chen42.github.io/slides/behaut.html
 - I2C (magenta)
 - serial (purple)
 - SPI (blue)
-
----
-
-## Operating system for the RPi
-
-- Raspberry PI OS (previously Rasbian) is the official OS <a href="https://www.youtube.com/watch?v=RDAklos4F8k">YouTube Video</a>
-- graphical user interface (GUI)
-- command line interface (CLI)
-- derived from Debian Linux
-- Why you should learn some Linux/Unix commands
-- Mac OS (Terminal app)
-- Windows subsystem for Linux (<a href="https://docs.microsoft.com/en-us/windows/wsl/install-win10">Installation guide</a>)
-- Servers
-- Supercomputer
 
 ---
 
@@ -111,6 +117,8 @@ https://chen42.github.io/slides/behaut.html
 <iframe width="780" height="560" src="https://www.youtube.com/embed/Wk76UPRAVxI?start=15" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <a href="https://www.forbes.com/profile/limor-fried/?list=top-tech-women-america#2077af9a4ecc">America's top 50 women in tech, 2018</a>
+
+<a href="https://www.adafruit.com/product/1982"> MPR121 Touch sensor (Adafruit) </a>
 
 ---
 
