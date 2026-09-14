@@ -72,12 +72,6 @@ https://chen42.github.io/slides/behaut.html
 
 ## GPIO (general purpose input-output)
 
-<img src="https://www.raspberrypi-spy.co.uk/wp-content/uploads/2012/06/Raspberry-Pi-GPIO-Layout-Model-B-Plus-rotated-2700x900.png">
-
----
-
-## GPIO (general purpose input-output)
-
 <img src="./images/behaut/Raspberry-Pi-GPIO-Header-with-Photo.png" width=60%>
 
 - Ground (grey), 5V (pink), 3V(orange),
