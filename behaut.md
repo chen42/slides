@@ -56,6 +56,19 @@ https://chen42.github.io/slides/behaut.html
 
 ---
 
+## GPIO (general purpose input-output)
+
+<img src="./images/behaut/Raspberry-Pi-GPIO-Header-with-Photo.png" width=60%>
+
+- Ground (grey), 5V (pink), 3V(orange),
+- GPIO (either input or output, green)
+- Special I/O protocols
+  - I2C (magenta)
+  - serial (purple)
+  - SPI (blue)
+
+---
+
 ## Operating system for the RPi
 
 - Raspberry PI OS (previously Rasbian) is the official OS <a href="https://www.youtube.com/watch?v=RDAklos4F8k">YouTube Video</a>
@@ -67,19 +80,6 @@ https://chen42.github.io/slides/behaut.html
   - Windows subsystem for Linux (<a href="https://docs.microsoft.com/en-us/windows/wsl/install-win10">Installation guide</a>)
   - Servers
   - Supercomputer
-
----
-
-## GPIO (general purpose input-output)
-
-<img src="./images/behaut/Raspberry-Pi-GPIO-Header-with-Photo.png" width=60%>
-
-- Ground (grey), 5V (pink), 3V(orange),
-- GPIO (either input or output, green)
-- Special I/O protocols
-- I2C (magenta)
-- serial (purple)
-- SPI (blue)
 
 ---
 
@@ -190,7 +190,7 @@ https://chen42.github.io/slides/behaut.html
 
 <img src="https://cdn.sparkfun.com/assets/9/1/e/4/8/515b4656ce395f8a38000000.png">
 
-<a href="https://www.arduino.cc/en/Guide/Introduction"> Input-Output Coupling</a>
+<a href="https://docs.arduino.cc/learn/starting-guide/getting-started-arduino/"> Input-Output Coupling</a>
 
 ---
 
@@ -250,11 +250,38 @@ https://chen42.github.io/slides/behaut.html
 
 ## Example 7: Zelfish
 
-<img src="./images/behaut/zelfish.png" width=60%>
+<a href="https://www.sciencedirect.com/science/article/pii/S016643281730801X?via%3Dihub">Zebrafish opioid self-administration </a>
+
+<table> <tr><td>
+
+<img src="./images/behaut/zelfish.png" width=100%>
+</td>
+
+<td>
+<img src="https://lh3.googleusercontent.com/pw/AP1GczPCj2R4qOCU2FSbSyJH6ODgdPTLFxHbPOo-HaTxHWjiimE3QhB4ZKVptVUvg1iuMqiEGRPd0vY8WaFjR6IWD0Wei3MWiMBC1ULJzENhrxioXGrzUU-_MrLnZTJRYB3JDd_tBKB84jrkYZlpfqxIb3TjPA=w1409-h1057-s-no-gm" width=100%>
+</td></tr></table>
+
+<a href="https://photos.app.goo.gl/nR7o1ozhLZFYLRyWA">zebrafish in test chamber</a>
 
 ---
 
-## Example 8. TailTimer
+## Example 8: BlueBerry
+
+<a href="https://www.optoblueberry.org/docs/bluehub-documentation">
+<img src="https://cdn.prod.website-files.com/6693c2aa75c2628ae83f56c2/67af48690d1c23c8ddcfe14d_BlueHub-Wireless-Optogenetic-Details-02.jpg" width=60%>
+</a>
+
+---
+
+## Example 8: BlueBerry
+
+<img src="https://lh3.googleusercontent.com/pw/AP1GczPuNTOJrmhttmXZgXH39f3vFYiPQwCAoanM2v5FMKGK96XfXhdGt7m1YZIwua6GK3vvXi9HPYhaHTeP8Z-LElRN2AmtbxPZnm8R9SsdbX5in3tGah3OWSNkpZfIge0iT2OnK5ZsPG7Eq0NxefKswwxXPA=w1409-h1057-s-no-gm" width=60%>
+
+<a href="https://photos.google.com/photo/AF1QipNElegK0tDER-Wexms8bVeLN1nfKQzXcg8WBEWH">Stimulation of superior colliculus </a>
+
+---
+
+## Example 9. TailTimer
 
 <a href="https://github.com/chen42/openbehavior/tree/master/RFID">
 <img src="./images/behaut/rpi_tail_immersion.jpg" width=80%>
@@ -264,7 +291,7 @@ https://chen42.github.io/slides/behaut.html
 
 ---
 
-## Example 9. PeerPub
+## Example 10. PeerPub
 
 <img src="./images/behaut/PeerPub.jpg">
 
@@ -272,7 +299,7 @@ https://chen42.github.io/slides/behaut.html
 
 ---
 
-## Example 10: HomeBrew
+## Example 11: HomeBrew
 
 Tracking two rats independently during oral operant self-administration
 
