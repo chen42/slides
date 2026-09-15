@@ -324,3 +324,6 @@ Tracking two rats independently during oral operant self-administration
 
 - Replicable data analysis using AI agents
   - <a href="https://wwww.github.com/chen42/beaver-data">Beaver Data</a>
+
+- Survey of open source behavior devices
+- Your ideas

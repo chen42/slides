@@ -327,6 +327,9 @@ var markdownContent = ''
 + "\n"
 + "- Replicable data analysis using AI agents\n"
 + "  - <a href=\"https://wwww.github.com/chen42/beaver-data\">Beaver Data</a>\n"
++ "\n"
++ "- Survey of open source behavior devices\n"
++ "- Your ideas\n"
 ;
 var script = document.querySelector('script[src="behaut.js"]');
 var section = document.createElement('section');
