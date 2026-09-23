@@ -1097,7 +1097,7 @@ var markdownContent = ''
 + "\n"
 + "## Hepatitis C\n"
 + "\n"
-+ "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Hegasy_Hep_C_Virus_EN-01.jpg/495px-Hegasy_Hep_C_Virus_EN-01.jpg\">\n"
++ "<img src=\"https://upload.wikimedia.org/wikipedia/commons/7/78/Hegasy_Hep_C_Virus_EN-01.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original\" width=50%>\n"
 + "\n"
 + "<div id=\"greyText\">\n"
 + "a single-stranded, positive-sense RNA \n"
