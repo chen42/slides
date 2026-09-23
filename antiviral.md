@@ -12,7 +12,7 @@ Please use the live online version at http://chen42.github.io/slides/antiviral.h
 
 Or download the [**Printable version that can be saved as a pdf file**](http://chen42.github.io/slides/antiviral.html?print-pdf#/).
 
-<b>Last update: Oct 28th, 2025</b>
+<b>Last update: Sept 23th, 2026</b>
 
 ---
 

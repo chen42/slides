@@ -1,0 +1,3 @@
+(function () {
+'strict'
+var markdownContent = ''
