@@ -167,6 +167,18 @@ The drug must kill the viral without kill the patient.
 
 ---
 
+## General principle of ART
+
+An antiretroviral regimen for a treatment-naive patient generally consists of
+
+- two reverse transcriptase inhibitors (one nucleo<font color="red">s</font>ide and one nucleo<font color="red">t</font>ide) in combination with a third active drug from one of three drug classes:
+  - an integrase strand transfer inhibitor
+  - a protease inhibitor with a pharmacokinetic enhancer (also known as a booster)
+  - a non-nucleoside reverse transcriptase inhibitor (less common)
+
+
+---
+
 <section id="recommend">
 
 ### [Current Guideline](https://clinicalinfo.hiv.gov/en/guidelines/adult-and-adolescent-arv/what-start-initial-combination-regimens-antiretroviral-naive?view=brief)
@@ -175,7 +187,7 @@ The drug must kill the viral without kill the patient.
 
 <hr>
 
-##### Initial Regimens for most people with HIV who do not have a history of long-acting <span id="drug"> Cabotegravir </span> use as PrEP
+##### Initial Regimens for most people with HIV who do not have a history of long-acting <span id="drug"> Cabotegravir </span> use as PrEP (Pre-exposure prophylaxis)
 
 - <span id="drug"> Bictegravir </span> plus <span id="drug"> tenofovir alafenamide </span> plus <span id="drug"> emtricitabine </span>
 - <span id="drug"> Dolutegravir </span> plus (<span id="drug">tenofovir alafenamide</span> or<span id="drug"> tenofovir disoproxil fumarate</span>) plus (<span id="drug">emtricitabine </span> or <span id="drug"> lamivudine</span>)
@@ -192,26 +204,6 @@ The drug must kill the viral without kill the patient.
 - (<span id="drug">Darunavir/cobicistat</span> or <span id="drug">darunavir/Ritonavir</span>) plus (<span id="drug">tenofovir alafenamide</span> or<span id="drug"> tenofovir disoproxil fumarate</span>) plus (<span id="drug">emtricitabine </span> or <span id="drug"> lamivudine</span>)
 
 <hr>
-
----
-
-## General principle of ART
-
-An antiretroviral regimen for a treatment-naive patient generally consists of
-
-- two reverse transcriptase inhibitors (one nucleo<font color="red">s</font>ide and one nucleo<font color="red">t</font>ide) in combination with a third active drug from one of three drug classes:
-  - an integrase strand transfer inhibitor
-  - a protease inhibitor with a pharmacokinetic enhancer (also known as a booster)
-  - a non-nucleoside reverse transcriptase inhibitor (less common)
-
-Note:
-
-- ART is cART, a combination of drugs targeting multiple viral replication pathways.
-- Past recommendation includes protease inhibitors. Current recommendation all include INSTI
-- Need to understand the exceptions as well.
-- click on the title link to read the full recommendation, DTG = dolutegravir; 3TC = lamivudine; TAF = tenofovir alafenamide (no need to memorize these acronyms)
-- <span id="drug"> Dolutegravir </span> plus <span id="drug"> abacavir </span> plus <span id="drug"> lamivudine </span> — only for individuals who are HLA-B\*5701 negative and without chronic hepatitis B virus (HBV) coinfection
-
 ---
 
 <section id="Integrase">
@@ -462,8 +454,8 @@ https://journals.sagepub.com/doi/full/10.1177/0192623313503519
 
 <div id="left">
 
-- Rito<u>navir</u> (Norvir)
 - Daru<u>navir</u> (Prezista)
+- Rito<u>navir</u> (Norvir)
 - And many many more
 
 </div>
@@ -488,6 +480,22 @@ https://journals.sagepub.com/doi/full/10.1177/0192623313503519
   - Effective in both acutely and chronic HIV-1 infected cells
 
 ---
+<section id="Darunavir">
+
+## Darunavir
+
+- <a href="#/sd">Mechanism of action</a>
+  - Inhibits the protease enzyme, preventing the cleavage of viral polyproteins into functional protein
+- Achieves faster virologic response than other protease inhibitors(PI). [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/21692667)
+- Can be used to treat patients resist to other PIs.
+  - <span id="drug"> darunavir </span> retains activity against 90% of HIV-1 isolates that are resistant to other protease inhibitors, exhibiting 10-fold decrease in susceptibility.
+- Must be used in combination in an antiviral regimen.
+  - Requires an enhancer (i.e. low does <span id="drug"> ritonavir </span> or [cobicistat](https://www.ncbi.nlm.nih.gov/pubmed/26566368) )
+- No longer for treatment-naive patients (2017)
+- <a href="#/recommend">Recommended </a> for treating patients with integrase PrEP history, before testing results is available (2024)
+
+---
+
 
 ## Protease inhibitors
 
@@ -514,22 +522,6 @@ note: rifampin is a bacterial RNA polymerase inhibitor
   - [Lipodystrophy](https://www.ncbi.nlm.nih.gov/PubMed/9652687) Including central obesity, dorsocervical fat enlargement [(buffalo hump)](https://www.clinicalkey.com/#!/content/medline/2-s2.0-9525364), peripheral wasting, accumulation of facial fat, [lipomas](http://www.mayoclinic.org/diseases-conditions/lipoma/basics/definition/con-20024646), breast enlargement, [gynecomastia](http://www.mayoclinic.org/diseases-conditions/gynecomastia/home/ovc-20257576)
   - Insulin resistance and diabetes
   - Elevated liver function
-
----
-
-<section id="Darunavir">
-
-## Darunavir
-
-- <a href="#/sd">Mechanism of action</a>
-  - Inhibits the protease enzyme, preventing the cleavage of viral polyproteins into functional protein
-- Achieves faster virologic response than other protease inhibitors(PI). [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/21692667)
-- Can be used to treat patients resist to other PIs.
-  - <span id="drug"> darunavir </span> retains activity against 90% of HIV-1 isolates that are resistant to other protease inhibitors, exhibiting 10-fold decrease in susceptibility.
-- Must be used in combination in an antiviral regimen.
-  - Requires an enhancer (i.e. low does <span id="drug"> ritonavir </span> or [cobicistat](https://www.ncbi.nlm.nih.gov/pubmed/26566368) )
-- No longer for treatment-naive patients (2017)
-- <a href="#/recommend">Recommended </a> for treating patients with integrase PrEP history, before testing results is available (2024)
 
 ---
 
@@ -868,7 +860,7 @@ Double stranded DNA virus
 - Adverse effects
   - Renal failure or dysfunction
   - Seizure, depression, confusion, and anxiety (high CSF/plasma ratio)
-- one marrow suppression
+- Bone marrow suppression
   - Nausea, vomiting, and fatigue
 
 ---
@@ -914,7 +906,7 @@ partial DNA enters nucleus -> cccDNA -> RNA -> <span id='bg'>HBV polymerase</spa
 
 <b>ccc</b>: covalently closed circular
 
-HBV polymerase has reverse transcription activity
+HBV polymerase has reverse transcription and is also a DNA polymerase
 
 ---
 
@@ -1033,10 +1025,10 @@ Bonus question: Why is monotherapy used for HBV but combination therapy is neede
 
 - <a href="#/sd">Mechanism of Action</a>
   - Immune stimulation: Enhances natural killer cells, cytotoxic T lymphocytes, and antigen presentation.
-  - Direct antiviral effects: Inhibits HBV replication, mRNA transcription, and viral particle assembly.
-  - Antiproliferative effects: Limits hepatocyte proliferation, reducing the risk of liver fibrosis and cancer.
   - Immunomodulation: Shifts immune response towards Th1-mediated viral clearance.
+  - Direct antiviral effects: Inhibits HBV replication, mRNA transcription, and viral particle assembly.
   - cccDNA reduction: Indirectly reduces the activity of cccDNA, leading to lower viral persistence.
+  - Antiproliferative effects: Limits hepatocyte proliferation, reducing the risk of liver fibrosis and cancer.
 
 ---
 
@@ -1117,6 +1109,32 @@ https://www.wjgnet.com/1007-9327/full/v27/i28/4555.htm
 
 ---
 
+
+## HCV RNA genome replication 
+
+
+<font size=+3>
+<pre>
+Infecting Genome (+)  ──[Translation]──>  RdRP (NS5B) Enzyme
+
+Infecting Genome (+)  ──[NS5B copies]──>  Antisense Template (–)
+                                                 │
+                                                 ▼
+                                          [NS5B copies]
+                                                 │
+                                                 ▼
+                                       Many New Genomes (+)
+                                                 │
+                   ┌─────────────────────────────┴─────────────────────────────┐
+                   ▼                                                           ▼
+       Used for more Translation                                   Packaged into New Virions
+
+</pre>
+
+</font>
+
+---
+
 ## <a href="https://www.ncbi.nlm.nih.gov/books/NBK531720/"> WHO Hepatitis C treatment guideline</a>
 
 - 9 HCV genotypes, type 1 is most common in the US.
@@ -1175,7 +1193,7 @@ https://www.wjgnet.com/1007-9327/full/v27/i28/4555.htm
 (Copegus | Moderiba | Rebetol | RibaPak | RibaTab | Ribasphere | Virazole)
 
 - <a href="#/sd">Mechanism of Action</a>
-  - Nucleoside analog of guanosine
+  - Nucleoside analog of guanosine (with some similarity to adenosin)
   - Increase mutation of viral <a href="#/molnupiravir"> <span id="yb">RNA/DNA</span></a> and leads to "**error catastrophe**"
   - Interference with synthesis of GTP / Increase production of cytokine
 - Indication
@@ -1356,7 +1374,7 @@ Another version of SARS-CoV-2 life cycle</a>
 
 ## [Recommendations on Antiviral Drugs for SARS-CoV-2](https://www.cdc.gov/covid/hcp/clinical-care/outpatient-treatment.html)
 
-(last update: Jun 11, 2025)
+(last update: Feb 5th, 2026)
 
 #### Nonhospitalized Adults With Mild to Moderate COVID-19 Who Do Not Require Supplemental Oxygen
 
