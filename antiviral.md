@@ -204,6 +204,8 @@ An antiretroviral regimen for a treatment-naive patient generally consists of
 
 ## <hr>
 
+</section>
+
 <section id="Integrase">
 
 ## In<font color="darkred">tegra</font>se Inhibitor

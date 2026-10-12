@@ -207,6 +207,8 @@ var markdownContent = ''
 + "\n"
 + "## <hr>\n"
 + "\n"
++ "</section>\n"
++ "\n"
 + "<section id=\"Integrase\">\n"
 + "\n"
 + "## In<font color=\"darkred\">tegra</font>se Inhibitor\n"
