@@ -176,7 +176,6 @@ An antiretroviral regimen for a treatment-naive patient generally consists of
   - a protease inhibitor with a pharmacokinetic enhancer (also known as a booster)
   - a non-nucleoside reverse transcriptase inhibitor (less common)
 
-
 ---
 
 <section id="recommend">
@@ -203,8 +202,7 @@ An antiretroviral regimen for a treatment-naive patient generally consists of
 
 - (<span id="drug">Darunavir/cobicistat</span> or <span id="drug">darunavir/Ritonavir</span>) plus (<span id="drug">tenofovir alafenamide</span> or<span id="drug"> tenofovir disoproxil fumarate</span>) plus (<span id="drug">emtricitabine </span> or <span id="drug"> lamivudine</span>)
 
-<hr>
----
+## <hr>
 
 <section id="Integrase">
 
@@ -313,7 +311,7 @@ Note:
 
 ## Mechanisms of Action - NRTIs
 
-- Analogs of naturally occurring [nucleosides](http://static.newworldencyclopedia.org/b/b9/Nucleotides.png)
+- Analogs of naturally occurring [nucleosides](./images/teaching/Nucleotides.png)
 - NRTIS are converted to their active triphosphate metabolites (i.e. a nucleotide) by <span id="yb">host cell </span>kinases
 - Competitive inhibitor of viral reverse transcriptase
 - Cause DNA chain termination
@@ -480,6 +478,7 @@ https://journals.sagepub.com/doi/full/10.1177/0192623313503519
   - Effective in both acutely and chronic HIV-1 infected cells
 
 ---
+
 <section id="Darunavir">
 
 ## Darunavir
@@ -495,7 +494,6 @@ https://journals.sagepub.com/doi/full/10.1177/0192623313503519
 - <a href="#/recommend">Recommended </a> for treating patients with integrase PrEP history, before testing results is available (2024)
 
 ---
-
 
 ## Protease inhibitors
 
@@ -1109,25 +1107,23 @@ https://www.wjgnet.com/1007-9327/full/v27/i28/4555.htm
 
 ---
 
-
-## HCV RNA genome replication 
-
+## HCV RNA genome replication
 
 <font size=+3>
 <pre>
 Infecting Genome (+)  ──[Translation]──>  RdRP (NS5B) Enzyme
 
-Infecting Genome (+)  ──[NS5B copies]──>  Antisense Template (–)
-                                                 │
-                                                 ▼
-                                          [NS5B copies]
-                                                 │
-                                                 ▼
-                                       Many New Genomes (+)
-                                                 │
-                   ┌─────────────────────────────┴─────────────────────────────┐
-                   ▼                                                           ▼
-       Used for more Translation                                   Packaged into New Virions
+Infecting Genome (+) ──[NS5B copies]──> Antisense Template (–)
+│
+▼
+[NS5B copies]
+│
+▼
+Many New Genomes (+)
+│
+┌─────────────────────────────┴─────────────────────────────┐
+▼ ▼
+Used for more Translation Packaged into New Virions
 
 </pre>
 
