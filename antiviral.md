@@ -12,7 +12,7 @@ Please use the live online version at http://chen42.github.io/slides/antiviral.h
 
 Or download the [**Printable version that can be saved as a pdf file**](http://chen42.github.io/slides/antiviral.html?print-pdf#/).
 
-<b>Last update: Sept 23th, 2026</b>
+<b>Last update: Oct 28th, 2026</b>
 
 ---
 
@@ -257,7 +257,7 @@ Note:
 
 - Indication
   - <a href="#/recommend">Recommended</a> for naive patients as part of combination ART
-  - <span id="drug"> Cabotegravir </span> injecable once a month for pre-exposure prophylaxis (PrEP) in HIV naive individuals ([news report on FDA approval](https://www.statnews.com/pharmalot/2021/01/21/fda-hiv-aids-injectable/))
+  - <span id="drug"> Cabotegravir </span> injectable every 2 months for pre-exposure prophylaxis (PrEP) in HIV naive individuals ([news report on FDA approval](https://www.statnews.com/pharmalot/2021/01/21/fda-hiv-aids-injectable/))
 - Adverse effects
   - Diarrhea, nausea, headache, and fever
   - <a href="https://pubmed.ncbi.nlm.nih.gov/34524918/">Hypersensitivity</a> to <span id="drug"> Dolutegravir </span> include serious rash, blisters/peeling of skin, hepatitis, facial edema, angioedema, difficulty breathing, or eosinophilia.
@@ -281,7 +281,7 @@ Among the five drugs, B and D are in the recommendations, C is a new drug (expen
 | **Side Effects**      | Headache, nausea, diarrhea, <a href="https://pubmed.ncbi.nlm.nih.gov/28219610/">fewer neuropsychiatric effects</a> | Insomnia, headache, weight gain, <a href="https://pubmed.ncbi.nlm.nih.gov/39022519/">more neuropsychiatric effects </a> |
 | **Resistance**        | High barrier to resistance, effective against resistant strains                                                    | High barrier to resistance, but specific mutations (R263K) may cause resistance                                         |
 | **Clinical Use**      | Commonly used in first-line treatment (e.g., Biktarvy: BIC/TAF/FTC)                                                | Widely used in both first-line and second-line treatment (e.g., DTG/3TC, TDF/FTC/DTG)                                   |
-| **Role in Pregnancy** | Insufficient safety data, not recommended                                                                          | Preferred in pregnancy, with caution in early pregnancy                                                                 |
+| **Role in Pregnancy** | Preferred in pregnancy                                                                                             | Preferred in pregnancy                                                                                                  |
 
 <a href="#recommend">Current guideline</a>
 
@@ -364,7 +364,7 @@ Note:
 - Drug specific side effects
   - <span id="drug">Abacavir</span>: **hypersensitivity** reaction due to genetic predisposition (multi-organ autoimmune response, potentially life threatening)
     - <span id="yb"><a href="http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg38&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=chr6%3A31353875%2D31367067&hgsid=1488421281_ALYL8AoN0EV3FOejojvgWHHHoDaa">HLA-B\*5701</a> screening before starting therapy </span> [NEJM](http://www.nejm.org/doi/full/10.1056/NEJMoa0706135#t=article)
-  - <span id="drug"> Emtricitabine </span>: psychiatric reactions, depression, dizziness, insomnia
+  - <span id="drug"> Emtricitabine </span>: hyperpigmentation (skin discoloration on palms and soles), headache, gastrointestinal issues
 
 Note:
 These drugs inhibit DNA polymerase gamma, which replicates the mt genome.
@@ -633,11 +633,11 @@ These are just a few examples. Detailed list available from the link above
 ### Hour 2
 
 - <a href="#/hsv">Herpes Simplex Virus</a> and Varicella Zoster Virus
-  - <span id="drug">[Acyclovir, Valacyclovir](#/Acyclovir), [Tenofovir](#/Tenofovir2), [Famciclovir, Penciclovir](#/Penciclovir)</span>
+  - <span id="drug">[Acyclovir, Valacyclovir](#/Acyclovir), [Famciclovir, Penciclovir](#/Penciclovir)</span>
 - <a href="#/cmv">Cytomegalovirus</a>
   - <span id="drug">[Ganciclovir, Valganciclovir](#/Ganciclovir), [Cidofovir](#/Cidofovir), [Foscarnet](#/Foscarnet)</span>
 - <a href="#/hbv">Hepatitis Virus B </a> | <a href="#/hcv"> Hepatitis Virus C</a>
-  - <span id="drug"> [Entecavir](#/Entecavir), [Interferon alpha](#/Interferon), [Sofosbuvir](#/sofosbuvir)
+  - <span id="drug"> [Entecavir](#/Entecavir), [Tenofovir](#/Tenofovir2), [Interferon alpha](#/Interferon), [Sofosbuvir](#/sofosbuvir)</span>
 - <a href="#/flu">Influenza Virus </a>
   - Viral release inhibitors <span id="drug"> [Zanamivir, Oseltamivir](#/flurelease)</span>
   - Cap-dependent endonuclease inhibitor <span id="drug"> [Baloxavir](#/flucap)</span>
@@ -875,7 +875,7 @@ Double stranded DNA virus
   - Inhibit viral DNA polymerases
 - Resistance
   - Mutations of the viral polymerase gene
-  - Deficiency of viral tyrosine kinase
+  - Deficiency of viral thymidine kinase (or viral UL97 protein kinase in CMV)
 - ADME
   - Bioavailability varies.
   - Renal excretion of unmetabolized parent drug through glomerular filtration -- Adjust dose
@@ -1109,36 +1109,19 @@ https://www.wjgnet.com/1007-9327/full/v27/i28/4555.htm
 
 ---
 
-## HCV RNA genome replication
+## HCV RNA genome replication & Drug Targets
 
-<font size=+3>
-<pre>
-Infecting Genome (+)  ──[Translation]──>  RdRP (NS5B) Enzyme
-
-Infecting Genome (+) ──[NS5B copies]──> Antisense Template (–)
-│
-▼
-[NS5B copies]
-│
-▼
-Many New Genomes (+)
-│
-┌─────────────────────────────┴─────────────────────────────┐
-▼ ▼
-Used for more Translation Packaged into New Virions
-
-</pre>
-
-</font>
+<img src="./images/antiviral/hcv_replication_moa.svg" width=85%>
 
 ---
 
 ## <a href="https://www.ncbi.nlm.nih.gov/books/NBK531720/"> WHO Hepatitis C treatment guideline</a>
 
-- 9 HCV genotypes, type 1 is most common in the US.
+- 6 major clinical HCV genotypes (8 known genotypes), type 1 is most common in the US.
 
+- Pan-genotypic regimens (e.g. <span id="drug">sofosbuvir/velpatasvir</span>) are preferred for all genotypes
 - <span id="drug">sofosbuvir/ledipasvir </span> for genotypes 1, 4, 5 and 6 (1st line treatment)
-- <span id="drug"> sofosbuvir/ribavirin </span> for genotype 2 and 3
+- <span id="drug"> sofosbuvir/ribavirin </span> (historical regimen for genotypes 2 and 3)
 
 - Antiviral medicines can <b>cure</b> more than 95% of persons with hepatitis C infection
 
@@ -1171,10 +1154,10 @@ Used for more Translation Packaged into New Virions
 - <a href="#/sd">Mechanism of Action </a>
 
   - a direct-acting antiviral agent
-  - NS5A is an RNA-dependent RNA polymerase
-  - Ledipasivir prevent hyperphosphorylation of NS5A polymerase
-  - restraining viral replication.
-  - there has been little drug resistance
+  - NS5A is a viral phosphoprotein required for the replication complex (with NS5B) and virion assembly
+  - Ledipasvir inhibits hyperphosphorylation of NS5A
+  - blocks both viral RNA replication and packaging into new virions
+  - high potency with low drug resistance when combined with <span id="drug">sofosbuvir</span>
 
 - ADME
   - oral
@@ -1226,7 +1209,7 @@ Used for more Translation Packaged into New Virions
 ## Mechanism of Action of Antiinfluenza Agents
 
 <table><tr><td>
-<img src="./images/antiviral/flu.png" width=100%>
+<img src="./images/antiviral/flu_lifecycle_moa.svg" width=100%>
 </td><td width=50%>
 
 - Life cycle
@@ -1235,7 +1218,7 @@ Used for more Translation Packaged into New Virions
   - viral RNA is replicated by RNA-dependent RNA polymerase.
   - viral RNA acquires the 5'cap of of cellular RNA (important for making protein) and exported into the cytoplasm.
   - viral protein is made and virus is packaged on cell surface
-  - the N spikes cleave the H spikes and releases the viron.
+  - the N spikes (neuraminidase) cleave host cell-surface sialic acid receptors bound by H spikes and release the virion.
   </td>
   </tr></table>
 
@@ -1409,26 +1392,29 @@ Another version of SARS-CoV-2 life cycle</a>
 
 ### Remdesivir (Veklury)
 
-<table> <tr><td width=35%>
+<table> <tr><td width=30%>
 <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7566896/">
 <img src="./images/antiviral/remdesivir.png" width=80%>
 </a>
 
 [FDA approves Remdesivir on Oct 22, 2020](https://www.fda.gov/news-events/press-announcements/fda-approves-first-treatment-covid-19)
 
-</td><td width=65%>
+</td><td width=70%>
 
 - <a href="#/sd">Mechanism of Action</a>
   - Nucleoside analog of Adenosine
-  - It is a prodrug, metabolized by carboxylesterase I to its triphosphate active form
-  - Coronaviruses replication requires _RNA-dependent RNA polymerase_. These enzymes can incorporate remdesivir into new RNA strands. Shortly after adding remdesivir, the enzyme stops being able to function. This halts viral genome replication.
+  - Phosphoramidate prodrug
+    - hydrolyzed intracellularly to the monophosphate and then phosphorylated by host kinases to the active triphosphate form
+  - Coronaviruses replication requires _RNA-dependent RNA polymerase_.
+    - delayed chain termination
+    - halting viral genome replication.
 - ADME ([review article](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8308800/))
-  - Administered as a slow i.v. infusion of a loading dose followed by a maintenance dose for 5 or 10 days
+  - A slow i.v. infusion (loading dose) followed by a maintenance dose for 5 or 10 days
   - Eliminated in urine
 - Adverse effects
   - GI symptoms, elevated transaminase levels (liver function), hypersensitivity
 - Indication
-  - Treatment of COVID-19 in hospitalized adult and pediatric patients
+  - Treatment of COVID-19 in hospitalized patients and high-risk nonhospitalized adult and pediatric patients
 
 </td></tr></table>
 

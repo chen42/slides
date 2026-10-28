@@ -1,0 +1,170 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 640" width="100%" height="100%" font-family="Lato, 'Source Sans Pro', Helvetica, Arial, sans-serif">
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 1.5 L 8.5 5 L 0 8.5 z" fill="#586e75"/>
+    </marker>
+    <!-- Reusable Flu Virion Symbol (radius 22, spikes extend to 30) -->
+    <g id="virion">
+      <circle cx="0" cy="0" r="22" fill="#859900" stroke="#073642" stroke-width="2"/>
+      <!-- RNA segments inside -->
+      <line x1="-9" y1="-7" x2="-9" y2="7" stroke="#fdf6e3" stroke-width="2" stroke-linecap="round"/>
+      <line x1="-3" y1="-10" x2="-3" y2="10" stroke="#fdf6e3" stroke-width="2" stroke-linecap="round"/>
+      <line x1="3" y1="-10" x2="3" y2="10" stroke="#fdf6e3" stroke-width="2" stroke-linecap="round"/>
+      <line x1="9" y1="-7" x2="9" y2="7" stroke="#fdf6e3" stroke-width="2" stroke-linecap="round"/>
+      <!-- H (blue circles) and N (magenta diamonds) surface spikes -->
+      <line x1="0" y1="-22" x2="0" y2="-29" stroke="#073642" stroke-width="2"/>
+      <circle cx="0" cy="-30" r="2.2" fill="#268bd2"/>
+      <line x1="15.5" y1="-15.5" x2="20.5" y2="-20.5" stroke="#073642" stroke-width="2"/>
+      <rect x="19" y="-23" width="4" height="4" fill="#d33682" transform="rotate(45 21 -21)"/>
+      <line x1="22" y1="0" x2="29" y2="0" stroke="#073642" stroke-width="2"/>
+      <circle cx="30" cy="0" r="2.2" fill="#268bd2"/>
+      <line x1="15.5" y1="15.5" x2="20.5" y2="20.5" stroke="#073642" stroke-width="2"/>
+      <rect x="19" y="19" width="4" height="4" fill="#d33682" transform="rotate(45 21 21)"/>
+      <line x1="0" y1="22" x2="0" y2="29" stroke="#073642" stroke-width="2"/>
+      <circle cx="0" cy="30" r="2.2" fill="#268bd2"/>
+      <line x1="-15.5" y1="15.5" x2="-20.5" y2="20.5" stroke="#073642" stroke-width="2"/>
+      <rect x="-23" y="19" width="4" height="4" fill="#d33682" transform="rotate(45 -21 21)"/>
+      <line x1="-22" y1="0" x2="-29" y2="0" stroke="#073642" stroke-width="2"/>
+      <circle cx="-30" cy="0" r="2.2" fill="#268bd2"/>
+      <line x1="-15.5" y1="-15.5" x2="-20.5" y2="-20.5" stroke="#073642" stroke-width="2"/>
+      <circle cx="-21.5" cy="-21.5" r="2.2" fill="#268bd2"/>
+    </g>
+  </defs>
+
+  <!-- ================= COLOR STANDARD =================
+       Dark Slate (#073642): Primary step titles, viral enzymes, and key mechanisms
+       Muted Slate (#586e75): Secondary descriptions, compartment labels, and flow arrows
+       Amber (#d97706 / #fff8dc): Highlighted life-cycle stages targeted by drugs (Boxes 4 & 6)
+       Dark Green (#1b5e20 / #eef7ee): Antiviral drug boxes
+       Red (#dc322f): Drug inhibition T-bars (⊣)
+  ======================================================= -->
+
+  <!-- ================= HIGHLIGHTED BOX 6 BACKGROUND (ON OUTSIDE OF MEMBRANE) ================= -->
+  <rect x="425" y="96" width="365" height="146" rx="14" fill="#fff8dc" stroke="#d97706" stroke-width="3"/>
+  <rect x="425" y="96" width="365" height="28" rx="9" fill="#d97706"/>
+  <text x="607" y="116" text-anchor="middle" font-size="14.5" font-weight="700" fill="#ffffff">6. VIRION RELEASE (NEURAMINIDASE TARGET)</text>
+
+  <!-- ================= CONTINUOUS HOST CELL PLASMA MEMBRANE ================= -->
+  <text x="145" y="28" text-anchor="middle" font-size="15" font-weight="700" fill="#586e75" letter-spacing="1">AIRWAY (EXTRACELLULAR)</text>
+
+  <!-- Complete, continuous double-layer plasma membrane from x=8 to x=792 -->
+  <path d="M 8 242 L 115 242 Q 145 242 152 267 A 35 35 0 1 0 222 267 Q 229 242 260 242 L 792 242" fill="none" stroke="#2e7d32" stroke-width="5" stroke-linecap="round"/>
+  <path d="M 8 248 L 115 248 Q 141 248 147 269 A 40 40 0 1 0 227 269 Q 233 248 260 248 L 792 248" fill="none" stroke="#81c784" stroke-width="2" stroke-linecap="round"/>
+
+  <text x="20" y="625" font-size="14" font-weight="700" fill="#586e75">HOST CYTOPLASM</text>
+
+  <!-- ================= STEP 1 & 2: ENTRY, ENDOSOME, UNCOATING (UNBOXED) ================= -->
+  <!-- 1. Binding Virion (touching outside of membrane) -->
+  <use href="#virion" x="62" y="210"/>
+  <text x="62" y="150" text-anchor="middle" font-size="14.5" font-weight="700" fill="#073642">1. Binding via</text>
+  <text x="62" y="168" text-anchor="middle" font-size="14.5" font-weight="700" fill="#073642">H spikes</text>
+
+  <!-- Endocytosis Virion -->
+  <g transform="translate(187, 272) scale(0.84)">
+    <use href="#virion" x="0" y="0"/>
+  </g>
+  <text x="187" y="228" text-anchor="middle" font-size="14" font-weight="700" fill="#586e75">Endocytosis</text>
+
+  <!-- Arrow down to Endosome -->
+  <line x1="125" y1="282" x2="88" y2="306" stroke="#586e75" stroke-width="2.2" marker-end="url(#arrow)"/>
+
+  <!-- 2. Endosome & Low pH Fusion -->
+  <circle cx="64" cy="340" r="33" fill="#eef6f8" stroke="#2e7d32" stroke-width="2.2" stroke-dasharray="5,3"/>
+  <g transform="translate(64, 340) scale(0.76)">
+    <use href="#virion" x="0" y="0"/>
+  </g>
+  <text x="108" y="324" font-size="14.5" font-weight="700" fill="#073642">2. Endosome</text>
+  <text x="108" y="342" font-size="13.5" fill="#586e75">Low pH (H&#8314;) &#8594; Fusion</text>
+  <text x="108" y="360" font-size="13.5" fill="#586e75">&amp; Uncoating (M2)</text>
+
+  <!-- Arrow from Endosome into Nucleus -->
+  <path d="M 64 373 L 64 432 L 156 432" fill="none" stroke="#586e75" stroke-width="2.5" marker-end="url(#arrow)"/>
+  <text x="15" y="402" font-size="13.5" font-weight="700" fill="#586e75">vRNA enters</text>
+  <text x="15" y="419" font-size="13.5" font-weight="700" fill="#586e75">nucleus</text>
+
+  <!-- ================= STEP 3 & 4: NUCLEUS (DOTTED NUCLEAR MEMBRANE) ================= -->
+  <rect x="165" y="372" width="370" height="254" rx="20" fill="#f3ebd7" stroke="#2e7d32" stroke-width="3.5" stroke-dasharray="3,7" stroke-linecap="round"/>
+  <text x="330" y="394" text-anchor="middle" font-size="15" font-weight="700" fill="#586e75" letter-spacing="0.8">HOST NUCLEUS</text>
+
+  <!-- 3. vRNA Replication (UNBOXED) -->
+  <text x="325" y="422" text-anchor="middle" font-size="15" font-weight="700" fill="#073642">3. Viral RNA Replication (by RdRP)</text>
+  <text x="325" y="443" text-anchor="middle" font-size="14" font-weight="700" fill="#586e75">vRNA (&#8722;) &#8594; cRNA (+) &#8594; New vRNA (&#8722;)</text>
+
+  <!-- 4. HIGHLIGHTED MOA TARGET 1: 5' Cap Snatching (BOXED DRUG TARGET) -->
+  <rect x="180" y="462" width="340" height="148" rx="12" fill="#fff8dc" stroke="#d97706" stroke-width="3"/>
+  <rect x="180" y="462" width="340" height="28" rx="9" fill="#d97706"/>
+  <text x="350" y="481" text-anchor="middle" font-size="14" font-weight="700" fill="#ffffff">4. 5' CAP SNATCHING (ENDONUCLEASE TARGET)</text>
+
+  <!-- Host mRNA with 5' cap -->
+  <circle cx="208" cy="512" r="9" fill="#8d6e63" stroke="#4e342e" stroke-width="1.5"/>
+  <text x="208" y="516" text-anchor="middle" font-size="10" font-weight="700" fill="#ffffff">Cap</text>
+  <line x1="217" y1="512" x2="300" y2="512" stroke="#586e75" stroke-width="3.5"/>
+  <text x="258" y="502" text-anchor="middle" font-size="12.5" font-weight="700" fill="#586e75">Host mRNA</text>
+
+  <!-- Cleavage line by Endonuclease -->
+  <line x1="246" y1="498" x2="246" y2="530" stroke="#d97706" stroke-width="3" stroke-dasharray="3,2"/>
+  <rect x="258" y="522" width="246" height="34" rx="6" fill="#fdeedc" stroke="#d97706" stroke-width="2"/>
+  <text x="381" y="544" text-anchor="middle" font-size="15" font-weight="700" fill="#073642">Cap-dependent endonuclease</text>
+
+  <!-- Resulting capped viral mRNA -->
+  <circle cx="208" cy="576" r="9" fill="#8d6e63" stroke="#4e342e" stroke-width="1.5"/>
+  <text x="208" y="580" text-anchor="middle" font-size="10" font-weight="700" fill="#ffffff">Cap</text>
+  <line x1="217" y1="576" x2="246" y2="576" stroke="#586e75" stroke-width="3.5"/>
+  <line x1="246" y1="576" x2="375" y2="576" stroke="#073642" stroke-width="4"/>
+  <text x="305" y="596" text-anchor="middle" font-size="13.5" font-weight="700" fill="#073642">Capped Viral mRNA &#8594; Export</text>
+
+  <!-- ================= DRUG 1: BALOXAVIR (OUTSIDE BOX 4, BOTTOM RIGHT) ================= -->
+  <rect x="572" y="476" width="218" height="114" rx="12" fill="#eef7ee" stroke="#1b5e20" stroke-width="3"/>
+  <rect x="572" y="476" width="218" height="34" rx="9" fill="#1b5e20"/>
+  <text x="681" y="499" text-anchor="middle" font-size="19" font-weight="700" font-style="italic" fill="#ffffff">Baloxavir</text>
+  <text x="681" y="529" text-anchor="middle" font-size="14.5" font-weight="700" fill="#073642">Inhibits cap-dependent</text>
+  <text x="681" y="548" text-anchor="middle" font-size="14.5" font-weight="700" fill="#073642">endonuclease</text>
+  <text x="681" y="572" text-anchor="middle" font-size="13.5" font-weight="700" fill="#586e75">Blocks viral mRNA synthesis</text>
+
+  <!-- Red Inhibition T-bar from Baloxavir into Box 4 -->
+  <line x1="572" y1="539" x2="512" y2="539" stroke="#dc322f" stroke-width="4"/>
+  <line x1="512" y1="525" x2="512" y2="553" stroke="#dc322f" stroke-width="5" stroke-linecap="round"/>
+
+  <!-- ================= STEP 5: PROTEIN SYNTHESIS & PACKAGING (UNBOXED, GREY ARROW) ================= -->
+  <path d="M 382 576 L 552 576 L 552 384 L 580 384" fill="none" stroke="#586e75" stroke-width="2.5" marker-end="url(#arrow)"/>
+
+  <text x="685" y="378" text-anchor="middle" font-size="15" font-weight="700" fill="#073642">5. Protein Synthesis</text>
+  <text x="685" y="398" text-anchor="middle" font-size="13.5" fill="#586e75">Packaging at cell membrane</text>
+
+  <!-- New vRNA export + Viral proteins moving to assembly at cell membrane -->
+  <path d="M 458 438 L 472 438 L 472 256" fill="none" stroke="#586e75" stroke-width="2.2" marker-end="url(#arrow)"/>
+  <path d="M 660 352 L 660 290 L 490 290 L 490 256" fill="none" stroke="#586e75" stroke-width="2.2" marker-end="url(#arrow)"/>
+  <text x="580" y="316" text-anchor="middle" font-size="13.5" font-weight="700" fill="#586e75">Assembly &amp; budding</text>
+
+  <!-- ================= DETAILS INSIDE BOX 6 (TOUCHING MEMBRANE + GREY ARROW) ================= -->
+  <!-- Newly formed virion at (480, 210), touching the outside of the plasma membrane (y=242) -->
+  <use href="#virion" x="480" y="210"/>
+  <!-- H-spike tether holding virion directly to the outside surface of the plasma membrane -->
+  <line x1="496" y1="226" x2="514" y2="241" stroke="#268bd2" stroke-width="3.5"/>
+  <circle cx="514" cy="240" r="4" fill="#268bd2"/>
+
+  <!-- Cleavage site on the exterior H-spike tether -->
+  <line x1="496" y1="234" x2="524" y2="234" stroke="#d97706" stroke-width="3" stroke-dasharray="3,2"/>
+
+  <!-- Grey Cleavage & Release Arrow -->
+  <line x1="522" y1="192" x2="688" y2="164" stroke="#586e75" stroke-width="3" marker-end="url(#arrow)"/>
+  <rect x="536" y="200" width="176" height="34" rx="6" fill="#fdeedc" stroke="#d97706" stroke-width="2"/>
+  <text x="624" y="215" text-anchor="middle" font-size="13" font-weight="700" fill="#073642">N spike (Neuraminidase)</text>
+  <text x="624" y="229" text-anchor="middle" font-size="12" fill="#586e75">cleaves sialic acid receptor</text>
+
+  <!-- Released Virion (floating free in Airway outside cell) -->
+  <use href="#virion" x="740" y="160"/>
+  <text x="740" y="212" text-anchor="middle" font-size="13.5" font-weight="700" fill="#073642">Released</text>
+
+  <!-- ================= DRUG 2: OSELTAMIVIR & ZANAMIVIR (OUTSIDE BOX 6, UPPER CENTER) ================= -->
+  <rect x="135" y="48" width="258" height="106" rx="12" fill="#eef7ee" stroke="#1b5e20" stroke-width="3"/>
+  <rect x="135" y="48" width="258" height="34" rx="9" fill="#1b5e20"/>
+  <text x="264" y="71" text-anchor="middle" font-size="18.5" font-weight="700" font-style="italic" fill="#ffffff">Oseltamivir &amp; Zanamivir</text>
+  <text x="264" y="100" text-anchor="middle" font-size="14.5" font-weight="700" fill="#073642">Inhibit Neuraminidase</text>
+  <text x="264" y="119" text-anchor="middle" font-size="14.5" font-weight="700" fill="#073642">(N spikes)</text>
+  <text x="264" y="141" text-anchor="middle" font-size="13.5" font-weight="700" fill="#586e75">Block virion release</text>
+
+  <!-- Red Inhibition T-bar from Oseltamivir/Zanamivir (outside Box 6) into Box 6 -->
+  <path d="M 393 142 L 605 142 L 605 168" fill="none" stroke="#dc322f" stroke-width="4"/>
+  <line x1="591" y1="168" x2="619" y2="168" stroke="#dc322f" stroke-width="5" stroke-linecap="round"/>
+</svg>

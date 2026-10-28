@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 460" width="100%" height="100%" font-family="Lato, 'Source Sans Pro', Helvetica, Arial, sans-serif">
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6.5" markerHeight="6.5" orient="auto-start-reverse">
+      <path d="M 0 1.5 L 8.5 5 L 0 8.5 z" fill="#475b62"/>
+    </marker>
+  </defs>
+
+  <!-- Step 1: Infecting Genome (+) -> Translation -> Viral Proteins -->
+  <rect x="295" y="18" width="290" height="52" rx="10" fill="#e3f2fd" stroke="#268bd2" stroke-width="2.5"/>
+  <text x="440" y="51" text-anchor="middle" font-size="21" font-weight="700" fill="#073642">Infecting RNA Genome (+)</text>
+
+  <!-- Branch right to Translation -->
+  <line x1="585" y1="44" x2="685" y2="44" stroke="#475b62" stroke-width="2.5" marker-end="url(#arrow)"/>
+  <text x="635" y="34" text-anchor="middle" font-size="15" font-weight="700" fill="#586e75">Translation</text>
+
+  <rect x="695" y="14" width="205" height="60" rx="10" fill="#f5efe0" stroke="#839496" stroke-width="2"/>
+  <text x="797" y="40" text-anchor="middle" font-size="18" font-weight="700" fill="#073642">NS5B &amp; NS5A</text>
+  <text x="797" y="61" text-anchor="middle" font-size="14" fill="#586e75">Viral replication proteins</text>
+
+  <!-- Step 2: Replication (+ -> - -> +) -->
+  <line x1="440" y1="70" x2="440" y2="152" stroke="#475b62" stroke-width="3" marker-end="url(#arrow)"/>
+  <rect x="335" y="95" width="210" height="32" rx="6" fill="#fdf6e3" stroke="#93a1a1" stroke-width="1.5"/>
+  <text x="440" y="117" text-anchor="middle" font-size="16" font-weight="700" fill="#073642">NS5B + NS5A copy RNA</text>
+
+  <rect x="295" y="160" width="290" height="52" rx="10" fill="#fff3e0" stroke="#cb4b16" stroke-width="2.5"/>
+  <text x="440" y="193" text-anchor="middle" font-size="21" font-weight="700" fill="#073642">Antisense Template (&#8722;)</text>
+
+  <line x1="440" y1="212" x2="440" y2="294" stroke="#475b62" stroke-width="3" marker-end="url(#arrow)"/>
+  <rect x="335" y="237" width="210" height="32" rx="6" fill="#fdf6e3" stroke="#93a1a1" stroke-width="1.5"/>
+  <text x="440" y="259" text-anchor="middle" font-size="16" font-weight="700" fill="#073642">NS5B + NS5A copy RNA</text>
+
+  <rect x="295" y="302" width="290" height="52" rx="10" fill="#e3f2fd" stroke="#268bd2" stroke-width="2.5"/>
+  <text x="440" y="335" text-anchor="middle" font-size="21" font-weight="700" fill="#073642">Many New Genomes (+)</text>
+
+  <!-- Step 3: Branching to Translation & Virion Packaging -->
+  <path d="M 380 354 L 380 382 L 235 382 L 235 402" fill="none" stroke="#475b62" stroke-width="2.5" marker-end="url(#arrow)"/>
+  <path d="M 500 354 L 500 382 L 645 382 L 645 402" fill="none" stroke="#475b62" stroke-width="2.5" marker-end="url(#arrow)"/>
+  <text x="572" y="373" text-anchor="middle" font-size="15" font-weight="700" fill="#586e75">Requires NS5A</text>
+
+  <rect x="110" y="408" width="250" height="44" rx="8" fill="#f5efe0" stroke="#839496" stroke-width="2"/>
+  <text x="235" y="436" text-anchor="middle" font-size="18" font-weight="700" fill="#073642">More Translation</text>
+
+  <rect x="515" y="408" width="260" height="44" rx="8" fill="#f5efe0" stroke="#839496" stroke-width="2"/>
+  <text x="645" y="436" text-anchor="middle" font-size="18" font-weight="700" fill="#073642">Packaged into Virions</text>
+
+  <!-- ================= DRUG 1: SOFOSBUVIR (LEFT) ================= -->
+  <rect x="20" y="136" width="230" height="104" rx="12" fill="#eef7ee" stroke="#1b5e20" stroke-width="3"/>
+  <rect x="20" y="136" width="230" height="36" rx="9" fill="#1b5e20"/>
+  <text x="135" y="160" text-anchor="middle" font-size="20" font-weight="700" font-style="italic" fill="#ffffff">Sofosbuvir</text>
+  <text x="135" y="196" text-anchor="middle" font-size="15.5" font-weight="700" fill="#073642">Inhibits NS5B polymerase</text>
+  <text x="135" y="220" text-anchor="middle" font-size="14" font-weight="700" fill="#586e75">Causes RNA chain termination</text>
+
+  <!-- Red T-bars from Sofosbuvir to both NS5B copying steps -->
+  <path d="M 250 185 L 285 185 L 285 111 L 322 111" fill="none" stroke="#dc322f" stroke-width="4"/>
+  <line x1="322" y1="97" x2="322" y2="125" stroke="#dc322f" stroke-width="5" stroke-linecap="round"/>
+
+  <path d="M 250 215 L 285 215 L 285 253 L 322 253" fill="none" stroke="#dc322f" stroke-width="4"/>
+  <line x1="322" y1="239" x2="322" y2="267" stroke="#dc322f" stroke-width="5" stroke-linecap="round"/>
+
+  <!-- ================= DRUG 2: LEDIPASVIR (RIGHT) ================= -->
+  <rect x="640" y="175" width="260" height="118" rx="12" fill="#eef7ee" stroke="#1b5e20" stroke-width="3"/>
+  <rect x="640" y="175" width="260" height="36" rx="9" fill="#1b5e20"/>
+  <text x="770" y="199" text-anchor="middle" font-size="20" font-weight="700" font-style="italic" fill="#ffffff">Ledipasvir</text>
+  <text x="770" y="234" text-anchor="middle" font-size="15.5" font-weight="700" fill="#073642">Inhibits NS5A protein</text>
+  <text x="770" y="258" text-anchor="middle" font-size="14" font-weight="700" fill="#586e75">Blocks RNA replication</text>
+  <text x="770" y="278" text-anchor="middle" font-size="14" font-weight="700" fill="#586e75">&amp; virion packaging</text>
+
+  <!-- Red T-bars from Ledipasvir to replication and virion packaging -->
+  <path d="M 640 225 L 608 225 L 608 111 L 558 111" fill="none" stroke="#dc322f" stroke-width="4"/>
+  <line x1="558" y1="97" x2="558" y2="125" stroke="#dc322f" stroke-width="5" stroke-linecap="round"/>
+
+  <path d="M 640 253 L 558 253" fill="none" stroke="#dc322f" stroke-width="4"/>
+  <line x1="558" y1="239" x2="558" y2="267" stroke="#dc322f" stroke-width="5" stroke-linecap="round"/>
+
+  <path d="M 770 293 L 770 388 L 662 388" fill="none" stroke="#dc322f" stroke-width="4"/>
+  <line x1="662" y1="375" x2="662" y2="401" stroke="#dc322f" stroke-width="5" stroke-linecap="round"/>
+</svg>
