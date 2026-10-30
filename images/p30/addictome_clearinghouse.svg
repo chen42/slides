@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 530" role="img" aria-labelledby="title desc">
   <title id="title">TheAddictome data clearinghouse</title>
-  <desc id="desc">Distributed data in genomics and genetics, molecular omics, phenotypes and behavior, and neurobiology feed into TheAddictome data clearinghouse. Discover, access, and connect through curated links, metadata, tools, and guidance. Research impact includes finding relevant datasets, integrating evidence, prioritizing discoveries, and generating hypotheses.</desc>
+  <desc id="desc">Distributed data in genomics and genetics, molecular omics, phenotypes and behavior, and neurobiology feed into TheAddictome data clearinghouse. Discover, access, and connect through a CADI-compatible REST API and MCP connections. Research impact includes finding relevant datasets, integrating evidence, prioritizing discoveries, and generating hypotheses.</desc>
   <defs>
     <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#397dab"/></marker>
     <style>
@@ -42,7 +42,7 @@
   <text x="702.5" y="145" text-anchor="middle" style="fill:#075689;font-size:48px;font-weight:700">TheAddictome</text>
   <text x="702.5" y="205" text-anchor="middle" style="font-size:28px;font-weight:700">DATA CLEARINGHOUSE</text>
   <text x="702.5" y="280" text-anchor="middle" style="font-size:33px;font-weight:700"><tspan x="702.5">Discover · Access</tspan><tspan x="702.5" dy="43">Connect</tspan></text>
-  <text x="702.5" y="399" text-anchor="middle" style="font-size:25px"><tspan x="702.5">Curate links, metadata, tools,</tspan><tspan x="702.5" dy="34">and guidance</tspan></text>
+  <text x="702.5" y="399" text-anchor="middle" style="font-size:25px"><tspan x="702.5">CADI-compatible REST API</tspan><tspan x="702.5" dy="34">MCP connections</tspan></text>
   <path d="M951 260 H1008" fill="none" stroke="#397dab" stroke-width="4" marker-end="url(#arrow)"/>
 
   <rect class="outer" x="1020" y="10" width="370" height="500" rx="20"/>
